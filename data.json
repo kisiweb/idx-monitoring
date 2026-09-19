@@ -1,8 +1,8 @@
 {
  "mode": "live",
- "updated": "2026-09-20 02:07",
+ "updated": "2026-09-20 03:06",
  "delay_min": 15,
- "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 02:07 Yahoo",
+ "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 03:06 Yahoo",
  "idr_per_krw": 12.8051,
  "indices": [
   {
@@ -16341,6 +16341,20 @@
  },
  "news": [
   {
+   "ts": "2026-09-20T02:49:18+07:00",
+   "date": "2026-09-20",
+   "time": "02:49",
+   "src": "Jawa Pos",
+   "t": "Duduki Puncak Fortune Indonesia 100 Gala 2026, Pertamina Catatkan Pendapatan Terbesar di Indonesia",
+   "tags": [
+    "FORU"
+   ],
+   "url": "https://www.jawapos.com/energi/2609190300/duduki-puncak-fortune-indonesia-100-gala-2026-pertamina-catatkan-pendapatan-terbesar-di-indonesia",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/19/ilustrasi-kantor-pt-pertamina-persero-istimewa-EOtEK.webp",
+   "t_ko": "2026년 Fortune Indonesia 100 Gala에서 상위권을 차지한 Pertamina는 인도네시아에서 가장 큰 수익을 기록했습니다.",
+   "t_id": "Duduki Puncak Fortune Indonesia 100 Gala 2026, Pertamina Catatkan Pendapatan Terbesar di Indonesia"
+  },
+  {
    "ts": "2026-09-19T20:24:16+07:00",
    "date": "2026-09-19",
    "time": "09/19",
@@ -16353,20 +16367,6 @@
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260919202320-569.png",
    "t_ko": "Fortune Indonesia 100 Gala 2026에서 1위 달성, Pertamina의 긍정적인 성과 입증",
    "t_id": "Raih Posisi Puncak Fortune Indonesia 100 Gala 2026, Bukti Kinerja Positif Pertamina"
-  },
-  {
-   "ts": "2026-09-19T19:49:18+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Jawa Pos",
-   "t": "Duduki Puncak Fortune Indonesia 100 Gala 2026, Pertamina Catatkan Pendapatan Terbesar di Indonesia",
-   "tags": [
-    "FORU"
-   ],
-   "url": "https://www.jawapos.com/energi/2609190300/duduki-puncak-fortune-indonesia-100-gala-2026-pertamina-catatkan-pendapatan-terbesar-di-indonesia",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/19/ilustrasi-kantor-pt-pertamina-persero-istimewa-EOtEK.webp",
-   "t_ko": "2026년 Fortune Indonesia 100 Gala에서 상위권을 차지한 Pertamina는 인도네시아에서 가장 큰 수익을 기록했습니다.",
-   "t_id": "Duduki Puncak Fortune Indonesia 100 Gala 2026, Pertamina Catatkan Pendapatan Terbesar di Indonesia"
   },
   {
    "ts": "2026-09-19T15:35:00+07:00",
@@ -16563,20 +16563,6 @@
    "img": "https://cdn0-production-images-kly.akamaized.net/kzzBGSTmGmANzJZhAXRiTDWCZPQ=/488x0:3309x1589/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-gray-landscape-new.png,573,20,0)/kly-media-production/medias/1040537/original/091207600_1446442504-20151102-IHSG-Masih-Berkutat-di-Zona-Merah-Jakarta4.jpg",
    "t_ko": "SILO 발행자는 14개 병원 회사를 인수할 예정",
    "t_id": "Emiten SILO Bakal Akuisisi 14 Perusahaan Rumah Sakit"
-  },
-  {
-   "ts": "2026-09-18T22:07:00+07:00",
-   "date": "2026-09-18",
-   "time": "09/18",
-   "src": "Katadata",
-   "t": "ATR Angkat Bicara Soal Kasus Dugaan Suap Summarecon, Singgung Blokir HGB",
-   "tags": [
-    "SMRA"
-   ],
-   "url": "https://katadata.co.id/berita/nasional/6aad53f36cdfd/atr-angkat-bicara-soal-kasus-dugaan-suap-summarecon-singgung-blokir-hgb",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/17/2026_09_17-18_56_00_cd84b82c-b296-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
-   "t_ko": "ATR, 수마레콘 부정 청탁 의혹에 HGB 차단 언급하며 입장 표명",
-   "t_id": "ATR Angkat Bicara Soal Kasus Dugaan Suap Summarecon, Singgung Blokir HGB"
   },
   {
    "ts": "2026-09-18T21:40:00+07:00",
@@ -17054,6 +17040,107 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-20T02:49:31+07:00",
+   "date": "2026-09-20",
+   "time": "02:49",
+   "src": "FT",
+   "t": "Trump announces ‘AI Force’ as alarm grows over technology’s advance",
+   "tags": [],
+   "url": "https://www.ft.com/content/bcbfe352-9e9f-4ef5-81b2-2e01505b8477?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe452e073-87ef-4e9c-a2e7-8df39eecc7d9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "트럼프, 기술 발전에 대한 경각심 커지면서 'AI 포스' 발표",
+   "t_id": "Trump mengumumkan ‘AI Force’ seiring meningkatnya kekhawatiran akan kemajuan teknologi"
+  },
+  {
+   "ts": "2026-09-20T02:36:00+07:00",
+   "date": "2026-09-20",
+   "time": "02:36",
+   "src": "CNA",
+   "t": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-6396966",
+   "g": 1,
+   "t_ko": "미국 재무부 베센트와 중국 허 총리가 일요일 JP모건 본사에서 만날 예정이다.",
+   "t_id": "Menteri Keuangan AS Disetujui, Menteri Keuangan Tiongkok He akan bertemu pada hari Minggu di kantor pusat JPMorgan"
+  },
+  {
+   "ts": "2026-09-20T02:35:09+07:00",
+   "date": "2026-09-20",
+   "time": "02:35",
+   "src": "Yahoo Finance",
+   "t": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
+   "t_ko": "Jim Cramer는 석유가 Casey's(CASY)와 Texas Roadhouse(TXRH)에 압력을 가하고 있다고 지적합니다.",
+   "t_id": "Jim Cramer Mencatat Minyak Berada di Balik Tekanan pada Casey’s (CASY) dan Texas Roadhouse (TXRH)"
+  },
+  {
+   "ts": "2026-09-20T02:35:00+07:00",
+   "date": "2026-09-20",
+   "time": "02:35",
+   "src": "Yahoo Finance",
+   "t": "Is Main Street Capital Stock a Buy, Sell, or Hold With Shares 15% Below Their 52-Week High?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/main-street-capital-stock-buy-193500520.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/5b87169dfc9f25ab268876362213ed34.jpg",
+   "t_ko": "메인 스트리트 캐피탈 주식은 52주 최고치보다 15% 낮은 주식으로 매수, 매도 또는 보유해야 합니까?",
+   "t_id": "Apakah Saham Main Street Capital Dibeli, Dijual, atau Ditahan Dengan Saham 15% Di Bawah Tertinggi 52 Minggu?"
+  },
+  {
+   "ts": "2026-09-20T02:29:55+07:00",
+   "date": "2026-09-20",
+   "time": "02:29",
+   "src": "Yahoo Finance",
+   "t": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
+   "t_ko": "Jim Cramer, NextEra(NEE) 주식 전환을 통해 Dominion(D) 보유 반대 제안",
+   "t_id": "Jim Cramer Menyarankan Untuk Tidak Memegang Dominion (D) Melalui Konversi Saham NextEra (NEE)."
+  },
+  {
+   "ts": "2026-09-20T02:25:59+07:00",
+   "date": "2026-09-20",
+   "time": "02:25",
+   "src": "Jawa Pos",
+   "t": "Di Tengah Ramainya Investasi Digital, Mengapa Layanan Tatap Muka Masih Dicari?",
+   "tags": [],
+   "url": "https://www.jawapos.com/finance/2609190297/di-tengah-ramainya-investasi-digital-mengapa-layanan-tatap-muka-masih-dicari",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/19/ilustrasi-investasi-magnific-z0wwZ.webp",
+   "t_ko": "디지털 투자가 붐비는 가운데, 여전히 대면 서비스가 인기를 끄는 이유는 무엇일까?",
+   "t_id": "Di Tengah Ramainya Investasi Digital, Mengapa Layanan Tatap Muka Masih Dicari?"
+  },
+  {
+   "ts": "2026-09-20T02:08:27+07:00",
+   "date": "2026-09-20",
+   "time": "02:08",
+   "src": "CNBC",
+   "t": "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
+   "g": 1,
+   "t_ko": "파키스탄이 이란에 에너지 공급 문제를 압박하면서 사우디 수도 공항 인근에서 화염이 보고됐다.",
+   "t_id": "Kebakaran dilaporkan terjadi di dekat bandara ibu kota Saudi ketika Pakistan menekan Iran mengenai pasokan energi"
+  },
+  {
+   "ts": "2026-09-20T01:51:16+07:00",
+   "date": "2026-09-20",
+   "time": "01:51",
+   "src": "Yahoo Finance",
+   "t": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/4e92d2c1e3022275942c147e27f5c322.jpg",
+   "t_ko": "나스닥(NDAQ)이 암호화폐 범죄자를 숨기기 어렵게 만들었습니다.",
+   "t_id": "Nasdaq (NDAQ) Mempersulit Penjahat Kripto untuk Bersembunyi"
+  },
+  {
    "ts": "2026-09-20T01:43:04+07:00",
    "date": "2026-09-20",
    "time": "01:43",
@@ -17067,17 +17154,42 @@
    "t_id": "Nippon Life Jepang merencanakan $13 miliar untuk pembiayaan pusat data di AS, Nikkei Asia melaporkan"
   },
   {
-   "ts": "2026-09-20T01:35:00+07:00",
+   "ts": "2026-09-20T01:36:04+07:00",
    "date": "2026-09-20",
-   "time": "01:35",
+   "time": "01:36",
    "src": "Yahoo Finance",
-   "t": "Is Annaly Capital's 13% Dividend Safe Through a Full Rate Cycle?",
+   "t": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/annaly-capitals-13-dividend-safe-183500596.html",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
    "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/4f4681de5d0ea266c03096cf97a957db.jpg",
-   "t_ko": "Annaly Capital의 13% 배당금은 전체 금리 주기를 통해 안전합니까?",
-   "t_id": "Apakah Dividen 13% Annaly Capital Aman Melalui Siklus Suku Bunga Penuh?"
+   "img": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
+   "t_ko": "Jim Cramer는 금리 긴축 주기에서 Redwire(RDW)를 피할 것을 제안합니다.",
+   "t_id": "Jim Cramer Menyarankan Menghindari Redwire (RDW) Dalam Siklus Pengetatan Suku Bunga"
+  },
+  {
+   "ts": "2026-09-20T01:34:48+07:00",
+   "date": "2026-09-20",
+   "time": "01:34",
+   "src": "Yahoo Finance",
+   "t": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
+   "tags": [],
+   "url": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/83b6c1dc90563b85aeb206882a84f050.jpg",
+   "t_ko": "Sempra(SRE)가 20년 동안 LNG 수요를 막았습니다.",
+   "t_id": "Sempra (SRE) Baru Saja Mengunci Permintaan LNG Selama Dua Dekade"
+  },
+  {
+   "ts": "2026-09-20T01:33:10+07:00",
+   "date": "2026-09-20",
+   "time": "01:33",
+   "src": "Reuters",
+   "t": "Greenland, Denmark say Trump deal won't compromise sovereignty",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5",
+   "g": 1,
+   "t_ko": "그린란드와 덴마크는 트럼프 협상이 주권을 타협하지 않을 것이라고 말했습니다.",
+   "t_id": "Greenland dan Denmark mengatakan kesepakatan Trump tidak akan membahayakan kedaulatan"
   },
   {
    "ts": "2026-09-20T01:22:00+07:00",
@@ -17166,70 +17278,6 @@
    "t_id": "Kanada optimis untuk menyelesaikan pembicaraan perdagangan dengan India pada akhir tahun, kata menteri"
   },
   {
-   "ts": "2026-09-20T00:14:43+07:00",
-   "date": "2026-09-20",
-   "time": "00:14",
-   "src": "Yahoo Finance",
-   "t": "Delivery Outlook Shows Tesla (TSLA)’s Core Business Under Pressure. Its Next Growth Engine Must Deliver",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/delivery-outlook-shows-tesla-tsla-171443015.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/6ff12e658f35771e8a808f7cf2e4c2ff.jpg",
-   "t_ko": "납품 전망은 Tesla(TSLA)의 핵심 비즈니스가 압박을 받고 있음을 보여줍니다. 차세대 성장 엔진이 제공해야 함",
-   "t_id": "Prospek Pengiriman Menunjukkan Bisnis Inti Tesla (TSLA) Di Bawah Tekanan. Mesin Pertumbuhan Berikutnya Harus Tercapai"
-  },
-  {
-   "ts": "2026-09-20T00:12:00+07:00",
-   "date": "2026-09-20",
-   "time": "00:12",
-   "src": "Yahoo Finance",
-   "t": "Cisco (CSCO) Leans on Splunk to Broaden Its Share of Enterprise AI Spending. It Faces a Big Test",
-   "tags": [],
-   "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-leans-splunk-broaden-171200277.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/d87ed4368ba28285bd840da340bf3933.jpg",
-   "t_ko": "Cisco(CSCO)는 Splunk를 활용하여 엔터프라이즈 AI 지출 비중을 확대했습니다. 큰 시험에 직면하다",
-   "t_id": "Cisco (CSCO) Bersandar pada Splunk untuk Memperluas Porsi Belanja AI Perusahaan. Ini Menghadapi Ujian Besar"
-  },
-  {
-   "ts": "2026-09-20T00:11:52+07:00",
-   "date": "2026-09-20",
-   "time": "00:11",
-   "src": "Yahoo Finance",
-   "t": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
-   "tags": [],
-   "url": "https://finance.yahoo.com/technology/articles/micron-mu-unveils-breakthrough-memory-171152232.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/45f3d59142eda714ec3172b3b3039b39.jpg",
-   "t_ko": "마이크론(MU)이 획기적인 메모리 제품을 공개했습니다. 메모리 시장에 대해 많은 것을 말해준다",
-   "t_id": "Micron (MU) Meluncurkan Produk Memori Terobosan. Ini Menjelaskan Banyak Tentang Pasar Memori"
-  },
-  {
-   "ts": "2026-09-19T23:43:15+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Bloomberg",
-   "t": "Bloomberg This Weekend 09/19/2026",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-19/bloomberg-this-weekend-09-19-2026-video",
-   "g": 1,
-   "t_ko": "블룸버그 이번 주말 2026년 9월 19일",
-   "t_id": "Bloomberg Akhir Pekan Ini 19/09/2026"
-  },
-  {
-   "ts": "2026-09-19T23:34:51+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Yahoo Finance",
-   "t": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-   "tags": [],
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/5b327748e19f79eb3e0d30330a757e65.jpg",
-   "t_ko": "다우존스 선물: 시장 반등이 일어날 수 있을까요? Robinhood, Sandisk, AMD, Moderna가 구매 영역으로 급증",
-   "t_id": "Dow Jones Futures: Bisakah Reli Pasar Melesat? Robinhood, Sandisk, AMD, Moderna Melonjak ke Area Pembelian"
-  },
-  {
    "ts": "2026-09-19T23:29:00+07:00",
    "date": "2026-09-19",
    "time": "09/19",
@@ -17250,56 +17298,6 @@
    "url": "https://mediaindonesia.com/politik-dan-hukum/935330/tni-patuhi-kenaikan-pangkat-gunakan-regulasi-sertifikasi-hak-asasi-manusia-ham-",
    "t_ko": "TNI는 인권 인증 규정(HAM)을 사용하여 프로모션을 준수합니다.",
    "t_id": "TNI Patuhi Kenaikan Pangkat Gunakan Regulasi Sertifikasi Hak Asasi Manusia (HAM)"
-  },
-  {
-   "ts": "2026-09-19T23:19:00+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "MarketWatch",
-   "t": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-44290360",
-   "t_ko": "미국 주식시장, 쏠림현상 탈피 전망 — 헤지펀드 매니저가 주목하는 소외주 3선",
-   "t_id": "Bukan Pasar Saham Pemenang Tunggal, Manajer Hedge Fund Ini Jagokan Tiga Saham Tertinggal"
-  },
-  {
-   "ts": "2026-09-19T23:03:09+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "CNBC",
-   "t": "Higher interest rates and AI safety fears put the stock market to the test last week",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
-   "g": 1,
-   "t_ko": "높은 금리와 AI 안전에 대한 우려로 인해 지난 주 주식 시장이 시험대에 올랐습니다.",
-   "t_id": "Suku bunga yang lebih tinggi dan kekhawatiran terhadap keamanan AI menguji pasar saham minggu lalu"
-  },
-  {
-   "ts": "2026-09-19T22:47:37+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Reuters",
-   "t": "Greenland, Denmark say Trump deal won't compromise sovereignty",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUswdG5RR3A3czVTQV82SzUwWDh1ZDZrYjNXcld1cUQwOW9nZENwVlhQRVpfMXRQY2RXZ1pLcVlnal9jeGJxelREVVpWeTZyTTI2bnJKUXlIYUNtNklZQnkyWHNPX1NzZ1lIRVB2SVFfWkJTWkg4ZFM5WE5rdTVISldEczdQX1BIdkRyd21lYVhibzVLRkwwOGVIWXdfODNPRzloNWhEWQ?oc=5",
-   "g": 1,
-   "t_ko": "그린란드와 덴마크는 트럼프 협상이 주권을 타협하지 않을 것이라고 말했습니다.",
-   "t_id": "Greenland dan Denmark mengatakan kesepakatan Trump tidak akan membahayakan kedaulatan"
-  },
-  {
-   "ts": "2026-09-19T22:47:23+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "FT",
-   "t": "Trump bans major US news outlets from White House",
-   "tags": [],
-   "url": "https://www.ft.com/content/4cd82226-3d4a-474d-bc3e-de2ed0b1e6f8?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7cc2a650-20dd-4c4d-9c3d-77fa8f7b2e47.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "트럼프, 백악관 주요 미국 언론사 취재 금지",
-   "t_id": "Trump Larang Media Besar AS Masuk Gedung Putih"
   },
   {
    "ts": "2026-09-19T22:33:42+07:00",
@@ -17478,18 +17476,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/16/warga-mulai-menjajal-lrt-kelapa-gading-manggarai-1789554576115_169.jpeg?w=360&q=90",
    "t_ko": "LRT 자카르타 반투명 망가라이(Translucent Manggarai), 교통 연결성 강화",
    "t_id": "LRT Jakarta Tembus Manggarai, Konektivitas Transportasi Makin Terhubung"
-  },
-  {
-   "ts": "2026-09-19T19:30:26+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Detik",
-   "t": "Bank di Bali Tutup Gara-gara Kurang Modal",
-   "tags": [],
-   "url": "https://finance.detik.com/moneter/d-8670035/bank-di-bali-tutup-gara-gara-kurang-modal",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/19/bank-di-bali-tutup-gara-gara-kurang-modal-1789805592743_169.jpeg?w=360&q=90",
-   "t_ko": "자본 부족으로 발리 은행 폐쇄",
-   "t_id": "Bank di Bali Tutup Gara-gara Kurang Modal"
   }
  ],
  "kisi_news": [
@@ -17750,15 +17736,15 @@
   },
   {
    "k": "CPO (MYR/t)",
-   "v": "4,898",
-   "d": 0.29,
-   "ytd": 20.94,
+   "v": "4,917",
+   "d": 0.68,
+   "ytd": 21.41,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/18 nilai terakhir · Awal tahun 4,050"
   }
  ],
  "curve": {
@@ -23126,7 +23112,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 1755,
+  "pc_age_min": 1814,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23145,20 +23131,6 @@
  },
  "top_day": "2026-09-19",
  "top_news": [
-  {
-   "ts": "2026-09-19T10:19:00+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Katadata",
-   "t": "Menkeu Respons Usul DPR Ubah Batas Defisit APBN, Tetap Pegang Maksimal 3%",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/makro/6aadff2fbcef1/menkeu-respons-usul-dpr-ubah-batas-defisit-apbn-tetap-pegang-maksimal-3",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/15/Purbaya_Serahkan_Jabatan_Menteri_Keuangan_ke_Suahasil_Nazara_Fot-2026_09_15-13_02_51_b0221328abbb15f6ede06a8c4ae4a74e_620x413_thumb.jpg",
-   "score": 412.35,
-   "srcs": 2,
-   "t_ko": "재무부 장관은 APBN 적자 한도를 최대 3%로 변경하라는 DPR의 제안에 응답했습니다.",
-   "t_id": "Menkeu Respons Usul DPR Ubah Batas Defisit APBN, Tetap Pegang Maksimal 3%"
-  },
   {
    "ts": "2026-09-19T22:26:00+07:00",
    "date": "2026-09-19",
@@ -23187,6 +23159,20 @@
    "t_id": "BofA: Bunga Acuan Fed Era Kevin Warsh Bisa di Atas 5%"
   },
   {
+   "ts": "2026-09-19T20:31:18+07:00",
+   "date": "2026-09-19",
+   "time": "09/19",
+   "src": "Detik",
+   "t": "Ini 3 Pelanggaran dari 25 Merek Beras Fortifikasi Abal-abal",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670322/ini-3-pelanggaran-dari-25-merek-beras-fortifikasi-abal-abal",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/15/25-merek-beras-fortifikasi-dinyatakan-tak-sesuai-standar-1789447060419_169.jpeg?w=360&q=90",
+   "t_ko": "25개 가짜 강화 쌀 브랜드의 3가지 위반사항",
+   "t_id": "Ini 3 Pelanggaran dari 25 Merek Beras Fortifikasi Abal-abal",
+   "score": 403.75,
+   "srcs": 1
+  },
+  {
    "ts": "2026-09-19T17:30:00+07:00",
    "date": "2026-09-19",
    "time": "09/19",
@@ -23201,19 +23187,19 @@
    "t_id": "Poin Aturan Icomex: Kelembagaan hingga Perdagangan Bursa Mineral"
   },
   {
-   "ts": "2026-09-20T01:35:00+07:00",
+   "ts": "2026-09-20T02:35:09+07:00",
    "date": "2026-09-20",
-   "time": "01:35",
+   "time": "02:35",
    "src": "Yahoo Finance",
-   "t": "Is Annaly Capital's 13% Dividend Safe Through a Full Rate Cycle?",
+   "t": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/annaly-capitals-13-dividend-safe-183500596.html",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
    "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/4f4681de5d0ea266c03096cf97a957db.jpg",
-   "t_ko": "Annaly Capital의 13% 배당금은 전체 금리 주기를 통해 안전합니까?",
-   "t_id": "Apakah Dividen 13% Annaly Capital Aman Melalui Siklus Suku Bunga Penuh?",
-   "score": 309.5,
-   "srcs": 1
+   "img": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
+   "t_ko": "Jim Cramer는 석유가 Casey's(CASY)와 Texas Roadhouse(TXRH)에 압력을 가하고 있다고 지적합니다.",
+   "t_id": "Jim Cramer Mencatat Minyak Berada di Balik Tekanan pada Casey’s (CASY) dan Texas Roadhouse (TXRH)",
+   "score": 308.5,
+   "srcs": 2
   }
  ],
  "daylog": {
@@ -23760,20 +23746,6 @@
   "2026-09-19": {
    "news": [
     {
-     "t": "Higher interest rates and AI safety fears put the stock market to the test last week",
-     "ko": "높은 금리와 AI 안전에 대한 우려로 인해 지난 주 주식 시장이 시험대에 올랐습니다.",
-     "id": "Suku bunga yang lebih tinggi dan kekhawatiran terhadap keamanan AI menguji pasar saham minggu lalu",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "CNBC",
-     "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
-     "time": "09/19",
-     "tags": [],
-     "sc": 309.0,
-     "slot": "global",
-     "q": 85
-    },
-    {
      "t": "UBS AG Lepas 1,19 Juta Saham CPIN",
      "ko": "UBS AG, CPIN 주식 119만주 매각",
      "id": "UBS AG Lepas 1,19 Juta Saham CPIN",
@@ -23790,16 +23762,30 @@
      "q": 77
     },
     {
-     "t": "Menkeu Respons Usul DPR Ubah Batas Defisit APBN, Tetap Pegang Maksimal 3%",
-     "ko": "재무부 장관은 APBN 적자 한도를 최대 3%로 변경하라는 DPR의 제안에 응답했습니다.",
-     "id": "Menkeu Respons Usul DPR Ubah Batas Defisit APBN, Tetap Pegang Maksimal 3%",
+     "t": "Ini 3 Pelanggaran dari 25 Merek Beras Fortifikasi Abal-abal",
+     "ko": "25개 가짜 강화 쌀 브랜드의 3가지 위반사항",
+     "id": "Ini 3 Pelanggaran dari 25 Merek Beras Fortifikasi Abal-abal",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Katadata",
-     "url": "https://katadata.co.id/finansial/makro/6aadff2fbcef1/menkeu-respons-usul-dpr-ubah-batas-defisit-apbn-tetap-pegang-maksimal-3",
+     "src": "Detik",
+     "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670322/ini-3-pelanggaran-dari-25-merek-beras-fortifikasi-abal-abal",
      "time": "09/19",
      "tags": [],
-     "sc": 412.4,
+     "sc": 409.8,
+     "slot": "macro",
+     "q": 93
+    },
+    {
+     "t": "BEI: Waran Terstruktur Tumbuh Pesat, 679 Seri Terbit hingga September 2026",
+     "ko": "IDX: 구조화된 영장 빠르게 성장, 2026년 9월까지 발행되는 679 시리즈",
+     "id": "BEI: Waran Terstruktur Tumbuh Pesat, 679 Seri Terbit hingga September 2026",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "Media Indonesia",
+     "url": "https://mediaindonesia.com/ekonomi/935333/bei-waran-terstruktur-tumbuh-pesat-679-seri-terbit-hingga-september-2026",
+     "time": "09/19",
+     "tags": [],
+     "sc": 409.8,
      "slot": "macro",
      "q": 93
     }
@@ -23808,16 +23794,16 @@
   "2026-09-20": {
    "news": [
     {
-     "t": "Is Annaly Capital's 13% Dividend Safe Through a Full Rate Cycle?",
-     "ko": "Annaly Capital의 13% 배당금은 전체 금리 주기를 통해 안전합니까?",
-     "id": "Apakah Dividen 13% Annaly Capital Aman Melalui Siklus Suku Bunga Penuh?",
+     "t": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
+     "ko": "Jim Cramer는 금리 긴축 주기에서 Redwire(RDW)를 피할 것을 제안합니다.",
+     "id": "Jim Cramer Menyarankan Menghindari Redwire (RDW) Dalam Siklus Pengetatan Suku Bunga",
      "ai_ko": "",
      "ai_id": "",
      "src": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/annaly-capitals-13-dividend-safe-183500596.html",
-     "time": "01:35",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
+     "time": "01:36",
      "tags": [],
-     "sc": 316.0,
+     "sc": 309.0,
      "slot": "global",
      "q": 85
     },
@@ -23834,6 +23820,20 @@
      "sc": 212.8,
      "slot": "stock",
      "q": 48
+    },
+    {
+     "t": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
+     "ko": "나스닥(NDAQ)이 암호화폐 범죄자를 숨기기 어렵게 만들었습니다.",
+     "id": "Nasdaq (NDAQ) Mempersulit Penjahat Kripto untuk Bersembunyi",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
+     "time": "01:51",
+     "tags": [],
+     "sc": 309.0,
+     "slot": "global",
+     "q": 85
     }
    ]
   }

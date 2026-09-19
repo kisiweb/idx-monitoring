@@ -1,8 +1,8 @@
 {
  "mode": "live",
- "updated": "2026-09-20 03:06",
+ "updated": "2026-09-20 04:06",
  "delay_min": 15,
- "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 03:06 Yahoo",
+ "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 04:06 Yahoo",
  "idr_per_krw": 12.8051,
  "indices": [
   {
@@ -17040,6 +17040,58 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-20T03:30:00+07:00",
+   "date": "2026-09-20",
+   "time": "03:30",
+   "src": "Yahoo Finance",
+   "t": "The S&P 500 Yields Just 1.1% While 10-Year Treasury Yields Have Surged to 5%. This Dividend Stock Provides a Middle Ground for Long-Term Investors.",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-yields-just-1-203000717.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/c92f9eddf521e4469b6f5de48d5575fd.jpg",
+   "t_ko": "S&P 500 수익률은 1.1%에 불과한 반면 10년 만기 국채 수익률은 5%까지 급등했습니다. 이 배당주는 장기 투자자에게 중간 기반을 제공합니다.",
+   "t_id": "Imbal Hasil S&P 500 Hanya 1,1% Sementara Imbal Hasil Treasury 10 Tahun Melonjak hingga 5%. Saham Dividen Ini Memberikan Jalan Tengah bagi Investor Jangka Panjang."
+  },
+  {
+   "ts": "2026-09-20T03:13:50+07:00",
+   "date": "2026-09-20",
+   "time": "03:13",
+   "src": "Yahoo Finance",
+   "t": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/85373bc41713bda2682a486e2f1708bb.jpg",
+   "t_ko": "Prudential(PRU)이 신흥 시장을 떠나고 있으며 이번 1억 8,500만 달러 매출이 이를 증명합니다.",
+   "t_id": "Prudential (PRU) Meninggalkan Pasar Berkembang, Dan Penjualan $185 Juta Ini Membuktikannya"
+  },
+  {
+   "ts": "2026-09-20T03:09:32+07:00",
+   "date": "2026-09-20",
+   "time": "03:09",
+   "src": "Yahoo Finance",
+   "t": "Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/9e4980f59175c88c1ec9ab3834225b99.jpg",
+   "t_ko": "Interactive Brokers(IBKR)는 모든 수익을 77센트의 세전 이익으로 전환합니다.",
+   "t_id": "Pialang Interaktif (IBKR) Mengubah Setiap Pendapatan Dolar Menjadi 77 Sen Laba Sebelum Pajak"
+  },
+  {
+   "ts": "2026-09-20T02:55:13+07:00",
+   "date": "2026-09-20",
+   "time": "02:55",
+   "src": "Yahoo Finance",
+   "t": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
+   "tags": [],
+   "url": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/503ddb793f98dc373d0b99a425313e6a.jpg",
+   "t_ko": "퍼거슨(FERG)은 협력을 거부하는 주택 시장을 계속 이기고 있습니다.",
+   "t_id": "Ferguson (FERG) Terus Mengalahkan Pasar Perumahan yang Menolak Bekerja Sama"
+  },
+  {
    "ts": "2026-09-20T02:49:31+07:00",
    "date": "2026-09-20",
    "time": "02:49",
@@ -17076,19 +17128,6 @@
    "img": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
    "t_ko": "Jim Cramer는 석유가 Casey's(CASY)와 Texas Roadhouse(TXRH)에 압력을 가하고 있다고 지적합니다.",
    "t_id": "Jim Cramer Mencatat Minyak Berada di Balik Tekanan pada Casey’s (CASY) dan Texas Roadhouse (TXRH)"
-  },
-  {
-   "ts": "2026-09-20T02:35:00+07:00",
-   "date": "2026-09-20",
-   "time": "02:35",
-   "src": "Yahoo Finance",
-   "t": "Is Main Street Capital Stock a Buy, Sell, or Hold With Shares 15% Below Their 52-Week High?",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/main-street-capital-stock-buy-193500520.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/5b87169dfc9f25ab268876362213ed34.jpg",
-   "t_ko": "메인 스트리트 캐피탈 주식은 52주 최고치보다 15% 낮은 주식으로 매수, 매도 또는 보유해야 합니까?",
-   "t_id": "Apakah Saham Main Street Capital Dibeli, Dijual, atau Ditahan Dengan Saham 15% Di Bawah Tertinggi 52 Minggu?"
   },
   {
    "ts": "2026-09-20T02:29:55+07:00",
@@ -17152,32 +17191,6 @@
    "img": "https://dam.mediacorp.sg/image/upload/s--0QuLeBYM--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-19T184304Z_1_LYNXMPEM8I0G1_RTROPTP_3_JAPAN-COMPANY-NIPPON-LIFE.JPG?itok=x078zbSh",
    "t_ko": "일본 Nippon Life는 미국 데이터 센터 자금 조달에 130억 달러를 계획하고 있다고 Nikkei Asia가 보도했습니다.",
    "t_id": "Nippon Life Jepang merencanakan $13 miliar untuk pembiayaan pusat data di AS, Nikkei Asia melaporkan"
-  },
-  {
-   "ts": "2026-09-20T01:36:04+07:00",
-   "date": "2026-09-20",
-   "time": "01:36",
-   "src": "Yahoo Finance",
-   "t": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
-   "t_ko": "Jim Cramer는 금리 긴축 주기에서 Redwire(RDW)를 피할 것을 제안합니다.",
-   "t_id": "Jim Cramer Menyarankan Menghindari Redwire (RDW) Dalam Siklus Pengetatan Suku Bunga"
-  },
-  {
-   "ts": "2026-09-20T01:34:48+07:00",
-   "date": "2026-09-20",
-   "time": "01:34",
-   "src": "Yahoo Finance",
-   "t": "Sempra (SRE) Just Locked In Two Decades of LNG Demand",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/sempra-sre-just-locked-two-183448167.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/83b6c1dc90563b85aeb206882a84f050.jpg",
-   "t_ko": "Sempra(SRE)가 20년 동안 LNG 수요를 막았습니다.",
-   "t_id": "Sempra (SRE) Baru Saja Mengunci Permintaan LNG Selama Dua Dekade"
   },
   {
    "ts": "2026-09-20T01:33:10+07:00",
@@ -17264,18 +17277,6 @@
    "img": "https://dam.mediacorp.sg/image/upload/s--G3dJ64f1--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-19T173500Z_2_LYNXMPEM8I0EC_RTROPTP_3_USA-TRUMP-AI.JPG?itok=gf2iaiMx",
    "t_ko": "트럼프 \"자세한 내용은 밝히지 않고 새 AI 자문 임명할 것\"",
    "t_id": "Trump mengatakan dia akan menunjuk penasihat AI baru, tanpa memberikan rincian lebih lanjut"
-  },
-  {
-   "ts": "2026-09-20T00:24:05+07:00",
-   "date": "2026-09-20",
-   "time": "00:24",
-   "src": "Reuters",
-   "t": "Canada optimistic about concluding trade talks with India by year-end, minister says",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMl9oZE1jdTY1X182U1NIUDkxdEVqa3k5TUM0UGw2M0VRQnpURWlSRzRkakpzTUFQSFZKNF9iOWZZNkZUTFBsazlYSVBMZ1VGemM3SV9fRk9lMXpDbVljaF9tQy1hLWJVVXF6THktLS1hZjV3SFA3VTh3bEdGR2FxS013a1lKUWo1dlVab0lOczNYU0ZGV0RQdHZhdG1BRW5zX2ZWQkw4T285SDhjOUlocnVncDFHdkJnNlFjSEZhbnY2U0dkc3I4dzJ5cw?oc=5",
-   "g": 1,
-   "t_ko": "캐나다는 올해 말까지 인도와의 무역 협상을 마무리하는 것에 대해 낙관적이라고 장관은 말했습니다.",
-   "t_id": "Kanada optimis untuk menyelesaikan pembicaraan perdagangan dengan India pada akhir tahun, kata menteri"
   },
   {
    "ts": "2026-09-19T23:29:00+07:00",
@@ -17736,15 +17737,15 @@
   },
   {
    "k": "CPO (MYR/t)",
-   "v": "4,917",
-   "d": 0.68,
-   "ytd": 21.41,
+   "v": "4,898",
+   "d": 0.29,
+   "ytd": 20.94,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/18 nilai terakhir · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
   }
  ],
  "curve": {
@@ -23112,7 +23113,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 1814,
+  "pc_age_min": 1874,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23145,20 +23146,6 @@
    "srcs": 3
   },
   {
-   "ts": "2026-09-19T11:09:09+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Bloomberg Technoz",
-   "t": "BofA: Bunga Acuan Fed Era Kevin Warsh Bisa di Atas 5%",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122099/bofa-bunga-acuan-fed-era-kevin-warsh-bisa-di-atas-5",
-   "img": "https://images.bloombergtechnoz.com/data/2024/09/image-20240919081147.jpg",
-   "score": 409.15,
-   "srcs": 1,
-   "t_ko": "BofA: Kevin Warsh 시대 연준 벤치마크 금리는 5%를 넘을 수 있습니다.",
-   "t_id": "BofA: Bunga Acuan Fed Era Kevin Warsh Bisa di Atas 5%"
-  },
-  {
    "ts": "2026-09-19T20:31:18+07:00",
    "date": "2026-09-19",
    "time": "09/19",
@@ -23187,19 +23174,34 @@
    "t_id": "Poin Aturan Icomex: Kelembagaan hingga Perdagangan Bursa Mineral"
   },
   {
-   "ts": "2026-09-20T02:35:09+07:00",
-   "date": "2026-09-20",
-   "time": "02:35",
-   "src": "Yahoo Finance",
-   "t": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
+   "ts": "2026-09-19T14:05:00+07:00",
+   "date": "2026-09-19",
+   "time": "09/19",
+   "src": "IDX Channel",
+   "t": "Rupiah Sepekan Melemah 0,83 Persen Dibayangi Geopolitik dan Isu El Nino",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
+   "url": "https://www.idxchannel.com/market-news/rupiah-sepekan-melemah-083-persen-dibayangi-geopolitik-dan-isu-el-nino",
    "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
-   "t_ko": "Jim Cramer는 석유가 Casey's(CASY)와 Texas Roadhouse(TXRH)에 압력을 가하고 있다고 지적합니다.",
-   "t_id": "Jim Cramer Mencatat Minyak Berada di Balik Tekanan pada Casey’s (CASY) dan Texas Roadhouse (TXRH)",
-   "score": 308.5,
-   "srcs": 2
+   "img": "https://img.idxchannel.com/media/439/images/idx/2025/04/28/rupiah_freepik_3.jpg",
+   "score": 403.15,
+   "srcs": 1,
+   "t_ko": "루피아는 지정학과 엘니뇨 문제로 인해 일주일에 0.83% 약세를 보였습니다.",
+   "t_id": "Rupiah Sepekan Melemah 0,83 Persen Dibayangi Geopolitik dan Isu El Nino"
+  },
+  {
+   "ts": "2026-09-20T03:30:00+07:00",
+   "date": "2026-09-20",
+   "time": "03:30",
+   "src": "Yahoo Finance",
+   "t": "The S&P 500 Yields Just 1.1% While 10-Year Treasury Yields Have Surged to 5%. This Dividend Stock Provides a Middle Ground for Long-Term Investors.",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-yields-just-1-203000717.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/c92f9eddf521e4469b6f5de48d5575fd.jpg",
+   "t_ko": "S&P 500 수익률은 1.1%에 불과한 반면 10년 만기 국채 수익률은 5%까지 급등했습니다. 이 배당주는 장기 투자자에게 중간 기반을 제공합니다.",
+   "t_id": "Imbal Hasil S&P 500 Hanya 1,1% Sementara Imbal Hasil Treasury 10 Tahun Melonjak hingga 5%. Saham Dividen Ini Memberikan Jalan Tengah bagi Investor Jangka Panjang.",
+   "score": 317.5,
+   "srcs": 3
   }
  ],
  "daylog": {
@@ -23794,16 +23796,16 @@
   "2026-09-20": {
    "news": [
     {
-     "t": "Jim Cramer Suggests Avoiding Redwire (RDW) In A Rate Tightening Cycle",
-     "ko": "Jim Cramer는 금리 긴축 주기에서 Redwire(RDW)를 피할 것을 제안합니다.",
-     "id": "Jim Cramer Menyarankan Menghindari Redwire (RDW) Dalam Siklus Pengetatan Suku Bunga",
+     "t": "The S&P 500 Yields Just 1.1% While 10-Year Treasury Yields Have Surged to 5%. This Dividend Stock Provides a Middle Ground for Long-Term Investors.",
+     "ko": "S&P 500 수익률은 1.1%에 불과한 반면 10년 만기 국채 수익률은 5%까지 급등했습니다. 이 배당주는 장기 투자자에게 중간 기반을 제공합니다.",
+     "id": "Imbal Hasil S&P 500 Hanya 1,1% Sementara Imbal Hasil Treasury 10 Tahun Melonjak hingga 5%. Saham Dividen Ini Memberikan Jalan Tengah bagi Investor Jangka Panjang.",
      "ai_ko": "",
      "ai_id": "",
      "src": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-avoiding-redwire-183604424.html",
-     "time": "01:36",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-yields-just-1-203000717.html",
+     "time": "03:30",
      "tags": [],
-     "sc": 309.0,
+     "sc": 317.5,
      "slot": "global",
      "q": 85
     },

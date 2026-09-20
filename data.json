@@ -1,8 +1,8 @@
 {
  "mode": "live",
- "updated": "2026-09-20 07:07",
+ "updated": "2026-09-20 08:12",
  "delay_min": 15,
- "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 07:07 Yahoo",
+ "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 08:12 Yahoo",
  "idr_per_krw": 12.8051,
  "indices": [
   {
@@ -141,14 +141,14 @@
   "prev": 6462.43,
   "ytd": -25.51,
   "m1": -0.13,
-  "value_idr": 17282285652700.008,
+  "value_idr": 17227374310200.008,
   "volume": null,
   "value_src": "yahoo",
-  "rank_src": "Yahoo 15분 지연 · 829종목 · 종가 · 외국인·공시 PC 09-18 20:52",
+  "rank_src": "Yahoo 15분 지연 · 828종목 · 종가 · 외국인·공시 PC 09-18 20:52",
   "rank_asof": null,
   "rank_date": "2026-09-18",
   "adv": 212,
-  "dec": 464,
+  "dec": 463,
   "unch": 153,
   "foreign_net_idr": 157062291789.93994,
   "foreign_buy": 3817441648764.809,
@@ -1939,22 +1939,6 @@
    "lo": 384.0,
    "ratio": 0.3,
    "fnet": -15468106442.718254,
-   "live": 0
-  },
-  {
-   "t": "INKP",
-   "n": "Indah Kiat Pulp & Paper",
-   "px": 8625.0,
-   "prev": 8725.0,
-   "pct": -1.15,
-   "val": 54911342499.99999,
-   "vol": 6317700.0,
-   "sh": 5470982941,
-   "mcap": 47187227866125.0,
-   "hi": 8825.0,
-   "lo": 8625.0,
-   "ratio": 1.4,
-   "fnet": 6151997908.290142,
    "live": 0
   },
   {
@@ -14234,11 +14218,11 @@
   {
    "name": "기초소재",
    "name_id": "Barang Baku",
-   "n": 93,
+   "n": 92,
    "adv": 28,
-   "dec": 50,
-   "val": 4375816410800.0,
-   "mcap": 1554073699417018.0,
+   "dec": 49,
+   "val": 4320905068300.0,
+   "mcap": 1506886471550893.0,
    "top": [
     {
      "t": "AMMN",
@@ -14281,8 +14265,8 @@
      "pct": 3.85
     }
    ],
-   "fnet": -241443301276,
-   "pct": -0.72,
+   "fnet": -247595299184,
+   "pct": -0.71,
    "fbuy_top": [
     {
      "t": "ANTM",
@@ -16351,8 +16335,8 @@
    ],
    "url": "https://www.liputan6.com/saham/read/8295299/pengendali-emiten-winr-lepas-2074-juta-saham-ini-tujuannya",
    "img": "https://cdn0-production-images-kly.akamaized.net/DobzRmJuZ6AtCzudxcUozgUxViU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4277616/original/049381900_1672400412-Penutupan_Perdagangan_Bursa_Efek_Indonesia_2022-Angga-5.jpg",
-   "t_id": "Pengendali Emiten WINR Lepas 20,74 Juta Saham, Ini Tujuannya",
-   "t_ko": "WINR 발행자 컨트롤러, 2074만 주 발행, 이것이 목표입니다"
+   "t_ko": "WINR 발행자 컨트롤러, 2074만 주 발행, 이것이 목표입니다",
+   "t_id": "Pengendali Emiten WINR Lepas 20,74 Juta Saham, Ini Tujuannya"
   },
   {
    "ts": "2026-09-20T02:49:18+07:00",
@@ -17043,6 +17027,54 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-20T07:50:00+07:00",
+   "date": "2026-09-20",
+   "time": "07:50",
+   "src": "Republika",
+   "t": "Memasuki Hari Ketujuh Pencarian Korban KMP Virgo Transport 8, Tiga Kapal Negara Diterjunkan",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlmzjo423/memasuki-hari-ketujuh-pencarian-korban-kmp-virgo-transport-8-tiga-kapal-negara-diterjunkan",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/040189000-1789374689-830-556.jpg",
+   "t_ko": "KMP 처녀수송 피해자 8명 수색 7일째 돌입, 국영 선박 3척 출동",
+   "t_id": "Memasuki Hari Ketujuh Pencarian Korban KMP Virgo Transport 8, Tiga Kapal Negara Diterjunkan"
+  },
+  {
+   "ts": "2026-09-20T07:31:18+07:00",
+   "date": "2026-09-20",
+   "time": "07:31",
+   "src": "Republika",
+   "t": "Harga Cabai Rawit di Gorontalo Utara Tembus Rp200 ribu per Kg",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tln046416/harga-cabai-rawit-di-gorontalo-utara-tembus-rp200-ribu-per-kg",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/003960900-1770616885-830-556.jpg",
+   "t_id": "Harga Cabai Rawit di Gorontalo Utara Tembus Rp200 ribu per Kg",
+   "t_ko": "North Gorontalo의 카이엔 고추 가격은 kg당 IDR 200,000에 이릅니다."
+  },
+  {
+   "ts": "2026-09-20T07:30:56+07:00",
+   "date": "2026-09-20",
+   "time": "07:30",
+   "src": "Detik",
+   "t": "Anak Warren Buffet Jadi Chairman Berkshire Hathaway",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670425/anak-warren-buffet-jadi-chairman-berkshire-hathaway",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2019/01/29/ac8f1655-5e39-4050-8a20-78da1ef9234d_169.jpeg?w=360&q=90",
+   "t_id": "Anak Warren Buffet Jadi Chairman Berkshire Hathaway",
+   "t_ko": "워렌 버핏 아들, 버크셔 해서웨이 회장 취임"
+  },
+  {
+   "ts": "2026-09-20T07:19:00+07:00",
+   "date": "2026-09-20",
+   "time": "07:19",
+   "src": "Katadata",
+   "t": "Visa Presiden Palestina Ditolak AS, PBB Izinkan Berpidato via Video",
+   "tags": [],
+   "url": "https://katadata.co.id/berita/internasional/6aaf269fa1d92/visa-presiden-palestina-ditolak-as-pbb-izinkan-berpidato-via-video",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2022/05/24/2022_05_24-19_52_08_a2b980e1136e22188961d40482f6d925_620x413_thumb.jpg",
+   "t_ko": "미국, 팔레스타인 대통령 비자 거부, 유엔, 영상 연설 허용",
+   "t_id": "Visa Presiden Palestina Ditolak AS, PBB Izinkan Berpidato via Video"
+  },
+  {
    "ts": "2026-09-20T06:30:59+07:00",
    "date": "2026-09-20",
    "time": "06:30",
@@ -17063,21 +17095,8 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlmwjd423/kinerja-pasar-saham-bergerak-dinamis-sepekan-terakhir-ihsg-ditutup-di-level-6441",
    "img": "https://static.republika.co.id/uploads/images/detailnews/019216500-1785491438-830-556.jpg",
-   "t_id": "Kinerja Pasar Saham Bergerak Dinamis Sepekan Terakhir, IHSG Ditutup di Level 6.441",
-   "t_ko": "지난주 주식시장 실적은 역동적으로 움직였으며 JCI는 6,441 수준으로 마감했습니다."
-  },
-  {
-   "ts": "2026-09-20T06:00:00+07:00",
-   "date": "2026-09-20",
-   "time": "06:00",
-   "src": "Yahoo Finance",
-   "t": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/energy-giants-betting-billions-world-230000196.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/oilprice.com/9912c6e4d9f1c17dbca0523bfb2ebb19.jpg",
-   "t_ko": "에너지 거대 기업은 더 긴 석유 경로의 세계에 수십억 달러를 투자하고 있습니다",
-   "t_id": "Raksasa Energi Mempertaruhkan Miliaran Dolar pada Dunia dengan Jalur Minyak yang Lebih Panjang"
+   "t_ko": "지난주 주식시장 실적은 역동적으로 움직였으며 JCI는 6,441 수준으로 마감했습니다.",
+   "t_id": "Kinerja Pasar Saham Bergerak Dinamis Sepekan Terakhir, IHSG Ditutup di Level 6.441"
   },
   {
    "ts": "2026-09-20T06:00:00+07:00",
@@ -17100,8 +17119,8 @@
    "tags": [],
    "url": "https://finance.detik.com/energi/d-8670419/prabowo-mau-ri-bikin-bensin-dari-batu-bara",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/19/presiden-prabowo-subianto-1789796654869_169.jpeg?w=360&q=90",
-   "t_id": "Prabowo Mau RI Bikin Bensin dari Batu Bara",
-   "t_ko": "프라보워, RI가 석탄으로 휘발유를 만들길 원해"
+   "t_ko": "프라보워, RI가 석탄으로 휘발유를 만들길 원해",
+   "t_id": "Prabowo Mau RI Bikin Bensin dari Batu Bara"
   },
   {
    "ts": "2026-09-20T05:33:42+07:00",
@@ -17123,47 +17142,8 @@
    "t": "Teknologi Water Purifier Terkini Gunakan Reverse Osmosis, dan UV Sterilization",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/935348/teknologi-water-purifier-terkini-gunakan-reverse-osmosis-dan-uv-sterilization",
-   "t_id": "Teknologi Water Purifier Terkini Gunakan Reverse Osmosis, dan UV Sterilization",
-   "t_ko": "역삼투압과 UV살균을 이용한 최신 정수기 기술"
-  },
-  {
-   "ts": "2026-09-20T03:13:50+07:00",
-   "date": "2026-09-20",
-   "time": "03:13",
-   "src": "Yahoo Finance",
-   "t": "Prudential (PRU) Is Leaving Emerging Markets, And This $185M Sale Proves It",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/prudential-pru-leaving-emerging-markets-201350497.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/85373bc41713bda2682a486e2f1708bb.jpg",
-   "t_ko": "Prudential(PRU)이 신흥 시장을 떠나고 있으며 이번 1억 8,500만 달러 매출이 이를 증명합니다.",
-   "t_id": "Prudential (PRU) Meninggalkan Pasar Berkembang, Dan Penjualan $185 Juta Ini Membuktikannya"
-  },
-  {
-   "ts": "2026-09-20T03:09:32+07:00",
-   "date": "2026-09-20",
-   "time": "03:09",
-   "src": "Yahoo Finance",
-   "t": "Interactive Brokers (IBKR) Turns Every Revenue Dollar Into 77 Cents of Pretax Profit",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-turns-every-200932877.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/9e4980f59175c88c1ec9ab3834225b99.jpg",
-   "t_ko": "Interactive Brokers(IBKR)는 모든 수익을 77센트의 세전 이익으로 전환합니다.",
-   "t_id": "Pialang Interaktif (IBKR) Mengubah Setiap Pendapatan Dolar Menjadi 77 Sen Laba Sebelum Pajak"
-  },
-  {
-   "ts": "2026-09-20T02:55:13+07:00",
-   "date": "2026-09-20",
-   "time": "02:55",
-   "src": "Yahoo Finance",
-   "t": "Ferguson (FERG) Keeps Beating a Housing Market That Refuses to Cooperate",
-   "tags": [],
-   "url": "https://finance.yahoo.com/real-estate/articles/ferguson-ferg-keeps-beating-housing-195513837.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/503ddb793f98dc373d0b99a425313e6a.jpg",
-   "t_ko": "퍼거슨(FERG)은 협력을 거부하는 주택 시장을 계속 이기고 있습니다.",
-   "t_id": "Ferguson (FERG) Terus Mengalahkan Pasar Perumahan yang Menolak Bekerja Sama"
+   "t_ko": "역삼투압과 UV살균을 이용한 최신 정수기 기술",
+   "t_id": "Teknologi Water Purifier Terkini Gunakan Reverse Osmosis, dan UV Sterilization"
   },
   {
    "ts": "2026-09-20T02:49:31+07:00",
@@ -17192,32 +17172,6 @@
    "t_id": "Menteri Keuangan AS Disetujui, Menteri Keuangan Tiongkok He akan bertemu pada hari Minggu di kantor pusat JPMorgan"
   },
   {
-   "ts": "2026-09-20T02:35:09+07:00",
-   "date": "2026-09-20",
-   "time": "02:35",
-   "src": "Yahoo Finance",
-   "t": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
-   "t_ko": "Jim Cramer는 석유가 Casey's(CASY)와 Texas Roadhouse(TXRH)에 압력을 가하고 있다고 지적합니다.",
-   "t_id": "Jim Cramer Mencatat Minyak Berada di Balik Tekanan pada Casey’s (CASY) dan Texas Roadhouse (TXRH)"
-  },
-  {
-   "ts": "2026-09-20T02:29:55+07:00",
-   "date": "2026-09-20",
-   "time": "02:29",
-   "src": "Yahoo Finance",
-   "t": "Jim Cramer Suggests Against Holding Dominion (D) Through the NextEra (NEE) Share Conversion",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-suggests-against-holding-192955385.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
-   "t_ko": "Jim Cramer, NextEra(NEE) 주식 전환을 통해 Dominion(D) 보유 반대 제안",
-   "t_id": "Jim Cramer Menyarankan Untuk Tidak Memegang Dominion (D) Melalui Konversi Saham NextEra (NEE)."
-  },
-  {
    "ts": "2026-09-20T02:25:59+07:00",
    "date": "2026-09-20",
    "time": "02:25",
@@ -17228,19 +17182,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/19/ilustrasi-investasi-magnific-z0wwZ.webp",
    "t_ko": "디지털 투자가 붐비는 가운데, 여전히 대면 서비스가 인기를 끄는 이유는 무엇일까?",
    "t_id": "Di Tengah Ramainya Investasi Digital, Mengapa Layanan Tatap Muka Masih Dicari?"
-  },
-  {
-   "ts": "2026-09-20T01:51:16+07:00",
-   "date": "2026-09-20",
-   "time": "01:51",
-   "src": "Yahoo Finance",
-   "t": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/4e92d2c1e3022275942c147e27f5c322.jpg",
-   "t_ko": "나스닥(NDAQ)이 암호화폐 범죄자를 숨기기 어렵게 만들었습니다.",
-   "t_id": "Nasdaq (NDAQ) Mempersulit Penjahat Kripto untuk Bersembunyi"
   },
   {
    "ts": "2026-09-20T01:43:04+07:00",
@@ -17254,6 +17195,18 @@
    "img": "https://dam.mediacorp.sg/image/upload/s--0QuLeBYM--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-19T184304Z_1_LYNXMPEM8I0G1_RTROPTP_3_JAPAN-COMPANY-NIPPON-LIFE.JPG?itok=x078zbSh",
    "t_ko": "일본 Nippon Life는 미국 데이터 센터 자금 조달에 130억 달러를 계획하고 있다고 Nikkei Asia가 보도했습니다.",
    "t_id": "Nippon Life Jepang merencanakan $13 miliar untuk pembiayaan pusat data di AS, Nikkei Asia melaporkan"
+  },
+  {
+   "ts": "2026-09-20T01:34:17+07:00",
+   "date": "2026-09-20",
+   "time": "01:34",
+   "src": "Reuters",
+   "t": "Trump says he will appoint a new AI adviser, without providing details",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9QS1RSUzNKWDluSVZQS0pJVDkyYjVWWjZPcWhEUHJkczdpZzhIN3N3THZ4Ylg1M2xLRTBzTDJyd1ktVDhOeHJVaHdqQWZXdVo4X2NqMllhVDNCQjZfUTJ0TV9fdEw5NW5OLTRDbzhEOG9UNjdGNUllQU15WGpuUncwMDd3OGhOY3Y2dTE0WEVoaXR6UzNV?oc=5",
+   "g": 1,
+   "t_ko": "트럼프 \"자세한 내용은 밝히지 않고 새 AI 자문 임명할 것\"",
+   "t_id": "Trump mengatakan dia akan menunjuk penasihat AI baru, tanpa memberikan rincian lebih lanjut"
   },
   {
    "ts": "2026-09-20T01:33:10+07:00",
@@ -17329,19 +17282,6 @@
    "t_id": "Setop Impor Solar Sejak 1 Juli, Prabowo: Nanti Kita Buat Bensin dari Batubara"
   },
   {
-   "ts": "2026-09-20T00:25:03+07:00",
-   "date": "2026-09-20",
-   "time": "00:25",
-   "src": "CNA",
-   "t": "Trump says he will appoint a new AI adviser, without providing details",
-   "tags": [],
-   "url": "https://www.channelnewsasia.com/business/trump-says-he-will-appoint-new-ai-adviser-without-providing-details-6396921",
-   "g": 1,
-   "img": "https://dam.mediacorp.sg/image/upload/s--G3dJ64f1--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-19T173500Z_2_LYNXMPEM8I0EC_RTROPTP_3_USA-TRUMP-AI.JPG?itok=gf2iaiMx",
-   "t_ko": "트럼프 \"자세한 내용은 밝히지 않고 새 AI 자문 임명할 것\"",
-   "t_id": "Trump mengatakan dia akan menunjuk penasihat AI baru, tanpa memberikan rincian lebih lanjut"
-  },
-  {
    "ts": "2026-09-20T00:24:05+07:00",
    "date": "2026-09-20",
    "time": "00:24",
@@ -17352,6 +17292,18 @@
    "g": 1,
    "t_ko": "캐나다는 올해 말까지 인도와의 무역 협상을 마무리하는 것에 대해 낙관적이라고 장관은 말했습니다.",
    "t_id": "Kanada optimis untuk menyelesaikan pembicaraan perdagangan dengan India pada akhir tahun, kata menteri"
+  },
+  {
+   "ts": "2026-09-19T23:43:15+07:00",
+   "date": "2026-09-19",
+   "time": "09/19",
+   "src": "Bloomberg",
+   "t": "Bloomberg This Weekend 09/19/2026",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-19/bloomberg-this-weekend-09-19-2026-video",
+   "g": 1,
+   "t_ko": "블룸버그 이번 주말 2026년 9월 19일",
+   "t_id": "Bloomberg Akhir Pekan Ini 19/09/2026"
   },
   {
    "ts": "2026-09-19T23:29:00+07:00",
@@ -17376,6 +17328,31 @@
    "t_id": "TNI Patuhi Kenaikan Pangkat Gunakan Regulasi Sertifikasi Hak Asasi Manusia (HAM)"
   },
   {
+   "ts": "2026-09-19T23:19:00+07:00",
+   "date": "2026-09-19",
+   "time": "09/19",
+   "src": "MarketWatch",
+   "t": "It’s not a winner-take-all stock market. This hedge-fund manager favors three underdogs.",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-44290360",
+   "t_ko": "미국 주식시장, 쏠림현상 탈피 전망 — 헤지펀드 매니저가 주목하는 소외주 3선",
+   "t_id": "Bukan Pasar Saham Pemenang Tunggal, Manajer Hedge Fund Ini Jagokan Tiga Saham Tertinggal"
+  },
+  {
+   "ts": "2026-09-19T23:03:09+07:00",
+   "date": "2026-09-19",
+   "time": "09/19",
+   "src": "CNBC",
+   "t": "Higher interest rates and AI safety fears put the stock market to the test last week",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
+   "g": 1,
+   "t_ko": "높은 금리와 AI 안전에 대한 우려로 인해 지난 주 주식 시장이 시험대에 올랐습니다.",
+   "t_id": "Suku bunga yang lebih tinggi dan kekhawatiran terhadap keamanan AI menguji pasar saham minggu lalu"
+  },
+  {
    "ts": "2026-09-19T22:26:00+07:00",
    "date": "2026-09-19",
    "time": "09/19",
@@ -17385,6 +17362,43 @@
    "url": "https://mediaindonesia.com/ekonomi/935333/bei-waran-terstruktur-tumbuh-pesat-679-seri-terbit-hingga-september-2026",
    "t_ko": "IDX: 구조화된 영장 빠르게 성장, 2026년 9월까지 발행되는 679 시리즈",
    "t_id": "BEI: Waran Terstruktur Tumbuh Pesat, 679 Seri Terbit hingga September 2026"
+  },
+  {
+   "ts": "2026-09-19T22:06:47+07:00",
+   "date": "2026-09-19",
+   "time": "09/19",
+   "src": "Reuters",
+   "t": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRXpOR3pPZVEzWW1pNDFCanB6Z3QyWEFEQlBhZi0zaVN4U09RcWtTZEswa19EUW9TNUNqZ21kT01kSW42OXNJSmpmRE42UEJoRmtxUE1Ra1luUzRxRjJrbmhCbEpxMHBUNl9Hd21MV3RZd2RPM21lZzhNRlZEbG1rRFVLenV5QnhhSURwTmo2WTZzV3VaSG5HeU9vaFNZWFc3a2dxdHRYZklMSnpRU19idWp1dk9fSFoz?oc=5",
+   "g": 1,
+   "t_ko": "프랑스 재무부는 2026년 부채가 GDP의 거의 120%에 달할 것으로 예상하고 있다.",
+   "t_id": "Kementerian Keuangan Prancis memperkirakan rekor utang pada tahun 2026 akan mencapai hampir 120% PDB"
+  },
+  {
+   "ts": "2026-09-19T22:00:24+07:00",
+   "date": "2026-09-19",
+   "time": "09/19",
+   "src": "Detik",
+   "t": "Trump Perpanjang Aturan Biaya Visa Pekerja Asing Rp 1,75 M hingga 2027",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670045/trump-perpanjang-aturan-biaya-visa-pekerja-asing-rp-1-75-m-hingga-2027",
+   "g": 1,
+   "img": "https://akcdn.detik.net.id/community/media/visual/2023/07/14/ilustrasi-visa_169.jpeg?w=360&q=90",
+   "t_ko": "트럼프, 2027년까지 IDR 17억 5천만의 외국인 근로자 비자 수수료 규정 연장",
+   "t_id": "Trump Perpanjang Aturan Biaya Visa Pekerja Asing Rp 1,75 M hingga 2027"
+  },
+  {
+   "ts": "2026-09-19T21:47:50+07:00",
+   "date": "2026-09-19",
+   "time": "09/19",
+   "src": "Bloomberg",
+   "t": "Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says",
+   "g": 1,
+   "t_ko": "호르무즈 원유 출하량이 6개월 만에 최고치를 기록했다고 미 사령관이 밝혔습니다.",
+   "t_id": "Pengiriman Minyak Hormuz Capai Tertinggi dalam Enam Bulan, Kata Komandan AS"
   },
   {
    "ts": "2026-09-19T21:36:02+07:00",
@@ -17435,52 +17449,16 @@
    "t_id": "Chery Buka Diler Ketiga di Medan, Siapkan Layanan untuk EV Hingga Hybrid"
   },
   {
-   "ts": "2026-09-19T21:00:44+07:00",
+   "ts": "2026-09-19T21:17:01+07:00",
    "date": "2026-09-19",
    "time": "09/19",
-   "src": "Detik",
-   "t": "Kemenhub Uji Kesiapan Bandara APT Pranoto Hadapi Keadaan Darurat",
+   "src": "Bloomberg",
+   "t": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
    "tags": [],
-   "url": "https://finance.detik.com/infrastruktur/d-8670025/kemenhub-uji-kesiapan-bandara-apt-pranoto-hadapi-keadaan-darurat",
-   "img": "?w=360&q=90",
-   "t_ko": "교통부, APT Pranoto 공항의 비상 상황 대처 능력 테스트",
-   "t_id": "Kemenhub Uji Kesiapan Bandara APT Pranoto Hadapi Keadaan Darurat"
-  },
-  {
-   "ts": "2026-09-19T20:50:09+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Detik",
-   "t": "Kementerian PU Berhentikan Sementara ASN yang Tanam Ganja di Rumah",
-   "tags": [],
-   "url": "https://finance.detik.com/infrastruktur/d-8670391/kementerian-pu-berhentikan-sementara-asn-yang-tanam-ganja-di-rumah",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/04/18/menteri-pekerjaan-umum-pu-dody-hanggodo-1776497586532_169.jpeg?w=360&q=90",
-   "t_ko": "공공사업부, 집에서 마리화나를 재배하는 ASN을 일시적으로 중단",
-   "t_id": "Kementerian PU Berhentikan Sementara ASN yang Tanam Ganja di Rumah"
-  },
-  {
-   "ts": "2026-09-19T20:31:18+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Detik",
-   "t": "Ini 3 Pelanggaran dari 25 Merek Beras Fortifikasi Abal-abal",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670322/ini-3-pelanggaran-dari-25-merek-beras-fortifikasi-abal-abal",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/15/25-merek-beras-fortifikasi-dinyatakan-tak-sesuai-standar-1789447060419_169.jpeg?w=360&q=90",
-   "t_ko": "25개 가짜 강화 쌀 브랜드의 3가지 위반사항",
-   "t_id": "Ini 3 Pelanggaran dari 25 Merek Beras Fortifikasi Abal-abal"
-  },
-  {
-   "ts": "2026-09-19T20:14:52+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Republika",
-   "t": "Bawa Pulang Karya Lokal! Serunya Petualangan BRIZZI ARKIV di Blok M Hub",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlm4ss490/bawa-pulang-karya-lokal-serunya-petualangan-brizzi-arkiv-di-blok-m-hub",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260919201441-867.png",
-   "t_ko": "지역 창작물을 집으로 가져오세요! Blok M Hub에서 펼쳐지는 BRIZZI ARKIV의 신나는 모험",
-   "t_id": "Bawa Pulang Karya Lokal! Serunya Petualangan BRIZZI ARKIV di Blok M Hub"
+   "url": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
+   "g": 1,
+   "t_ko": "SpaceX의 Nasdaq 100 가중치는 재조정에서 2.82%로 확인되었습니다.",
+   "t_id": "Bobot Nasdaq 100 SpaceX Dikonfirmasi pada 2,82% dalam Penyeimbangan Ulang"
   }
  ],
  "kisi_news": [
@@ -17741,15 +17719,15 @@
   },
   {
    "k": "CPO (MYR/t)",
-   "v": "4,898",
-   "d": 0.29,
-   "ytd": 20.94,
+   "v": "4,917",
+   "d": 0.68,
+   "ytd": 21.41,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/18 nilai terakhir · Awal tahun 4,050"
   }
  ],
  "curve": {
@@ -20457,20 +20435,6 @@
    "rk": 58
   },
   {
-   "ts": "2026-09-16T14:01:46+07:00",
-   "date": "2026-09-16",
-   "time": "14:01",
-   "t": "INKP",
-   "type": "STOCK",
-   "title": "Laporan Penggunaan Dana Hasil Penawaran Umum (KOREKSI)",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/364c03abe5_30bd2610d1.pdf",
-   "title_ko": "공모자금 사용내역 보고 (정정)",
-   "title_id": "Laporan Penggunaan Dana Hasil Penawaran Umum (Koreksi)",
-   "kind_ko": "공모·자금",
-   "kind_id": "Prospektus",
-   "rk": 58
-  },
-  {
    "ts": "2026-09-16T11:49:43+07:00",
    "date": "2026-09-16",
    "time": "11:49",
@@ -20840,6 +20804,20 @@
    "type": "STOCK",
    "title": "Laporan Penggunaan Dana Hasil Penawaran Umum (KOREKSI)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/61175a0e5b_2b7d806439.pdf",
+   "title_ko": "공모자금 사용내역 보고 (정정)",
+   "title_id": "Laporan Penggunaan Dana Hasil Penawaran Umum (Koreksi)",
+   "kind_ko": "공모·자금",
+   "kind_id": "Prospektus",
+   "rk": 42
+  },
+  {
+   "ts": "2026-09-16T14:01:46+07:00",
+   "date": "2026-09-16",
+   "time": "14:01",
+   "t": "INKP",
+   "type": "STOCK",
+   "title": "Laporan Penggunaan Dana Hasil Penawaran Umum (KOREKSI)",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/364c03abe5_30bd2610d1.pdf",
    "title_ko": "공모자금 사용내역 보고 (정정)",
    "title_id": "Laporan Penggunaan Dana Hasil Penawaran Umum (Koreksi)",
    "kind_ko": "공모·자금",
@@ -23117,7 +23095,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 2055,
+  "pc_age_min": 2120,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23159,10 +23137,10 @@
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670322/ini-3-pelanggaran-dari-25-merek-beras-fortifikasi-abal-abal",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/15/25-merek-beras-fortifikasi-dinyatakan-tak-sesuai-standar-1789447060419_169.jpeg?w=360&q=90",
-   "t_ko": "25개 가짜 강화 쌀 브랜드의 3가지 위반사항",
-   "t_id": "Ini 3 Pelanggaran dari 25 Merek Beras Fortifikasi Abal-abal",
    "score": 403.75,
-   "srcs": 1
+   "srcs": 1,
+   "t_ko": "25개 가짜 강화 쌀 브랜드의 3가지 위반사항",
+   "t_id": "Ini 3 Pelanggaran dari 25 Merek Beras Fortifikasi Abal-abal"
   },
   {
    "ts": "2026-09-19T17:30:00+07:00",
@@ -23192,19 +23170,19 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-19T18:25:00+07:00",
+   "ts": "2026-09-19T22:00:24+07:00",
    "date": "2026-09-19",
    "time": "09/19",
-   "src": "IDX Channel",
-   "t": "Wall Street Pekan Depan: Komentar Pejabat The Fed hingga Pertemuan Trump-Xi Jinping Jadi Sorotan",
+   "src": "Detik",
+   "t": "Trump Perpanjang Aturan Biaya Visa Pekerja Asing Rp 1,75 M hingga 2027",
    "tags": [],
-   "url": "https://www.idxchannel.com/market-news/wall-street-pekan-depan-komentar-pejabat-the-fed-hingga-pertemuan-trump-xi-jinping-jadi-sorotan",
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670045/trump-perpanjang-aturan-biaya-visa-pekerja-asing-rp-1-75-m-hingga-2027",
    "g": 1,
-   "img": "https://img.idxchannel.com/media/439/images/idx/2025/08/07/wall_street_AP.JPG",
-   "score": 308.5,
-   "srcs": 1,
-   "t_ko": "다음 주 월스트리트: 트럼프-시진핑 회담에 대한 연준 관계자들의 논평이 주목을 받고 있다",
-   "t_id": "Wall Street Pekan Depan: Komentar Pejabat The Fed hingga Pertemuan Trump-Xi Jinping Jadi Sorotan"
+   "img": "https://akcdn.detik.net.id/community/media/visual/2023/07/14/ilustrasi-visa_169.jpeg?w=360&q=90",
+   "t_ko": "트럼프, 2027년까지 IDR 17억 5천만의 외국인 근로자 비자 수수료 규정 연장",
+   "t_id": "Trump Perpanjang Aturan Biaya Visa Pekerja Asing Rp 1,75 M hingga 2027",
+   "score": 310.5,
+   "srcs": 1
   }
  ],
  "daylog": {
@@ -23751,6 +23729,20 @@
   "2026-09-19": {
    "news": [
     {
+     "t": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
+     "ko": "SpaceX의 Nasdaq 100 가중치는 재조정에서 2.82%로 확인되었습니다.",
+     "id": "Bobot Nasdaq 100 SpaceX Dikonfirmasi pada 2,82% dalam Penyeimbangan Ulang",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
+     "time": "09/19",
+     "tags": [],
+     "sc": 313.0,
+     "slot": "global",
+     "q": 85
+    },
+    {
      "t": "UBS AG Lepas 1,19 Juta Saham CPIN",
      "ko": "UBS AG, CPIN 주식 119만주 매각",
      "id": "UBS AG Lepas 1,19 Juta Saham CPIN",
@@ -23765,20 +23757,6 @@
      "sc": 211.8,
      "slot": "stock",
      "q": 77
-    },
-    {
-     "t": "Ini 3 Pelanggaran dari 25 Merek Beras Fortifikasi Abal-abal",
-     "ko": "25개 가짜 강화 쌀 브랜드의 3가지 위반사항",
-     "id": "Ini 3 Pelanggaran dari 25 Merek Beras Fortifikasi Abal-abal",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "Detik",
-     "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670322/ini-3-pelanggaran-dari-25-merek-beras-fortifikasi-abal-abal",
-     "time": "09/19",
-     "tags": [],
-     "sc": 409.8,
-     "slot": "macro",
-     "q": 93
     },
     {
      "t": "BEI: Waran Terstruktur Tumbuh Pesat, 679 Seri Terbit hingga September 2026",
@@ -23799,46 +23777,32 @@
   "2026-09-20": {
    "news": [
     {
-     "t": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
-     "ko": "나스닥(NDAQ)이 암호화폐 범죄자를 숨기기 어렵게 만들었습니다.",
-     "id": "Nasdaq (NDAQ) Mempersulit Penjahat Kripto untuk Bersembunyi",
+     "t": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+     "ko": "미국 재무부 베센트와 중국 허 총리가 일요일 JP모건 본사에서 만날 예정이다.",
+     "id": "Menteri Keuangan AS Disetujui, Menteri Keuangan Tiongkok He akan bertemu pada hari Minggu di kantor pusat JPMorgan",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
-     "time": "01:51",
+     "src": "CNA",
+     "url": "https://www.channelnewsasia.com/business/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-6396966",
+     "time": "02:36",
      "tags": [],
      "sc": 309.0,
      "slot": "global",
      "q": 85
     },
     {
-     "t": "Setop Impor Solar Sejak 1 Juli, Prabowo: Nanti Kita Buat Bensin dari Batubara",
-     "ko": "7월 1일부터 디젤 수입 중단, 프라보워: 나중에 석탄에서 휘발유를 만들 것",
-     "id": "Setop Impor Solar Sejak 1 Juli, Prabowo: Nanti Kita Buat Bensin dari Batubara",
+     "t": "Harga Cabai Rawit di Gorontalo Utara Tembus Rp200 ribu per Kg",
+     "ko": "North Gorontalo의 카이엔 고추 가격은 kg당 IDR 200,000에 이릅니다.",
+     "id": "Harga Cabai Rawit di Gorontalo Utara Tembus Rp200 ribu per Kg",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Jawa Pos",
-     "url": "https://www.jawapos.com/energi/2609190273/setop-impor-solar-sejak-1-juli-prabowo-nanti-kita-buat-bensin-dari-batubara",
-     "time": "00:37",
+     "src": "Republika",
+     "url": "https://ekonomi.republika.co.id/berita/tln046416/harga-cabai-rawit-di-gorontalo-utara-tembus-rp200-ribu-per-kg",
+     "time": "07:31",
      "tags": [],
-     "sc": 212.8,
+     "sc": 216.8,
      "slot": "stock",
-     "q": 48
-    },
-    {
-     "t": "Jim Cramer Notes Oil Is Behind Pressure on Casey’s (CASY) and Texas Roadhouse (TXRH)",
-     "ko": "Jim Cramer는 석유가 Casey's(CASY)와 Texas Roadhouse(TXRH)에 압력을 가하고 있다고 지적합니다.",
-     "id": "Jim Cramer Mencatat Minyak Berada di Balik Tekanan pada Casey’s (CASY) dan Texas Roadhouse (TXRH)",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-oil-behind-193509467.html",
-     "time": "02:35",
-     "tags": [],
-     "sc": 309.0,
-     "slot": "global",
-     "q": 85
+     "q": 49
     }
    ]
   }
@@ -41802,7 +41766,7 @@
    "s_conc": 100,
    "s_flow": 0,
    "alpha": 25.33,
-   "vrank": 83,
+   "vrank": 82,
    "flow": null,
    "srcs": 0
   },

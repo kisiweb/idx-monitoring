@@ -1,8 +1,8 @@
 {
  "mode": "live",
- "updated": "2026-09-21 00:07",
+ "updated": "2026-09-21 01:06",
  "delay_min": 15,
- "fx_basis": "12.80 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,386 · 00:07 Yahoo",
+ "fx_basis": "12.80 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,386 · 01:06 Yahoo",
  "idr_per_krw": 12.7999,
  "indices": [
   {
@@ -16909,6 +16909,132 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T00:49:18+07:00",
+   "date": "2026-09-21",
+   "time": "00:49",
+   "src": "Bloomberg",
+   "t": "Aliko Dangote on Investing in Africa",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-20/aliko-dangote-on-investing-in-africa-video",
+   "g": 1,
+   "t_ko": "Aliko Dangote의 아프리카 투자",
+   "t_id": "Aliko Dangote tentang Berinvestasi di Afrika"
+  },
+  {
+   "ts": "2026-09-21T00:46:57+07:00",
+   "date": "2026-09-21",
+   "time": "00:46",
+   "src": "Reuters",
+   "t": "Iran and US trade threats after Houthi attacks escalate regional conflict",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5",
+   "g": 1,
+   "t_ko": "후티 반군 공격 이후 이란과 미국의 무역 위협으로 지역 갈등 고조",
+   "t_id": "Ancaman perdagangan Iran dan AS setelah serangan Houthi meningkatkan konflik regional"
+  },
+  {
+   "ts": "2026-09-21T00:37:18+07:00",
+   "date": "2026-09-21",
+   "time": "00:37",
+   "src": "Yahoo Finance",
+   "t": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/f6f18df7e04f888daf0ae422c87dabbc.jpg",
+   "t_ko": "Sempra(SRE)가 20년 LNG 계약을 추가합니다. 얼마나 많은 상업적 위험을 제거합니까?",
+   "t_id": "Sempra (SRE) Tambah Perjanjian LNG 20 Tahun. Berapa Besar Risiko Komersial yang Dapat Dihilangkan?"
+  },
+  {
+   "ts": "2026-09-21T00:33:00+07:00",
+   "date": "2026-09-21",
+   "time": "00:33",
+   "src": "Yahoo Finance",
+   "t": "Nvidia CEO has a blunt message for Americans fearing AI",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-blunt-message-americans-173300093.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/thestreet_881/5d410d1bc80618c2311947be3b0cc5d4.jpg",
+   "t_ko": "Nvidia CEO는 AI를 두려워하는 미국인들에게 직설적인 메시지를 전했습니다.",
+   "t_id": "CEO Nvidia memiliki pesan yang jelas kepada orang Amerika yang takut akan AI"
+  },
+  {
+   "ts": "2026-09-21T00:29:09+07:00",
+   "date": "2026-09-21",
+   "time": "00:29",
+   "src": "Yahoo Finance",
+   "t": "Eos Energy Enterprises vs. GE Vernova: Which Stock Is a Better Buy in 2026?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-vs-ge-172909972.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/f7a65c96d166faf21aac2b3268722093.png",
+   "t_ko": "Eos Energy Enterprises vs. GE Vernova: 2026년에는 어느 주식을 사는 것이 더 낫습니까?",
+   "t_id": "Eos Energy Enterprises vs. GE Vernova: Saham Mana yang Lebih Baik Dibeli di Tahun 2026?"
+  },
+  {
+   "ts": "2026-09-21T00:23:00+07:00",
+   "date": "2026-09-21",
+   "time": "00:23",
+   "src": "Yahoo Finance",
+   "t": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-dumps-alphabet-172300077.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/a29e301b4a006e2987a79532ec27d9ae.jpg",
+   "t_ko": "억만장자 빌 애크먼(Bill Ackman)은 알파벳을 버리고 최고가보다 15% 하락한 메가캡 주식을 모았다.",
+   "t_id": "Miliarder Bill Ackman Membuang Alfabet dan Menambah Saham Mega-Cap Turun 15% Dari Puncaknya"
+  },
+  {
+   "ts": "2026-09-21T00:09:18+07:00",
+   "date": "2026-09-21",
+   "time": "00:09",
+   "src": "Bloomberg",
+   "t": "IMF MD on the Global Economic Outlook",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-20/imf-md-on-the-global-economic-outlook-video",
+   "g": 1,
+   "t_ko": "글로벌 경제 전망에 관한 IMF MD",
+   "t_id": "IMF MD tentang Outlook Ekonomi Global"
+  },
+  {
+   "ts": "2026-09-21T00:07:00+07:00",
+   "date": "2026-09-21",
+   "time": "00:07",
+   "src": "Yahoo Finance",
+   "t": "A seven-year standoff over Venezuelan gold nears its end",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/commodities/articles/seven-standoff-over-venezuelan-gold-170700066.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/thestreet_881/76faa29aef4caedec4b609d3fb94b2d6.jpg",
+   "t_ko": "베네수엘라 금을 둘러싸고 7년간의 대립이 거의 끝났다",
+   "t_id": "Kebuntuan selama tujuh tahun terkait emas Venezuela hampir berakhir"
+  },
+  {
+   "ts": "2026-09-21T00:04:35+07:00",
+   "date": "2026-09-21",
+   "time": "00:04",
+   "src": "Yahoo Finance",
+   "t": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+   "tags": [],
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/5b327748e19f79eb3e0d30330a757e65.jpg",
+   "t_ko": "다우존스 선물 만기일: 시장이 비상할 수 있을까요? Robinhood, Sandisk, AMD, Moderna가 구매 영역으로 급증",
+   "t_id": "Dow Jones Futures Jatuh Tempo: Bisakah Pasar Melaju? Robinhood, Sandisk, AMD, Moderna Melonjak ke Area Pembelian"
+  },
+  {
+   "ts": "2026-09-21T00:01:51+07:00",
+   "date": "2026-09-21",
+   "time": "00:01",
+   "src": "Bloomberg",
+   "t": "Hormuz ‘Cannot Be Obsolete,’ Qatar Energy Minister Says",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-20/hormuz-cannot-be-obsolete-qatar-energy-minister-says-video",
+   "g": 1,
+   "t_ko": "카타르 에너지부 장관 \"호르무즈는 낡아빠질 수 없다\"",
+   "t_id": "Hormuz ‘Tidak Bisa Ditinggalkan’, Kata Menteri Energi Qatar"
+  },
+  {
    "ts": "2026-09-20T23:56:14+07:00",
    "date": "2026-09-20",
    "time": "09/20",
@@ -16919,45 +17045,6 @@
    "g": 1,
    "t_ko": "베센트, 트럼프-시 정상회담 앞두고 허라이펑 중국 부총리 만나",
    "t_id": "Bessent bertemu Wakil Perdana Menteri Tiongkok He Lifeng menjelang KTT Trump-Xi"
-  },
-  {
-   "ts": "2026-09-20T23:47:00+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Yahoo Finance",
-   "t": "Chevron CEO sends a strong message on oil price and the economy",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/thestreet_881/dbd4c9dd671e0107528450a001ff075c.jpg",
-   "t_ko": "셰브론 CEO, 유가와 경제에 대한 강력한 메시지 전달",
-   "t_id": "CEO Chevron menyampaikan pesan yang kuat mengenai harga minyak dan perekonomian"
-  },
-  {
-   "ts": "2026-09-20T23:33:00+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Yahoo Finance",
-   "t": "Jim Cramer sends strong signal to Apple stock investors",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-163300406.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/thestreet_881/a5bd8494ba2116985e06c9d71860ecae.jpg",
-   "t_ko": "Jim Cramer는 Apple 주식 투자자들에게 강력한 신호를 보냅니다.",
-   "t_id": "Jim Cramer mengirimkan sinyal kuat kepada investor saham Apple"
-  },
-  {
-   "ts": "2026-09-20T23:30:02+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Yahoo Finance",
-   "t": "Jensen Huang Just Announced Fantastic News for Nvidia Shareholders",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-just-announced-fantastic-163002960.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/1cab29b82faa5d866a2504bbd5759e98.jpg",
-   "t_ko": "Jensen Huang이 Nvidia 주주들을 위한 환상적인 소식을 발표했습니다.",
-   "t_id": "Jensen Huang Baru Saja Mengumumkan Kabar Fantastis untuk Pemegang Saham Nvidia"
   },
   {
    "ts": "2026-09-20T23:20:08+07:00",
@@ -17033,68 +17120,6 @@
    "t_id": "Qatar Mengatakan Kerusakan LNG Mungkin Membutuhkan Waktu Bertahun-tahun untuk Memperbaikinya"
   },
   {
-   "ts": "2026-09-20T23:01:17+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "CNA",
-   "t": "South Korea government to brief National Assembly on $350 billion US investment project, Yonhap News reports",
-   "tags": [],
-   "url": "https://www.channelnewsasia.com/business/south-korea-government-brief-national-assembly-350-billion-us-investment-project-yonhap-news-reports-6397781",
-   "g": 1,
-   "img": "https://dam.mediacorp.sg/image/upload/s--uwE7MOXd--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-20T160117Z_1_LYNXMPEM8J0EB_RTROPTP_3_SOUTHKOREA-USA-NORTHKOREA.JPG?itok=Mq1G3cL9",
-   "t_ko": "한국 정부, 3,500억 달러 규모의 미국 투자 프로젝트에 대해 국회에 보고할 예정이라고 연합뉴스가 보도",
-   "t_id": "Pemerintah Korea Selatan akan memberi pengarahan kepada Majelis Nasional mengenai proyek investasi AS senilai $350 miliar, Yonhap News melaporkan"
-  },
-  {
-   "ts": "2026-09-20T22:54:06+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Reuters",
-   "t": "Iran warns against new escalation by US and allies",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWJkS01sRHBUcXZGZVVoTy1zVU04amJ0VUc3WnZ4UkVZd25TTTR6RGY1ZkV5OUtGZzFULVNDcEo4MzlZMmNkamt0VjR5VHg3YzRDaWhEOFAtZklDbFpGSXpCeE9BeGR3UWp3aFN1MVp2aUMyZE93ZnFUN0VTdzdkZGJnMDdrOFNtc1lhZC1UQlNDWFl3dGRWdjZwYkc2SHJGelBn?oc=5",
-   "g": 1,
-   "t_ko": "이란, 미국과 동맹국의 새로운 확대에 대해 경고",
-   "t_id": "Iran memperingatkan terhadap eskalasi baru yang dilakukan AS dan sekutunya"
-  },
-  {
-   "ts": "2026-09-20T22:43:07+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "FT",
-   "t": "Trump says 250ft arch will be ‘military complex’ with drones and snipers",
-   "tags": [],
-   "url": "https://www.ft.com/content/33b317b4-cd7b-486a-8707-4d65db837c6d?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1c994d42-7fab-46f8-bb9d-2549714f0a82.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "트럼프 \"250피트 아치는 드론과 저격수로 가득한 '군사 복합시설' 될 것\"",
-   "t_id": "Trump mengatakan lengkungan setinggi 250 kaki akan menjadi ‘kompleks militer’ dengan drone dan penembak jitu"
-  },
-  {
-   "ts": "2026-09-20T22:39:28+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Bloomberg",
-   "t": "Rubio Takes on Expansive Foreign Policy Role",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-20/rubio-takes-on-expansive-foreign-policy-role-video",
-   "g": 1,
-   "t_ko": "루비오, 광범위한 외교 정책 역할 맡다",
-   "t_id": "Rubio Mengambil Peran Kebijakan Luar Negeri yang Ekspansif"
-  },
-  {
-   "ts": "2026-09-20T22:33:00+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Reuters",
-   "t": "Fed's Kashkari says inflation is still too high across US economy, in Fox News interview",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
-   "g": 1,
-   "t_ko": "Fed의 Kashkari는 Fox News 인터뷰에서 미국 경제 전반에 걸쳐 인플레이션이 여전히 너무 높다고 말했습니다.",
-   "t_id": "Kashkari dari Fed mengatakan inflasi masih terlalu tinggi di seluruh perekonomian AS, dalam wawancara dengan Fox News"
-  },
-  {
    "ts": "2026-09-20T22:30:35+07:00",
    "date": "2026-09-20",
    "time": "09/20",
@@ -17103,34 +17128,8 @@
    "tags": [],
    "url": "https://finance.detik.com/foto-bisnis/d-8670797/aktivitas-nelayan-ternate-di-tengah-rencana-modernisasi-armada-perikanan",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/20/aktivitas-nelayan-ternate-di-tengah-rencana-modernisasi-armada-perikanan-1789872560033_169.jpeg?w=360&q=90",
-   "t_id": "Aktivitas Nelayan Ternate di Tengah Rencana Modernisasi Armada Perikanan",
-   "t_ko": "어선 현대화 계획에 따른 테르나테 어부들의 활동"
-  },
-  {
-   "ts": "2026-09-20T22:25:44+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Yahoo Finance",
-   "t": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-   "tags": [],
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/5b327748e19f79eb3e0d30330a757e65.jpg",
-   "t_ko": "다우존스 선물: 시장 반등이 일어날 수 있을까요? Robinhood, Sandisk, AMD, Moderna가 구매 영역으로 급증",
-   "t_id": "Dow Jones Futures: Bisakah Reli Pasar Melesat? Robinhood, Sandisk, AMD, Moderna Melonjak ke Area Pembelian"
-  },
-  {
-   "ts": "2026-09-20T22:18:37+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Yahoo Finance",
-   "t": "Chevron (CVX) Supercharges its Venezuela Bet with More Oil Rigs",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/chevron-cvx-supercharges-venezuela-bet-151837921.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/b78a3cd50213ee5d752e8a503c8cf90c.jpg",
-   "t_ko": "Chevron(CVX), 더 많은 석유 굴착 장치로 베네수엘라 베팅 강화",
-   "t_id": "Chevron (CVX) Meningkatkan Taruhannya di Venezuela dengan Lebih Banyak Rig Minyak"
+   "t_ko": "어선 현대화 계획에 따른 테르나테 어부들의 활동",
+   "t_id": "Aktivitas Nelayan Ternate di Tengah Rencana Modernisasi Armada Perikanan"
   },
   {
    "ts": "2026-09-20T22:07:00+07:00",
@@ -23049,7 +23048,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 3075,
+  "pc_age_min": 3134,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23081,20 +23080,6 @@
    "srcs": 1,
    "t_ko": "CPO 가격은 경쟁사 원유에 비해 일주일에 1.74% 상승합니다.",
    "t_id": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing"
-  },
-  {
-   "ts": "2026-09-20T08:30:00+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Bloomberg Technoz",
-   "t": "OJK Resmi Cabut Izin Usaha BPR Pasaraya Kuta",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122121/ojk-resmi-cabut-izin-usaha-bpr-pasaraya-kuta",
-   "img": "https://images.bloombergtechnoz.com/data/2023/01/image-20230127143426.jpg",
-   "score": 406.05,
-   "srcs": 1,
-   "t_ko": "OJK, 공식적으로 BPR Pasaraya Kuta 사업 허가 취소",
-   "t_id": "OJK Resmi Cabut Izin Usaha BPR Pasaraya Kuta"
   },
   {
    "ts": "2026-09-20T17:20:40+07:00",
@@ -23138,6 +23123,21 @@
    "srcs": 2,
    "t_ko": "월스트리트는 차입 비용이 상승함에 따라 미국이 약 1조 달러의 단기 부채를 발행할 것으로 예상합니다.",
    "t_id": "Wall Street memperkirakan AS akan menerbitkan utang jangka pendek sekitar $1 triliun karena biaya pinjaman meningkat"
+  },
+  {
+   "ts": "2026-09-20T15:35:04+07:00",
+   "date": "2026-09-20",
+   "time": "09/20",
+   "src": "Liputan6",
+   "t": "Harga Minyak dan Suku Bunga The Fed Jadi Sorotan Pekan Ini",
+   "tags": [],
+   "url": "https://www.liputan6.com/saham/read/8295401/harga-minyak-dan-suku-bunga-the-fed-jadi-sorotan-pekan-ini",
+   "g": 1,
+   "img": "https://cdn0-production-images-kly.akamaized.net/-9nEgaWQYCDXKCXLP0wObCfZxwI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4216934/original/094233100_1667793288-Wall-Street-3.jpg",
+   "score": 309.5,
+   "srcs": 2,
+   "t_ko": "이번 주에는 유가와 연준 금리가 주목을 받고 있습니다.",
+   "t_id": "Harga Minyak dan Suku Bunga The Fed Jadi Sorotan Pekan Ini"
   }
  ],
  "daylog": {
@@ -23746,6 +23746,24 @@
      "sc": 407.1,
      "slot": "macro",
      "q": 93
+    }
+   ]
+  },
+  "2026-09-21": {
+   "news": [
+    {
+     "t": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+     "ko": "다우존스 선물 만기일: 시장이 비상할 수 있을까요? Robinhood, Sandisk, AMD, Moderna가 구매 영역으로 급증",
+     "id": "Dow Jones Futures Jatuh Tempo: Bisakah Pasar Melaju? Robinhood, Sandisk, AMD, Moderna Melonjak ke Area Pembelian",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "Yahoo Finance",
+     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+     "time": "00:04",
+     "tags": [],
+     "sc": 309.0,
+     "slot": "global",
+     "q": 85
     }
    ]
   }

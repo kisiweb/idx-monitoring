@@ -1,8 +1,8 @@
 {
  "mode": "live",
- "updated": "2026-09-20 06:06",
+ "updated": "2026-09-20 07:07",
  "delay_min": 15,
- "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 06:06 Yahoo",
+ "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 07:07 Yahoo",
  "idr_per_krw": 12.8051,
  "indices": [
   {
@@ -16341,6 +16341,20 @@
  },
  "news": [
   {
+   "ts": "2026-09-20T06:05:46+07:00",
+   "date": "2026-09-20",
+   "time": "06:05",
+   "src": "Liputan6",
+   "t": "Pengendali Emiten WINR Lepas 20,74 Juta Saham, Ini Tujuannya",
+   "tags": [
+    "WINR"
+   ],
+   "url": "https://www.liputan6.com/saham/read/8295299/pengendali-emiten-winr-lepas-2074-juta-saham-ini-tujuannya",
+   "img": "https://cdn0-production-images-kly.akamaized.net/DobzRmJuZ6AtCzudxcUozgUxViU=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4277616/original/049381900_1672400412-Penutupan_Perdagangan_Bursa_Efek_Indonesia_2022-Angga-5.jpg",
+   "t_id": "Pengendali Emiten WINR Lepas 20,74 Juta Saham, Ini Tujuannya",
+   "t_ko": "WINR 발행자 컨트롤러, 2074만 주 발행, 이것이 목표입니다"
+  },
+  {
    "ts": "2026-09-20T02:49:18+07:00",
    "date": "2026-09-20",
    "time": "02:49",
@@ -16526,20 +16540,6 @@
    "t_id": "SOFA Siapkan Pendanaan Rp131 Miliar untuk Proyek WTE hingga 2028"
   },
   {
-   "ts": "2026-09-19T11:30:00+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "IDX Channel",
-   "t": "SILO Investasi Teknologi Medis, AI dan Robotik Disebut Tak Gantikan Peran Dokter",
-   "tags": [
-    "SILO"
-   ],
-   "url": "https://www.idxchannel.com/market-news/silo-investasi-teknologi-medis-ai-dan-robotik-disebut-tak-gantikan-peran-dokter",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/19/85504.jpg",
-   "t_ko": "의료 기술, AI 및 로봇공학에 대한 SILO 투자는 의사의 역할을 대체하지 못한다고 합니다.",
-   "t_id": "SILO Investasi Teknologi Medis, AI dan Robotik Disebut Tak Gantikan Peran Dokter"
-  },
-  {
    "ts": "2026-09-19T10:40:07+07:00",
    "date": "2026-09-19",
    "time": "09/19",
@@ -16566,20 +16566,6 @@
    "img": "https://cdn0-production-images-kly.akamaized.net/kzzBGSTmGmANzJZhAXRiTDWCZPQ=/488x0:3309x1589/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-gray-landscape-new.png,573,20,0)/kly-media-production/medias/1040537/original/091207600_1446442504-20151102-IHSG-Masih-Berkutat-di-Zona-Merah-Jakarta4.jpg",
    "t_ko": "SILO 발행자는 14개 병원 회사를 인수할 예정",
    "t_id": "Emiten SILO Bakal Akuisisi 14 Perusahaan Rumah Sakit"
-  },
-  {
-   "ts": "2026-09-18T22:07:00+07:00",
-   "date": "2026-09-18",
-   "time": "09/18",
-   "src": "Katadata",
-   "t": "ATR Angkat Bicara Soal Kasus Dugaan Suap Summarecon, Singgung Blokir HGB",
-   "tags": [
-    "SMRA"
-   ],
-   "url": "https://katadata.co.id/berita/nasional/6aad53f36cdfd/atr-angkat-bicara-soal-kasus-dugaan-suap-summarecon-singgung-blokir-hgb",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/17/2026_09_17-18_56_00_cd84b82c-b296-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
-   "t_ko": "ATR, 수마레콘 부정 청탁 의혹에 HGB 차단 언급하며 입장 표명",
-   "t_id": "ATR Angkat Bicara Soal Kasus Dugaan Suap Summarecon, Singgung Blokir HGB"
   },
   {
    "ts": "2026-09-18T21:40:00+07:00",
@@ -17057,6 +17043,67 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-20T06:30:59+07:00",
+   "date": "2026-09-20",
+   "time": "06:30",
+   "src": "Detik",
+   "t": "PTDI Bocorkan Rencana Bikin Ambulans Udara",
+   "tags": [],
+   "url": "https://finance.detik.com/industri/d-8670423/ptdi-bocorkan-rencana-bikin-ambulans-udara",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/19/vp-business-development-marketing-ptdi-heber-m-f-panjaitan-1789800882570_169.jpeg?w=360&q=90",
+   "t_ko": "PTDI, 항공 구급차 구축 계획 유출",
+   "t_id": "PTDI Bocorkan Rencana Bikin Ambulans Udara"
+  },
+  {
+   "ts": "2026-09-20T06:14:01+07:00",
+   "date": "2026-09-20",
+   "time": "06:14",
+   "src": "Republika",
+   "t": "Kinerja Pasar Saham Bergerak Dinamis Sepekan Terakhir, IHSG Ditutup di Level 6.441",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlmwjd423/kinerja-pasar-saham-bergerak-dinamis-sepekan-terakhir-ihsg-ditutup-di-level-6441",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/019216500-1785491438-830-556.jpg",
+   "t_id": "Kinerja Pasar Saham Bergerak Dinamis Sepekan Terakhir, IHSG Ditutup di Level 6.441",
+   "t_ko": "지난주 주식시장 실적은 역동적으로 움직였으며 JCI는 6,441 수준으로 마감했습니다."
+  },
+  {
+   "ts": "2026-09-20T06:00:00+07:00",
+   "date": "2026-09-20",
+   "time": "06:00",
+   "src": "Yahoo Finance",
+   "t": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
+   "tags": [],
+   "url": "https://finance.yahoo.com/energy/articles/energy-giants-betting-billions-world-230000196.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/oilprice.com/9912c6e4d9f1c17dbca0523bfb2ebb19.jpg",
+   "t_ko": "에너지 거대 기업은 더 긴 석유 경로의 세계에 수십억 달러를 투자하고 있습니다",
+   "t_id": "Raksasa Energi Mempertaruhkan Miliaran Dolar pada Dunia dengan Jalur Minyak yang Lebih Panjang"
+  },
+  {
+   "ts": "2026-09-20T06:00:00+07:00",
+   "date": "2026-09-20",
+   "time": "06:00",
+   "src": "IDX Channel",
+   "t": "IHSG Pekan Depan Masih Rawan Terkoreksi Uji 6.290-6.370",
+   "tags": [],
+   "url": "https://www.idxchannel.com/market-news/ihsg-pekan-depan-masih-rawan-terkoreksi-uji-6290-6370",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/12/Papan_IHSG_-_9_Sept_26__-.jpeg",
+   "t_ko": "다음 주 IHSG는 여전히 6,290-6,370 테스트로 조정될 가능성이 높습니다.",
+   "t_id": "IHSG Pekan Depan Masih Rawan Terkoreksi Uji 6.290-6.370"
+  },
+  {
+   "ts": "2026-09-20T05:55:12+07:00",
+   "date": "2026-09-20",
+   "time": "05:55",
+   "src": "Detik",
+   "t": "Prabowo Mau RI Bikin Bensin dari Batu Bara",
+   "tags": [],
+   "url": "https://finance.detik.com/energi/d-8670419/prabowo-mau-ri-bikin-bensin-dari-batu-bara",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/19/presiden-prabowo-subianto-1789796654869_169.jpeg?w=360&q=90",
+   "t_id": "Prabowo Mau RI Bikin Bensin dari Batu Bara",
+   "t_ko": "프라보워, RI가 석탄으로 휘발유를 만들길 원해"
+  },
+  {
    "ts": "2026-09-20T05:33:42+07:00",
    "date": "2026-09-20",
    "time": "05:33",
@@ -17067,6 +17114,17 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/16/menteri-keuangan-suahasil-nazara-berjabat-tangan-dengan-pejabat-lama-purbaya-yudhi-sadewa-usai-serah-terima-jabatan-menteri-keuangan-di-kemenkeu-jakarta-selasa-1592026-HZZr7.webp",
    "t_ko": "노조는 세금 및 소비세와 관련해 수아하시실에게 사업 연속성에 주의를 당부했다.",
    "t_id": "Soal Pajak dan Cukai, Serikat Pekerja Minta Suahasil Perhatikan Kelangsungan Usaha"
+  },
+  {
+   "ts": "2026-09-20T05:07:00+07:00",
+   "date": "2026-09-20",
+   "time": "05:07",
+   "src": "Media Indonesia",
+   "t": "Teknologi Water Purifier Terkini Gunakan Reverse Osmosis, dan UV Sterilization",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935348/teknologi-water-purifier-terkini-gunakan-reverse-osmosis-dan-uv-sterilization",
+   "t_id": "Teknologi Water Purifier Terkini Gunakan Reverse Osmosis, dan UV Sterilization",
+   "t_ko": "역삼투압과 UV살균을 이용한 최신 정수기 기술"
   },
   {
    "ts": "2026-09-20T03:13:50+07:00",
@@ -17296,18 +17354,6 @@
    "t_id": "Kanada optimis untuk menyelesaikan pembicaraan perdagangan dengan India pada akhir tahun, kata menteri"
   },
   {
-   "ts": "2026-09-19T23:43:15+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Bloomberg",
-   "t": "Bloomberg This Weekend 09/19/2026",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-19/bloomberg-this-weekend-09-19-2026-video",
-   "g": 1,
-   "t_ko": "블룸버그 이번 주말 2026년 9월 19일",
-   "t_id": "Bloomberg Akhir Pekan Ini 19/09/2026"
-  },
-  {
    "ts": "2026-09-19T23:29:00+07:00",
    "date": "2026-09-19",
    "time": "09/19",
@@ -17435,66 +17481,6 @@
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260919201441-867.png",
    "t_ko": "지역 창작물을 집으로 가져오세요! Blok M Hub에서 펼쳐지는 BRIZZI ARKIV의 신나는 모험",
    "t_id": "Bawa Pulang Karya Lokal! Serunya Petualangan BRIZZI ARKIV di Blok M Hub"
-  },
-  {
-   "ts": "2026-09-19T20:05:46+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Jawa Pos",
-   "t": "Ketahanan Energi Jadi Sorotan, IATMI Dorong Industri Migas Perkuat Produksi",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609190166/ketahanan-energi-jadi-sorotan-iatmi-dorong-industri-migas-perkuat-produksi",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/19/ketua-umum-ikatan-ahli-teknik-perminyakan-indonesia-iatmi-andre-wijanarko-kedua-dari-kanan-nanda-prayogajawaposcom-K8N4V.webp",
-   "t_ko": "에너지 안보가 주목받고 있으며, IATMI는 석유 및 가스 산업의 생산 강화를 장려합니다.",
-   "t_id": "Ketahanan Energi Jadi Sorotan, IATMI Dorong Industri Migas Perkuat Produksi"
-  },
-  {
-   "ts": "2026-09-19T20:05:00+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "IDNFinancials",
-   "t": "Prabowo: Public education should be free",
-   "tags": [],
-   "url": "https://www.idnfinancials.com/news/69108/prabowo-public-education-should-be-free",
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/PRABOWO-20092026.jpg",
-   "t_ko": "프라보워: 공교육은 무료여야 한다",
-   "t_id": "Prabowo: Pendidikan masyarakat harusnya gratis"
-  },
-  {
-   "ts": "2026-09-19T20:00:36+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Detik",
-   "t": "Beli Sepeda Anak di Transmart Full Day Sale Cuma Rp 1 Jutaan",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8669670/beli-sepeda-anak-di-transmart-full-day-sale-cuma-rp-1-jutaan",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/19/transmart-1789786927148.jpeg?w=360&q=90",
-   "t_ko": "Transmart Full Day Sale에서 IDR 1백만에 어린이용 자전거 구입",
-   "t_id": "Beli Sepeda Anak di Transmart Full Day Sale Cuma Rp 1 Jutaan"
-  },
-  {
-   "ts": "2026-09-19T20:00:00+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Bloomberg Technoz",
-   "t": "OJK Berwenang Atur Metodologi Harga Komoditas Icomex",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122115/ojk-berwenang-atur-metodologi-harga-komoditas-icomex",
-   "img": "https://images.bloombergtechnoz.com/data/2025/10/image-20251018131723.jpg",
-   "t_ko": "OJK는 Icomex 상품 가격 책정 방법론을 규제할 권한을 가지고 있습니다.",
-   "t_id": "OJK Berwenang Atur Metodologi Harga Komoditas Icomex"
-  },
-  {
-   "ts": "2026-09-19T19:39:59+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Detik",
-   "t": "LRT Jakarta Tembus Manggarai, Konektivitas Transportasi Makin Terhubung",
-   "tags": [],
-   "url": "https://finance.detik.com/infrastruktur/d-8670338/lrt-jakarta-tembus-manggarai-konektivitas-transportasi-makin-terhubung",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/16/warga-mulai-menjajal-lrt-kelapa-gading-manggarai-1789554576115_169.jpeg?w=360&q=90",
-   "t_ko": "LRT 자카르타 반투명 망가라이(Translucent Manggarai), 교통 연결성 강화",
-   "t_id": "LRT Jakarta Tembus Manggarai, Konektivitas Transportasi Makin Terhubung"
   }
  ],
  "kisi_news": [
@@ -17755,15 +17741,15 @@
   },
   {
    "k": "CPO (MYR/t)",
-   "v": "4,917",
-   "d": 0.68,
-   "ytd": 21.41,
+   "v": "4,898",
+   "d": 0.29,
+   "ytd": 20.94,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/18 nilai terakhir · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
   }
  ],
  "curve": {
@@ -23131,7 +23117,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 1994,
+  "pc_age_min": 2055,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23159,10 +23145,10 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122115/ojk-berwenang-atur-metodologi-harga-komoditas-icomex",
    "img": "https://images.bloombergtechnoz.com/data/2025/10/image-20251018131723.jpg",
-   "t_ko": "OJK는 Icomex 상품 가격 책정 방법론을 규제할 권한을 가지고 있습니다.",
-   "t_id": "OJK Berwenang Atur Metodologi Harga Komoditas Icomex",
    "score": 406.05,
-   "srcs": 1
+   "srcs": 1,
+   "t_ko": "OJK는 Icomex 상품 가격 책정 방법론을 규제할 권한을 가지고 있습니다.",
+   "t_id": "OJK Berwenang Atur Metodologi Harga Komoditas Icomex"
   },
   {
    "ts": "2026-09-19T20:31:18+07:00",
@@ -23765,20 +23751,6 @@
   "2026-09-19": {
    "news": [
     {
-     "t": "Bloomberg This Weekend 09/19/2026",
-     "ko": "블룸버그 이번 주말 2026년 9월 19일",
-     "id": "Bloomberg Akhir Pekan Ini 19/09/2026",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "Bloomberg",
-     "url": "https://www.bloomberg.com/news/videos/2026-09-19/bloomberg-this-weekend-09-19-2026-video",
-     "time": "09/19",
-     "tags": [],
-     "sc": 108.0,
-     "slot": "global",
-     "q": 11
-    },
-    {
      "t": "UBS AG Lepas 1,19 Juta Saham CPIN",
      "ko": "UBS AG, CPIN 주식 119만주 매각",
      "id": "UBS AG Lepas 1,19 Juta Saham CPIN",
@@ -23802,6 +23774,20 @@
      "ai_id": "",
      "src": "Detik",
      "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670322/ini-3-pelanggaran-dari-25-merek-beras-fortifikasi-abal-abal",
+     "time": "09/19",
+     "tags": [],
+     "sc": 409.8,
+     "slot": "macro",
+     "q": 93
+    },
+    {
+     "t": "BEI: Waran Terstruktur Tumbuh Pesat, 679 Seri Terbit hingga September 2026",
+     "ko": "IDX: 구조화된 영장 빠르게 성장, 2026년 9월까지 발행되는 679 시리즈",
+     "id": "BEI: Waran Terstruktur Tumbuh Pesat, 679 Seri Terbit hingga September 2026",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "Media Indonesia",
+     "url": "https://mediaindonesia.com/ekonomi/935333/bei-waran-terstruktur-tumbuh-pesat-679-seri-terbit-hingga-september-2026",
      "time": "09/19",
      "tags": [],
      "sc": 409.8,

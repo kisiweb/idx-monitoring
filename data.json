@@ -1,8 +1,8 @@
 {
  "mode": "live",
- "updated": "2026-09-21 02:05",
+ "updated": "2026-09-21 03:06",
  "delay_min": 15,
- "fx_basis": "12.80 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,386 · 02:05 Yahoo",
+ "fx_basis": "12.80 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,386 · 03:06 Yahoo",
  "idr_per_krw": 12.7999,
  "indices": [
   {
@@ -16909,6 +16909,69 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T02:28:28+07:00",
+   "date": "2026-09-21",
+   "time": "02:28",
+   "src": "Yahoo Finance",
+   "t": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-advanced-192828810.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/470277c333061d051105b57eb74e9761.png",
+   "t_ko": "더 나은 인공지능 주식: Advanced Micro Devices vs. SK Hynix",
+   "t_id": "Stok Kecerdasan Buatan yang Lebih Baik: Perangkat Mikro Tingkat Lanjut vs. SK Hynix"
+  },
+  {
+   "ts": "2026-09-21T02:06:16+07:00",
+   "date": "2026-09-21",
+   "time": "02:06",
+   "src": "CNBC",
+   "t": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
+   "g": 1,
+   "t_ko": "트럼프, 유엔 총회 앞두고 조란 맘다니 뉴욕시장과 회담 예정",
+   "t_id": "Trump akan bertemu dengan Walikota NYC Zohran Mamdani pada hari Senin menjelang Majelis Umum PBB"
+  },
+  {
+   "ts": "2026-09-21T02:00:00+07:00",
+   "date": "2026-09-21",
+   "time": "02:00",
+   "src": "Bloomberg",
+   "t": "Short-Term Treasuries Emerge as Popular Bet on Fed Inflation Win",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-20/short-term-treasuries-emerge-as-popular-bet-on-fed-inflation-win",
+   "g": 1,
+   "t_ko": "단기 국채가 연준 인플레이션 승리에 대한 인기 있는 베팅으로 부상",
+   "t_id": "Treasury Jangka Pendek Muncul sebagai Taruhan Populer pada Kemenangan Inflasi Fed"
+  },
+  {
+   "ts": "2026-09-21T02:00:00+07:00",
+   "date": "2026-09-21",
+   "time": "02:00",
+   "src": "Yahoo Finance",
+   "t": "Hormuz Crisis to Push Global Coal Demand to Record High",
+   "tags": [],
+   "url": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/oilprice.com/c40d2f0db832e9b5a156767e4169b962.jpg",
+   "t_ko": "호르무즈 위기로 인해 전 세계 석탄 수요가 사상 최고치를 기록할 것으로 예상",
+   "t_id": "Krisis Hormuz Mendorong Permintaan Batubara Global Mencapai Rekor Tinggi"
+  },
+  {
+   "ts": "2026-09-21T01:51:54+07:00",
+   "date": "2026-09-21",
+   "time": "01:51",
+   "src": "Yahoo Finance",
+   "t": "Vera Bradley (VRA) Returns to Operating Profit. Can the Recovery Outlast Tariff Refunds?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/fc8a5f90efa431e812d1c677cfd54411.jpg",
+   "t_ko": "Vera Bradley(VRA)가 영업 이익으로 돌아왔습니다. 복구 기간이 관세 환급보다 오래 지속될 수 있습니까?",
+   "t_id": "Vera Bradley (VRA) Kembali ke Laba Operasional. Bisakah Pengembalian Dana Tarif Pemulihan Lebih Lama?"
+  },
+  {
    "ts": "2026-09-21T01:38:42+07:00",
    "date": "2026-09-21",
    "time": "01:38",
@@ -16917,8 +16980,8 @@
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671672/cara-berpikir-bisnis-yang-bikin-keputusanmu-lebih-kalkulatif-bukan-nekat",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/11/detikevent-business-acumen-kpi-1789136658269_169.jpeg?w=360&q=90",
-   "t_id": "Cara Berpikir Bisnis yang Bikin Keputusanmu Lebih Kalkulatif, Bukan Nekat",
-   "t_ko": "무모하지 않고 더욱 계산적인 결정을 내리는 비즈니스 사고 방식"
+   "t_ko": "무모하지 않고 더욱 계산적인 결정을 내리는 비즈니스 사고 방식",
+   "t_id": "Cara Berpikir Bisnis yang Bikin Keputusanmu Lebih Kalkulatif, Bukan Nekat"
   },
   {
    "ts": "2026-09-21T01:37:06+07:00",
@@ -16931,19 +16994,6 @@
    "g": 1,
    "t_ko": "Pimco는 현재의 금리를 좋아한다고 CEO Roman은 말합니다.",
    "t_id": "Pimco Menyukai Tarif Di Mana Mereka Berada, Kata CEO Roman"
-  },
-  {
-   "ts": "2026-09-21T01:35:00+07:00",
-   "date": "2026-09-21",
-   "time": "01:35",
-   "src": "Yahoo Finance",
-   "t": "The World's Top Energy Watchdog Made the Bull Case for AI Power Stocks. Here's the Number That Matters.",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/worlds-top-energy-watchdog-made-183500306.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/02f16fca0c796b5664f62da89e43369f.jpg",
-   "t_ko": "세계 최고의 에너지 감시 기관이 AI 전력 주식에 대한 강세 사례를 만들었습니다. 여기에 중요한 숫자가 있습니다.",
-   "t_id": "Pengawas Energi Terbesar di Dunia Memperjuangkan AI Power Stocks. Inilah Nomor Yang Penting."
   },
   {
    "ts": "2026-09-21T01:26:58+07:00",
@@ -17080,55 +17130,6 @@
    "img": "https://media.zenfs.com/en/thestreet_881/dbd4c9dd671e0107528450a001ff075c.jpg",
    "t_ko": "셰브론 CEO, 유가와 경제에 대한 강력한 메시지 전달",
    "t_id": "CEO Chevron menyampaikan pesan yang kuat mengenai harga minyak dan perekonomian"
-  },
-  {
-   "ts": "2026-09-20T23:20:08+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Yahoo Finance",
-   "t": "Musk Says NVIDIA (NVDA) AI Chips Are Headed to Space With SpaceX (SPCX) Next Year",
-   "tags": [],
-   "url": "https://finance.yahoo.com/technology/ai/articles/musk-says-nvidia-nvda-ai-162008359.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/8bec647e6bfc29095db25f7511aeae30.jpg",
-   "t_ko": "머스크는 엔비디아(NVDA) AI 칩이 내년에 스페이스X(SPCX)와 함께 우주로 향할 것이라고 밝혔습니다.",
-   "t_id": "Musk Mengatakan Chip AI NVIDIA (NVDA) Akan Menuju Luar Angkasa Bersama SpaceX (SPCX) Tahun Depan"
-  },
-  {
-   "ts": "2026-09-20T23:16:53+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Bloomberg",
-   "t": "How India Turned Cricket Into A Billion Dollar Business",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-20/how-india-turned-cricket-into-a-billion-dollar-business-video",
-   "g": 1,
-   "t_ko": "인도가 크리켓을 10억 달러 규모의 사업으로 전환시킨 방법",
-   "t_id": "Bagaimana India Mengubah Kriket Menjadi Bisnis Miliaran Dolar"
-  },
-  {
-   "ts": "2026-09-20T23:15:58+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Bloomberg",
-   "t": "Qatar, Citi and PIMCO on Capital Discipline and Resilience",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-20/qatar-citi-on-capital-discipline-and-resilience-video",
-   "g": 1,
-   "t_ko": "자본 규율 및 탄력성에 관한 카타르, Citi 및 PIMCO",
-   "t_id": "Qatar, Citi dan PIMCO tentang Disiplin dan Ketahanan Modal"
-  },
-  {
-   "ts": "2026-09-20T23:14:24+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Bloomberg",
-   "t": "Why India’s Big Tech Companies Are Betting on Hyderabad",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-20/why-india-s-big-tech-companies-are-betting-on-hyderabad-video",
-   "g": 1,
-   "t_ko": "인도의 거대 기술 기업이 하이데라바드에 투자하는 이유",
-   "t_id": "Mengapa Perusahaan Teknologi Besar India Bertaruh di Hyderabad"
   },
   {
    "ts": "2026-09-20T23:10:32+07:00",
@@ -23047,7 +23048,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 3193,
+  "pc_age_min": 3254,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23095,18 +23096,18 @@
    "t_id": "Bea Cukai Gagalkan Penyelundupan 333,4 Kg Emas hingga September 2026"
   },
   {
-   "ts": "2026-09-20T12:06:00+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Reuters",
-   "t": "US Treasury's Bessent and China's He launch talks on AI, trade and critical minerals",
+   "ts": "2026-09-21T02:00:00+07:00",
+   "date": "2026-09-21",
+   "time": "02:00",
+   "src": "Bloomberg",
+   "t": "Short-Term Treasuries Emerge as Popular Bet on Fed Inflation Win",
    "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
+   "url": "https://www.bloomberg.com/news/articles/2026-09-20/short-term-treasuries-emerge-as-popular-bet-on-fed-inflation-win",
    "g": 1,
-   "score": 313.0,
-   "srcs": 4,
-   "t_ko": "미국 재무부 베센트(Bessent)와 중국 허(He)는 AI, 무역 및 주요 광물에 관한 회담을 시작합니다.",
-   "t_id": "Bessent dari Departemen Keuangan AS dan He dari Tiongkok meluncurkan pembicaraan mengenai AI, perdagangan dan mineral penting"
+   "t_ko": "단기 국채가 연준 인플레이션 승리에 대한 인기 있는 베팅으로 부상",
+   "t_id": "Treasury Jangka Pendek Muncul sebagai Taruhan Populer pada Kemenangan Inflasi Fed",
+   "score": 310.0,
+   "srcs": 2
   },
   {
    "ts": "2026-09-20T22:00:04+07:00",
@@ -23124,19 +23125,19 @@
    "t_id": "Wall Street memperkirakan AS akan menerbitkan utang jangka pendek sekitar $1 triliun karena biaya pinjaman meningkat"
   },
   {
-   "ts": "2026-09-20T15:35:04+07:00",
+   "ts": "2026-09-20T16:30:39+07:00",
    "date": "2026-09-20",
    "time": "09/20",
-   "src": "Liputan6",
-   "t": "Harga Minyak dan Suku Bunga The Fed Jadi Sorotan Pekan Ini",
+   "src": "Detik",
+   "t": "Bursa Kripto Iran Kena Sanksi AS, Danai IRGC-Pungut Tarif Selat Hormuz",
    "tags": [],
-   "url": "https://www.liputan6.com/saham/read/8295401/harga-minyak-dan-suku-bunga-the-fed-jadi-sorotan-pekan-ini",
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671092/bursa-kripto-iran-kena-sanksi-as-danai-irgc-pungut-tarif-selat-hormuz",
    "g": 1,
-   "img": "https://cdn0-production-images-kly.akamaized.net/-9nEgaWQYCDXKCXLP0wObCfZxwI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4216934/original/094233100_1667793288-Wall-Street-3.jpg",
-   "score": 309.5,
-   "srcs": 2,
-   "t_ko": "이번 주에는 유가와 연준 금리가 주목을 받고 있습니다.",
-   "t_id": "Harga Minyak dan Suku Bunga The Fed Jadi Sorotan Pekan Ini"
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/02/di-bawah-bayang-bayang-trump-ketegangan-iran-as-kembali-memanas-1788341706357_169.jpeg?w=360&q=90",
+   "score": 307.5,
+   "srcs": 1,
+   "t_ko": "미국 제재 대상 이란 암호화폐 거래소, IRGC 자금 지원 - 호르무즈 해협에 부과금 관세",
+   "t_id": "Bursa Kripto Iran Kena Sanksi AS, Danai IRGC-Pungut Tarif Selat Hormuz"
   }
  ],
  "daylog": {
@@ -23703,16 +23704,16 @@
   "2026-09-20": {
    "news": [
     {
-     "t": "US Treasury's Bessent and China's He launch talks on AI, trade and critical minerals",
-     "ko": "미국 재무부 베센트(Bessent)와 중국 허(He)는 AI, 무역 및 주요 광물에 관한 회담을 시작합니다.",
-     "id": "Bessent dari Departemen Keuangan AS dan He dari Tiongkok meluncurkan pembicaraan mengenai AI, perdagangan dan mineral penting",
+     "t": "Chevron CEO sends a strong message on oil price and the economy",
+     "ko": "셰브론 CEO, 유가와 경제에 대한 강력한 메시지 전달",
+     "id": "CEO Chevron menyampaikan pesan yang kuat mengenai harga minyak dan perekonomian",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
+     "src": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
      "time": "09/20",
      "tags": [],
-     "sc": 313.0,
+     "sc": 309.0,
      "slot": "global",
      "q": 85
     },
@@ -23733,34 +23734,34 @@
      "q": 59
     },
     {
-     "t": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
-     "ko": "CPO 가격은 경쟁사 원유에 비해 일주일에 1.74% 상승합니다.",
-     "id": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
+     "t": "Bea Cukai Gagalkan Penyelundupan 333,4 Kg Emas hingga September 2026",
+     "ko": "세관, 2026년 9월까지 333.4kg의 금 밀수입 실패",
+     "id": "Bea Cukai Gagalkan Penyelundupan 333,4 Kg Emas hingga September 2026",
      "ai_ko": "",
      "ai_id": "",
-     "src": "IDX Channel",
-     "url": "https://www.idxchannel.com/market-news/harga-cpo-naik-174-persen-sepekan-dibayangi-minyak-pesaing",
+     "src": "Jawa Pos",
+     "url": "https://www.jawapos.com/ekonomi/2609200164/bea-cukai-gagalkan-penyelundupan-3334-kg-emas-hingga-september-2026",
      "time": "09/20",
      "tags": [],
-     "sc": 407.1,
+     "sc": 405.9,
      "slot": "macro",
-     "q": 93
+     "q": 92
     }
    ]
   },
   "2026-09-21": {
    "news": [
     {
-     "t": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-     "ko": "다우존스 선물 만기일: 시장이 비상할 수 있을까요? Robinhood, Sandisk, AMD, Moderna가 구매 영역으로 급증",
-     "id": "Dow Jones Futures Jatuh Tempo: Bisakah Pasar Melaju? Robinhood, Sandisk, AMD, Moderna Melonjak ke Area Pembelian",
+     "t": "Short-Term Treasuries Emerge as Popular Bet on Fed Inflation Win",
+     "ko": "단기 국채가 연준 인플레이션 승리에 대한 인기 있는 베팅으로 부상",
+     "id": "Treasury Jangka Pendek Muncul sebagai Taruhan Populer pada Kemenangan Inflasi Fed",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Yahoo Finance",
-     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-     "time": "00:04",
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-20/short-term-treasuries-emerge-as-popular-bet-on-fed-inflation-win",
+     "time": "02:00",
      "tags": [],
-     "sc": 309.0,
+     "sc": 310.0,
      "slot": "global",
      "q": 85
     },
@@ -23779,14 +23780,14 @@
      "q": 48
     },
     {
-     "t": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
-     "ko": "Fed의 Kashkari는 Fox News 인터뷰에서 미국 경제의 '모든 측면'에서 인플레이션이 여전히 너무 높다고 말했습니다.",
-     "id": "Kashkari dari Fed mengatakan inflasi masih terlalu tinggi di 'semua aspek' perekonomian AS, dalam wawancara dengan Fox News",
+     "t": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+     "ko": "다우존스 선물 만기일: 시장이 비상할 수 있을까요? Robinhood, Sandisk, AMD, Moderna가 구매 영역으로 급증",
+     "id": "Dow Jones Futures Jatuh Tempo: Bisakah Pasar Melaju? Robinhood, Sandisk, AMD, Moderna Melonjak ke Area Pembelian",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
-     "time": "00:09",
+     "src": "Yahoo Finance",
+     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
+     "time": "00:04",
      "tags": [],
      "sc": 309.0,
      "slot": "global",

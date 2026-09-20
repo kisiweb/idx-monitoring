@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 03:06",
+ "updated": "2026-09-21 04:06",
  "delay_min": 15,
- "fx_basis": "12.80 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,386 · 03:06 Yahoo",
- "idr_per_krw": 12.7999,
+ "fx_basis": "12.80 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,386 · 04:06 Yahoo",
+ "idr_per_krw": 12.8022,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16333,6 +16333,18 @@
  },
  "news": [
   {
+   "ts": "2026-09-21T04:00:00+07:00",
+   "date": "2026-09-21",
+   "time": "04:00",
+   "src": "IDX Channel",
+   "t": "ADHI Masuk Tahap Implementasi Restrukturisasi Lewat Penandatanganan MRA",
+   "tags": [
+    "ADHI"
+   ],
+   "url": "https://www.idxchannel.com/market-news/adhi-masuk-tahap-implementasi-restrukturisasi-lewat-penandatanganan-mra",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/20/MRA_ADHI.jpg"
+  },
+  {
    "ts": "2026-09-20T21:46:00+07:00",
    "date": "2026-09-20",
    "time": "09/20",
@@ -16909,17 +16921,38 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T02:28:28+07:00",
+   "ts": "2026-09-21T04:00:52+07:00",
    "date": "2026-09-21",
-   "time": "02:28",
-   "src": "Yahoo Finance",
-   "t": "Better Artificial Intelligence Stock: Advanced Micro Devices vs. SK Hynix",
+   "time": "04:00",
+   "src": "Jawa Pos",
+   "t": "BPKN Ungkap Temuan Beras Fortifikasi Tidak Standar Sejak 2025, Dorong Wajib SNI",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/better-artificial-intelligence-stock-advanced-192828810.html",
+   "url": "https://www.jawapos.com/ekonomi/2609200352/bpkn-ungkap-temuan-beras-fortifikasi-tidak-standar-sejak-2025-dorong-wajib-sni",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/08/08/badan-pangan-nasional-bapanas-menemukan-ketidaksesuaian-kandungan-gizi-beras-fortifikasi-pada-sampel-hingga-80-persen-istimewa-zWo6j.webp",
+   "t_ko": "BPKN은 2025년 이후 비표준 강화 쌀에 대한 조사 결과를 공개하고 SNI 의무화를 추진합니다.",
+   "t_id": "BPKN Ungkap Temuan Beras Fortifikasi Tidak Standar Sejak 2025, Dorong Wajib SNI"
+  },
+  {
+   "ts": "2026-09-21T04:00:01+07:00",
+   "date": "2026-09-21",
+   "time": "04:00",
+   "src": "Bloomberg",
+   "t": "AI Boom Is Making Diversifying Investments Tough for Wall Street",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T04:00:00+07:00",
+   "date": "2026-09-21",
+   "time": "04:00",
+   "src": "IDX Channel",
+   "t": "Harga Emas Diproyeksi Tembus Rp2.820.000 per Gram Pekan Ini",
+   "tags": [],
+   "url": "https://www.idxchannel.com/market-news/harga-emas-diproyeksi-tembus-rp2820000-per-gram-pekan-ini",
    "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/470277c333061d051105b57eb74e9761.png",
-   "t_ko": "더 나은 인공지능 주식: Advanced Micro Devices vs. SK Hynix",
-   "t_id": "Stok Kecerdasan Buatan yang Lebih Baik: Perangkat Mikro Tingkat Lanjut vs. SK Hynix"
+   "img": "https://img.idxchannel.com/media/439/images/idx/2023/10/26/Rincian_Harga_Emas_Antam_Hari_Ini.jpg",
+   "t_id": "Harga Emas Diproyeksi Tembus Rp2.820.000 per Gram Pekan Ini"
   },
   {
    "ts": "2026-09-21T02:06:16+07:00",
@@ -17043,19 +17076,6 @@
    "img": "https://media.zenfs.com/en/insidermonkey.com/f6f18df7e04f888daf0ae422c87dabbc.jpg",
    "t_ko": "Sempra(SRE)가 20년 LNG 계약을 추가합니다. 얼마나 많은 상업적 위험을 제거합니까?",
    "t_id": "Sempra (SRE) Tambah Perjanjian LNG 20 Tahun. Berapa Besar Risiko Komersial yang Dapat Dihilangkan?"
-  },
-  {
-   "ts": "2026-09-21T00:15:05+07:00",
-   "date": "2026-09-21",
-   "time": "00:15",
-   "src": "FT",
-   "t": "A UN gathering notable for its absences",
-   "tags": [],
-   "url": "https://www.ft.com/content/66623b14-f679-48ad-85a5-5d75f1cc8c17?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa42b17b5-333d-4bcf-8850-6e10e8eb1e3a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "결석으로 주목받는 UN 회의",
-   "t_id": "Pertemuan PBB yang terkenal karena ketidakhadirannya"
   },
   {
    "ts": "2026-09-21T00:09:32+07:00",
@@ -17259,18 +17279,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2024/10/28/penampakan-pltp-berdampingan-dengan-kebun-wortel-di-banjarnegara_169.jpeg?w=360&q=90",
    "t_ko": "Mount Ungaran PLTP가 건설되기를 원합니다. 단계는 다음과 같습니다.",
    "t_id": "PLTP Gunung Ungaran Mau Dibangun, Begini Tahapannya"
-  },
-  {
-   "ts": "2026-09-20T21:00:52+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Jawa Pos",
-   "t": "BPKN Ungkap Temuan Beras Fortifikasi Tidak Standar Sejak 2025, Dorong Wajib SNI",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609200352/bpkn-ungkap-temuan-beras-fortifikasi-tidak-standar-sejak-2025-dorong-wajib-sni",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/08/08/badan-pangan-nasional-bapanas-menemukan-ketidaksesuaian-kandungan-gizi-beras-fortifikasi-pada-sampel-hingga-80-persen-istimewa-zWo6j.webp",
-   "t_ko": "BPKN은 2025년 이후 비표준 강화 쌀에 대한 조사 결과를 공개하고 SNI 의무화를 추진합니다.",
-   "t_id": "BPKN Ungkap Temuan Beras Fortifikasi Tidak Standar Sejak 2025, Dorong Wajib SNI"
   },
   {
    "ts": "2026-09-20T20:30:32+07:00",
@@ -23048,7 +23056,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 3254,
+  "pc_age_min": 3314,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23110,6 +23118,18 @@
    "srcs": 2
   },
   {
+   "ts": "2026-09-21T04:00:01+07:00",
+   "date": "2026-09-21",
+   "time": "04:00",
+   "src": "Bloomberg",
+   "t": "AI Boom Is Making Diversifying Investments Tough for Wall Street",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
+   "g": 1,
+   "score": 308.0,
+   "srcs": 2
+  },
+  {
    "ts": "2026-09-20T22:00:04+07:00",
    "date": "2026-09-20",
    "time": "09/20",
@@ -23119,25 +23139,10 @@
    "url": "https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8?syn-25a6b1a6=1",
    "g": 1,
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb78f17ae-0eda-41c8-be78-7955c5617dff.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "score": 309.5,
-   "srcs": 2,
-   "t_ko": "월스트리트는 차입 비용이 상승함에 따라 미국이 약 1조 달러의 단기 부채를 발행할 것으로 예상합니다.",
-   "t_id": "Wall Street memperkirakan AS akan menerbitkan utang jangka pendek sekitar $1 triliun karena biaya pinjaman meningkat"
-  },
-  {
-   "ts": "2026-09-20T16:30:39+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Detik",
-   "t": "Bursa Kripto Iran Kena Sanksi AS, Danai IRGC-Pungut Tarif Selat Hormuz",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671092/bursa-kripto-iran-kena-sanksi-as-danai-irgc-pungut-tarif-selat-hormuz",
-   "g": 1,
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/02/di-bawah-bayang-bayang-trump-ketegangan-iran-as-kembali-memanas-1788341706357_169.jpeg?w=360&q=90",
    "score": 307.5,
    "srcs": 1,
-   "t_ko": "미국 제재 대상 이란 암호화폐 거래소, IRGC 자금 지원 - 호르무즈 해협에 부과금 관세",
-   "t_id": "Bursa Kripto Iran Kena Sanksi AS, Danai IRGC-Pungut Tarif Selat Hormuz"
+   "t_ko": "월스트리트는 차입 비용이 상승함에 따라 미국이 약 1조 달러의 단기 부채를 발행할 것으로 예상합니다.",
+   "t_id": "Wall Street memperkirakan AS akan menerbitkan utang jangka pendek sekitar $1 triliun karena biaya pinjaman meningkat"
   }
  ],
  "daylog": {

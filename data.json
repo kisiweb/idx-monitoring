@@ -1,8 +1,8 @@
 {
  "mode": "live",
- "updated": "2026-09-21 01:06",
+ "updated": "2026-09-21 02:05",
  "delay_min": 15,
- "fx_basis": "12.80 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,386 · 01:06 Yahoo",
+ "fx_basis": "12.80 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,386 · 02:05 Yahoo",
  "idr_per_krw": 12.7999,
  "indices": [
   {
@@ -16909,6 +16909,55 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T01:38:42+07:00",
+   "date": "2026-09-21",
+   "time": "01:38",
+   "src": "Detik",
+   "t": "Cara Berpikir Bisnis yang Bikin Keputusanmu Lebih Kalkulatif, Bukan Nekat",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671672/cara-berpikir-bisnis-yang-bikin-keputusanmu-lebih-kalkulatif-bukan-nekat",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/11/detikevent-business-acumen-kpi-1789136658269_169.jpeg?w=360&q=90",
+   "t_id": "Cara Berpikir Bisnis yang Bikin Keputusanmu Lebih Kalkulatif, Bukan Nekat",
+   "t_ko": "무모하지 않고 더욱 계산적인 결정을 내리는 비즈니스 사고 방식"
+  },
+  {
+   "ts": "2026-09-21T01:37:06+07:00",
+   "date": "2026-09-21",
+   "time": "01:37",
+   "src": "Bloomberg",
+   "t": "Pimco Likes Rates Where They Are, CEO Roman Says",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-20/pimco-likes-rates-where-they-are-ceo-roman-says-video",
+   "g": 1,
+   "t_ko": "Pimco는 현재의 금리를 좋아한다고 CEO Roman은 말합니다.",
+   "t_id": "Pimco Menyukai Tarif Di Mana Mereka Berada, Kata CEO Roman"
+  },
+  {
+   "ts": "2026-09-21T01:35:00+07:00",
+   "date": "2026-09-21",
+   "time": "01:35",
+   "src": "Yahoo Finance",
+   "t": "The World's Top Energy Watchdog Made the Bull Case for AI Power Stocks. Here's the Number That Matters.",
+   "tags": [],
+   "url": "https://finance.yahoo.com/energy/articles/worlds-top-energy-watchdog-made-183500306.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/02f16fca0c796b5664f62da89e43369f.jpg",
+   "t_ko": "세계 최고의 에너지 감시 기관이 AI 전력 주식에 대한 강세 사례를 만들었습니다. 여기에 중요한 숫자가 있습니다.",
+   "t_id": "Pengawas Energi Terbesar di Dunia Memperjuangkan AI Power Stocks. Inilah Nomor Yang Penting."
+  },
+  {
+   "ts": "2026-09-21T01:26:58+07:00",
+   "date": "2026-09-21",
+   "time": "01:26",
+   "src": "Jawa Pos",
+   "t": "Road to Pertamina Eco RunFest 2026: Mengajak Masyarakat Wujudkan Aksi Nyata Jaga Lingkungan",
+   "tags": [],
+   "url": "https://www.jawapos.com/energi/2609200347/road-to-pertamina-eco-runfest-2026-mengajak-masyarakat-wujudkan-aksi-nyata-jaga-lingkungan",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/20/kegiatan-plogging-mission-atau-angkut-sampah-plastik-dilakukan-bersama-perwakilan-siswa-dari-10-sekolah-di-dki-jakarta-dok-pertamina-ulHQD.webp",
+   "t_ko": "Pertamina Eco RunFest 2026으로 가는 길: 지역 사회가 환경 보호를 위한 실질적인 조치를 취하도록 초대",
+   "t_id": "Road to Pertamina Eco RunFest 2026: Mengajak Masyarakat Wujudkan Aksi Nyata Jaga Lingkungan"
+  },
+  {
    "ts": "2026-09-21T00:49:18+07:00",
    "date": "2026-09-21",
    "time": "00:49",
@@ -16946,43 +16995,29 @@
    "t_id": "Sempra (SRE) Tambah Perjanjian LNG 20 Tahun. Berapa Besar Risiko Komersial yang Dapat Dihilangkan?"
   },
   {
-   "ts": "2026-09-21T00:33:00+07:00",
+   "ts": "2026-09-21T00:15:05+07:00",
    "date": "2026-09-21",
-   "time": "00:33",
-   "src": "Yahoo Finance",
-   "t": "Nvidia CEO has a blunt message for Americans fearing AI",
+   "time": "00:15",
+   "src": "FT",
+   "t": "A UN gathering notable for its absences",
    "tags": [],
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-blunt-message-americans-173300093.html",
+   "url": "https://www.ft.com/content/66623b14-f679-48ad-85a5-5d75f1cc8c17?syn-25a6b1a6=1",
    "g": 1,
-   "img": "https://media.zenfs.com/en/thestreet_881/5d410d1bc80618c2311947be3b0cc5d4.jpg",
-   "t_ko": "Nvidia CEO는 AI를 두려워하는 미국인들에게 직설적인 메시지를 전했습니다.",
-   "t_id": "CEO Nvidia memiliki pesan yang jelas kepada orang Amerika yang takut akan AI"
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa42b17b5-333d-4bcf-8850-6e10e8eb1e3a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "결석으로 주목받는 UN 회의",
+   "t_id": "Pertemuan PBB yang terkenal karena ketidakhadirannya"
   },
   {
-   "ts": "2026-09-21T00:29:09+07:00",
+   "ts": "2026-09-21T00:09:32+07:00",
    "date": "2026-09-21",
-   "time": "00:29",
-   "src": "Yahoo Finance",
-   "t": "Eos Energy Enterprises vs. GE Vernova: Which Stock Is a Better Buy in 2026?",
+   "time": "00:09",
+   "src": "Reuters",
+   "t": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/eos-energy-enterprises-vs-ge-172909972.html",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
    "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/f7a65c96d166faf21aac2b3268722093.png",
-   "t_ko": "Eos Energy Enterprises vs. GE Vernova: 2026년에는 어느 주식을 사는 것이 더 낫습니까?",
-   "t_id": "Eos Energy Enterprises vs. GE Vernova: Saham Mana yang Lebih Baik Dibeli di Tahun 2026?"
-  },
-  {
-   "ts": "2026-09-21T00:23:00+07:00",
-   "date": "2026-09-21",
-   "time": "00:23",
-   "src": "Yahoo Finance",
-   "t": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-dumps-alphabet-172300077.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/a29e301b4a006e2987a79532ec27d9ae.jpg",
-   "t_ko": "억만장자 빌 애크먼(Bill Ackman)은 알파벳을 버리고 최고가보다 15% 하락한 메가캡 주식을 모았다.",
-   "t_id": "Miliarder Bill Ackman Membuang Alfabet dan Menambah Saham Mega-Cap Turun 15% Dari Puncaknya"
+   "t_ko": "Fed의 Kashkari는 Fox News 인터뷰에서 미국 경제의 '모든 측면'에서 인플레이션이 여전히 너무 높다고 말했습니다.",
+   "t_id": "Kashkari dari Fed mengatakan inflasi masih terlalu tinggi di 'semua aspek' perekonomian AS, dalam wawancara dengan Fox News"
   },
   {
    "ts": "2026-09-21T00:09:18+07:00",
@@ -16995,19 +17030,6 @@
    "g": 1,
    "t_ko": "글로벌 경제 전망에 관한 IMF MD",
    "t_id": "IMF MD tentang Outlook Ekonomi Global"
-  },
-  {
-   "ts": "2026-09-21T00:07:00+07:00",
-   "date": "2026-09-21",
-   "time": "00:07",
-   "src": "Yahoo Finance",
-   "t": "A seven-year standoff over Venezuelan gold nears its end",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/commodities/articles/seven-standoff-over-venezuelan-gold-170700066.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/thestreet_881/76faa29aef4caedec4b609d3fb94b2d6.jpg",
-   "t_ko": "베네수엘라 금을 둘러싸고 7년간의 대립이 거의 끝났다",
-   "t_id": "Kebuntuan selama tujuh tahun terkait emas Venezuela hampir berakhir"
   },
   {
    "ts": "2026-09-21T00:04:35+07:00",
@@ -17047,6 +17069,19 @@
    "t_id": "Bessent bertemu Wakil Perdana Menteri Tiongkok He Lifeng menjelang KTT Trump-Xi"
   },
   {
+   "ts": "2026-09-20T23:47:00+07:00",
+   "date": "2026-09-20",
+   "time": "09/20",
+   "src": "Yahoo Finance",
+   "t": "Chevron CEO sends a strong message on oil price and the economy",
+   "tags": [],
+   "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/thestreet_881/dbd4c9dd671e0107528450a001ff075c.jpg",
+   "t_ko": "셰브론 CEO, 유가와 경제에 대한 강력한 메시지 전달",
+   "t_id": "CEO Chevron menyampaikan pesan yang kuat mengenai harga minyak dan perekonomian"
+  },
+  {
    "ts": "2026-09-20T23:20:08+07:00",
    "date": "2026-09-20",
    "time": "09/20",
@@ -17076,12 +17111,12 @@
    "date": "2026-09-20",
    "time": "09/20",
    "src": "Bloomberg",
-   "t": "Qatar, Citi on Capital Discipline and Resilience",
+   "t": "Qatar, Citi and PIMCO on Capital Discipline and Resilience",
    "tags": [],
    "url": "https://www.bloomberg.com/news/videos/2026-09-20/qatar-citi-on-capital-discipline-and-resilience-video",
    "g": 1,
-   "t_ko": "자본 규율 및 탄력성에 관한 카타르, Citi",
-   "t_id": "Qatar, Citi tentang Disiplin dan Ketahanan Modal"
+   "t_ko": "자본 규율 및 탄력성에 관한 카타르, Citi 및 PIMCO",
+   "t_id": "Qatar, Citi dan PIMCO tentang Disiplin dan Ketahanan Modal"
   },
   {
    "ts": "2026-09-20T23:14:24+07:00",
@@ -17106,18 +17141,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/20/ketua-pp-muhammadiyah-prof-muhadjir-effendy-bersama-para-ketua-dan-perwakilan-pimpinan-wilayah-muhammadiyah-pwm-se-sumatera-di-bukittinggi-sumatera-barat-sabtu-2092026-aYnDM.webp",
    "t_ko": "Muhadjir, Muhammadiyah의 경제적 독립 전략과 비즈니스 네트워크 잠재력 공개",
    "t_id": "Muhadjir Ungkap Strategi Kemandirian Ekonomi Muhammadiyah dan Potensi Jejaring Bisnis"
-  },
-  {
-   "ts": "2026-09-20T23:03:48+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Bloomberg",
-   "t": "Qatar Says LNG Damage May Take Years to Repair",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-20/qatar-says-lng-damage-may-take-years-to-repair-video",
-   "g": 1,
-   "t_ko": "카타르는 LNG 손상을 복구하는 데 수년이 걸릴 수 있다고 말합니다",
-   "t_id": "Qatar Mengatakan Kerusakan LNG Mungkin Membutuhkan Waktu Bertahun-tahun untuk Memperbaikinya"
   },
   {
    "ts": "2026-09-20T22:30:35+07:00",
@@ -17319,30 +17342,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/06/04/ihsg-terpuruk-kekhawatiran-pasar-meningkat-1780558039793_169.jpeg?w=360&q=90",
    "t_ko": "베트남 증권거래소는 업그레이드를 원하며 외국 자본 흐름은 IDR 106 T에 도달할 것으로 예상됩니다",
    "t_id": "Bursa Vietnam Mau Naik Kelas, Arus Modal Asing Diperkirakan Tembus Rp 106 T"
-  },
-  {
-   "ts": "2026-09-20T18:26:58+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Jawa Pos",
-   "t": "Road to Pertamina Eco RunFest 2026: Mengajak Masyarakat Wujudkan Aksi Nyata Jaga Lingkungan",
-   "tags": [],
-   "url": "https://www.jawapos.com/energi/2609200347/road-to-pertamina-eco-runfest-2026-mengajak-masyarakat-wujudkan-aksi-nyata-jaga-lingkungan",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/20/kegiatan-plogging-mission-atau-angkut-sampah-plastik-dilakukan-bersama-perwakilan-siswa-dari-10-sekolah-di-dki-jakarta-dok-pertamina-ulHQD.webp",
-   "t_ko": "Pertamina Eco RunFest 2026으로 가는 길: 지역 사회가 환경 보호를 위한 실질적인 조치를 취하도록 초대",
-   "t_id": "Road to Pertamina Eco RunFest 2026: Mengajak Masyarakat Wujudkan Aksi Nyata Jaga Lingkungan"
-  },
-  {
-   "ts": "2026-09-20T18:04:48+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Jawa Pos",
-   "t": "Tak Lagi jadi Menkeu, Momen Purbaya Makan Bakso Berdua Istri dan Kembali Nyetir Sendiri",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609200209/tak-lagi-jadi-menkeu-momen-purbaya-makan-bakso-berdua-istri-dan-kembali-nyetir-sendiri",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/16/pejabat-lama-purbaya-yudhi-sadewa-usai-serah-terima-jabatan-menteri-keuangan-di-kemenkeu-jakarta-selasa-1592026-tLpbQ.webp",
-   "t_ko": "더 이상 재무부 장관이 아니다, 아내와 함께 미트볼을 먹고 혼자 운전에 복귀한 푸르바야의 순간",
-   "t_id": "Tak Lagi jadi Menkeu, Momen Purbaya Makan Bakso Berdua Istri dan Kembali Nyetir Sendiri"
   }
  ],
  "kisi_news": [
@@ -23048,7 +23047,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 3134,
+  "pc_age_min": 3193,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23760,6 +23759,34 @@
      "src": "Yahoo Finance",
      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
      "time": "00:04",
+     "tags": [],
+     "sc": 309.0,
+     "slot": "global",
+     "q": 85
+    },
+    {
+     "t": "Cara Berpikir Bisnis yang Bikin Keputusanmu Lebih Kalkulatif, Bukan Nekat",
+     "ko": "무모하지 않고 더욱 계산적인 결정을 내리는 비즈니스 사고 방식",
+     "id": "Cara Berpikir Bisnis yang Bikin Keputusanmu Lebih Kalkulatif, Bukan Nekat",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "Detik",
+     "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671672/cara-berpikir-bisnis-yang-bikin-keputusanmu-lebih-kalkulatif-bukan-nekat",
+     "time": "01:38",
+     "tags": [],
+     "sc": 212.8,
+     "slot": "stock",
+     "q": 48
+    },
+    {
+     "t": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
+     "ko": "Fed의 Kashkari는 Fox News 인터뷰에서 미국 경제의 '모든 측면'에서 인플레이션이 여전히 너무 높다고 말했습니다.",
+     "id": "Kashkari dari Fed mengatakan inflasi masih terlalu tinggi di 'semua aspek' perekonomian AS, dalam wawancara dengan Fox News",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
+     "time": "00:09",
      "tags": [],
      "sc": 309.0,
      "slot": "global",

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 04:06",
+ "updated": "2026-09-21 05:06",
  "delay_min": 15,
- "fx_basis": "12.80 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,386 · 04:06 Yahoo",
- "idr_per_krw": 12.8022,
+ "fx_basis": "12.81 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,385 · 05:06 Yahoo",
+ "idr_per_krw": 12.8124,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16342,7 +16342,9 @@
     "ADHI"
    ],
    "url": "https://www.idxchannel.com/market-news/adhi-masuk-tahap-implementasi-restrukturisasi-lewat-penandatanganan-mra",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/20/MRA_ADHI.jpg"
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/20/MRA_ADHI.jpg",
+   "t_ko": "ADHI, MRA 체결을 통해 구조조정 시행 단계 진입",
+   "t_id": "ADHI Masuk Tahap Implementasi Restrukturisasi Lewat Penandatanganan MRA"
   },
   {
    "ts": "2026-09-20T21:46:00+07:00",
@@ -16921,6 +16923,71 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T04:44:01+07:00",
+   "date": "2026-09-21",
+   "time": "04:44",
+   "src": "Yahoo Finance",
+   "t": "The Stock Market's Best Quarter of the Year Is About to Start. The S&P 500 Has Risen in 34 of the Last 41.",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-best-quarter-start-214401812.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/d48cbfe638634cf075d78d9e94477d62.jpg",
+   "t_ko": "주식시장 올해 최고의 분기가 곧 시작됩니다. S&P 500은 지난 41일 중 34일 동안 상승했습니다.",
+   "t_id": "Kuartal Terbaik Pasar Saham Tahun Ini Akan Segera Dimulai. S&P 500 Telah Naik dalam 34 dari 41 Terakhir."
+  },
+  {
+   "ts": "2026-09-21T04:41:29+07:00",
+   "date": "2026-09-21",
+   "time": "04:41",
+   "src": "Yahoo Finance",
+   "t": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/74c86932afc7980ee396bd2ed83c4c6e.jpg",
+   "t_ko": "ASML(ASML) 및 TSMC와 같은 칩 거대 기업은 AI 칩 구축을 위해 더 큰 캔버스를 계획합니다.",
+   "t_id": "ASML (ASML) dan Raksasa Chip seperti TSMC Merencanakan Kanvas yang Lebih Besar untuk Membuat Chip AI"
+  },
+  {
+   "ts": "2026-09-21T04:27:40+07:00",
+   "date": "2026-09-21",
+   "time": "04:27",
+   "src": "Yahoo Finance",
+   "t": "Nordson’s (NDSN) New Vantage XL Addresses Increasing Advanced Semiconductor Packaging Demand",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/ai/articles/nordson-ndsn-vantage-xl-addresses-212740323.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/c84431a02348a50654467088a1a5406a.jpg",
+   "t_ko": "Nordson(NDSN)의 새로운 Vantage XL은 증가하는 고급 반도체 패키징 수요를 해결합니다.",
+   "t_id": "Vantage XL Baru Nordson (NDSN) Mengatasi Peningkatan Permintaan Kemasan Semikonduktor Tingkat Lanjut"
+  },
+  {
+   "ts": "2026-09-21T04:27:11+07:00",
+   "date": "2026-09-21",
+   "time": "04:27",
+   "src": "Yahoo Finance",
+   "t": "Amazon (AMZN) Taps the UK Bond Market for the First Time to Help Fund its AI Buildout",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/ai/articles/amazon-amzn-taps-uk-bond-212711015.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/90e386a06858d8b4751ec77797010aed.jpg",
+   "t_ko": "아마존(AMZN), AI 구축 자금 지원을 위해 처음으로 영국 채권 시장 진출",
+   "t_id": "Amazon (AMZN) Memanfaatkan Pasar Obligasi Inggris untuk Pertama Kalinya untuk Membantu Mendanai Pembangunan AI-nya"
+  },
+  {
+   "ts": "2026-09-21T04:23:11+07:00",
+   "date": "2026-09-21",
+   "time": "04:23",
+   "src": "Yahoo Finance",
+   "t": "The AI Slowdown Trade Has Some Winners: CrowdStrike and Palo Alto Rally While Chips Fall",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/ai/articles/ai-slowdown-trade-winners-crowdstrike-212311977.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/035f4739021782b6c1dab83ca4bbbda4.png",
+   "t_ko": "AI 둔화 거래에는 일부 승자가 있습니다: 칩이 하락하는 동안 CrowdStrike와 Palo Alto 랠리",
+   "t_id": "Perdagangan Perlambatan AI Memiliki Beberapa Pemenang: CrowdStrike dan Palo Alto Rally Saat Chips Jatuh"
+  },
+  {
    "ts": "2026-09-21T04:00:52+07:00",
    "date": "2026-09-21",
    "time": "04:00",
@@ -16940,7 +17007,9 @@
    "t": "AI Boom Is Making Diversifying Investments Tough for Wall Street",
    "tags": [],
    "url": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
-   "g": 1
+   "g": 1,
+   "t_ko": "AI 붐은 월스트리트에 다각적 투자를 어렵게 만들고 있습니다.",
+   "t_id": "AI Boom Membuat Diversifikasi Investasi Sulit bagi Wall Street"
   },
   {
    "ts": "2026-09-21T04:00:00+07:00",
@@ -16952,7 +17021,46 @@
    "url": "https://www.idxchannel.com/market-news/harga-emas-diproyeksi-tembus-rp2820000-per-gram-pekan-ini",
    "g": 1,
    "img": "https://img.idxchannel.com/media/439/images/idx/2023/10/26/Rincian_Harga_Emas_Antam_Hari_Ini.jpg",
-   "t_id": "Harga Emas Diproyeksi Tembus Rp2.820.000 per Gram Pekan Ini"
+   "t_id": "Harga Emas Diproyeksi Tembus Rp2.820.000 per Gram Pekan Ini",
+   "t_ko": "이번 주 금 가격은 그램당 IDR 2,820,000에 도달할 것으로 예상됩니다."
+  },
+  {
+   "ts": "2026-09-21T03:58:38+07:00",
+   "date": "2026-09-21",
+   "time": "03:58",
+   "src": "Yahoo Finance",
+   "t": "Medical Properties Trust (MPT) Receives $371M. Will Debt Reduction Outweigh Lost Rent?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/real-estate/articles/medical-properties-trust-mpt-receives-205838338.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/c22788afba40f2573bd715da009c7d23.jpg",
+   "t_ko": "MPT(Medical Properties Trust)가 3억 7,100만 달러를 받았습니다. 부채 감소가 임대료 손실보다 더 클까요?",
+   "t_id": "Medical Properties Trust (MPT) Menerima $371 juta. Akankah Pengurangan Hutang Lebih Besar daripada Kerugian Sewa?"
+  },
+  {
+   "ts": "2026-09-21T03:54:47+07:00",
+   "date": "2026-09-21",
+   "time": "03:54",
+   "src": "Yahoo Finance",
+   "t": "Semtech’s (SMTC) LoRa Plus Expansion Is Bigger Than Two New Chips",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/articles/semtech-smtc-lora-plus-expansion-205447567.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/c70d74d8ace4ba5e413b7f975f1372ec.jpg",
+   "t_ko": "Semtech(SMTC)의 LoRa Plus 확장은 두 개의 새로운 칩보다 더 큽니다.",
+   "t_id": "Ekspansi LoRa Plus Semtech (SMTC) Lebih Besar Dari Dua Chip Baru"
+  },
+  {
+   "ts": "2026-09-21T02:14:04+07:00",
+   "date": "2026-09-21",
+   "time": "02:14",
+   "src": "Reuters",
+   "t": "Ukraine's Zelenskiy says he and Trump agree to meet in New York",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSnpuUzhvbURvMlJhal83Q29DTVpxNHFLVzlHeWtvY21qTG0wakVyZVdoTHpNYXBkb3piRTRBajVaME1ZZDV1bUJ0SDQxZ1lEWjcwR2pnbkJFbEFNVGoyZW1DZG5kbHpWVlhBOGJrbFoxVkhRQ3JzLVRPM0EybFk4U3VDdXhHZmw5dXlHQmtvVHNuZzd2M3BXT2RvN2trQQ?oc=5",
+   "g": 1,
+   "t_ko": "우크라이나 젤렌스키 \"트럼프와 뉴욕에서 만나기로 합의\"",
+   "t_id": "Zelenskiy dari Ukraina mengatakan dia dan Trump setuju untuk bertemu di New York"
   },
   {
    "ts": "2026-09-21T02:06:16+07:00",
@@ -16977,32 +17085,6 @@
    "g": 1,
    "t_ko": "단기 국채가 연준 인플레이션 승리에 대한 인기 있는 베팅으로 부상",
    "t_id": "Treasury Jangka Pendek Muncul sebagai Taruhan Populer pada Kemenangan Inflasi Fed"
-  },
-  {
-   "ts": "2026-09-21T02:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "02:00",
-   "src": "Yahoo Finance",
-   "t": "Hormuz Crisis to Push Global Coal Demand to Record High",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/hormuz-crisis-push-global-coal-190000905.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/oilprice.com/c40d2f0db832e9b5a156767e4169b962.jpg",
-   "t_ko": "호르무즈 위기로 인해 전 세계 석탄 수요가 사상 최고치를 기록할 것으로 예상",
-   "t_id": "Krisis Hormuz Mendorong Permintaan Batubara Global Mencapai Rekor Tinggi"
-  },
-  {
-   "ts": "2026-09-21T01:51:54+07:00",
-   "date": "2026-09-21",
-   "time": "01:51",
-   "src": "Yahoo Finance",
-   "t": "Vera Bradley (VRA) Returns to Operating Profit. Can the Recovery Outlast Tariff Refunds?",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/vera-bradley-vra-returns-operating-185154105.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/fc8a5f90efa431e812d1c677cfd54411.jpg",
-   "t_ko": "Vera Bradley(VRA)가 영업 이익으로 돌아왔습니다. 복구 기간이 관세 환급보다 오래 지속될 수 있습니까?",
-   "t_id": "Vera Bradley (VRA) Kembali ke Laba Operasional. Bisakah Pengembalian Dana Tarif Pemulihan Lebih Lama?"
   },
   {
    "ts": "2026-09-21T01:38:42+07:00",
@@ -17065,19 +17147,6 @@
    "t_id": "Ancaman perdagangan Iran dan AS setelah serangan Houthi meningkatkan konflik regional"
   },
   {
-   "ts": "2026-09-21T00:37:18+07:00",
-   "date": "2026-09-21",
-   "time": "00:37",
-   "src": "Yahoo Finance",
-   "t": "Sempra (SRE) Adds a 20-Year LNG Agreement. How Much Commercial Risk Does it Remove?",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/sempra-sre-adds-20-lng-173718056.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/f6f18df7e04f888daf0ae422c87dabbc.jpg",
-   "t_ko": "Sempra(SRE)가 20년 LNG 계약을 추가합니다. 얼마나 많은 상업적 위험을 제거합니까?",
-   "t_id": "Sempra (SRE) Tambah Perjanjian LNG 20 Tahun. Berapa Besar Risiko Komersial yang Dapat Dihilangkan?"
-  },
-  {
    "ts": "2026-09-21T00:09:32+07:00",
    "date": "2026-09-21",
    "time": "00:09",
@@ -17088,68 +17157,6 @@
    "g": 1,
    "t_ko": "Fed의 Kashkari는 Fox News 인터뷰에서 미국 경제의 '모든 측면'에서 인플레이션이 여전히 너무 높다고 말했습니다.",
    "t_id": "Kashkari dari Fed mengatakan inflasi masih terlalu tinggi di 'semua aspek' perekonomian AS, dalam wawancara dengan Fox News"
-  },
-  {
-   "ts": "2026-09-21T00:09:18+07:00",
-   "date": "2026-09-21",
-   "time": "00:09",
-   "src": "Bloomberg",
-   "t": "IMF MD on the Global Economic Outlook",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-20/imf-md-on-the-global-economic-outlook-video",
-   "g": 1,
-   "t_ko": "글로벌 경제 전망에 관한 IMF MD",
-   "t_id": "IMF MD tentang Outlook Ekonomi Global"
-  },
-  {
-   "ts": "2026-09-21T00:04:35+07:00",
-   "date": "2026-09-21",
-   "time": "00:04",
-   "src": "Yahoo Finance",
-   "t": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-   "tags": [],
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/5b327748e19f79eb3e0d30330a757e65.jpg",
-   "t_ko": "다우존스 선물 만기일: 시장이 비상할 수 있을까요? Robinhood, Sandisk, AMD, Moderna가 구매 영역으로 급증",
-   "t_id": "Dow Jones Futures Jatuh Tempo: Bisakah Pasar Melaju? Robinhood, Sandisk, AMD, Moderna Melonjak ke Area Pembelian"
-  },
-  {
-   "ts": "2026-09-21T00:01:51+07:00",
-   "date": "2026-09-21",
-   "time": "00:01",
-   "src": "Bloomberg",
-   "t": "Hormuz ‘Cannot Be Obsolete,’ Qatar Energy Minister Says",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-20/hormuz-cannot-be-obsolete-qatar-energy-minister-says-video",
-   "g": 1,
-   "t_ko": "카타르 에너지부 장관 \"호르무즈는 낡아빠질 수 없다\"",
-   "t_id": "Hormuz ‘Tidak Bisa Ditinggalkan’, Kata Menteri Energi Qatar"
-  },
-  {
-   "ts": "2026-09-20T23:56:14+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "CNBC",
-   "t": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-   "g": 1,
-   "t_ko": "베센트, 트럼프-시 정상회담 앞두고 허라이펑 중국 부총리 만나",
-   "t_id": "Bessent bertemu Wakil Perdana Menteri Tiongkok He Lifeng menjelang KTT Trump-Xi"
-  },
-  {
-   "ts": "2026-09-20T23:47:00+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Yahoo Finance",
-   "t": "Chevron CEO sends a strong message on oil price and the economy",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/thestreet_881/dbd4c9dd671e0107528450a001ff075c.jpg",
-   "t_ko": "셰브론 CEO, 유가와 경제에 대한 강력한 메시지 전달",
-   "t_id": "CEO Chevron menyampaikan pesan yang kuat mengenai harga minyak dan perekonomian"
   },
   {
    "ts": "2026-09-20T23:10:32+07:00",
@@ -17611,15 +17618,15 @@
   },
   {
    "k": "CPO (MYR/t)",
-   "v": "4,898",
-   "d": 0.29,
-   "ytd": 20.94,
+   "v": "4,917",
+   "d": 0.68,
+   "ytd": 21.41,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/18 nilai terakhir · Awal tahun 4,050"
   }
  ],
  "curve": {
@@ -23056,7 +23063,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 3314,
+  "pc_age_min": 3374,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23073,22 +23080,8 @@
    "ts": "2026-09-18T17:05:15.826942+07:00"
   }
  },
- "top_day": "2026-09-20",
+ "top_day": "2026-09-21",
  "top_news": [
-  {
-   "ts": "2026-09-20T12:45:00+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "IDX Channel",
-   "t": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
-   "tags": [],
-   "url": "https://www.idxchannel.com/market-news/harga-cpo-naik-174-persen-sepekan-dibayangi-minyak-pesaing",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/05/25/CPO_sawit_-_Magnific_-_Freepik_25_Mei_26.jpeg",
-   "score": 407.05,
-   "srcs": 1,
-   "t_ko": "CPO 가격은 경쟁사 원유에 비해 일주일에 1.74% 상승합니다.",
-   "t_id": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing"
-  },
   {
    "ts": "2026-09-20T17:20:40+07:00",
    "date": "2026-09-20",
@@ -23126,6 +23119,8 @@
    "tags": [],
    "url": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
    "g": 1,
+   "t_ko": "AI 붐은 월스트리트에 다각적 투자를 어렵게 만들고 있습니다.",
+   "t_id": "AI Boom Membuat Diversifikasi Investasi Sulit bagi Wall Street",
    "score": 308.0,
    "srcs": 2
   },
@@ -23143,6 +23138,20 @@
    "srcs": 1,
    "t_ko": "월스트리트는 차입 비용이 상승함에 따라 미국이 약 1조 달러의 단기 부채를 발행할 것으로 예상합니다.",
    "t_id": "Wall Street memperkirakan AS akan menerbitkan utang jangka pendek sekitar $1 triliun karena biaya pinjaman meningkat"
+  },
+  {
+   "ts": "2026-09-20T18:00:55+07:00",
+   "date": "2026-09-20",
+   "time": "09/20",
+   "src": "Liputan6",
+   "t": "Vietnam Naik Kelas Jadi Secondary Emerging Market, Dana Asing Mulai Masuk",
+   "tags": [],
+   "url": "https://www.liputan6.com/saham/read/8295433/vietnam-naik-kelas-jadi-secondary-emerging-market-dana-asing-mulai-masuk",
+   "img": "https://cdn0-production-images-kly.akamaized.net/0mkx2n_uNX3s4TLbe4iVSYWXEdw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5077262/original/089831000_1735963738-000_36RX9HD.jpg",
+   "score": 209.25,
+   "srcs": 2,
+   "t_ko": "베트남, 2차 신흥시장으로 업그레이드, 외국자금 유입 시작",
+   "t_id": "Vietnam Naik Kelas Jadi Secondary Emerging Market, Dana Asing Mulai Masuk"
   }
  ],
  "daylog": {
@@ -23709,20 +23718,6 @@
   "2026-09-20": {
    "news": [
     {
-     "t": "Chevron CEO sends a strong message on oil price and the economy",
-     "ko": "셰브론 CEO, 유가와 경제에 대한 강력한 메시지 전달",
-     "id": "CEO Chevron menyampaikan pesan yang kuat mengenai harga minyak dan perekonomian",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "Yahoo Finance",
-     "url": "https://finance.yahoo.com/energy/articles/chevron-ceo-sends-strong-message-164700338.html",
-     "time": "09/20",
-     "tags": [],
-     "sc": 309.0,
-     "slot": "global",
-     "q": 85
-    },
-    {
      "t": "Emiten SMDR Menambah Modal Rp 40,7 Miliar untuk 2 Anak Usaha",
      "ko": "SMDR 발행사는 2개 자회사에 대해 IDR 407억의 자본금을 증자합니다.",
      "id": "Emiten SMDR Menambah Modal Rp 40,7 Miliar untuk 2 Anak Usaha",
@@ -23751,6 +23746,22 @@
      "sc": 405.9,
      "slot": "macro",
      "q": 92
+    },
+    {
+     "t": "Kinerja 2025 Menguat, Posisi di Fortune Indonesia 100 Naik",
+     "ko": "2025년 실적 강화, 포춘 인도네시아 100대 기업에서의 입지 상승",
+     "id": "Kinerja 2025 Menguat, Posisi di Fortune Indonesia 100 Naik",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "Media Indonesia",
+     "url": "https://mediaindonesia.com/ekonomi/935548/kinerja-2025-menguat-posisi-di-fortune-indonesia-100-naik",
+     "time": "09/20",
+     "tags": [
+      "FORU"
+     ],
+     "sc": 212.8,
+     "slot": "stock",
+     "q": 56
     }
    ]
   },
@@ -23785,14 +23796,14 @@
      "q": 48
     },
     {
-     "t": "Dow Jones Futures Due: Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
-     "ko": "다우존스 선물 만기일: 시장이 비상할 수 있을까요? Robinhood, Sandisk, AMD, Moderna가 구매 영역으로 급증",
-     "id": "Dow Jones Futures Jatuh Tempo: Bisakah Pasar Melaju? Robinhood, Sandisk, AMD, Moderna Melonjak ke Area Pembelian",
+     "t": "AI Boom Is Making Diversifying Investments Tough for Wall Street",
+     "ko": "AI 붐은 월스트리트에 다각적 투자를 어렵게 만들고 있습니다.",
+     "id": "AI Boom Membuat Diversifikasi Investasi Sulit bagi Wall Street",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Yahoo Finance",
-     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo",
-     "time": "00:04",
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
+     "time": "04:00",
      "tags": [],
      "sc": 309.0,
      "slot": "global",

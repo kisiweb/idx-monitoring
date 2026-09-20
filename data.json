@@ -1,8 +1,8 @@
 {
  "mode": "live",
- "updated": "2026-09-20 12:13",
+ "updated": "2026-09-20 14:12",
  "delay_min": 15,
- "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 12:13 Yahoo",
+ "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 14:12 Yahoo",
  "idr_per_krw": 12.8051,
  "indices": [
   {
@@ -16341,6 +16341,48 @@
  },
  "news": [
   {
+   "ts": "2026-09-20T13:30:23+07:00",
+   "date": "2026-09-20",
+   "time": "13:30",
+   "src": "Detik",
+   "t": "Moody's Pangkas Outlook BYAN Jadi Negatif Usai Umumkan Kondisi Kahar",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://finance.detik.com/bursa-dan-valas/d-8670935/moodys-pangkas-outlook-byan-jadi-negatif-usai-umumkan-kondisi-kahar",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/05/18/ihsg-anjlok-ke-zona-merah-bursa-saham-melemah-tajam-1779098741262_169.jpeg?w=360&q=90",
+   "t_id": "Moody's Pangkas Outlook BYAN Jadi Negatif Usai Umumkan Kondisi Kahar",
+   "t_ko": "무디스, 불가항력 상황 발표 후 BYAN 전망 부정적으로 하향"
+  },
+  {
+   "ts": "2026-09-20T13:17:40+07:00",
+   "date": "2026-09-20",
+   "time": "13:17",
+   "src": "Liputan6",
+   "t": "Investasi, Edwin Soeryadjaya Beli 1,24 Juta Saham SRTG",
+   "tags": [
+    "SRTG"
+   ],
+   "url": "https://www.liputan6.com/saham/read/8295378/investasi-edwin-soeryadjaya-beli-124-juta-saham-srtg",
+   "img": "https://cdn0-production-images-kly.akamaized.net/KetfVtESta300YCi8aolGoSNExQ=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4304483/original/074971800_1674785664-Saratoga2.jpg",
+   "t_id": "Investasi, Edwin Soeryadjaya Beli 1,24 Juta Saham SRTG",
+   "t_ko": "투자, Edwin Soeryadjaya, SRTG 주식 124만주 매입"
+  },
+  {
+   "ts": "2026-09-20T12:30:00+07:00",
+   "date": "2026-09-20",
+   "time": "12:30",
+   "src": "Bloomberg Technoz",
+   "t": "Harga Emas Antam Masih Bertahan di Level Rp2,63 Juta/ Gram",
+   "tags": [
+    "ANTM"
+   ],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122127/harga-emas-antam-masih-bertahan-di-level-rp2-63-juta-gram",
+   "img": "https://images.bloombergtechnoz.com/data/2025/12/image-20251224174528.jpg",
+   "t_id": "Harga Emas Antam Masih Bertahan di Level Rp2,63 Juta/ Gram",
+   "t_ko": "Antam 금 가격은 여전히 ​​IDR 263만/그램으로 유지됩니다."
+  },
+  {
    "ts": "2026-09-20T09:24:53+07:00",
    "date": "2026-09-20",
    "time": "09:24",
@@ -16353,6 +16395,20 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/20/pertamina-raih-posisi-puncak-fortune-indonesia-100-gala-2026-1789870256751_169.jpeg?w=360&q=90",
    "t_ko": "IDR 1,189 T의 수익 기록, Pertamina가 2026년 Fortune Indonesia 100 1위를 차지",
    "t_id": "Catat Pendapatan Rp 1.189 T, Pertamina Puncaki Fortune Indonesia 100 2026"
+  },
+  {
+   "ts": "2026-09-20T09:00:00+07:00",
+   "date": "2026-09-20",
+   "time": "09:00",
+   "src": "Bloomberg Technoz",
+   "t": "Pertamina Kembali Pimpin Fortune Indonesia 100 2026",
+   "tags": [
+    "FORU"
+   ],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122134/pertamina-kembali-pimpin-fortune-indonesia-100-2026",
+   "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260920111947.jpg",
+   "t_ko": "Pertamina, 2026년 Lead Fortune Indonesia 100으로 복귀",
+   "t_id": "Pertamina Kembali Pimpin Fortune Indonesia 100 2026"
   },
   {
    "ts": "2026-09-20T08:45:29+07:00",
@@ -16481,20 +16537,6 @@
    "t_id": "Kerajaan Bisnis Bos Jhonlin Group Usai Kuasai Miliaran Saham BYAN"
   },
   {
-   "ts": "2026-09-19T13:05:00+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "IDX Channel",
-   "t": "Pengendali Baru Masuk, DPUM Siapkan Ekspansi Rp100 Miliar",
-   "tags": [
-    "DPUM"
-   ],
-   "url": "https://www.idxchannel.com/market-news/pengendali-baru-masuk-dpum-siapkan-ekspansi-rp100-miliar",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/01/22/DPUM_dok_Dua_Putra.png",
-   "t_ko": "새로운 컨트롤러 진입, DPUM은 IDR 1000억 확장 준비",
-   "t_id": "Pengendali Baru Masuk, DPUM Siapkan Ekspansi Rp100 Miliar"
-  },
-  {
    "ts": "2026-09-19T12:00:01+07:00",
    "date": "2026-09-19",
    "time": "09/19",
@@ -16579,20 +16621,6 @@
    "img": "https://cdn0-production-images-kly.akamaized.net/zs2x0mbvI5Gq_HhHXLUKVzmzC7s=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5344976/original/094862600_1757498720-4.jpg",
    "t_ko": "IFII, 주당 Rp 5 중간배당 실시",
    "t_id": "Emiten IFII Tebar Dividen Interim Rp 5 per Saham"
-  },
-  {
-   "ts": "2026-09-18T19:54:14+07:00",
-   "date": "2026-09-18",
-   "time": "09/18",
-   "src": "Jawa Pos",
-   "t": "Bukukan Pendapatan Rp 10,31 Triliun, Jasa Marga Berpotensi Besar Jadi Incaran Investor",
-   "tags": [
-    "JSMR"
-   ],
-   "url": "https://www.jawapos.com/bisnis/2609180210/bukukan-pendapatan-rp-1031-triliun-jasa-marga-berpotensi-besar-jadi-incaran-investor",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/01/ilustrasi-jalan-tol-dalam-kota-tepatnya-di-dekat-lingkar-semanggi-jakarta-selatan-istimewa-53cwa.webp",
-   "t_ko": "Jasa Marga(JSMR), 매출 Rp10.31조 달성으로 투자자 관심 집중",
-   "t_id": "Bukukan Pendapatan Rp 10,31 Triliun, Jasa Marga Berpotensi Besar Jadi Incaran Investor"
   },
   {
    "ts": "2026-09-18T18:20:00+07:00",
@@ -16982,35 +17010,153 @@
     "saham bonus",
     "RUPS"
    ]
-  },
-  {
-   "ts": "2026-09-16T20:43:01+07:00",
-   "date": "2026-09-16",
-   "time": "09/16",
-   "src": "Liputan6",
-   "t": "Morgan Stanley Genggam 6,97% Saham GOTO",
-   "tags": [
-    "GOTO"
-   ],
-   "url": "https://www.liputan6.com/saham/read/8293268/morgan-stanley-genggam-697-saham-goto",
-   "img": "https://cdn1-production-images-kly.akamaized.net/qBNgXWUc4SHJvyWhS9YiLaXqrPM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5568754/original/068350400_1777371982-PT_GoTo_Gojek_Tokopedia_Tbk__GOTO_-28_April_2026a.jpeg",
-   "t_ko": "Morgan Stanley, GOTO 지분 6.97% 보유",
-   "t_id": "Morgan Stanley Genggam 6,97% Saham GOTO",
-   "ai_ko": "· Morgan Stanley, GOTO 지분 6.97%로\n· 축소(기존 7.06%)\n· 9월 11일 13.9억주 매도·4.2억주 매수\n· 매도 Rp403.8억, 매수 Rp117.6억\n· GOTO는 2분기 순이익 Rp2,520억 기록",
-   "ai_id": "· Morgan Stanley susut ke 6,97% GOTO\n· dari 7,059%\n· Jual 1,39 miliar saham Rp40,38 miliar,\n· beli 420 juta saham Rp11,76 miliar\n· GOTO laba Rp252 miliar di kuartal II",
-   "ai_tags": [
-    "지분변동",
-    "외국인",
-    "실적"
-   ],
-   "ai_tags_id": [
-    "kepemilikan saham",
-    "asing",
-    "kinerja"
-   ]
   }
  ],
  "market_news": [
+  {
+   "ts": "2026-09-20T14:02:52+07:00",
+   "date": "2026-09-20",
+   "time": "14:02",
+   "src": "Detik",
+   "t": "HDDAP Dorong Ekspor Kubis Dairi ke Asia, Petani Bisa Untung 3 Kali Lipat",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671054/hddap-dorong-ekspor-kubis-dairi-ke-asia-petani-bisa-untung-3-kali-lipat",
+   "g": 1,
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/20/hddap-buka-peluangg-ekspor-pendapatan-petani-dairi-diproyeksikan-naik-tigga-kali-lipat-1789885051819_169.jpeg?w=360&q=90",
+   "t_id": "HDDAP Dorong Ekspor Kubis Dairi ke Asia, Petani Bisa Untung 3 Kali Lipat",
+   "t_ko": "HDDAP는 유제품 양배추의 아시아 수출을 장려하여 농부들은 3배의 이익을 얻을 수 있습니다"
+  },
+  {
+   "ts": "2026-09-20T14:00:22+07:00",
+   "date": "2026-09-20",
+   "time": "14:00",
+   "src": "Detik",
+   "t": "Sarung Bantal Sofa Cuma Rp 20 Ribu di Transmart Full Day Sale, Serbu!",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670759/sarung-bantal-sofa-cuma-rp-20-ribu-di-transmart-full-day-sale-serbu",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/20/transmart-full-day-sale-1789871438144_169.png?w=360&q=90",
+   "t_id": "Sarung Bantal Sofa Cuma Rp 20 Ribu di Transmart Full Day Sale, Serbu!",
+   "t_ko": "소파 베개 커버는 Transmart 하루 종일 세일에서 IDR 20,000에 불과합니다. 서두르세요!"
+  },
+  {
+   "ts": "2026-09-20T14:00:00+07:00",
+   "date": "2026-09-20",
+   "time": "14:00",
+   "src": "Republika",
+   "t": "HIPMI Depok Fokus Buka Akses Usaha bagi UMKM",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tln748416/hipmi-depok-fokus-buka-akses-usaha-bagi-umkm",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/_260920100420-462.png",
+   "t_ko": "HIPMI Depok, 중소기업을 위한 비즈니스 접근성 개방에 중점",
+   "t_id": "HIPMI Depok Fokus Buka Akses Usaha bagi UMKM"
+  },
+  {
+   "ts": "2026-09-20T13:33:00+07:00",
+   "date": "2026-09-20",
+   "time": "13:33",
+   "src": "Media Indonesia",
+   "t": "Hidrogen dan Biometana Diproyeksikan Jadi Energi Baru untuk Industri",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935406/hidrogen-dan-biometana-diproyeksikan-jadi-energi-baru-untuk-industri",
+   "t_id": "Hidrogen dan Biometana Diproyeksikan Jadi Energi Baru untuk Industri",
+   "t_ko": "수소와 바이오메탄은 산업의 새로운 에너지가 될 것으로 예상됩니다."
+  },
+  {
+   "ts": "2026-09-20T13:29:00+07:00",
+   "date": "2026-09-20",
+   "time": "13:29",
+   "src": "Media Indonesia",
+   "t": "Berlaku 1 November, Pemungutan PPh 22 Marketplace Harus Ramah UMKM",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935407/berlaku-1-november-pemungutan-pph-22-marketplace-harus-ramah-umkm",
+   "t_ko": "11월 1일부터 Marketplace PPh 22 컬렉션은 MSME 친화적이어야 합니다.",
+   "t_id": "Berlaku 1 November, Pemungutan PPh 22 Marketplace Harus Ramah UMKM"
+  },
+  {
+   "ts": "2026-09-20T13:16:14+07:00",
+   "date": "2026-09-20",
+   "time": "13:16",
+   "src": "Jawa Pos",
+   "t": "IHSG Turun 1,53 Persen ke Level 6.441 Selama Sepekan, Kapitalisasi Pasar Terkikis",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609200271/ihsg-turun-153-persen-ke-level-6441-selama-sepekan-kapitalisasi-pasar-terkikis",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/07/29/5Aa3XAfTScIk3UmL9yf7lIPnaNBX0vyf9PlIcLjT.webp",
+   "t_id": "IHSG Turun 1,53 Persen ke Level 6.441 Selama Sepekan, Kapitalisasi Pasar Terkikis",
+   "t_ko": "JCI, 이번 주 동안 1.53% 하락해 6,441레벨, 시가총액 하락"
+  },
+  {
+   "ts": "2026-09-20T13:02:01+07:00",
+   "date": "2026-09-20",
+   "time": "13:02",
+   "src": "Jawa Pos",
+   "t": "Kemenperin Genjot Indonesia jadi Pusat Industri Pangan Global, Targetkan Ekspor Mamin USD 83,08 Mili",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609200261/kemenperin-genjot-indonesia-jadi-pusat-industri-pangan-global-targetkan-ekspor-mamin-usd-8308-mili",
+   "g": 1,
+   "img": "https://cdn-assets.jawapos.com/images/1/2025/08/26/bb6e754c-30d6-4eeb-be45-203226d628f9-4080631400.jpg",
+   "t_id": "Kemenperin Genjot Indonesia jadi Pusat Industri Pangan Global, Targetkan Ekspor Mamin USD 83,08 Mili",
+   "t_ko": "산업부, 인도네시아를 글로벌 식품 산업의 중심지로 육성하고 830억 8천만 달러의 식품 수출 목표"
+  },
+  {
+   "ts": "2026-09-20T12:45:00+07:00",
+   "date": "2026-09-20",
+   "time": "12:45",
+   "src": "IDX Channel",
+   "t": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
+   "tags": [],
+   "url": "https://www.idxchannel.com/market-news/harga-cpo-naik-174-persen-sepekan-dibayangi-minyak-pesaing",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/05/25/CPO_sawit_-_Magnific_-_Freepik_25_Mei_26.jpeg",
+   "t_id": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
+   "t_ko": "CPO 가격은 경쟁사 원유에 비해 일주일에 1.74% 상승합니다."
+  },
+  {
+   "ts": "2026-09-20T12:44:00+07:00",
+   "date": "2026-09-20",
+   "time": "12:44",
+   "src": "Reuters",
+   "t": "Two dead in Moscow region, drones hit oil refinery in Russian capital",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVNJbGZEQXkzaEQ0UGs4U192Sks0X1UtRWtrYXhIbG0tdDhKLU4xYU1kZTFTY2g3VG4xSUE1b3MxVUNzLXlNUjZrSnRiQy1jeWo2bmJhNElYME1DUWxKdHBtbktxSUpNUkNJcjRkc1NMUmtkT2hKOWpZRGdfdDRiV0JaZVNnTWd5Sk1qbnA3N0oyWEFULTVBcllkZGsyOHZLenl4ZHNLbHRIX1B0RDRJdA?oc=5",
+   "g": 1,
+   "t_ko": "모스크바 지역에서 2명 사망, 러시아 수도 정유소에 드론 공격",
+   "t_id": "Dua orang tewas di wilayah Moskow, drone menghantam kilang minyak di ibu kota Rusia"
+  },
+  {
+   "ts": "2026-09-20T12:28:49+07:00",
+   "date": "2026-09-20",
+   "time": "12:28",
+   "src": "Detik",
+   "t": "Harga Cabai Rawit Tambah Mahal, Hampir Rp 100 Ribu/Kg!",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670918/harga-cabai-rawit-tambah-mahal-hampir-rp-100-ribu-kg",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/02/23/ilustrasi-penjual-cabai-rawit-di-pasar-mandalika-beberapa-waktu-lalu-foto-nathea-citradetikbali-1771837374488_169.jpeg?w=360&q=90",
+   "t_ko": "고춧가루 가격이 점점 더 비싸지고 있어 거의 IDR 100,000/kg에 달합니다!",
+   "t_id": "Harga Cabai Rawit Tambah Mahal, Hampir Rp 100 Ribu/Kg!"
+  },
+  {
+   "ts": "2026-09-20T12:12:00+07:00",
+   "date": "2026-09-20",
+   "time": "12:12",
+   "src": "Katadata",
+   "t": "Pemerintah Dorong Industri Otomotif Indonesia Kuasai AI dan Semikonduktor",
+   "tags": [],
+   "url": "https://katadata.co.id/berita/industri/6aaf6b479e0d0/pemerintah-dorong-industri-otomotif-indonesia-kuasai-ai-dan-semikonduktor",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/20/Sekretaris_Kementerian_Koordinator_Bidang_Perekonomian_Susiwijon-2026_09_20-12_12_14_0494896f426d66df717925da517212cf_620x413_thumb.jpg",
+   "t_id": "Pemerintah Dorong Industri Otomotif Indonesia Kuasai AI dan Semikonduktor",
+   "t_ko": "정부, 인도네시아 자동차 산업에 AI 및 반도체 기술 습득 장려"
+  },
+  {
+   "ts": "2026-09-20T12:06:00+07:00",
+   "date": "2026-09-20",
+   "time": "12:06",
+   "src": "Reuters",
+   "t": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
+   "g": 1,
+   "t_ko": "미국 재무부 베센트(Bessent), 중국 허(He), AI, 무역, 중요 광물에 관한 회담 시작",
+   "t_id": "Menteri Keuangan AS Disetujui, Menteri Keuangan Tiongkok He akan meluncurkan pembicaraan mengenai AI, perdagangan, dan mineral penting"
+  },
   {
    "ts": "2026-09-20T12:02:00+07:00",
    "date": "2026-09-20",
@@ -17024,6 +17170,18 @@
    "t_id": "Berlaku 1 November, Pajak Marketplace Didorong Ramah UMKM"
   },
   {
+   "ts": "2026-09-20T12:00:01+07:00",
+   "date": "2026-09-20",
+   "time": "12:00",
+   "src": "CNBC",
+   "t": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
+   "g": 1,
+   "t_ko": "프랑스 와인 생산량이 70년 만에 최저치에 가까워지면서 와인 제조사들은 어려운 선택을 하게 되었습니다.",
+   "t_id": "Produksi anggur Prancis mendekati titik terendah dalam 70 tahun terakhir, sehingga membuat para pembuat anggur dihadapkan pada pilihan yang sulit"
+  },
+  {
    "ts": "2026-09-20T11:53:00+07:00",
    "date": "2026-09-20",
    "time": "11:53",
@@ -17033,8 +17191,8 @@
    "url": "https://www.idxchannel.com/market-news/harga-emas-antam-menguat-buyback-ikut-naik-jadi-rp247-juta-per-gram",
    "g": 1,
    "img": "https://img.idxchannel.com/media/439/images/idx/2025/04/23/emas_antam_Yudistiro_Pranoto_inews_group.jpg",
-   "t_id": "Harga Emas Antam Menguat, Buyback Ikut Naik Jadi Rp2,47 Juta per Gram",
-   "t_ko": "Antam 금 가격이 상승하고 환매도 그램당 IDR 247만으로 증가합니다."
+   "t_ko": "Antam 금 가격이 상승하고 환매도 그램당 IDR 247만으로 증가합니다.",
+   "t_id": "Harga Emas Antam Menguat, Buyback Ikut Naik Jadi Rp2,47 Juta per Gram"
   },
   {
    "ts": "2026-09-20T11:34:19+07:00",
@@ -17056,20 +17214,8 @@
    "t": "Michelle Bachelet Mundur dari Bursa Pencalonan Sekretaris Jenderal PBB",
    "tags": [],
    "url": "https://mediaindonesia.com/internasional/935386/michelle-bachelet-mundur-dari-bursa-pencalonan-sekretaris-jenderal-pbb",
-   "t_id": "Michelle Bachelet Mundur dari Bursa Pencalonan Sekretaris Jenderal PBB",
-   "t_ko": "미셸 바첼레트, 유엔 사무총장 후보 사퇴"
-  },
-  {
-   "ts": "2026-09-20T11:19:38+07:00",
-   "date": "2026-09-20",
-   "time": "11:19",
-   "src": "Reuters",
-   "t": "China's CXMT says new memory-chip platform enters mass production",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXQwT0R1TTBfLVJQNVRFbHdPV0hVRk9XTy1QVXRLZDhMbkFBazRWVzE0NXYzUVdJX0J3YTdCSzU1Q3FMVjVZTjJuUGIwT3lRTldsVTRfNi00eDVNU1JDTFNLaks0Z0M0dTlYb010S0I5RkVoc1prLXFnQkoxeEUwcmd2WWdZR2otbVBybEhKVlRjbkkzRF9mWFdZTUlUYjBMZW1BYXpxa3JXRS1WUHBQNUw3VDR0YjJvRkNv?oc=5",
-   "g": 1,
-   "t_ko": "중국 CXMT, 새로운 메모리 칩 플랫폼 양산 개시",
-   "t_id": "CXMT Tiongkok mengatakan platform chip memori baru memasuki produksi massal"
+   "t_ko": "미셸 바첼레트, 유엔 사무총장 후보 사퇴",
+   "t_id": "Michelle Bachelet Mundur dari Bursa Pencalonan Sekretaris Jenderal PBB"
   },
   {
    "ts": "2026-09-20T11:10:51+07:00",
@@ -17080,8 +17226,8 @@
    "tags": [],
    "url": "https://www.liputan6.com/saham/read/8295339/pendapatan-blibli-rp-224-triliun-bisnis-tumbuh-34",
    "img": "https://cdn0-production-images-kly.akamaized.net/FPtn-b8dpcm_vFTCiYDnleAG9Zs=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4889391/original/098025900_1720698102-yy78899s3.jpg",
-   "t_id": "Pendapatan Blibli Rp 22,4 Triliun, Bisnis Tumbuh 34%",
-   "t_ko": "Blibli 수익 IDR 22.4조, 비즈니스 성장 34%"
+   "t_ko": "Blibli 수익 IDR 22.4조, 비즈니스 성장 34%",
+   "t_id": "Pendapatan Blibli Rp 22,4 Triliun, Bisnis Tumbuh 34%"
   },
   {
    "ts": "2026-09-20T11:06:00+07:00",
@@ -17092,8 +17238,8 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlmz15522/daya-saing-investasi-hulu-migas-bergantung-pada-kepastian-proyek",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260916152731-530.png",
-   "t_id": "Daya Saing Investasi Hulu Migas Bergantung pada Kepastian Proyek",
-   "t_ko": "업스트림 석유 및 가스 투자 경쟁력은 프로젝트 확실성에 달려 있습니다"
+   "t_ko": "업스트림 석유 및 가스 투자 경쟁력은 프로젝트 확실성에 달려 있습니다",
+   "t_id": "Daya Saing Investasi Hulu Migas Bergantung pada Kepastian Proyek"
   },
   {
    "ts": "2026-09-20T11:04:48+07:00",
@@ -17104,8 +17250,32 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609200209/tak-lagi-jadi-menkeu-momen-purbaya-makan-bakso-berdua-istri-dan-kembali-nyetir-sendiri",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/16/pejabat-lama-purbaya-yudhi-sadewa-usai-serah-terima-jabatan-menteri-keuangan-di-kemenkeu-jakarta-selasa-1592026-tLpbQ.webp",
-   "t_id": "Tak Lagi jadi Menkeu, Momen Purbaya Makan Bakso Berdua Istri dan Kembali Nyetir Sendiri",
-   "t_ko": "더 이상 재무부 장관이 아니다, 아내와 함께 미트볼을 먹고 혼자 운전에 복귀한 푸르바야의 순간"
+   "t_ko": "더 이상 재무부 장관이 아니다, 아내와 함께 미트볼을 먹고 혼자 운전에 복귀한 푸르바야의 순간",
+   "t_id": "Tak Lagi jadi Menkeu, Momen Purbaya Makan Bakso Berdua Istri dan Kembali Nyetir Sendiri"
+  },
+  {
+   "ts": "2026-09-20T11:03:00+07:00",
+   "date": "2026-09-20",
+   "time": "11:03",
+   "src": "Reuters",
+   "t": "Macron, Carney to meet in French Atlantic archipelago in signal to Trump",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkVYa2s0a1hldGZKYmpHQS1XdWkyNDZZSkR6UkNGUGRFWnFOMHJvQ1plRXRZanlQSFgwN09iMEliYmdQZm1lWENhNERBVkVaYjJiSUxrc25pVUFkWnpCRm9rYmxUU3N4Q0xXVHQwNFpLcXVyU2l2dHBxVFRGQkluNnZyY0NMRGJpMXFJTHo0X3AzaWV5SUU2ampSanpLN3MzRHNBRHc5ZjZyOV9XaGEw?oc=5",
+   "g": 1,
+   "t_ko": "마크롱-카니, 트럼프에 신호로 프랑스 대서양 군도에서 만나",
+   "t_id": "Macron dan Carney akan bertemu di kepulauan Atlantik Prancis sebagai isyarat kepada Trump"
+  },
+  {
+   "ts": "2026-09-20T11:03:00+07:00",
+   "date": "2026-09-20",
+   "time": "11:03",
+   "src": "Reuters",
+   "t": "Russian election, cast as test of support for Ukraine war, enters final day",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWF9NeWpBYnEyU1JJdWppTldhbFJ1RDR0emoxZ1ZyNTE0WF8xTW1VTE5lb2dDYkFyUS1BVU9NdzRxYnpqdXNHVk1KWU42RTZvVy1uQXBoaDBNQ2pWQVJUY2xtTGtyMDdMMjhYdG1jbHVkYUhOaEhXcDVmYlo5Q2NWcVRfZHlmZnRKamd1YlRPOFN3VlE5OFlfWEVHbmFDenU3VzFZVWNGQVlhbkxXWjZmc25R?oc=5",
+   "g": 1,
+   "t_ko": "우크라이나 전쟁 지지 여부를 시험하는 러시아 선거가 마지막 날로 접어들었습니다.",
+   "t_id": "Pemilu Rusia, yang dianggap sebagai ujian dukungan terhadap perang Ukraina, memasuki hari terakhir"
   },
   {
    "ts": "2026-09-20T11:00:59+07:00",
@@ -17116,8 +17286,8 @@
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670755/transmart-full-day-sale-alat-masak-jadi-semurah-ini",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/20/transmart-full-day-sale-1789871168148_169.png?w=360&q=90",
-   "t_id": "Transmart Full Day Sale! Alat Masak Jadi Semurah Ini",
-   "t_ko": "Transmart 하루 종일 세일! 조리기구는 너무 저렴해요"
+   "t_ko": "Transmart 하루 종일 세일! 조리기구는 너무 저렴해요",
+   "t_id": "Transmart Full Day Sale! Alat Masak Jadi Semurah Ini"
   },
   {
    "ts": "2026-09-20T11:00:11+07:00",
@@ -17193,8 +17363,20 @@
    "url": "https://www.idxchannel.com/market-news/harga-minyak-dunia-beragam-sepekan-brent-turun-tipis",
    "g": 1,
    "img": "https://img.idxchannel.com/media/439/images/idx/2025/12/19/rigs_oil_minyak_kilang_-_18_des_25.jpg",
-   "t_id": "Harga Minyak Dunia Beragam Sepekan, Brent Turun Tipis",
-   "t_ko": "세계 유가는 일주일 동안 변동하며 브렌트유는 소폭 하락합니다."
+   "t_ko": "세계 유가는 일주일 동안 변동하며 브렌트유는 소폭 하락합니다.",
+   "t_id": "Harga Minyak Dunia Beragam Sepekan, Brent Turun Tipis"
+  },
+  {
+   "ts": "2026-09-20T10:54:00+07:00",
+   "date": "2026-09-20",
+   "time": "10:54",
+   "src": "Reuters",
+   "t": "China's CXMT says new memory-chip platform enters mass production",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLXQwT0R1TTBfLVJQNVRFbHdPV0hVRk9XTy1QVXRLZDhMbkFBazRWVzE0NXYzUVdJX0J3YTdCSzU1Q3FMVjVZTjJuUGIwT3lRTldsVTRfNi00eDVNU1JDTFNLaks0Z0M0dTlYb010S0I5RkVoc1prLXFnQkoxeEUwcmd2WWdZR2otbVBybEhKVlRjbkkzRF9mWFdZTUlUYjBMZW1BYXpxa3JXRS1WUHBQNUw3VDR0YjJvRkNv?oc=5",
+   "g": 1,
+   "t_ko": "중국 CXMT, 새로운 메모리 칩 플랫폼 양산 개시",
+   "t_id": "CXMT Tiongkok mengatakan platform chip memori baru memasuki produksi massal"
   },
   {
    "ts": "2026-09-20T10:50:12+07:00",
@@ -17254,8 +17436,8 @@
    "url": "https://www.idxchannel.com/market-news/rupiah-jadi-kunci-pasar-menanti-langkah-bi-usai-the-fed-kerek-bunga",
    "g": 1,
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/20/rupiah_-_getty_images.jpg",
-   "t_id": "Rupiah Jadi Kunci, Pasar Menanti Langkah BI usai The Fed Kerek Bunga",
-   "t_ko": "루피아가 핵심이며, 연준이 금리를 인상한 후 시장은 BI의 조치를 기다리고 있습니다."
+   "t_ko": "루피아가 핵심이며, 연준이 금리를 인상한 후 시장은 BI의 조치를 기다리고 있습니다.",
+   "t_id": "Rupiah Jadi Kunci, Pasar Menanti Langkah BI usai The Fed Kerek Bunga"
   },
   {
    "ts": "2026-09-20T10:02:00+07:00",
@@ -17268,187 +17450,6 @@
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/02/2026_09_02-16_45_00_2ab700e0-a6bc-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
    "t_ko": "공공사업부, 마리화나 재배에 있어 ASN 용의자를 일시적으로 정지",
    "t_id": "Kementerian PU Berhentikan Sementara ASN yang Jadi Tersangka Budidaya Ganja"
-  },
-  {
-   "ts": "2026-09-20T10:00:00+07:00",
-   "date": "2026-09-20",
-   "time": "10:00",
-   "src": "IDNFinancials",
-   "t": "BPK Begins Auditing Danantara's 2025 Financial Statement",
-   "tags": [],
-   "url": "https://www.idnfinancials.com/news/69110/bpk-begins-auditing-danantaras-2025-financial-statement",
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/DANANTARA-11062026.jpg",
-   "t_ko": "BPK, Danantara의 2025년 재무제표 감사 시작",
-   "t_id": "BPK Mulai Audit Laporan Keuangan Danantara Tahun 2025"
-  },
-  {
-   "ts": "2026-09-20T09:56:32+07:00",
-   "date": "2026-09-20",
-   "time": "09:56",
-   "src": "Bloomberg",
-   "t": "Australia Home Auction Clearance Rates Fall Amid Rate Hike Fears",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/australia-home-auction-clearance-rates-fall-amid-rate-hike-fears",
-   "g": 1,
-   "t_ko": "호주 주택 경매 청산율은 금리 인상 우려 속에 하락",
-   "t_id": "Tarif Izin Lelang Rumah Australia Turun di Tengah Kekhawatiran Kenaikan Suku Bunga"
-  },
-  {
-   "ts": "2026-09-20T09:46:17+07:00",
-   "date": "2026-09-20",
-   "time": "09:46",
-   "src": "Jawa Pos",
-   "t": "Naik 60 Persen! Bea Cukai Amankan 1,124 Miliar Batang Rokok Ilegal hingga Agustus 2026",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609200127/naik-60-persen-bea-cukai-amankan-1124-miliar-batang-rokok-ilegal-hingga-agustus-2026",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/10/petugas-bea-cukai-menujukkan-barang-bukti-truk-tangki-air-yang-disegel-saat-pengungkapan-kasus-penyelundupan-batang-rokok-ilegal-di-semarang-jawa-tengah-senin-792026-A5LcX.webp",
-   "t_ko": "60% 상승! 관세청, 2026년 8월까지 11억 2,400만 개의 불법 담배를 압수",
-   "t_id": "Naik 60 Persen! Bea Cukai Amankan 1,124 Miliar Batang Rokok Ilegal hingga Agustus 2026"
-  },
-  {
-   "ts": "2026-09-20T09:14:36+07:00",
-   "date": "2026-09-20",
-   "time": "09:14",
-   "src": "Detik",
-   "t": "Harga Emas Antam Naik dalam Sepekan, Begini Pergerakannya",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670737/harga-emas-antam-naik-dalam-sepekan-begini-pergerakannya",
-   "g": 1,
-   "img": "https://akcdn.detik.net.id/community/media/visual/2025/10/22/harga-emas-terjun-bebas-pasar-cikini-langsung-diserbu-pembeli-1761123863171_169.jpeg?w=360&q=90",
-   "t_ko": "Antam 금 가격이 일주일 만에 상승했습니다. 움직임은 다음과 같습니다.",
-   "t_id": "Harga Emas Antam Naik dalam Sepekan, Begini Pergerakannya"
-  },
-  {
-   "ts": "2026-09-20T09:10:49+07:00",
-   "date": "2026-09-20",
-   "time": "09:10",
-   "src": "Jawa Pos",
-   "t": "Pemerintah Bahas Skema Legalisasi Rokok Ilegal, Bea Cukai: Supaya Taat Aturan",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609200109/pemerintah-bahas-skema-legalisasi-rokok-ilegal-bea-cukai-supaya-taat-aturan",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/10/petugas-bea-cukai-menata-barang-bukti-rokok-ilegal-saat-pengungkapan-kasus-penyelundupan-batang-rokok-ilegal-di-semarang-jawa-tengah-senin-792026-qjdyf.webp",
-   "t_ko": "정부, 불법 담배 합법화 계획 논의, 세관: 귀하가 규칙을 준수하도록",
-   "t_id": "Pemerintah Bahas Skema Legalisasi Rokok Ilegal, Bea Cukai: Supaya Taat Aturan"
-  },
-  {
-   "ts": "2026-09-20T09:09:00+07:00",
-   "date": "2026-09-20",
-   "time": "09:09",
-   "src": "Media Indonesia",
-   "t": "DPR Minta KPK dan Polri Buka Penyelidikan Kasus Ipda Yayat Transparan Tanpa Pandang Pangkat",
-   "tags": [],
-   "url": "https://mediaindonesia.com/politik-dan-hukum/935371/dpr-minta-kpk-dan-polri-buka-penyelidikan-kasus-ipda-yayat-transparan-tanpa-pandang-pangkat",
-   "t_ko": "조선민주주의인민공화국, 부패척결위원회와 경찰에 입다야야트 사건에 대해 직급에 관계없이 투명하게 수사할 것을 요청",
-   "t_id": "DPR Minta KPK dan Polri Buka Penyelidikan Kasus Ipda Yayat Transparan Tanpa Pandang Pangkat"
-  },
-  {
-   "ts": "2026-09-20T09:05:00+07:00",
-   "date": "2026-09-20",
-   "time": "09:05",
-   "src": "Media Indonesia",
-   "t": "Setelah B50, Prabowo Sebut RI Mau Bikin Bensin dari Batu Bara",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935370/setelah-b50-prabowo-sebut-ri-mau-bikin-bensin-dari-batu-bara",
-   "t_ko": "B50 이후 Prabowo는 RI가 석탄에서 휘발유를 만들고 싶다고 말했습니다.",
-   "t_id": "Setelah B50, Prabowo Sebut RI Mau Bikin Bensin dari Batu Bara"
-  },
-  {
-   "ts": "2026-09-20T09:01:49+07:00",
-   "date": "2026-09-20",
-   "time": "09:01",
-   "src": "Bloomberg",
-   "t": "Venezuela, TotalEnergies Pave Way for Oil Company’s Return",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/venezuela-totalenergies-pave-way-for-oil-company-s-return",
-   "g": 1,
-   "t_ko": "베네수엘라, TotalEnergies가 석유 회사의 복귀 길을 열다",
-   "t_id": "Venezuela, TotalEnergies Membuka Jalan bagi Kembalinya Perusahaan Minyak"
-  },
-  {
-   "ts": "2026-09-20T09:00:00+07:00",
-   "date": "2026-09-20",
-   "time": "09:00",
-   "src": "Medcom",
-   "t": "<i>Fresh Graduate</i> Wajib Tahu, 4 Skill Bahasa yang Bisa Bikin CV Lebih Dilirik",
-   "tags": [],
-   "url": "https://www.medcom.id/ekonomi/bisnis/8N0X9oON-fresh-graduate-wajib-tahu-4-skill-bahasa-yang-bisa-bikin-cv-lebih-dilirik",
-   "img": "https://cdn.medcom.id/dynamic/content/2026/09/19/1843179/ZMxqAekcrI.jpg?w=720",
-   "t_ko": "<i>신입 졸업생</i>이 꼭 알아야 할, 이력서에 더 많은 관심을 끌 수 있는 4가지 언어 능력",
-   "t_id": "<i>Fresh Graduate</i> Wajib Tahu, 4 Skill Bahasa yang Bisa Bikin CV Lebih Dilirik"
-  },
-  {
-   "ts": "2026-09-20T08:37:00+07:00",
-   "date": "2026-09-20",
-   "time": "08:37",
-   "src": "Reuters",
-   "t": "Ed Sheeran calls Israel's treatment of Gazans 'unjustifiable,' apologizes for Macklemore controversy",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObjF0SWxoajFDdXhWT1U5M1QxbE9BXzJIT3dpVVhoUE51LUh2c3FBQ1IzQ3Y3Mm5mb25yWGZhbXRIUjhlZHNQUGUwdUE3OTRPSndaWk5SZ0tKY1d1Y08zNVZ1OWhnUTU1OXpuQnVyNkxBRVYyYTZQYkNsTTl5NzR6LWpsUWp0aEdUNnRfRTk2ZW82LUZia3VkRHJ5LVRqY3NXb3c0M29MM1VZZEVPNGt6cTFNNmY4Q3NMS0VlRjQ1NDZTT2NCTEl1Z1V4MW10Rmc?oc=5",
-   "g": 1,
-   "t_ko": "에드 시런(Ed Sheeran)은 가자지구에 대한 이스라엘의 대우는 '정당하지 않다'고 말하고 맥클모어 논란에 대해 사과했다.",
-   "t_id": "Ed Sheeran menyebut perlakuan Israel terhadap warga Gaza 'tidak dapat dibenarkan', dan meminta maaf atas kontroversi Macklemore"
-  },
-  {
-   "ts": "2026-09-20T08:34:00+07:00",
-   "date": "2026-09-20",
-   "time": "08:34",
-   "src": "Reuters",
-   "t": "China keeps benchmark lending rates unchanged for 16th month in September",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?oc=5",
-   "g": 1,
-   "t_ko": "중국, 9월 16개월간 기준금리 동결",
-   "t_id": "Tiongkok mempertahankan suku bunga pinjaman acuan tidak berubah selama 16 bulan pada bulan September"
-  },
-  {
-   "ts": "2026-09-20T08:30:00+07:00",
-   "date": "2026-09-20",
-   "time": "08:30",
-   "src": "Bloomberg Technoz",
-   "t": "OJK Resmi Cabut Izin Usaha BPR Pasaraya Kuta",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122121/ojk-resmi-cabut-izin-usaha-bpr-pasaraya-kuta",
-   "img": "https://images.bloombergtechnoz.com/data/2023/01/image-20230127143426.jpg",
-   "t_ko": "OJK, 공식적으로 BPR Pasaraya Kuta 사업 허가 취소",
-   "t_id": "OJK Resmi Cabut Izin Usaha BPR Pasaraya Kuta"
-  },
-  {
-   "ts": "2026-09-20T08:15:04+07:00",
-   "date": "2026-09-20",
-   "time": "08:15",
-   "src": "Detik",
-   "t": "Pesawat Militer Thailand hingga Korea Servisnya di Bandung",
-   "tags": [],
-   "url": "https://finance.detik.com/industri/d-8670430/pesawat-militer-thailand-hingga-korea-servisnya-di-bandung",
-   "g": 1,
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/19/pesawat-militer-thailand-hingga-korea-servisnya-di-bandung-1789820034536_169.jpeg?w=360&q=90",
-   "t_ko": "태국에서 한국으로 가는 군용기가 반둥에서 취항합니다",
-   "t_id": "Pesawat Militer Thailand hingga Korea Servisnya di Bandung"
-  },
-  {
-   "ts": "2026-09-20T08:15:00+07:00",
-   "date": "2026-09-20",
-   "time": "08:15",
-   "src": "Republika",
-   "t": "Zulhas Ungkap Biaya Jalur Mandiri Kampus Negeri Bisa Capai Rp 100 Juta",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tln01z423/zulhas-ungkap-biaya-jalur-mandiri-kampus-negeri-bisa-capai-rp-100-juta",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260919073520-596.png",
-   "t_ko": "Zulhas는 주립 캠퍼스의 독립 경로 비용이 IDR 1억에 도달할 수 있음을 밝혔습니다.",
-   "t_id": "Zulhas Ungkap Biaya Jalur Mandiri Kampus Negeri Bisa Capai Rp 100 Juta"
-  },
-  {
-   "ts": "2026-09-20T08:04:05+07:00",
-   "date": "2026-09-20",
-   "time": "08:04",
-   "src": "CNA",
-   "t": "Apple's Tim Cook sees Australia's social media curbs as 'world-leading', PM says",
-   "tags": [],
-   "url": "https://www.channelnewsasia.com/business/apples-tim-cook-sees-australias-social-media-curbs-world-leading-pm-says-6397131",
-   "g": 1,
-   "img": "https://dam.mediacorp.sg/image/upload/s--8SOgnhVE--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-20T010405Z_1_LYNXMPEM8J00F_RTROPTP_3_AUSTRALIA-SOCIALMEDIA-APPLE.JPG?itok=m3TEwB4n",
-   "t_ko": "Apple의 Tim Cook은 호주의 소셜 미디어 억제를 '세계 최고'라고 본다고 PM은 말합니다.",
-   "t_id": "Tim Cook dari Apple memandang pembatasan media sosial di Australia sebagai yang 'terdepan di dunia', kata PM"
   }
  ],
  "kisi_news": [
@@ -17709,15 +17710,15 @@
   },
   {
    "k": "CPO (MYR/t)",
-   "v": "4,898",
-   "d": 0.29,
-   "ytd": 20.94,
+   "v": "4,917",
+   "d": 0.68,
+   "ytd": 21.41,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/18 마지막 값 · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/18 nilai terakhir · Awal tahun 4,050"
   }
  ],
  "curve": {
@@ -23085,7 +23086,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 2361,
+  "pc_age_min": 2480,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23105,18 +23106,18 @@
  "top_day": "2026-09-20",
  "top_news": [
   {
-   "ts": "2026-09-20T09:46:17+07:00",
+   "ts": "2026-09-20T12:45:00+07:00",
    "date": "2026-09-20",
-   "time": "09:46",
-   "src": "Jawa Pos",
-   "t": "Naik 60 Persen! Bea Cukai Amankan 1,124 Miliar Batang Rokok Ilegal hingga Agustus 2026",
+   "time": "12:45",
+   "src": "IDX Channel",
+   "t": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
    "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609200127/naik-60-persen-bea-cukai-amankan-1124-miliar-batang-rokok-ilegal-hingga-agustus-2026",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/10/petugas-bea-cukai-menujukkan-barang-bukti-truk-tangki-air-yang-disegel-saat-pengungkapan-kasus-penyelundupan-batang-rokok-ilegal-di-semarang-jawa-tengah-senin-792026-A5LcX.webp",
-   "t_ko": "60% 상승! 관세청, 2026년 8월까지 11억 2,400만 개의 불법 담배를 압수",
-   "t_id": "Naik 60 Persen! Bea Cukai Amankan 1,124 Miliar Batang Rokok Ilegal hingga Agustus 2026",
-   "score": 406.65,
-   "srcs": 1
+   "url": "https://www.idxchannel.com/market-news/harga-cpo-naik-174-persen-sepekan-dibayangi-minyak-pesaing",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/05/25/CPO_sawit_-_Magnific_-_Freepik_25_Mei_26.jpeg",
+   "t_id": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
+   "t_ko": "CPO 가격은 경쟁사 원유에 비해 일주일에 1.74% 상승합니다.",
+   "score": 411.25,
+   "srcs": 2
   },
   {
    "ts": "2026-09-20T08:30:00+07:00",
@@ -23127,54 +23128,52 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122121/ojk-resmi-cabut-izin-usaha-bpr-pasaraya-kuta",
    "img": "https://images.bloombergtechnoz.com/data/2023/01/image-20230127143426.jpg",
-   "t_ko": "OJK, 공식적으로 BPR Pasaraya Kuta 사업 허가 취소",
-   "t_id": "OJK Resmi Cabut Izin Usaha BPR Pasaraya Kuta",
    "score": 406.05,
+   "srcs": 1,
+   "t_ko": "OJK, 공식적으로 BPR Pasaraya Kuta 사업 허가 취소",
+   "t_id": "OJK Resmi Cabut Izin Usaha BPR Pasaraya Kuta"
+  },
+  {
+   "ts": "2026-09-20T10:20:40+07:00",
+   "date": "2026-09-20",
+   "time": "10:20",
+   "src": "Jawa Pos",
+   "t": "Bea Cukai Gagalkan Penyelundupan 333,4 Kg Emas hingga September 2026",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609200164/bea-cukai-gagalkan-penyelundupan-3334-kg-emas-hingga-september-2026",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/17/StPEKGg1VA3QF2CzvzNHkGBen9GcUPCy7U2gni6f.webp",
+   "t_ko": "세관, 2026년 9월까지 333.4kg의 금 밀수입 실패",
+   "t_id": "Bea Cukai Gagalkan Penyelundupan 333,4 Kg Emas hingga September 2026",
+   "score": 405.95,
    "srcs": 1
   },
   {
-   "ts": "2026-09-19T21:17:01+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Bloomberg",
-   "t": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
-   "g": 1,
-   "score": 308.0,
-   "srcs": 1,
-   "t_ko": "SpaceX의 Nasdaq 100 가중치는 재조정에서 2.82%로 확인되었습니다.",
-   "t_id": "Bobot Nasdaq 100 SpaceX Dikonfirmasi pada 2,82% dalam Penyeimbangan Ulang"
-  },
-  {
-   "ts": "2026-09-20T11:00:00+07:00",
+   "ts": "2026-09-20T12:06:00+07:00",
    "date": "2026-09-20",
-   "time": "11:00",
-   "src": "IDX Channel",
-   "t": "Harga Minyak Dunia Beragam Sepekan, Brent Turun Tipis",
+   "time": "12:06",
+   "src": "Reuters",
+   "t": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals",
    "tags": [],
-   "url": "https://www.idxchannel.com/market-news/harga-minyak-dunia-beragam-sepekan-brent-turun-tipis",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
    "g": 1,
-   "img": "https://img.idxchannel.com/media/439/images/idx/2025/12/19/rigs_oil_minyak_kilang_-_18_des_25.jpg",
-   "t_id": "Harga Minyak Dunia Beragam Sepekan, Brent Turun Tipis",
-   "t_ko": "세계 유가는 일주일 동안 변동하며 브렌트유는 소폭 하락합니다.",
-   "score": 307.5,
+   "t_ko": "미국 재무부 베센트(Bessent), 중국 허(He), AI, 무역, 중요 광물에 관한 회담 시작",
+   "t_id": "Menteri Keuangan AS Disetujui, Menteri Keuangan Tiongkok He akan meluncurkan pembicaraan mengenai AI, perdagangan, dan mineral penting",
+   "score": 307.0,
    "srcs": 1
   },
   {
-   "ts": "2026-09-20T02:36:00+07:00",
+   "ts": "2026-09-20T10:30:05+07:00",
    "date": "2026-09-20",
-   "time": "02:36",
-   "src": "CNA",
-   "t": "US Treasury's Bessent, China's He to meet on Sunday at JPMorgan headquarters",
+   "time": "10:30",
+   "src": "Detik",
+   "t": "Laporan Keuangan Danantara Mulai Diperiksa BPK",
    "tags": [],
-   "url": "https://www.channelnewsasia.com/business/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-6396966",
-   "g": 1,
-   "img": "https://dam.mediacorp.sg/image/upload/s--pnSd4RiY--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-19T183406Z_1_LYNXMPEM8I0FR_RTROPTP_3_USA-CHINA-BESSENT.JPG?itok=1vyJNrWy",
-   "score": 306.5,
-   "srcs": 1,
-   "t_ko": "미국 재무부 베센트와 중국 허 총리가 일요일 JP모건 본사에서 만날 예정이다.",
-   "t_id": "Menteri Keuangan AS Disetujui, Menteri Keuangan Tiongkok He akan bertemu pada hari Minggu di kantor pusat JPMorgan"
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670765/laporan-keuangan-danantara-mulai-diperiksa-bpk",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2025/07/01/wisma-danantara-indonesia-1751345496063_169.jpeg?w=360&q=90",
+   "t_ko": "Danantara 재무 보고서, BPK의 조사 시작",
+   "t_id": "Laporan Keuangan Danantara Mulai Diperiksa BPK",
+   "score": 213.45,
+   "srcs": 3
   }
  ],
  "daylog": {
@@ -23721,20 +23720,6 @@
   "2026-09-19": {
    "news": [
     {
-     "t": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
-     "ko": "SpaceX의 Nasdaq 100 가중치는 재조정에서 2.82%로 확인되었습니다.",
-     "id": "Bobot Nasdaq 100 SpaceX Dikonfirmasi pada 2,82% dalam Penyeimbangan Ulang",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "Bloomberg",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
-     "time": "09/19",
-     "tags": [],
-     "sc": 308.0,
-     "slot": "global",
-     "q": 85
-    },
-    {
      "t": "UBS AG Lepas 1,19 Juta Saham CPIN",
      "ko": "UBS AG, CPIN 주식 119만주 매각",
      "id": "UBS AG Lepas 1,19 Juta Saham CPIN",
@@ -23771,14 +23756,14 @@
   "2026-09-20": {
    "news": [
     {
-     "t": "China keeps benchmark lending rates unchanged for 16th month in September",
-     "ko": "중국, 9월 16개월간 기준금리 동결",
-     "id": "Tiongkok mempertahankan suku bunga pinjaman acuan tidak berubah selama 16 bulan pada bulan September",
+     "t": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals",
+     "ko": "미국 재무부 베센트(Bessent), 중국 허(He), AI, 무역, 중요 광물에 관한 회담 시작",
+     "id": "Menteri Keuangan AS Disetujui, Menteri Keuangan Tiongkok He akan meluncurkan pembicaraan mengenai AI, perdagangan, dan mineral penting",
      "ai_ko": "",
      "ai_id": "",
      "src": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVDU1MlBxV3pIckRnemgzc1dvTlVHRUJOWkh4M2JQTElsR19PUW9FYVV4ME5ScDlyREdSOTI5QlRDSkNiMlRDTHBTaVJBOFRjblBzRnZfSHVYMFljYTRVQzJSMXFFWTEtU2xUNDVIV1NHclBwd0tWWjd0Vlk1RFdRZDVUVUFNS2pSRW55LTY2b0R0b1pBTkpEVm0yMllGYUlKVkQ0bmJZcVJYcUg0RGotdVJWTlB0NWJYTTdj?oc=5",
-     "time": "08:34",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
+     "time": "12:06",
      "tags": [],
      "sc": 309.0,
      "slot": "global",
@@ -23801,16 +23786,16 @@
      "q": 59
     },
     {
-     "t": "Naik 60 Persen! Bea Cukai Amankan 1,124 Miliar Batang Rokok Ilegal hingga Agustus 2026",
-     "ko": "60% 상승! 관세청, 2026년 8월까지 11억 2,400만 개의 불법 담배를 압수",
-     "id": "Naik 60 Persen! Bea Cukai Amankan 1,124 Miliar Batang Rokok Ilegal hingga Agustus 2026",
+     "t": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
+     "ko": "CPO 가격은 경쟁사 원유에 비해 일주일에 1.74% 상승합니다.",
+     "id": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Jawa Pos",
-     "url": "https://www.jawapos.com/ekonomi/2609200127/naik-60-persen-bea-cukai-amankan-1124-miliar-batang-rokok-ilegal-hingga-agustus-2026",
-     "time": "09:46",
+     "src": "IDX Channel",
+     "url": "https://www.idxchannel.com/market-news/harga-cpo-naik-174-persen-sepekan-dibayangi-minyak-pesaing",
+     "time": "12:45",
      "tags": [],
-     "sc": 413.8,
+     "sc": 411.8,
      "slot": "macro",
      "q": 93
     }
@@ -41681,6 +41666,31 @@
  ],
  "catalyst": [
   {
+   "t": "BYAN",
+   "n": "Bayan Resources",
+   "px": 13825.0,
+   "pct": 19.96,
+   "val": 155587575000.0,
+   "mcap": 460833356375000.0,
+   "ratio": 6.9,
+   "ev_ko": "인허가·생산차질",
+   "ev_id": "Izin & produksi",
+   "hl": "무디스, 불가항력 상황 발표 후 BYAN 전망 부정적으로 하향",
+   "hl_id": "Moody's Pangkas Outlook BYAN Jadi Negatif Usai Umumkan Kondisi Kahar",
+   "url": "https://finance.detik.com/bursa-dan-valas/d-8670935/moodys-pangkas-outlook-byan-jadi-negatif-usai-umumkan-kondisi-kahar",
+   "score": 98.1,
+   "s_news": 98,
+   "s_size": 92,
+   "s_surge": 100,
+   "s_move": 100,
+   "s_conc": 100,
+   "s_flow": 100,
+   "alpha": 20.29,
+   "vrank": 24,
+   "flow": -22.84,
+   "srcs": 1
+  },
+  {
    "t": "ULTJ",
    "n": "Ultrajaya Milk Industry & Trading Company",
    "px": 2060.0,
@@ -41828,31 +41838,6 @@
    "alpha": 4.18,
    "vrank": null,
    "flow": -0.75,
-   "srcs": 0
-  },
-  {
-   "t": "BYAN",
-   "n": "Bayan Resources",
-   "px": 13825.0,
-   "pct": 19.96,
-   "val": 155587575000.0,
-   "mcap": 460833356375000.0,
-   "ratio": 6.9,
-   "ev_ko": "가격·수급 이상",
-   "ev_id": "Harga & arus dana",
-   "hl": "시장 대비 +20.29%p · 거래대금 24위 · 20일 평균 6.9배 · 외국인 5일 -22.8%",
-   "hl_id": "vs pasar +20.29%p · nilai transaksi #24 · 6.9x rata 20 hari · asing 5 hari -22.8%",
-   "url": "",
-   "score": 68.7,
-   "s_news": 0,
-   "s_size": 92,
-   "s_surge": 100,
-   "s_move": 100,
-   "s_conc": 100,
-   "s_flow": 100,
-   "alpha": 20.29,
-   "vrank": 24,
-   "flow": -22.84,
    "srcs": 0
   },
   {

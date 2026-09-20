@@ -1,8 +1,8 @@
 {
  "mode": "live",
- "updated": "2026-09-20 18:12",
+ "updated": "2026-09-20 20:13",
  "delay_min": 15,
- "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 18:12 Yahoo",
+ "fx_basis": "12.81 IDR/KRW · USD/IDR 17,735 · USD/KRW 1,385 · 20:13 Yahoo",
  "idr_per_krw": 12.8051,
  "indices": [
   {
@@ -141,13 +141,13 @@
   "prev": 6462.43,
   "ytd": -25.51,
   "m1": -0.13,
-  "value_idr": 17282285652700.008,
+  "value_idr": 17282242464700.008,
   "volume": null,
   "value_src": "yahoo",
-  "rank_src": "Yahoo 15분 지연 · 829종목 · 종가 · 외국인·공시 PC 09-18 20:52",
+  "rank_src": "Yahoo 15분 지연 · 828종목 · 종가 · 외국인·공시 PC 09-18 20:52",
   "rank_asof": null,
   "rank_date": "2026-09-18",
-  "adv": 212,
+  "adv": 211,
   "dec": 464,
   "unch": 153,
   "foreign_net_idr": 157062291789.93994,
@@ -12246,22 +12246,6 @@
    "live": 0
   },
   {
-   "t": "BESS",
-   "n": "Batulicin Nusantara Maritim",
-   "px": 920.0,
-   "prev": 895.0,
-   "pct": 2.79,
-   "val": 43188000.0,
-   "vol": 47200.0,
-   "sh": 3440455528,
-   "mcap": 3165219085760.0,
-   "hi": 930.0,
-   "lo": 895.0,
-   "ratio": 0.1,
-   "fnet": -717043.4782608696,
-   "live": 0
-  },
-  {
    "t": "CLAY",
    "n": "Citra Putra Realty",
    "px": 2740.0,
@@ -14442,11 +14426,11 @@
   {
    "name": "에너지",
    "name_id": "Energi",
-   "n": 76,
-   "adv": 26,
+   "n": 75,
+   "adv": 25,
    "dec": 35,
-   "val": 3355684108600.0,
-   "mcap": 1611640875685419.0,
+   "val": 3355640920600.0,
+   "mcap": 1608475656599659.0,
    "top": [
     {
      "t": "BYAN",
@@ -14489,8 +14473,8 @@
      "pct": -4.26
     }
    ],
-   "fnet": 107964547960,
-   "pct": 4.22,
+   "fnet": 107965265003,
+   "pct": 4.23,
    "fbuy_top": [
     {
      "t": "DSSA",
@@ -16341,6 +16325,19 @@
  },
  "news": [
   {
+   "ts": "2026-09-20T19:08:00+07:00",
+   "date": "2026-09-20",
+   "time": "19:08",
+   "src": "Media Indonesia",
+   "t": "Pengembangan Ekosistem Pendidikan Tinggi Dorong Penguatan Kolaborasi Perbankan",
+   "tags": [
+    "BBNI"
+   ],
+   "url": "https://mediaindonesia.com/ekonomi/935497/pengembangan-ekosistem-pendidikan-tinggi-dorong-penguatan-kolaborasi-perbankan",
+   "t_ko": "고등 교육 생태계의 발전으로 은행 협력 강화가 촉진됩니다.",
+   "t_id": "Pengembangan Ekosistem Pendidikan Tinggi Dorong Penguatan Kolaborasi Perbankan"
+  },
+  {
    "ts": "2026-09-20T15:00:42+07:00",
    "date": "2026-09-20",
    "time": "15:00",
@@ -16537,20 +16534,6 @@
    "t_id": "Solusi Bangun Indonesia Pangkas Pengambilan Air Baku hingga 45 Persen pada 2025"
   },
   {
-   "ts": "2026-09-19T12:00:01+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Detik",
-   "t": "ADHI Karya Perkuat Transformasi Bisnis Inti, Fokus Engineering-Konstruksi",
-   "tags": [
-    "ADHI"
-   ],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8669799/adhi-karya-perkuat-transformasi-bisnis-inti-fokus-engineering-konstruksi",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/19/teken-mra-adhi-karya-masuki-tahap-implementasi-kerangka-restrukturisasi-1789792628751_169.jpeg?w=360&q=90",
-   "t_ko": "ADHI Karya, 핵심 비즈니스 혁신 강화, 엔지니어링-건설에 집중",
-   "t_id": "ADHI Karya Perkuat Transformasi Bisnis Inti, Fokus Engineering-Konstruksi"
-  },
-  {
    "ts": "2026-09-19T06:02:41+07:00",
    "date": "2026-09-19",
    "time": "09/19",
@@ -16563,21 +16546,6 @@
    "img": "https://cdn0-production-images-kly.akamaized.net/kzzBGSTmGmANzJZhAXRiTDWCZPQ=/488x0:3309x1589/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-gray-landscape-new.png,573,20,0)/kly-media-production/medias/1040537/original/091207600_1446442504-20151102-IHSG-Masih-Berkutat-di-Zona-Merah-Jakarta4.jpg",
    "t_ko": "SILO 발행자는 14개 병원 회사를 인수할 예정",
    "t_id": "Emiten SILO Bakal Akuisisi 14 Perusahaan Rumah Sakit"
-  },
-  {
-   "ts": "2026-09-18T21:40:00+07:00",
-   "date": "2026-09-18",
-   "time": "09/18",
-   "src": "IDNFinancials",
-   "t": "Emtek adds shares in JECX for two days",
-   "tags": [
-    "INPS",
-    "JECX"
-   ],
-   "url": "https://www.idnfinancials.com/news/69088/emtek-adds-shares-in-jecx-for-two-days",
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/JECX-03092026.jpg",
-   "t_ko": "Emtek, JECX 주식 이틀간 추가 매수",
-   "t_id": "Emtek Tambah Saham di JECX Selama Dua Hari"
   },
   {
    "ts": "2026-09-18T19:56:37+07:00",
@@ -16947,6 +16915,288 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-20T20:10:00.410856+07:00",
+   "date": "2026-09-20",
+   "time": "20:10",
+   "src": "Jawa Pos",
+   "t": "IHSG Turun 1,53 Persen ke Level 6.441 Selama Sepekan, Kapitalisasi Pasar Terkikis",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609200271/ihsg-turun-153-persen-ke-level-6441-selama-sepekan-kapitalisasi-pasar-terkikis",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/07/29/5Aa3XAfTScIk3UmL9yf7lIPnaNBX0vyf9PlIcLjT.webp",
+   "t_ko": "JCI, 이번 주 동안 1.53% 하락해 6,441레벨, 시가총액 하락",
+   "t_id": "IHSG Turun 1,53 Persen ke Level 6.441 Selama Sepekan, Kapitalisasi Pasar Terkikis"
+  },
+  {
+   "ts": "2026-09-20T20:02:01+07:00",
+   "date": "2026-09-20",
+   "time": "20:02",
+   "src": "Jawa Pos",
+   "t": "Kemenperin Genjot Indonesia jadi Pusat Industri Pangan Global, Targetkan Ekspor Mamin USD 83,08 Mili",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609200261/kemenperin-genjot-indonesia-jadi-pusat-industri-pangan-global-targetkan-ekspor-mamin-usd-8308-mili",
+   "g": 1,
+   "img": "https://cdn-assets.jawapos.com/images/1/2025/08/26/bb6e754c-30d6-4eeb-be45-203226d628f9-4080631400.jpg",
+   "t_ko": "산업부, 인도네시아를 글로벌 식품 산업의 중심지로 육성하고 830억 8천만 달러의 식품 수출 목표",
+   "t_id": "Kemenperin Genjot Indonesia jadi Pusat Industri Pangan Global, Targetkan Ekspor Mamin USD 83,08 Mili"
+  },
+  {
+   "ts": "2026-09-20T20:00:00+07:00",
+   "date": "2026-09-20",
+   "time": "20:00",
+   "src": "MarketWatch",
+   "t": "Record diesel prices are exposing pain points in the stock market and economy",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-25666926",
+   "t_ko": "기록적인 디젤 가격은 주식 시장과 경제의 문제점을 노출시키고 있습니다.",
+   "t_id": "Rekor harga solar memperlihatkan kelemahan di pasar saham dan perekonomian"
+  },
+  {
+   "ts": "2026-09-20T19:31:00+07:00",
+   "date": "2026-09-20",
+   "time": "19:31",
+   "src": "MarketWatch",
+   "t": "Midterm voters are overwhelmingly worried about the national debt. But only small fixes are expected this year.",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/midterm-voters-are-overwhelmingly-worried-about-the-national-debt-but-only-small-fixes-are-expected-this-year-758d364e?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-54620893",
+   "t_ko": "중간선거 유권자들은 국가채무에 대한 걱정이 압도적이다. 그러나 올해는 작은 수정만 예상됩니다.",
+   "t_id": "Para pemilih paruh waktu sangat khawatir dengan utang negara. Namun hanya perbaikan kecil yang diharapkan terjadi tahun ini."
+  },
+  {
+   "ts": "2026-09-20T19:30:26+07:00",
+   "date": "2026-09-20",
+   "time": "19:30",
+   "src": "Detik",
+   "t": "Tol Palembang-Betung Ditargetkan Operasi Kuartal I 2027",
+   "tags": [],
+   "url": "https://finance.detik.com/infrastruktur/d-8671275/tol-palembang-betung-ditargetkan-operasi-kuartal-i-2027",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/07/26/progres-pembangunan-jembatan-musi-v-di-tol-palembang-betung-1785061936752_169.jpeg?w=360&q=90",
+   "t_ko": "팔렘방-베퉁 유료도로 2027년 1분기 개통 목표",
+   "t_id": "Tol Palembang-Betung Ditargetkan Operasi Kuartal I 2027"
+  },
+  {
+   "ts": "2026-09-20T19:30:13+07:00",
+   "date": "2026-09-20",
+   "time": "19:30",
+   "src": "Bloomberg",
+   "t": "Global Conflicts Shape High Stakes UN Meetings",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-20/global-conflicts-shape-high-stakes-un-meetings-video",
+   "g": 1,
+   "t_ko": "글로벌 갈등으로 인해 UN 회의가 큰 위험에 처해 있음",
+   "t_id": "Konflik Global Mempengaruhi Pertemuan PBB yang Beresiko Tinggi"
+  },
+  {
+   "ts": "2026-09-20T19:30:00+07:00",
+   "date": "2026-09-20",
+   "time": "19:30",
+   "src": "Bloomberg",
+   "t": "EM Investors Are Favoring Local Bonds as Dollar Debt Lags",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-20/em-investors-are-favoring-local-bonds-as-dollar-debt-lags",
+   "g": 1,
+   "t_ko": "신흥국 투자자들은 달러 부채가 지체됨에 따라 현지 채권을 선호하고 있습니다.",
+   "t_id": "Investor negara berkembang lebih memilih obligasi lokal karena utang dolar melemah"
+  },
+  {
+   "ts": "2026-09-20T19:22:00+07:00",
+   "date": "2026-09-20",
+   "time": "19:22",
+   "src": "Media Indonesia",
+   "t": "Pemerintah Nyatakan Utang BLBI Lunas, Suahasil: Ini Prestasi Kita",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935503/pemerintah-nyatakan-utang-blbi-lunas-suahasil-ini-prestasi-kita",
+   "t_id": "Pemerintah Nyatakan Utang BLBI Lunas, Suahasil: Ini Prestasi Kita",
+   "t_ko": "정부, BLBI 부채 지불 선언, Suahasil: 이것이 우리의 성과입니다"
+  },
+  {
+   "ts": "2026-09-20T19:01:35+07:00",
+   "date": "2026-09-20",
+   "time": "19:01",
+   "src": "CNBC",
+   "t": "Top Wall Street analysts find these 3 stocks attractive as long-term investments",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/20/top-wall-street-analysts-find-these-3-stocks-attractive-as-long-term-investments.html",
+   "g": 1,
+   "t_ko": "월스트리트의 최고 분석가들은 이 3가지 주식이 장기 투자로서 매력적이라고 ​​생각합니다.",
+   "t_id": "Analis papan atas Wall Street menilai 3 saham ini menarik sebagai investasi jangka panjang"
+  },
+  {
+   "ts": "2026-09-20T19:00:01+07:00",
+   "date": "2026-09-20",
+   "time": "19:00",
+   "src": "CNBC",
+   "t": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
+   "g": 1,
+   "t_ko": "침체된 주택시장 속에서 윌리엄스-소노마의 주가가 급등했다. 월스트리트에서 승리한 방법은 다음과 같습니다.",
+   "t_id": "Saham Williams-Sonoma melonjak di tengah lesunya pasar perumahan. Inilah cara mereka memenangkan Wall Street"
+  },
+  {
+   "ts": "2026-09-20T19:00:01+07:00",
+   "date": "2026-09-20",
+   "time": "19:00",
+   "src": "CNBC",
+   "t": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
+   "g": 1,
+   "t_ko": "저가 항공사의 왕 빌 프랭케(Bill Franke)가 일등석 좌석과 프리미엄 업그레이드를 환영합니다.",
+   "t_id": "Raja maskapai penerbangan hemat, Bill Franke, menerima kursi kelas satu dan peningkatan premium"
+  },
+  {
+   "ts": "2026-09-20T19:00:00+07:00",
+   "date": "2026-09-20",
+   "time": "19:00",
+   "src": "MarketWatch",
+   "t": "China is chasing SpaceX and setting its sights on the global space economy",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-25340089",
+   "t_ko": "중국은 SpaceX를 쫓아 글로벌 우주 경제에 눈을 돌리고 있습니다.",
+   "t_id": "Tiongkok mengejar SpaceX dan mengarahkan perhatiannya pada ekonomi luar angkasa global"
+  },
+  {
+   "ts": "2026-09-20T19:00:00+07:00",
+   "date": "2026-09-20",
+   "time": "19:00",
+   "src": "IDNFinancials",
+   "t": "US auto industry urges Trump to block Chinese cars ahead of Xi meeting",
+   "tags": [],
+   "url": "https://www.idnfinancials.com/news/69101/us-auto-industry-urges-trump-to-block-chinese-cars-ahead-of-xi-meeting",
+   "g": 1,
+   "img": "https://photos.idnfinancials.com/_idn/2025/OTOMOTIF.png",
+   "t_ko": "미국 자동차 업계, 시 회담 앞두고 트럼프에 중국차 차단 촉구",
+   "t_id": "Industri otomotif AS mendesak Trump untuk memblokir mobil Tiongkok menjelang pertemuan Xi"
+  },
+  {
+   "ts": "2026-09-20T18:59:45+07:00",
+   "date": "2026-09-20",
+   "time": "18:59",
+   "src": "CNBC",
+   "t": "Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
+   "g": 1,
+   "t_ko": "카루소-카브레라: 라틴 아메리카의 투자 순풍은 수십 년 만에 최고입니다",
+   "t_id": "Caruso-Cabrera: Dorongan investasi di Amerika Latin adalah yang terbaik dalam beberapa dekade"
+  },
+  {
+   "ts": "2026-09-20T18:58:50+07:00",
+   "date": "2026-09-20",
+   "time": "18:58",
+   "src": "FT",
+   "t": "CATL develops pick-up truck batteries for US despite trade barriers",
+   "tags": [],
+   "url": "https://www.ft.com/content/bfe6fc60-51b3-41f0-b6c9-32583735150e?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffd79ed03-3826-475a-a0df-c582496f6b7d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "CATL, 무역 장벽에도 불구하고 미국용 픽업트럭 배터리 개발",
+   "t_id": "CATL mengembangkan baterai truk pick-up untuk AS meskipun ada hambatan perdagangan"
+  },
+  {
+   "ts": "2026-09-20T18:34:19+07:00",
+   "date": "2026-09-20",
+   "time": "18:34",
+   "src": "Jawa Pos",
+   "t": "BPK Mulai Periksa Laporan Keuangan Konsolidasian BPI Danantara 2025",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609200231/bpk-mulai-periksa-laporan-keuangan-konsolidasian-bpi-danantara-2025",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/06/12/petugas-berjaga-di-depan-logo-danantara-di-jakarta-kamis-1162026-salman-toyibijawa-pos-yFqHP.webp",
+   "t_ko": "BPK, BPI Danantara의 2025년 연결 재무 보고서 검토 시작",
+   "t_id": "BPK Mulai Periksa Laporan Keuangan Konsolidasian BPI Danantara 2025"
+  },
+  {
+   "ts": "2026-09-20T18:32:27+07:00",
+   "date": "2026-09-20",
+   "time": "18:32",
+   "src": "FT",
+   "t": "Ukraine hits Moscow with ‘largest ever’ drone attack",
+   "tags": [],
+   "url": "https://www.ft.com/content/2b6f1b4b-4010-4e95-8b5c-dfb2e32cd7ae?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F48b5da06-cd09-4b0e-b883-b6ff4c831e39.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "우크라이나, 모스크바에 '역대 최대' 드론 공격",
+   "t_id": "Ukraina menyerang Moskow dengan serangan drone ‘terbesar yang pernah ada’"
+  },
+  {
+   "ts": "2026-09-20T18:30:57+07:00",
+   "date": "2026-09-20",
+   "time": "18:30",
+   "src": "Detik",
+   "t": "Bursa Vietnam Mau Naik Kelas, Arus Modal Asing Diperkirakan Tembus Rp 106 T",
+   "tags": [],
+   "url": "https://finance.detik.com/bursa-dan-valas/d-8671246/bursa-vietnam-mau-naik-kelas-arus-modal-asing-diperkirakan-tembus-rp-106-t",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/06/04/ihsg-terpuruk-kekhawatiran-pasar-meningkat-1780558039793_169.jpeg?w=360&q=90",
+   "t_id": "Bursa Vietnam Mau Naik Kelas, Arus Modal Asing Diperkirakan Tembus Rp 106 T",
+   "t_ko": "베트남 증권거래소는 업그레이드를 원하며 외국 자본 흐름은 IDR 106 T에 도달할 것으로 예상됩니다"
+  },
+  {
+   "ts": "2026-09-20T18:29:00+07:00",
+   "date": "2026-09-20",
+   "time": "18:29",
+   "src": "Media Indonesia",
+   "t": "Tak Cukup Copot Dirjen Hubla, Komisi V Minta Evaluasi Menyeluruh Keselamatan Pelayaran",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935486/tak-cukup-copot-dirjen-hubla-komisi-v-minta-evaluasi-menyeluruh-keselamatan-pelayaran",
+   "t_ko": "교통국장 해임만으로는 부족해 5위원회, 해상안전 종합평가 요구",
+   "t_id": "Tak Cukup Copot Dirjen Hubla, Komisi V Minta Evaluasi Menyeluruh Keselamatan Pelayaran"
+  },
+  {
+   "ts": "2026-09-20T18:26:58+07:00",
+   "date": "2026-09-20",
+   "time": "18:26",
+   "src": "Jawa Pos",
+   "t": "Road to Pertamina Eco RunFest 2026: Mengajak Masyarakat Wujudkan Aksi Nyata Jaga Lingkungan",
+   "tags": [],
+   "url": "https://www.jawapos.com/energi/2609200347/road-to-pertamina-eco-runfest-2026-mengajak-masyarakat-wujudkan-aksi-nyata-jaga-lingkungan",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/20/kegiatan-plogging-mission-atau-angkut-sampah-plastik-dilakukan-bersama-perwakilan-siswa-dari-10-sekolah-di-dki-jakarta-dok-pertamina-ulHQD.webp",
+   "t_ko": "Pertamina Eco RunFest 2026으로 가는 길: 지역 사회가 환경 보호를 위한 실질적인 조치를 취하도록 초대",
+   "t_id": "Road to Pertamina Eco RunFest 2026: Mengajak Masyarakat Wujudkan Aksi Nyata Jaga Lingkungan"
+  },
+  {
+   "ts": "2026-09-20T18:25:08+07:00",
+   "date": "2026-09-20",
+   "time": "18:25",
+   "src": "CNBC",
+   "t": "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
+   "g": 1,
+   "t_ko": "엔비디아 CEO 젠슨 황(Jensen Huang)이 AI 안전 논쟁에서 트럼프의 최고 동맹자로 등장했습니다.",
+   "t_id": "CEO Nvidia Jensen Huang muncul sebagai sekutu utama Trump dalam perdebatan keamanan AI"
+  },
+  {
+   "ts": "2026-09-20T18:21:34+07:00",
+   "date": "2026-09-20",
+   "time": "18:21",
+   "src": "BBC",
+   "t": "Lib Dems vow to end 'computer says no' economy to boost growth",
+   "tags": [],
+   "url": "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
+   "g": 1,
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c80/live/a36260c0-b4e5-11f1-88d0-9b6aa3313295.png",
+   "t_ko": "자유민주당, 성장 촉진을 위해 '컴퓨터가 안된다'는 경제 종식 선언",
+   "t_id": "Lib Dems berjanji untuk mengakhiri perekonomian 'komputer mengatakan tidak' untuk meningkatkan pertumbuhan"
+  },
+  {
+   "ts": "2026-09-20T18:15:10+07:00",
+   "date": "2026-09-20",
+   "time": "18:15",
+   "src": "Bloomberg",
+   "t": "China Names Li Chenggang Its Top International Trade Negotiator",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-20/china-names-li-chenggang-its-top-international-trade-negotiator",
+   "g": 1,
+   "t_ko": "중국, 리청강(Li Chenggang)을 최고 국제 무역 협상가로 임명",
+   "t_id": "Tiongkok Menunjuk Li Chenggang Sebagai Negosiator Perdagangan Internasional Utamanya"
+  },
+  {
    "ts": "2026-09-20T18:04:48+07:00",
    "date": "2026-09-20",
    "time": "18:04",
@@ -16967,8 +17217,8 @@
    "tags": [],
    "url": "https://www.liputan6.com/saham/read/8295433/vietnam-naik-kelas-jadi-secondary-emerging-market-dana-asing-mulai-masuk",
    "img": "https://cdn0-production-images-kly.akamaized.net/0mkx2n_uNX3s4TLbe4iVSYWXEdw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5077262/original/089831000_1735963738-000_36RX9HD.jpg",
-   "t_id": "Vietnam Naik Kelas Jadi Secondary Emerging Market, Dana Asing Mulai Masuk",
-   "t_ko": "베트남, 2차 신흥시장으로 업그레이드, 외국자금 유입 시작"
+   "t_ko": "베트남, 2차 신흥시장으로 업그레이드, 외국자금 유입 시작",
+   "t_id": "Vietnam Naik Kelas Jadi Secondary Emerging Market, Dana Asing Mulai Masuk"
   },
   {
    "ts": "2026-09-20T17:43:00+07:00",
@@ -16978,20 +17228,8 @@
    "t": "Tata Kelola dan Manajemen Risiko Jadi Fondasi Ketahanan Bisnis Energi",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/935475/tata-kelola-dan-manajemen-risiko-jadi-fondasi-ketahanan-bisnis-energi",
-   "t_id": "Tata Kelola dan Manajemen Risiko Jadi Fondasi Ketahanan Bisnis Energi",
-   "t_ko": "거버넌스 및 위험 관리는 에너지 비즈니스 탄력성의 기초입니다."
-  },
-  {
-   "ts": "2026-09-20T17:41:42+07:00",
-   "date": "2026-09-20",
-   "time": "17:41",
-   "src": "Bloomberg",
-   "t": "Tata’s Rival Camps Lawyer Up Ahead of Looming Legal Battle",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/tata-s-rival-camps-lawyer-up-ahead-of-looming-legal-battle",
-   "g": 1,
-   "t_ko": "다가오는 법적 싸움을 앞두고 타타의 라이벌 캠프 변호사",
-   "t_id": "Saingan Tata Mengumpulkan Pengacara Menjelang Pertarungan Hukum yang Akan Terjadi"
+   "t_ko": "거버넌스 및 위험 관리는 에너지 비즈니스 탄력성의 기초입니다.",
+   "t_id": "Tata Kelola dan Manajemen Risiko Jadi Fondasi Ketahanan Bisnis Energi"
   },
   {
    "ts": "2026-09-20T17:30:31+07:00",
@@ -17018,19 +17256,6 @@
    "t_id": "Bea Cukai Gagalkan Penyelundupan 333,4 Kg Emas hingga September 2026"
   },
   {
-   "ts": "2026-09-20T17:00:03+07:00",
-   "date": "2026-09-20",
-   "time": "17:00",
-   "src": "FT",
-   "t": "US retailer rations motor oil as prices quadruple and supplies run dry",
-   "tags": [],
-   "url": "https://www.ft.com/content/64f90ab8-5fb0-4594-a900-d03e5ca051e3?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F90d16c93-0c52-4539-8408-a78cbb998f11.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "가격이 4배로 오르고 공급이 고갈됨에 따라 미국 소매업체는 모터 오일을 배급합니다.",
-   "t_id": "Pengecer AS menjatah oli motor karena harga naik empat kali lipat dan persediaan menipis"
-  },
-  {
    "ts": "2026-09-20T16:46:17+07:00",
    "date": "2026-09-20",
    "time": "16:46",
@@ -17041,57 +17266,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/10/petugas-bea-cukai-menujukkan-barang-bukti-truk-tangki-air-yang-disegel-saat-pengungkapan-kasus-penyelundupan-batang-rokok-ilegal-di-semarang-jawa-tengah-senin-792026-A5LcX.webp",
    "t_ko": "60% 상승! 관세청, 2026년 8월까지 11억 2,400만 개의 불법 담배를 압수",
    "t_id": "Naik 60 Persen! Bea Cukai Amankan 1,124 Miliar Batang Rokok Ilegal hingga Agustus 2026"
-  },
-  {
-   "ts": "2026-09-20T16:32:50+07:00",
-   "date": "2026-09-20",
-   "time": "16:32",
-   "src": "BBC",
-   "t": "Ed Davey calls for immediate 10p cut to fuel duty",
-   "tags": [],
-   "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
-   "g": 1,
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a664/live/49258400-b4e2-11f1-bc1f-3f186ca4140c.jpg",
-   "t_ko": "Ed Davey는 연료세를 즉시 10포인트 인하할 것을 요구합니다.",
-   "t_id": "Ed Davey menyerukan pemotongan 10p untuk biaya bahan bakar segera"
-  },
-  {
-   "ts": "2026-09-20T16:30:39+07:00",
-   "date": "2026-09-20",
-   "time": "16:30",
-   "src": "Detik",
-   "t": "Bursa Kripto Iran Kena Sanksi AS, Danai IRGC-Pungut Tarif Selat Hormuz",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671092/bursa-kripto-iran-kena-sanksi-as-danai-irgc-pungut-tarif-selat-hormuz",
-   "g": 1,
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/02/di-bawah-bayang-bayang-trump-ketegangan-iran-as-kembali-memanas-1788341706357_169.jpeg?w=360&q=90",
-   "t_ko": "미국 제재 대상 이란 암호화폐 거래소, IRGC 자금 지원 - 호르무즈 해협에 부과금 관세",
-   "t_id": "Bursa Kripto Iran Kena Sanksi AS, Danai IRGC-Pungut Tarif Selat Hormuz"
-  },
-  {
-   "ts": "2026-09-20T16:30:00+07:00",
-   "date": "2026-09-20",
-   "time": "16:30",
-   "src": "WSJ",
-   "t": "Why It’s So Hard to Work Out What the Bond Market Is Telling Us",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/investing/why-its-so-hard-to-work-out-what-the-bond-market-is-telling-us-aeac2d3a?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-93732985",
-   "t_ko": "채권시장이 우리에게 말하는 내용을 알아내는 것이 왜 그렇게 어려운가?",
-   "t_id": "Mengapa Sangat Sulit untuk Mengetahui Apa yang Dikatakan Pasar Obligasi kepada Kita"
-  },
-  {
-   "ts": "2026-09-20T16:30:00+07:00",
-   "date": "2026-09-20",
-   "time": "16:30",
-   "src": "Media Indonesia",
-   "t": "Korsel Klarifikasi Sikap soal Permintaan Trump Kirim Pasukan ke Selat Hormuz",
-   "tags": [],
-   "url": "https://mediaindonesia.com/internasional/935447/korsel-klarifikasi-sikap-soal-permintaan-trump-kirim-pasukan-ke-selat-hormuz",
-   "g": 1,
-   "t_id": "Korsel Klarifikasi Sikap soal Permintaan Trump Kirim Pasukan ke Selat Hormuz",
-   "t_ko": "한국 정부, 트럼프 대통령의 호르무즈 해협 파병 요구에 대해 입장 표명"
   },
   {
    "ts": "2026-09-20T16:10:49+07:00",
@@ -17114,8 +17288,8 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609200292/muhadjir-ungkap-strategi-kemandirian-ekonomi-muhammadiyah-dan-potensi-jejaring-bisnis",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/20/ketua-pp-muhammadiyah-prof-muhadjir-effendy-bersama-para-ketua-dan-perwakilan-pimpinan-wilayah-muhammadiyah-pwm-se-sumatera-di-bukittinggi-sumatera-barat-sabtu-2092026-aYnDM.webp",
-   "t_id": "Muhadjir Ungkap Strategi Kemandirian Ekonomi Muhammadiyah dan Potensi Jejaring Bisnis",
-   "t_ko": "Muhadjir, Muhammadiyah의 경제적 독립 전략과 비즈니스 네트워크 잠재력 공개"
+   "t_ko": "Muhadjir, Muhammadiyah의 경제적 독립 전략과 비즈니스 네트워크 잠재력 공개",
+   "t_id": "Muhadjir Ungkap Strategi Kemandirian Ekonomi Muhammadiyah dan Potensi Jejaring Bisnis"
   },
   {
    "ts": "2026-09-20T16:00:00+07:00",
@@ -17130,19 +17304,6 @@
    "t_id": "Presiden Prabowo Terima Bantuan Malaysia untuk Kebakaran Hutan"
   },
   {
-   "ts": "2026-09-20T15:35:04+07:00",
-   "date": "2026-09-20",
-   "time": "15:35",
-   "src": "Liputan6",
-   "t": "Harga Minyak dan Suku Bunga The Fed Jadi Sorotan Pekan Ini",
-   "tags": [],
-   "url": "https://www.liputan6.com/saham/read/8295401/harga-minyak-dan-suku-bunga-the-fed-jadi-sorotan-pekan-ini",
-   "g": 1,
-   "img": "https://cdn0-production-images-kly.akamaized.net/-9nEgaWQYCDXKCXLP0wObCfZxwI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4216934/original/094233100_1667793288-Wall-Street-3.jpg",
-   "t_ko": "이번 주에는 유가와 연준 금리가 주목을 받고 있습니다.",
-   "t_id": "Harga Minyak dan Suku Bunga The Fed Jadi Sorotan Pekan Ini"
-  },
-  {
    "ts": "2026-09-20T15:30:30+07:00",
    "date": "2026-09-20",
    "time": "15:30",
@@ -17153,18 +17314,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/08/15/kawasan-inti-pusat-pemerintahan-ibu-kota-nusantara-ikn-1786797746713_169.jpeg?w=360&q=90",
    "t_ko": "IKN 도로 프로젝트 Rp. 법무장관이 지키는 3조 9천억 명",
    "t_id": "Proyek Jalan IKN Rp 3,9 Triliun Dikawal Kejagung"
-  },
-  {
-   "ts": "2026-09-20T15:11:43+07:00",
-   "date": "2026-09-20",
-   "time": "15:11",
-   "src": "Reuters",
-   "t": "Saudi, Gulf stocks fall after Houthis claim Riyadh attacks",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnFXQ1lvNTg5TnJvazhfY3VXa0hrVms4RW1mdVBpR0k4QXZkempjX0h4Y2JIaGNvSm04YVJkTHRDTWpESVFDakhJMExiNGZSSktLcVFsM3VlM3ZibDQwVlE3czF4OEdLdXdnU0FPaUN1aHFLVWN3cW9uVHRTTDdDU1BNaUNMd3NQMlY5VGZPYzA5ODlMQi1rcWVDXzhFZHJWUF9tQjJqUUtzQW1yc0tYNw?oc=5",
-   "g": 1,
-   "t_ko": "후티 반군이 리야드 공격을 주장하자 사우디, 걸프 주가 하락",
-   "t_id": "Saham Saudi dan Teluk jatuh setelah Houthi mengklaim serangan di Riyadh"
   },
   {
    "ts": "2026-09-20T15:06:00+07:00",
@@ -17201,191 +17350,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/20/transmart-full-day-sale-1789872098525_169.png?w=360&q=90",
    "t_ko": "Transmart 종일 세일에서 식음료 용품 가격 인하",
    "t_id": "Alat Makan & Minum Banting Harga di Transmart Full Day Sale"
-  },
-  {
-   "ts": "2026-09-20T15:00:00+07:00",
-   "date": "2026-09-20",
-   "time": "15:00",
-   "src": "Bloomberg",
-   "t": "Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints",
-   "g": 1,
-   "t_ko": "엔화는 BOJ의 실망 이후 휴일에 일본에 취약하다",
-   "t_id": "Yen Rentan Saat Jepang Berlibur Setelah BoJ Kecewa"
-  },
-  {
-   "ts": "2026-09-20T14:56:15+07:00",
-   "date": "2026-09-20",
-   "time": "14:56",
-   "src": "Jawa Pos",
-   "t": "Rupiah Berpotensi Tertekan hingga Rp18.000 per Dolar AS, Ini Biang Keroknya",
-   "tags": [],
-   "url": "https://www.jawapos.com/finance/2609200284/rupiah-berpotensi-tertekan-hingga-rp18000-per-dolar-as-ini-biang-keroknya",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/06/05/karyawan-menghitung-mata-uang-asing-di-di-gerai-penukaran-mata-uang-asing-dolar-asia-di-jakarta-kamis-462026-salman-toyibijawa-pos-j8w1Y.webp",
-   "t_ko": "루피아는 미국 달러당 최대 IDR 18,000까지 압력을 받을 가능성이 있습니다. 이것이 원인입니다.",
-   "t_id": "Rupiah Berpotensi Tertekan hingga Rp18.000 per Dolar AS, Ini Biang Keroknya"
-  },
-  {
-   "ts": "2026-09-20T14:54:03+07:00",
-   "date": "2026-09-20",
-   "time": "14:54",
-   "src": "Jawa Pos",
-   "t": "Gejolak Geopolitik Timur Tengah Bayangi Pasar, Harga Emas Diprediksi Makin Berkilau",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609200283/gejolak-geopolitik-timur-tengah-bayangi-pasar-harga-emas-diprediksi-makin-berkilau",
-   "g": 1,
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/04/19/ilustrasi-emas-antam-dokumentasi-jawa-pos-SvX5y.webp",
-   "t_ko": "중동 지정학적 혼란이 시장을 뒤덮고 금 가격은 더욱 반짝일 것으로 예상됩니다.",
-   "t_id": "Gejolak Geopolitik Timur Tengah Bayangi Pasar, Harga Emas Diprediksi Makin Berkilau"
-  },
-  {
-   "ts": "2026-09-20T14:50:07+07:00",
-   "date": "2026-09-20",
-   "time": "14:50",
-   "src": "Bloomberg",
-   "t": "Hong Kong’s Chan Says City to Expand Market for Dim Sum Bonds",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/hong-kong-s-chan-says-city-to-expand-market-for-dim-sum-bonds",
-   "g": 1,
-   "t_ko": "홍콩 찬, 시가 딤섬 본드 시장을 확대할 것이라고 밝혔습니다",
-   "t_id": "Chan dari Hong Kong Meminta Kotanya Memperluas Pasar Obligasi Dim Sum"
-  },
-  {
-   "ts": "2026-09-20T14:30:14+07:00",
-   "date": "2026-09-20",
-   "time": "14:30",
-   "src": "Detik",
-   "t": "Industri Otomotif Jepang Soroti Hambatan Investasi di RI",
-   "tags": [],
-   "url": "https://finance.detik.com/industri/d-8670977/industri-otomotif-jepang-soroti-hambatan-investasi-di-ri",
-   "g": 1,
-   "img": "https://akcdn.detik.net.id/community/media/visual/2025/10/27/pabrik-daihatsu-1761538107077_169.jpeg?w=360&q=90",
-   "t_ko": "일본 자동차 산업, RI 투자 장벽 강조",
-   "t_id": "Industri Otomotif Jepang Soroti Hambatan Investasi di RI"
-  },
-  {
-   "ts": "2026-09-20T14:20:03+07:00",
-   "date": "2026-09-20",
-   "time": "14:20",
-   "src": "Medcom",
-   "t": "Patra Jasa Salurkan Bantuan untuk Masyarakat Terdampak Gempa NTT",
-   "tags": [],
-   "url": "https://www.medcom.id/nasional/peristiwa/5b2y9YvN-patra-jasa-salurkan-bantuan-untuk-masyarakat-terdampak-gempa-ntt",
-   "img": "https://cdn.medcom.id/dynamic/content/2026/09/20/1843250/SpOaTdkbg1.jpeg?w=720",
-   "t_ko": "Patra Jasa, NTT 지진으로 피해를 입은 지역사회에 구호품 배포",
-   "t_id": "Patra Jasa Salurkan Bantuan untuk Masyarakat Terdampak Gempa NTT"
-  },
-  {
-   "ts": "2026-09-20T14:02:52+07:00",
-   "date": "2026-09-20",
-   "time": "14:02",
-   "src": "Detik",
-   "t": "HDDAP Dorong Ekspor Kubis Dairi ke Asia, Petani Bisa Untung 3 Kali Lipat",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671054/hddap-dorong-ekspor-kubis-dairi-ke-asia-petani-bisa-untung-3-kali-lipat",
-   "g": 1,
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/20/hddap-buka-peluangg-ekspor-pendapatan-petani-dairi-diproyeksikan-naik-tigga-kali-lipat-1789885051819_169.jpeg?w=360&q=90",
-   "t_ko": "HDDAP는 유제품 양배추의 아시아 수출을 장려하여 농부들은 3배의 이익을 얻을 수 있습니다",
-   "t_id": "HDDAP Dorong Ekspor Kubis Dairi ke Asia, Petani Bisa Untung 3 Kali Lipat"
-  },
-  {
-   "ts": "2026-09-20T14:00:22+07:00",
-   "date": "2026-09-20",
-   "time": "14:00",
-   "src": "Detik",
-   "t": "Sarung Bantal Sofa Cuma Rp 20 Ribu di Transmart Full Day Sale, Serbu!",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8670759/sarung-bantal-sofa-cuma-rp-20-ribu-di-transmart-full-day-sale-serbu",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/20/transmart-full-day-sale-1789871438144_169.png?w=360&q=90",
-   "t_ko": "소파 베개 커버는 Transmart 하루 종일 세일에서 IDR 20,000에 불과합니다. 서두르세요!",
-   "t_id": "Sarung Bantal Sofa Cuma Rp 20 Ribu di Transmart Full Day Sale, Serbu!"
-  },
-  {
-   "ts": "2026-09-20T14:00:12+07:00",
-   "date": "2026-09-20",
-   "time": "14:00",
-   "src": "FT",
-   "t": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-   "tags": [],
-   "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F859b3b26-b563-4863-b0a3-ede81acec62c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "Big Tech는 대차대조표에서 3000억 달러의 AI 노출을 방지하기 위해 보증을 사용합니다.",
-   "t_id": "Big Tech menggunakan jaminan untuk menjaga $300 miliar eksposur AI dari neraca"
-  },
-  {
-   "ts": "2026-09-20T14:00:00+07:00",
-   "date": "2026-09-20",
-   "time": "14:00",
-   "src": "Republika",
-   "t": "HIPMI Depok Fokus Buka Akses Usaha bagi UMKM",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tln748416/hipmi-depok-fokus-buka-akses-usaha-bagi-umkm",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260920100420-462.png",
-   "t_ko": "HIPMI Depok, 중소기업을 위한 비즈니스 접근성 개방에 중점",
-   "t_id": "HIPMI Depok Fokus Buka Akses Usaha bagi UMKM"
-  },
-  {
-   "ts": "2026-09-20T13:58:21+07:00",
-   "date": "2026-09-20",
-   "time": "13:58",
-   "src": "Detik",
-   "t": "Perubahan Aturan Produk Tembakau Bisa Pengaruhi Cukai Rp 47,7 T",
-   "tags": [],
-   "url": "https://finance.detik.com/industri/d-8671075/perubahan-aturan-produk-tembakau-bisa-pengaruhi-cukai-rp-47-7-t",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2016/09/14/f9249d81-6008-42ad-b2bb-332f2f6b3479_169.jpg?w=360&q=90",
-   "t_ko": "담배 제품 규정의 변경으로 IDR 47.7T의 소비세에 영향을 미칠 수 있음",
-   "t_id": "Perubahan Aturan Produk Tembakau Bisa Pengaruhi Cukai Rp 47,7 T"
-  },
-  {
-   "ts": "2026-09-20T13:18:00+07:00",
-   "date": "2026-09-20",
-   "time": "13:18",
-   "src": "Reuters",
-   "t": "North Korea fires two missiles off east coast in three hours",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFuRjFrR3lVU05OakZFWFlOdWFSTGsyelUxZmZrMkZvamthRHNRVkx0ZG95NnRIdXlWUFVhX2pfaUo2M1haY1B5RXNzVjJTRDZ3bXN6MUpYWUxiZThYbE9FWHBUemMtbC1SMHRQeWdBdC00YmxUWEZkXzljNm9PTnBCNS14WGFUOUFQRVZEN25feWZLNkRmcFN4M0pyM3pBZDF2cktnVGF6OXM?oc=5",
-   "g": 1,
-   "t_ko": "북한, 3시간 만에 동해상으로 미사일 2발 발사",
-   "t_id": "Korea Utara menembakkan dua rudal di lepas pantai timur dalam tiga jam"
-  },
-  {
-   "ts": "2026-09-20T13:16:14+07:00",
-   "date": "2026-09-20",
-   "time": "13:16",
-   "src": "Jawa Pos",
-   "t": "IHSG Turun 1,53 Persen ke Level 6.441 Selama Sepekan, Kapitalisasi Pasar Terkikis",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609200271/ihsg-turun-153-persen-ke-level-6441-selama-sepekan-kapitalisasi-pasar-terkikis",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/07/29/5Aa3XAfTScIk3UmL9yf7lIPnaNBX0vyf9PlIcLjT.webp",
-   "t_ko": "JCI, 이번 주 동안 1.53% 하락해 6,441레벨, 시가총액 하락",
-   "t_id": "IHSG Turun 1,53 Persen ke Level 6.441 Selama Sepekan, Kapitalisasi Pasar Terkikis"
-  },
-  {
-   "ts": "2026-09-20T13:02:01+07:00",
-   "date": "2026-09-20",
-   "time": "13:02",
-   "src": "Jawa Pos",
-   "t": "Kemenperin Genjot Indonesia jadi Pusat Industri Pangan Global, Targetkan Ekspor Mamin USD 83,08 Mili",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609200261/kemenperin-genjot-indonesia-jadi-pusat-industri-pangan-global-targetkan-ekspor-mamin-usd-8308-mili",
-   "g": 1,
-   "img": "https://cdn-assets.jawapos.com/images/1/2025/08/26/bb6e754c-30d6-4eeb-be45-203226d628f9-4080631400.jpg",
-   "t_ko": "산업부, 인도네시아를 글로벌 식품 산업의 중심지로 육성하고 830억 8천만 달러의 식품 수출 목표",
-   "t_id": "Kemenperin Genjot Indonesia jadi Pusat Industri Pangan Global, Targetkan Ekspor Mamin USD 83,08 Mili"
-  },
-  {
-   "ts": "2026-09-20T12:45:00+07:00",
-   "date": "2026-09-20",
-   "time": "12:45",
-   "src": "IDX Channel",
-   "t": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
-   "tags": [],
-   "url": "https://www.idxchannel.com/market-news/harga-cpo-naik-174-persen-sepekan-dibayangi-minyak-pesaing",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/05/25/CPO_sawit_-_Magnific_-_Freepik_25_Mei_26.jpeg",
-   "t_ko": "CPO 가격은 경쟁사 원유에 비해 일주일에 1.74% 상승합니다.",
-   "t_id": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing"
   }
  ],
  "kisi_news": [
@@ -23022,7 +22986,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 2720,
+  "pc_age_min": 2841,
   "news_ai_cache": 56,
   "news_ai_hit": 12,
   "on_runner": true,
@@ -23050,10 +23014,10 @@
    "tags": [],
    "url": "https://www.idxchannel.com/market-news/harga-cpo-naik-174-persen-sepekan-dibayangi-minyak-pesaing",
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/05/25/CPO_sawit_-_Magnific_-_Freepik_25_Mei_26.jpeg",
+   "score": 407.05,
+   "srcs": 1,
    "t_ko": "CPO 가격은 경쟁사 원유에 비해 일주일에 1.74% 상승합니다.",
-   "t_id": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing",
-   "score": 409.05,
-   "srcs": 1
+   "t_id": "Harga CPO Naik 1,74 Persen Sepekan Dibayangi Minyak Pesaing"
   },
   {
    "ts": "2026-09-20T16:46:17+07:00",
@@ -23084,31 +23048,32 @@
    "t_id": "OJK Resmi Cabut Izin Usaha BPR Pasaraya Kuta"
   },
   {
-   "ts": "2026-09-20T12:06:00+07:00",
+   "ts": "2026-09-20T15:35:04+07:00",
    "date": "2026-09-20",
-   "time": "12:06",
-   "src": "Reuters",
-   "t": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals",
+   "time": "15:35",
+   "src": "Liputan6",
+   "t": "Harga Minyak dan Suku Bunga The Fed Jadi Sorotan Pekan Ini",
    "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
+   "url": "https://www.liputan6.com/saham/read/8295401/harga-minyak-dan-suku-bunga-the-fed-jadi-sorotan-pekan-ini",
    "g": 1,
-   "score": 307.0,
-   "srcs": 1,
-   "t_ko": "미국 재무부 베센트(Bessent), 중국 허(He), AI, 무역, 중요 광물에 관한 회담 시작",
-   "t_id": "Menteri Keuangan AS Disetujui, Menteri Keuangan Tiongkok He akan meluncurkan pembicaraan mengenai AI, perdagangan, dan mineral penting"
+   "img": "https://cdn0-production-images-kly.akamaized.net/-9nEgaWQYCDXKCXLP0wObCfZxwI=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4216934/original/094233100_1667793288-Wall-Street-3.jpg",
+   "score": 309.5,
+   "srcs": 2,
+   "t_ko": "이번 주에는 유가와 연준 금리가 주목을 받고 있습니다.",
+   "t_id": "Harga Minyak dan Suku Bunga The Fed Jadi Sorotan Pekan Ini"
   },
   {
-   "ts": "2026-09-20T15:00:00+07:00",
+   "ts": "2026-09-20T19:00:01+07:00",
    "date": "2026-09-20",
-   "time": "15:00",
-   "src": "Bloomberg",
-   "t": "Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints",
+   "time": "19:00",
+   "src": "CNBC",
+   "t": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
    "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints",
+   "url": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
    "g": 1,
-   "t_ko": "엔화는 BOJ의 실망 이후 휴일에 일본에 취약하다",
-   "t_id": "Yen Rentan Saat Jepang Berlibur Setelah BoJ Kecewa",
-   "score": 303.0,
+   "t_ko": "침체된 주택시장 속에서 윌리엄스-소노마의 주가가 급등했다. 월스트리트에서 승리한 방법은 다음과 같습니다.",
+   "t_id": "Saham Williams-Sonoma melonjak di tengah lesunya pasar perumahan. Inilah cara mereka memenangkan Wall Street",
+   "score": 309.0,
    "srcs": 1
   }
  ],
@@ -23676,16 +23641,16 @@
   "2026-09-20": {
    "news": [
     {
-     "t": "Yen Is Vulnerable With Japan on Holiday After BOJ Disappoints",
-     "ko": "엔화는 BOJ의 실망 이후 휴일에 일본에 취약하다",
-     "id": "Yen Rentan Saat Jepang Berlibur Setelah BoJ Kecewa",
+     "t": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
+     "ko": "침체된 주택시장 속에서 윌리엄스-소노마의 주가가 급등했다. 월스트리트에서 승리한 방법은 다음과 같습니다.",
+     "id": "Saham Williams-Sonoma melonjak di tengah lesunya pasar perumahan. Inilah cara mereka memenangkan Wall Street",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Bloomberg",
-     "url": "https://www.bloomberg.com/news/articles/2026-09-20/yen-is-vulnerable-with-japan-on-holiday-after-boj-disappoints",
-     "time": "15:00",
+     "src": "CNBC",
+     "url": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
+     "time": "19:00",
      "tags": [],
-     "sc": 309.0,
+     "sc": 312.0,
      "slot": "global",
      "q": 85
     },

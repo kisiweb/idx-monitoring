@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 20:41",
+ "updated": "2026-09-21 20:56",
  "delay_min": 15,
- "fx_basis": "12.98 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,372 · 20:15 Yahoo",
- "idr_per_krw": 12.976,
+ "fx_basis": "12.97 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,373 · 20:30 Yahoo",
+ "idr_per_krw": 12.971,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -304,10 +304,11 @@
     17830.0,
     17830.0,
     17830.0,
+    17808.0,
     17808.0
    ],
    "inv": true,
-   "asof": "20:15",
+   "asof": "20:30",
    "high": 17833.0,
    "low": 17740.0,
    "src": "yahoo"
@@ -16744,45 +16745,54 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7696.68,
+   "px": 7704.5,
    "prev": 7650.5,
-   "pct": 0.6,
+   "pct": 0.71,
    "mst": 0,
-   "asof": "09:35",
+   "asof": "09:50",
    "live": true,
    "spark": [
     7695.07,
-    7696.68
+    7697.49,
+    7698.66,
+    7700.23,
+    7704.5
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 26766.29,
+   "px": 26835.68,
    "prev": 26522.54,
-   "pct": 0.92,
+   "pct": 1.18,
    "mst": 0,
-   "asof": "09:35",
+   "asof": "09:50",
    "live": true,
    "spark": [
     26745.7,
-    26766.29
+    26766.72,
+    26799.58,
+    26815.01,
+    26835.68
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51882.19,
+   "px": 51830.18,
    "prev": 51682.64,
-   "pct": 0.39,
+   "pct": 0.29,
    "mst": 0,
-   "asof": "09:35",
+   "asof": "09:50",
    "live": true,
    "spark": [
     51908.94,
-    51882.19
+    51865.61,
+    51774.42,
+    51791.13,
+    51830.18
    ]
   },
   {
@@ -18164,14 +18174,97 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T20:35:37+07:00",
+   "ts": "2026-09-21T20:48:25+07:00",
    "date": "2026-09-21",
-   "time": "20:35",
+   "time": "20:48",
+   "src": "CNBC",
+   "t": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T20:46:00+07:00",
+   "date": "2026-09-21",
+   "time": "20:46",
+   "src": "Media Indonesia",
+   "t": "Kawasan Hunian Semarang masih terus Bertumbuh",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935904/kawasan-hunian-semarang-masih-terus-bertumbuh"
+  },
+  {
+   "ts": "2026-09-21T20:45:50+07:00",
+   "date": "2026-09-21",
+   "time": "20:45",
+   "src": "FT",
+   "t": "US news outlets to sue Trump administration over White House ban",
+   "tags": [],
+   "url": "https://www.ft.com/content/63140a82-8af6-4af8-90bd-0325c5724e74?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffcfec0a2-2f28-4046-b6f3-79af76bd3140.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "ts": "2026-09-21T20:42:33+07:00",
+   "date": "2026-09-21",
+   "time": "20:42",
+   "src": "Yahoo Finance",
+   "t": "Paramount, Warner Bros shares rally on reports of merger settlement talks advancing",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/article/paramount-warner-bros-shares-rally-on-reports-of-merger-settlement-talks-advancing-134233954.html",
+   "g": 1,
+   "img": "https://s.yimg.com/uu/api/res/1.2/QAurAkTkOBE6ikUC5Pup1A--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/f5deb6f4-44d1-4dd0-a01f-36dc02e07c53"
+  },
+  {
+   "ts": "2026-09-21T20:42:27+07:00",
+   "date": "2026-09-21",
+   "time": "20:42",
    "src": "CNBC",
    "t": "White House TV pool won't cover Trump after press ban: CNN",
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
    "g": 1
+  },
+  {
+   "ts": "2026-09-21T20:41:49+07:00",
+   "date": "2026-09-21",
+   "time": "20:41",
+   "src": "Bloomberg",
+   "t": "Russia Set to Extend Diesel Export Ban Beyond End of September",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/russia-set-to-extend-diesel-export-ban-beyond-end-of-september",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T20:41:39+07:00",
+   "date": "2026-09-21",
+   "time": "20:41",
+   "src": "Detik",
+   "t": "Penjualan Motor Listrik Merosot Tajam, Pengusaha Ungkap Biang Keroknya",
+   "tags": [],
+   "url": "https://finance.detik.com/industri/d-8673078/penjualan-motor-listrik-merosot-tajam-pengusaha-ungkap-biang-keroknya",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2024/10/09/nasib-insentif-kendaraan-listrik-di-tangan-prabowo-2_169.jpeg?w=360&q=90"
+  },
+  {
+   "ts": "2026-09-21T20:37:53+07:00",
+   "date": "2026-09-21",
+   "time": "20:37",
+   "src": "Yahoo Finance",
+   "t": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-5-report-flags-133753675.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/24_7_wall_st__718/31906370a742b7a1e1868a772e6df33e.jpg"
+  },
+  {
+   "ts": "2026-09-21T20:35:31+07:00",
+   "date": "2026-09-21",
+   "time": "20:35",
+   "src": "Yahoo Finance",
+   "t": "Gold prices today, Monday, September 21, 2026: Gold prices slip on Middle East tensions",
+   "tags": [],
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-21-2026-gold-prices-slip-on-middle-east-tensions-133531697.html",
+   "g": 1,
+   "img": "https://s.yimg.com/uu/api/res/1.2/zXVwgsaFyGNgvrXU6TElCg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/monday.png"
   },
   {
    "ts": "2026-09-21T20:32:00+07:00",
@@ -18237,17 +18330,6 @@
    "img": "https://images.wsj.net/im-85401856"
   },
   {
-   "ts": "2026-09-21T20:16:01+07:00",
-   "date": "2026-09-21",
-   "time": "20:16",
-   "src": "Yahoo Finance",
-   "t": "BillionToOne SVP Sells 1,416 Shares",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/billiontoone-svp-sells-1-416-131601502.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/c27a7e2773e2dd4be080db2e8154f7c0.png"
-  },
-  {
    "ts": "2026-09-21T20:09:39+07:00",
    "date": "2026-09-21",
    "time": "20:09",
@@ -18299,16 +18381,6 @@
    "img": "https://s.yimg.com/uu/api/res/1.2/7LWlvW8fuEvrJpjypbWZoQ--~B/aD00MTMwO3c9NjE5NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/43335f00-ece2-4015-841c-f773ebf40063"
   },
   {
-   "ts": "2026-09-21T20:01:40+07:00",
-   "date": "2026-09-21",
-   "time": "20:01",
-   "src": "CNBC",
-   "t": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T20:01:00+07:00",
    "date": "2026-09-21",
    "time": "20:01",
@@ -18328,59 +18400,6 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122260/bei-turunkan-minimum-harga-saham-jadi-rp1-auto-rejection-berubah",
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
    "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah"
-  },
-  {
-   "ts": "2026-09-21T19:57:44+07:00",
-   "date": "2026-09-21",
-   "time": "19:57",
-   "src": "Reuters",
-   "t": "Wall St set for higher open as AI stocks rise, oil slides",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T19:56:57+07:00",
-   "date": "2026-09-21",
-   "time": "19:56",
-   "src": "CNBC",
-   "t": "Our top 10 things to watch in the stock market Monday",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/our-top-10-things-to-watch-in-the-stock-market-monday.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T19:52:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:52",
-   "src": "Yahoo Finance",
-   "t": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
-   "tags": [],
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee.jpg"
-  },
-  {
-   "ts": "2026-09-21T19:51:10+07:00",
-   "date": "2026-09-21",
-   "time": "19:51",
-   "src": "CNBC",
-   "t": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-   "g": 1,
-   "t_ko": "베센트, 트럼프-시진핑 회담 앞두고 허라이펑 중국 부총리와의 회담 '성공적'",
-   "t_id": "Bessent menyebut pertemuan dengan Wakil Perdana Menteri Tiongkok He Lifeng 'sukses' menjelang KTT Trump-Xi"
-  },
-  {
-   "ts": "2026-09-21T19:46:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:46",
-   "src": "Media Indonesia",
-   "t": "BEI Berlakukan Harga Saham Minimum Rp1 Mulai 28 September 2026",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935860/bei-berlakukan-harga-saham-minimum-rp1-mulai-28-september-2026",
-   "t_id": "BEI Berlakukan Harga Saham Minimum Rp1 Mulai 28 September 2026"
   },
   {
    "ts": "2026-09-21T19:45:03+07:00",
@@ -18539,17 +18558,6 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672930/mentan-yakin-dalam-seminggu-harga-beras-turun",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/03/30/menteri-pertanian-mentan-andi-amran-sulaiman-1774846718356_169.jpeg?w=360&q=90",
    "t_id": "Mentan Yakin dalam Seminggu Harga Beras Turun!"
-  },
-  {
-   "ts": "2026-09-21T18:34:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:34",
-   "src": "Katadata",
-   "t": "Ajaib Kenalkan Instrumen ETF di Sekolah Pasar Modal BEI Surabaya",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/keuangan/6ab116603baaa/ajaib-kenalkan-instrumen-etf-di-sekolah-pasar-modal-bei-surabaya",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Ajaib_platform_investasi_digital_memperkenalkan_Exchange_Traded-2026_09_21-18_27_00_d2f30433fab63dab53237b562042e1f7_620x413_thumb.jpg",
-   "t_id": "Ajaib Kenalkan Instrumen ETF di Sekolah Pasar Modal BEI Surabaya"
   }
  ],
  "kisi_news": [
@@ -18714,9 +18722,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "12.97",
-   "d": 0.81,
-   "ytd": 11.65,
+   "v": "12.96",
+   "d": 0.79,
+   "ytd": 11.62,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -18726,9 +18734,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.959%",
-   "d": -0.78,
-   "ytd": 19.12,
+   "v": "4.965%",
+   "d": -0.66,
+   "ytd": 19.26,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18749,9 +18757,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.28",
-   "d": -0.03,
-   "ytd": 2.03,
+   "v": "100.31",
+   "d": 0.0,
+   "ytd": 2.07,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18761,9 +18769,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "92.71",
-   "d": -1.34,
-   "ytd": 61.46,
+   "v": "92.66",
+   "d": -1.39,
+   "ytd": 61.37,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18773,9 +18781,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,402.5",
-   "d": 0.15,
-   "ytd": 1.78,
+   "v": "4,387.8",
+   "d": -0.18,
+   "ytd": 1.44,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22381,7 +22389,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 150,
+  "pc_age_min": 165,
   "news_ai_cache": 61,
   "news_ai_hit": 35,
   "on_runner": true,
@@ -22411,7 +22419,7 @@
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
    "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah",
    "score": 430.65,
-   "srcs": 5
+   "srcs": 4
   },
   {
    "ts": "2026-09-21T19:14:45+07:00",
@@ -22462,16 +22470,17 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T19:14:29+07:00",
+   "ts": "2026-09-21T19:52:00+07:00",
    "date": "2026-09-21",
-   "time": "19:14",
-   "src": "Bloomberg",
-   "t": "US Stock Futures Climb Ahead of Trump-Xi Meeting as Oil Slips",
+   "time": "19:52",
+   "src": "Yahoo Finance",
+   "t": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
    "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/us-stock-futures-climb-ahead-of-trump-xi-meeting-as-oil-slips",
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
    "g": 1,
-   "score": 314.0,
-   "srcs": 8
+   "img": "https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee.jpg",
+   "score": 313.5,
+   "srcs": 7
   }
  ],
  "daylog": {

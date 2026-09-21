@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 21:30",
+ "updated": "2026-09-21 21:43",
  "delay_min": 15,
  "fx_basis": "12.97 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,373 · 20:30 Yahoo",
- "idr_per_krw": 12.9722,
+ "idr_per_krw": 12.9684,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16745,11 +16745,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7721.96,
+   "px": 7723.29,
    "prev": 7650.5,
-   "pct": 0.93,
+   "pct": 0.95,
    "mst": 0,
-   "asof": "10:25",
+   "asof": "10:35",
    "live": true,
    "spark": [
     7695.07,
@@ -16763,18 +16763,20 @@
     7708.51,
     7714.62,
     7720.6,
-    7721.96
+    7720.73,
+    7721.9,
+    7723.29
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 26920.18,
+   "px": 26927.81,
    "prev": 26522.54,
-   "pct": 1.5,
+   "pct": 1.53,
    "mst": 0,
-   "asof": "10:25",
+   "asof": "10:35",
    "live": true,
    "spark": [
     26745.7,
@@ -16788,18 +16790,20 @@
     26867.88,
     26887.06,
     26913.03,
-    26920.18
+    26923.15,
+    26930.31,
+    26927.81
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51922.04,
+   "px": 51912.69,
    "prev": 51682.64,
-   "pct": 0.46,
+   "pct": 0.45,
    "mst": 0,
-   "asof": "10:25",
+   "asof": "10:35",
    "live": true,
    "spark": [
     51908.94,
@@ -16813,7 +16817,9 @@
     51835.04,
     51880.02,
     51916.57,
-    51922.04
+    51894.95,
+    51897.53,
+    51912.69
    ]
   },
   {
@@ -18209,15 +18215,68 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T21:27:24.358761+07:00",
+   "ts": "2026-09-21T21:39:09+07:00",
    "date": "2026-09-21",
-   "time": "21:27",
+   "time": "21:39",
+   "src": "CNBC",
+   "t": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
+   "g": 1,
+   "ai_ko": "· Novo 주가 장중 7% 하락\n· 2035년 파이프라인 매출 목표 USD 230억 제시\n· 2030년까지 블록버스터 5종 이상 출시 계획",
+   "ai_id": "· Saham Novo anjlok hingga 7%\n· Target penjualan pipeline US$23 miliar\n· Bidik lebih dari 5 obat blockbuster",
+   "ai_tags": [
+    "주가",
+    "실적",
+    "신약"
+   ],
+   "ai_tags_id": [
+    "saham",
+    "kinerja",
+    "obat baru"
+   ]
+  },
+  {
+   "ts": "2026-09-21T21:36:38+07:00",
+   "date": "2026-09-21",
+   "time": "21:36",
+   "src": "CNBC",
+   "t": "White House TV pool won't cover Trump after press ban: CNN",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:34:04+07:00",
+   "date": "2026-09-21",
+   "time": "21:34",
+   "src": "Jawa Pos",
+   "t": "Kemenkop Pastikan SK dan Besaran Gaji Manajer Kopdes Merah Putih Sudah Dibuat",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210371/kemenkop-pastikan-sk-dan-besaran-gaji-manajer-kopdes-merah-putih-sudah-dibuat",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/02/menteri-koperasi-ferry-juliantono-dalam-rapat-kerja-bersama-komisi-vi-dpr-dengan-pembahasan-rencana-kerja-dan-anggaran-kemenkop-tahun-2027-di-jakarta-selasa-19istimewa-3nDcs.webp",
+   "t_id": "Kemenkop Pastikan SK dan Besaran Gaji Manajer Kopdes Merah Putih Sudah Dibuat"
+  },
+  {
+   "ts": "2026-09-21T21:30:56+07:00",
+   "date": "2026-09-21",
+   "time": "21:30",
    "src": "Jawa Pos",
    "t": "Jalankan Arahan Presiden Prabowo, Bahlil Siap Sulap Batu Bara Kalori Rendah jadi Bensin",
    "tags": [],
    "url": "https://www.jawapos.com/energi/2609210182/jalankan-arahan-presiden-prabowo-bahlil-siap-sulap-batu-bara-kalori-rendah-jadi-bensin",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/06/09/I3GNm7CIPYDrAH5NURWwU55QaDoka9WVBTgBjeng.webp",
    "t_id": "Jalankan Arahan Presiden Prabowo, Bahlil Siap Sulap Batu Bara Kalori Rendah jadi Bensin"
+  },
+  {
+   "ts": "2026-09-21T21:28:58+07:00",
+   "date": "2026-09-21",
+   "time": "21:28",
+   "src": "CNBC",
+   "t": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+   "g": 1
   },
   {
    "ts": "2026-09-21T21:25:46+07:00",
@@ -18251,16 +18310,6 @@
    "g": 1
   },
   {
-   "ts": "2026-09-21T21:17:37+07:00",
-   "date": "2026-09-21",
-   "time": "21:17",
-   "src": "CNBC",
-   "t": "White House TV pool won't cover Trump after press ban: CNN",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T21:16:00+07:00",
    "date": "2026-09-21",
    "time": "21:16",
@@ -18269,6 +18318,17 @@
    "tags": [],
    "url": "https://www.wsj.com/finance/citi-raises-10-year-u-s-treasury-yield-forecast-ee0a5651?mod=rss_markets_main",
    "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:14:33+07:00",
+   "date": "2026-09-21",
+   "time": "21:14",
+   "src": "Yahoo Finance",
+   "t": "Stock Market Today: Dow Rallies As Nvidia Nears Entry; Oil Dips On Iran Hopes (Live Coverage)",
+   "tags": [],
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/fded86d9811300314d706a3d2135a764.jpg"
   },
   {
    "ts": "2026-09-21T21:14:26+07:00",
@@ -18290,6 +18350,17 @@
    "url": "https://ekonomi.republika.co.id/berita/tlpggg370/ekosistem-affiliate-buka-peluang-pasar-dan-pendapatan-bagi-umkm-banjar",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260921151914-840.png",
    "t_id": "Ekosistem Affiliate Buka Peluang Pasar dan Pendapatan bagi UMKM Banjar"
+  },
+  {
+   "ts": "2026-09-21T21:11:00+07:00",
+   "date": "2026-09-21",
+   "time": "21:11",
+   "src": "Yahoo Finance",
+   "t": "Meet the Quantum Computing Stock Growing Faster Than Nvidia",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/ai/articles/meet-quantum-computing-stock-growing-141100719.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/688feda7fda8348556aa6cb2d2056511.jpg"
   },
   {
    "ts": "2026-09-21T21:09:13+07:00",
@@ -18324,15 +18395,15 @@
    "img": "https://images.wsj.net/im-52162808"
   },
   {
-   "ts": "2026-09-21T21:05:01+07:00",
+   "ts": "2026-09-21T21:01:34+07:00",
    "date": "2026-09-21",
-   "time": "21:05",
+   "time": "21:01",
    "src": "Yahoo Finance",
-   "t": "Bitcoin Hits $85,000 and Nears 8-Month High. Is the Crypto Bull Market Finally Here?",
+   "t": "Bitcoin Surges. Coinbase Wins Target Hike. These Crypto Stocks Break Out.",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-85-000-nears-140501744.html",
+   "url": "https://www.investors.com/news/bitcoin-price-cryptocurrency-liquidations-etf-inflows-cftc-sec-coinbase-bullish/?src=A00220&yptr=yahoo",
    "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/8c0ca4e0a0ca797234d9b707006119b6.jpg"
+   "img": "https://media.zenfs.com/en/ibd.com/20b1f6fa22278dc6d25ccbaedfff2e11.jpg"
   },
   {
    "ts": "2026-09-21T21:00:29+07:00",
@@ -18386,49 +18457,6 @@
    "g": 1
   },
   {
-   "ts": "2026-09-21T20:50:33+07:00",
-   "date": "2026-09-21",
-   "time": "20:50",
-   "src": "Yahoo Finance",
-   "t": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
-   "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/Dm0LN_pd7N9kbrHU7mh0iw--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/cd30b118-b909-4084-a97a-8b06a645176d"
-  },
-  {
-   "ts": "2026-09-21T20:48:25+07:00",
-   "date": "2026-09-21",
-   "time": "20:48",
-   "src": "CNBC",
-   "t": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T20:47:20+07:00",
-   "date": "2026-09-21",
-   "time": "20:47",
-   "src": "Yahoo Finance",
-   "t": "Seabridge Gold Inc. (SA) Spun Off a Major Gold Asset: Why Kopernik Sees More Upside",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/seabridge-gold-inc-sa-spun-134720749.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/01f87fe9ebf10f123978e7863785cdc1.jpg"
-  },
-  {
-   "ts": "2026-09-21T20:47:10+07:00",
-   "date": "2026-09-21",
-   "time": "20:47",
-   "src": "Yahoo Finance",
-   "t": "Mosaic Co. (MOS) Was Just Added to the Portfolio: Why the Fertilizer Stock Looks Undervalued",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/mosaic-co-mos-just-added-134710535.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/0333802877cea8a948937f01e98bfc39.jpg"
-  },
-  {
    "ts": "2026-09-21T20:46:00+07:00",
    "date": "2026-09-21",
    "time": "20:46",
@@ -18465,16 +18493,6 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210329/purbaya-perry-tak-lagi-menjabat-uang-rp-100-ribu-bertanda-tangannya-masih-tetap-berlaku",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/pecahan-rp-100000-tahun-emisi-te-2022-yang-memuat-tanda-tangan-purbaya-dan-perry-warjiyo-sebagai-gubernur-bank-indonesia-bi-threads-at-christopherkeju-fxOBK.webp"
-  },
-  {
-   "ts": "2026-09-21T20:01:00+07:00",
-   "date": "2026-09-21",
-   "time": "20:01",
-   "src": "Media Indonesia",
-   "t": "Bulog Diminta Gelontorkan 300 Ribu Ton Beras ke Ritel Modern",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935873/bulog-diminta-gelontorkan-300-ribu-ton-beras-ke-ritel-modern",
-   "t_id": "Bulog Diminta Gelontorkan 300 Ribu Ton Beras ke Ritel Modern"
   },
   {
    "ts": "2026-09-21T20:00:00+07:00",
@@ -18767,9 +18785,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.971%",
-   "d": -0.54,
-   "ytd": 19.41,
+   "v": "4.965%",
+   "d": -0.66,
+   "ytd": 19.26,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18790,9 +18808,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.38",
-   "d": 0.07,
-   "ytd": 2.14,
+   "v": "100.36",
+   "d": 0.05,
+   "ytd": 2.12,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18802,9 +18820,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "92.06",
-   "d": -2.03,
-   "ytd": 60.33,
+   "v": "91.75",
+   "d": -2.36,
+   "ytd": 59.79,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18814,9 +18832,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,376.3",
-   "d": -0.44,
-   "ytd": 1.17,
+   "v": "4,380.7",
+   "d": -0.34,
+   "ytd": 1.27,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22422,9 +22440,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 199,
+  "pc_age_min": 212,
   "news_ai_cache": 61,
-  "news_ai_hit": 35,
+  "news_ai_hit": 36,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,

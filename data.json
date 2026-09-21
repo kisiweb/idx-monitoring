@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 22:57",
+ "updated": "2026-09-21 23:09",
  "delay_min": 15,
  "fx_basis": "12.95 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,375 · 22:15 Yahoo",
- "idr_per_krw": 12.9539,
+ "idr_per_krw": 12.9544,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16747,11 +16747,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7739.23,
+   "px": 7741.1,
    "prev": 7650.5,
-   "pct": 1.16,
+   "pct": 1.18,
    "mst": 0,
-   "asof": "11:50",
+   "asof": "12:05",
    "live": true,
    "spark": [
     7695.07,
@@ -16782,18 +16782,21 @@
     7735.61,
     7737.17,
     7739.8,
-    7739.23
+    7737.05,
+    7737.63,
+    7741.04,
+    7741.1
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 26993.21,
+   "px": 26997.58,
    "prev": 26522.54,
-   "pct": 1.77,
+   "pct": 1.79,
    "mst": 0,
-   "asof": "11:50",
+   "asof": "12:05",
    "live": true,
    "spark": [
     26745.7,
@@ -16824,18 +16827,21 @@
     26977.07,
     26976.55,
     26990.8,
-    26993.21
+    26985.39,
+    26983.42,
+    26996.24,
+    26997.58
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51935.27,
+   "px": 51924.17,
    "prev": 51682.64,
-   "pct": 0.49,
+   "pct": 0.47,
    "mst": 0,
-   "asof": "11:50",
+   "asof": "12:05",
    "live": true,
    "spark": [
     51908.94,
@@ -16866,7 +16872,10 @@
     51918.74,
     51924.22,
     51946.53,
-    51935.27
+    51916.1,
+    51913.37,
+    51929.45,
+    51924.17
    ]
   },
   {
@@ -17042,8 +17051,8 @@
    "px": 25042.71,
    "prev": 24750.78,
    "pct": 1.18,
-   "mst": 1,
-   "asof": "16:00",
+   "mst": 2,
+   "asof": "09:30",
    "live": false,
    "spark": [
     24835.27,
@@ -17232,19 +17241,6 @@
    "t_id": "Sektor Pelayaran dan Energi hingga Logistik, Ini Struktur Kepemilikan CBRE dan TRUK"
   },
   {
-   "ts": "2026-09-21T19:50:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:50",
-   "src": "Katadata",
-   "t": "Emiten Hary Tanoe MNCN Ungkap Detail JV dengan Republikorp di iNews Media Group",
-   "tags": [
-    "MNCN"
-   ],
-   "url": "https://katadata.co.id/finansial/bursa/6ab12807168ee/emiten-hary-tanoe-mncn-ungkap-detail-jv-dengan-republikorp-di-inews-media-group",
-   "img": "https://cdn1.katadata.co.id/media/oldmedia/field/image/MNC-Katadata-Arief.jpg",
-   "t_id": "Emiten Hary Tanoe MNCN Ungkap Detail JV dengan Republikorp di iNews Media Group"
-  },
-  {
    "ts": "2026-09-21T19:47:06+07:00",
    "date": "2026-09-21",
    "time": "19:47",
@@ -17428,6 +17424,32 @@
     "saham"
    ],
    "t_ko": "9월 21일 상승률 상위 10종목 — CSMI·TRUE 선두"
+  },
+  {
+   "ts": "2026-09-21T16:28:00+07:00",
+   "date": "2026-09-21",
+   "time": "16:28",
+   "src": "Katadata",
+   "t": "IHSG Turun 0,88%, Ada Transaksi Crossing di Saham Tambang Nikel INCO dan NCKL",
+   "tags": [
+    "INCO",
+    "NCKL"
+   ],
+   "url": "https://katadata.co.id/finansial/bursa/6ab0f8d0a168c/ihsg-turun-0-88-ada-transaksi-crossing-di-saham-tambang-nikel-inco-dan-nckl",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/06/08/IHSG_kembali_ditutup_melemah_ke_level_5342_Foto_KatadataFauza_Sy-2026_06_08-17_48_01_7a52cca2efab744648edec05cc36728f_620x413_thumb.jpg",
+   "t_id": "IHSG Turun 0,88%, Ada Transaksi Crossing di Saham Tambang Nikel INCO dan NCKL",
+   "ai_ko": "· IHSG 0.88% 내린 6,384 마감\n  56.43포인트 하락\n· 거래대금 Rp11.78조, 11개 업종\n  중 8개 하락, 인프라 1.38% 약세\n· 니켈주 대량 매매, VALE\n  Rp7,023억·NCKL Rp4,074억",
+   "ai_id": "· IHSG turun 0,88% ke 6.384\n· Nilai transaksi Rp11,78 triliun\n· Crossing VALE Rp702,3 miliar",
+   "ai_tags": [
+    "증시",
+    "니켈",
+    "블록딜"
+   ],
+   "ai_tags_id": [
+    "IHSG",
+    "nikel",
+    "crossing"
+   ]
   },
   {
    "ts": "2026-09-21T16:20:00+07:00",
@@ -18210,6 +18232,82 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T23:06:32+07:00",
+   "date": "2026-09-21",
+   "time": "23:06",
+   "src": "Jawa Pos",
+   "t": "Kemenperin Siapkan Reimbursement Hingga Rp1 Miliar untuk Industri Agro Ganti Mesin Pabrik",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210239/kemenperin-siapkan-reimbursement-hingga-rp1-miliar-untuk-industri-agro-ganti-mesin-pabrik",
+   "img": "https://cdn-assets.jawapos.com/images/1/2023/09/29/perindustrian-2281200435.jpeg",
+   "t_id": "Kemenperin Siapkan Reimbursement Hingga Rp1 Miliar untuk Industri Agro Ganti Mesin Pabrik"
+  },
+  {
+   "ts": "2026-09-21T23:03:29+07:00",
+   "date": "2026-09-21",
+   "time": "23:03",
+   "src": "CNBC",
+   "t": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
+   "g": 1,
+   "t_ko": "침체된 주택시장 속에서 윌리엄스-소노마의 주가가 급등했다. 월스트리트에서 승리한 방법은 다음과 같습니다.",
+   "t_id": "Saham Williams-Sonoma melonjak di tengah lesunya pasar perumahan. Inilah cara mereka memenangkan Wall Street"
+  },
+  {
+   "ts": "2026-09-21T23:03:14+07:00",
+   "date": "2026-09-21",
+   "time": "23:03",
+   "src": "CNBC",
+   "t": "What is the White House press pool and why does it matter?",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T23:00:00+07:00",
+   "date": "2026-09-21",
+   "time": "23:00",
+   "src": "IDX Channel",
+   "t": "Pemegang Waralaba Wendy's Ajukan Kebangkrutan, Terbebani Utang Rp11,6 Triliun",
+   "tags": [],
+   "url": "https://www.idxchannel.com/market-news/pemegang-waralaba-wendys-ajukan-kebangkrutan-terbebani-utang-rp116-triliun",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/21/wendys.jpg",
+   "t_id": "Pemegang Waralaba Wendy's Ajukan Kebangkrutan, Terbebani Utang Rp11,6 Triliun"
+  },
+  {
+   "ts": "2026-09-21T22:58:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:58",
+   "src": "MarketWatch",
+   "t": "AMD hits a major milestone as AI stocks blaze higher",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-57006692"
+  },
+  {
+   "ts": "2026-09-21T22:54:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:54",
+   "src": "Detik",
+   "t": "Pembiayaan Pergadaian Tembus Rp 160 Triliun, Gadai Barang Mewah Diminati",
+   "tags": [],
+   "url": "https://finance.detik.com/moneter/d-8673196/pembiayaan-pergadaian-tembus-rp-160-triliun-gadai-barang-mewah-diminati",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/04/22/sultan-merapat-ada-tempat-gadai-barang-mewah-1776830585380_169.jpeg?w=360&q=90",
+   "t_id": "Pembiayaan Pergadaian Tembus Rp 160 Triliun, Gadai Barang Mewah Diminati"
+  },
+  {
+   "ts": "2026-09-21T22:52:09+07:00",
+   "date": "2026-09-21",
+   "time": "22:52",
+   "src": "Bloomberg",
+   "t": "Stocks, Bonds Climb as Oil Falls on US-Iran Hopes",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-21/stocks-bonds-climb-as-oil-falls-on-us-iran-hopes-video",
+   "g": 1
+  },
+  {
    "ts": "2026-09-21T22:48:27+07:00",
    "date": "2026-09-21",
    "time": "22:48",
@@ -18229,6 +18327,17 @@
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
    "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:45:01+07:00",
+   "date": "2026-09-21",
+   "time": "22:45",
+   "src": "Yahoo Finance",
+   "t": "CEO Increases Holdings, Buys 21,000 Shares of Financial Stock Valued at $1.0 Million",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ceo-increases-holdings-buys-21-154501700.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/412a815baaa0a5f0e7e30a2f98b11715.png"
   },
   {
    "ts": "2026-09-21T22:38:25+07:00",
@@ -18274,6 +18383,17 @@
    ]
   },
   {
+   "ts": "2026-09-21T22:33:32+07:00",
+   "date": "2026-09-21",
+   "time": "22:33",
+   "src": "Yahoo Finance",
+   "t": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
+   "tags": [],
+   "url": "https://www.investors.com/news/critical-metals-crml-stock-rare-earth-us-denmark-greenland-trump-xi/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/7cbb2448124155c971e83643fc4c2e51.jpg"
+  },
+  {
    "ts": "2026-09-21T22:33:22+07:00",
    "date": "2026-09-21",
    "time": "22:33",
@@ -18285,26 +18405,15 @@
    "t_id": "Pesan Suahasil ke 14 Pejabat Baru: Yang Kita Kelola Bukan Sekadar Angka"
   },
   {
-   "ts": "2026-09-21T22:33:00+07:00",
-   "date": "2026-09-21",
-   "time": "22:33",
-   "src": "Yahoo Finance",
-   "t": "Bank of America hikes S&P 500 target after Al trade cracks",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-hikes-p-500-153300657.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/thestreet_881/e9af022d3052c9619d4f9f065817b320.jpg"
-  },
-  {
-   "ts": "2026-09-21T22:30:16+07:00",
+   "ts": "2026-09-21T22:30:00+07:00",
    "date": "2026-09-21",
    "time": "22:30",
    "src": "Yahoo Finance",
-   "t": "Broadcom’s AI Opportunity Is Bigger Than Its Stock Price Suggests",
+   "t": "Trump demands 1% rates because the US has the ‘Best Credit in the World’ — the Fed hiked rates anyway. So who’s right?",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-ai-opportunity-bigger-stock-153016243.html",
+   "url": "https://finance.yahoo.com/economy/policy/articles/trump-demands-1-rates-because-153000828.html",
    "g": 1,
-   "img": "https://media.zenfs.com/en/24_7_wall_st__718/d7427ece82afcc017c742aaa54eda6b6.jpg"
+   "img": "https://media.zenfs.com/en/moneywise_327/091d6bec26d18be1ebe97f79bb7a2c92.jpg"
   },
   {
    "ts": "2026-09-21T22:27:00+07:00",
@@ -18324,6 +18433,16 @@
    "t": "Inside the New War for Critical Metals",
    "tags": [],
    "url": "https://www.bloomberg.com/news/videos/2026-09-21/inside-the-new-war-for-critical-metals-video",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:22:09+07:00",
+   "date": "2026-09-21",
+   "time": "22:22",
+   "src": "Reuters",
+   "t": "Moscow oil refinery output halted after Sunday drone attack, sources say",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0ZqN3BCT1Q3OXIxNWE5Vl9GVHVTNHNJWUgwdEIwNnQ5OHlPN0lmc0R3RHRubUUzdFB0bGVVZTZrVURNMWRkREczMlNuaGgxS0pyLUVvZ0FRZVpFeE9XdExBcXJtWXM5c01wSVFCRndLelVBNnU3WFFOX2lUTE82NzdzdGxUOXRuTzZWclp1b0JFQUxqcmctUmNKUW1PZWUtOV93M2lnX2NPN2ItZXUtT2lGbHo5cHRrSHRPcFBKa0w?oc=5",
    "g": 1
   },
   {
@@ -18370,16 +18489,6 @@
    "g": 1
   },
   {
-   "ts": "2026-09-21T22:14:53+07:00",
-   "date": "2026-09-21",
-   "time": "22:14",
-   "src": "CNBC",
-   "t": "What is the White House press pool and why does it matter?",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T22:14:18+07:00",
    "date": "2026-09-21",
    "time": "22:14",
@@ -18397,39 +18506,6 @@
    "t": "OTT Bupati Bolmut Sirajudin Lasena, KPK Sita Uang Tunai Ratusan Juta Rupiah",
    "tags": [],
    "url": "https://mediaindonesia.com/politik-dan-hukum/935928/ott-bupati-bolmut-sirajudin-lasena-kpk-sita-uang-tunai-ratusan-juta-rupiah"
-  },
-  {
-   "ts": "2026-09-21T22:10:13+07:00",
-   "date": "2026-09-21",
-   "time": "22:10",
-   "src": "FT",
-   "t": "Fed will need to be ‘aggressive’ on inflation, says top official",
-   "tags": [],
-   "url": "https://www.ft.com/content/e173bec6-352b-4b51-b3a4-382a9229bc86?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F00e875b5-613f-4b9e-8ad5-a1bc3c0bcfb4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "ts": "2026-09-21T22:07:46+07:00",
-   "date": "2026-09-21",
-   "time": "22:07",
-   "src": "Yahoo Finance",
-   "t": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage)",
-   "tags": [],
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/fded86d9811300314d706a3d2135a764.jpg"
-  },
-  {
-   "ts": "2026-09-21T22:07:00+07:00",
-   "date": "2026-09-21",
-   "time": "22:07",
-   "src": "MarketWatch",
-   "t": "AMD hits a major milestone as AI stocks blaze higher",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-57006692"
   },
   {
    "ts": "2026-09-21T22:04:12+07:00",
@@ -18476,17 +18552,6 @@
    "t_id": "IFG Life Bayarkan Klaim Rp9,4 Triliun, Premi Tumbuh 32,87 Persen"
   },
   {
-   "ts": "2026-09-21T21:57:00+07:00",
-   "date": "2026-09-21",
-   "time": "21:57",
-   "src": "MarketWatch",
-   "t": "AI is a Pandora’s box that some CEOs seem wary of opening — at least with investors",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-29864721"
-  },
-  {
    "ts": "2026-09-21T21:55:23+07:00",
    "date": "2026-09-21",
    "time": "21:55",
@@ -18495,17 +18560,6 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210384/menkop-mau-rebranding-koperasi-merah-putih-agar-dipahami-gen-z",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/ilustrasi-koperasi-desa-merah-putih-kdmp-dokumentasi-jawa-pos-fcluQ.webp"
-  },
-  {
-   "ts": "2026-09-21T21:55:00+07:00",
-   "date": "2026-09-21",
-   "time": "21:55",
-   "src": "Yahoo Finance",
-   "t": "Tim Cook warned of a ‘hundred-year flood’ striking tech giants — and now Apple is raising prices. What it means for you",
-   "tags": [],
-   "url": "https://finance.yahoo.com/technology/articles/tim-cook-warned-hundred-flood-145500897.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/moneywise_ecomm_711/9fea3b942b64d44eed810f389641c331.jpg"
   },
   {
    "ts": "2026-09-21T21:34:04+07:00",
@@ -18572,15 +18626,6 @@
    "url": "https://mediaindonesia.com/politik-dan-hukum/935908/kpk-sita-ratusan-juta-rupiah-dalam-ott-bupati-bolaang-mongondow-utara-sirajudin-lasena"
   },
   {
-   "ts": "2026-09-21T20:46:00+07:00",
-   "date": "2026-09-21",
-   "time": "20:46",
-   "src": "Media Indonesia",
-   "t": "Kawasan Hunian Semarang masih terus Bertumbuh",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935904/kawasan-hunian-semarang-masih-terus-bertumbuh"
-  },
-  {
    "ts": "2026-09-21T20:41:39+07:00",
    "date": "2026-09-21",
    "time": "20:41",
@@ -18589,27 +18634,6 @@
    "tags": [],
    "url": "https://finance.detik.com/industri/d-8673078/penjualan-motor-listrik-merosot-tajam-pengusaha-ungkap-biang-keroknya",
    "img": "https://akcdn.detik.net.id/community/media/visual/2024/10/09/nasib-insentif-kendaraan-listrik-di-tangan-prabowo-2_169.jpeg?w=360&q=90"
-  },
-  {
-   "ts": "2026-09-21T20:09:39+07:00",
-   "date": "2026-09-21",
-   "time": "20:09",
-   "src": "Jawa Pos",
-   "t": "Purbaya-Perry Tak Lagi Menjabat, Uang Rp 100 Ribu Bertanda Tangannya Masih Tetap Berlaku",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210329/purbaya-perry-tak-lagi-menjabat-uang-rp-100-ribu-bertanda-tangannya-masih-tetap-berlaku",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/pecahan-rp-100000-tahun-emisi-te-2022-yang-memuat-tanda-tangan-purbaya-dan-perry-warjiyo-sebagai-gubernur-bank-indonesia-bi-threads-at-christopherkeju-fxOBK.webp"
-  },
-  {
-   "ts": "2026-09-21T20:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "20:00",
-   "src": "Bloomberg Technoz",
-   "t": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122260/bei-turunkan-minimum-harga-saham-jadi-rp1-auto-rejection-berubah",
-   "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
-   "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah"
   }
  ],
  "kisi_news": [
@@ -18810,7 +18834,7 @@
   {
    "k": "달러 인덱스 (DXY)",
    "v": "100.40",
-   "d": 0.1,
+   "d": 0.09,
    "ytd": 2.16,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
@@ -18821,9 +18845,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "92.25",
-   "d": -1.83,
-   "ytd": 60.66,
+   "v": "92.23",
+   "d": -1.85,
+   "ytd": 60.62,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18833,9 +18857,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,387.5",
-   "d": -0.19,
-   "ytd": 1.43,
+   "v": "4,387.9",
+   "d": -0.18,
+   "ytd": 1.44,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22441,9 +22465,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 286,
+  "pc_age_min": 298,
   "news_ai_cache": 61,
-  "news_ai_hit": 34,
+  "news_ai_hit": 35,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -22469,9 +22493,22 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122260/bei-turunkan-minimum-harga-saham-jadi-rp1-auto-rejection-berubah",
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
-   "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah",
    "score": 430.65,
-   "srcs": 7
+   "srcs": 7,
+   "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah"
+  },
+  {
+   "ts": "2026-09-21T22:30:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:30",
+   "src": "Yahoo Finance",
+   "t": "Trump demands 1% rates because the US has the ‘Best Credit in the World’ — the Fed hiked rates anyway. So who’s right?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/economy/policy/articles/trump-demands-1-rates-because-153000828.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/moneywise_327/091d6bec26d18be1ebe97f79bb7a2c92.jpg",
+   "score": 411.5,
+   "srcs": 2
   },
   {
    "ts": "2026-09-21T19:14:45+07:00",
@@ -22510,31 +22547,16 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T21:00:29+07:00",
+   "ts": "2026-09-21T21:31:38+07:00",
    "date": "2026-09-21",
-   "time": "21:00",
+   "time": "21:31",
    "src": "Reuters",
-   "t": "Gold inches down on rising odds of Fed rate hike, stronger dollar",
+   "t": "AI stocks lift Wall St as oil falls, Treasury yields decline",
    "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtKdjloRHZCamhPWmFUa00yUkQwRWZJNFVpbUFiRl9KQmNWbmViLTJQN1hvUmphTzVuMm9ubU5VaXNoQ2NPdVgzM3JPd0t6Qk5XOHQ4ZG96bDRkMlhEMG1kN09OaElGdGxsOEpYdzA2eE53aXBsZm1ZaWhXR1JJY0FSN2NPdzFaX2d6UjY4VU5aWTJOcDNRZC1kTURhRWFPUVNoeU9NTEVUcFRuQmc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
    "g": 1,
-   "score": 408.0,
-   "srcs": 1
-  },
-  {
-   "ts": "2026-09-21T08:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "08:00",
-   "src": "WSJ",
-   "t": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5%",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/investing/see-the-10-year-treasury-yields-wild-ride-on-the-road-to-5-22e4bbc2?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-30004945",
-   "score": 313.5,
-   "srcs": 3,
-   "t_ko": "10년 만기 국채 수익률이 5%로 향하는 길을 따라가는 모습을 확인하세요.",
-   "t_id": "Lihatlah Perjalanan Liar Imbal Hasil Treasury 10-Tahun Menuju 5%"
+   "score": 314.0,
+   "srcs": 5
   }
  ],
  "daylog": {

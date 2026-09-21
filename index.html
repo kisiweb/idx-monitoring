@@ -1548,9 +1548,11 @@ function hdArc(b){const C=64,R=50,W=17,rd=Math.PI/180;let a=-90,o='';
   return'<svg viewBox="0 0 128 128" width="128" height="128" aria-hidden="true">'+o+'</svg>';}
 /* 관계자(이사·감사) 보유 지분 — IDX 기업 프로필 공표값. 1% 미만이 대부분이라 위 KSEI 명단에는 없다 */
 const INS_JOB={1:'afDir',2:'afKom'};
+/* 0.004% 를 0.00% 로 적으면 '0' 을 보여주는 셈이다 — 소수 둘째 자리 밑은 '<0.01%' 로 끊는다 */
+const insPct=p=>(p>0&&p<0.005?'<0.01':Number(p).toFixed(2))+'%';
 function insRow(d){const a=d&&d.ins; if(!a||!(a[0]>0))return'';
   const list=(a[1]||[]).map(x=>'<div class="r ir2"><span class="nm"><span>'+hdEsc(hdName(x[0]))+'</span>'
-    +'<em class="af">'+T(INS_JOB[x[2]]||'afT')+'</em></span><b>'+Number(x[1]).toFixed(2)+'%</b></div>').join('');
+    +'<em class="af">'+T(INS_JOB[x[2]]||'afT')+'</em></span><b>'+insPct(x[1])+'</b></div>').join('');
   return'<div class="r mu mor insh" title="'+hdEsc(T('hdInsT'))+'" onclick="hdMore(this)">'
     +'<span class="nm"><span class="lk">'+T('hdIns')+' '+(a[1]||[]).length+T('hdInsN')+'</span></span>'
     +'<b>'+Number(a[0]).toFixed(2)+'%</b></div>'

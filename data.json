@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 07:08",
+ "updated": "2026-09-21 08:20",
  "delay_min": 15,
- "fx_basis": "12.79 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,386 · 07:08 Yahoo",
- "idr_per_krw": 12.795,
+ "fx_basis": "12.82 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,383 · 08:00 Yahoo",
+ "idr_per_krw": 12.8227,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -83,31 +83,14 @@
    "prev": 17757.0,
    "pct": -0.1,
    "spark": [
-    17755.0,
-    17655.0,
-    17714.6,
-    17695.0,
-    17778.0,
-    17749.0,
-    17749.0,
-    17689.9,
-    17697.2,
-    17723.0,
-    17618.1,
-    17638.0,
-    17664.0,
-    17588.0,
-    17501.0,
-    17588.1,
-    17630.0,
-    17636.0,
-    17665.0,
-    17718.0,
-    17757.0,
+    17740.0,
     17740.0
    ],
    "inv": true,
-   "asof": "Yahoo"
+   "asof": "08:00",
+   "high": 17740.0,
+   "low": 17740.0,
+   "src": "yahoo"
   },
   {
    "code": "SUN10Y",
@@ -16878,18 +16861,24 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 6894.23,
-   "prev": 6715.41,
-   "pct": 2.66,
-   "asof": "09/17 종가",
-   "live": false,
+   "px": 6960.08,
+   "prev": 6874.79,
+   "pct": 1.24,
+   "asof": "07:55",
+   "live": true,
    "spark": [
-    6909.91,
-    6684.37,
-    6627.26,
-    6717.97,
-    6715.41,
-    6894.23
+    6976.92,
+    6973.34,
+    6961.07,
+    6942.64,
+    6966.75,
+    6971.29,
+    6959.24,
+    6950.21,
+    6950.39,
+    6964.0,
+    6961.02,
+    6960.08
    ]
   },
   {
@@ -17140,6 +17129,65 @@
  },
  "news": [
   {
+   "ts": "2026-09-21T08:10:00+07:00",
+   "date": "2026-09-21",
+   "time": "08:10",
+   "src": "Bloomberg Technoz",
+   "t": "ULTJ Tetap Perusahaan Terbuka Usai Diambil FrieslandCampina",
+   "tags": [
+    "ULTJ"
+   ],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122163/ultj-tetap-perusahaan-terbuka-usai-diambil-frieslandcampina",
+   "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260918154510.jpg",
+   "t_ko": "ULTJ는 FrieslandCampina에 인수된 후에도 공개 회사로 남아 있습니다.",
+   "t_id": "ULTJ Tetap Perusahaan Terbuka Usai Diambil FrieslandCampina"
+  },
+  {
+   "ts": "2026-09-21T07:53:00+07:00",
+   "date": "2026-09-21",
+   "time": "07:53",
+   "src": "IDX Channel",
+   "t": "IHSG Masuk Area Konsolidasi, Cek Analisa Saham ANTM, MTEL, dan IMPC",
+   "tags": [
+    "ANTM",
+    "IMPC",
+    "MTEL"
+   ],
+   "url": "https://www.idxchannel.com/market-news/ihsg-masuk-area-konsolidasi-cek-analisa-saham-antm-mtel-dan-impc",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/01/29/IHSG.gif",
+   "t_id": "IHSG Masuk Area Konsolidasi, Cek Analisa Saham ANTM, MTEL, dan IMPC",
+   "t_ko": "JCI가 통합 영역에 진입하여 ANTM, MTEL 및 IMPC 주식 분석을 확인합니다."
+  },
+  {
+   "ts": "2026-09-21T07:32:00+07:00",
+   "date": "2026-09-21",
+   "time": "07:32",
+   "src": "IDX Channel",
+   "t": "Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo untuk Akuisisi Frisian Flag Rp14,6 Triliun",
+   "tags": [
+    "ULTJ"
+   ],
+   "url": "https://www.idxchannel.com/market-news/ultrajaya-ultj-siapkan-rights-issue-jumbo-untuk-akuisisi-frisian-flag-rp146-triliun",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2025/02/20/rights_issue.jpeg",
+   "t_id": "Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo untuk Akuisisi Frisian Flag Rp14,6 Triliun",
+   "t_ko": "Ultrajaya(ULTJ), 프리지아 국기 IDR 14.6조 인수를 위한 점보 권리 발행 준비"
+  },
+  {
+   "ts": "2026-09-21T07:11:58+07:00",
+   "date": "2026-09-21",
+   "time": "07:11",
+   "src": "Jawa Pos",
+   "t": "IHSG Masih Loyo, Ini 4 Saham Pilihan IPOT yang Berpotensi Cuan",
+   "tags": [
+    "ANTM",
+    "MTEL"
+   ],
+   "url": "https://www.jawapos.com/ekonomi/2609210017/ihsg-masih-loyo-ini-4-saham-pilihan-ipot-yang-berpotensi-cuan",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/08/09/pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-jumat-782026-dery-ridwansah-jawaposcom-OtoVc.webp",
+   "t_id": "IHSG Masih Loyo, Ini 4 Saham Pilihan IPOT yang Berpotensi Cuan",
+   "t_ko": "IHSG는 여전히 부진합니다. 수익 창출 가능성이 있는 IPOT 주식 4개를 선정했습니다."
+  },
+  {
    "ts": "2026-09-21T06:19:00+07:00",
    "date": "2026-09-21",
    "time": "06:19",
@@ -17150,8 +17198,8 @@
    ],
    "url": "https://katadata.co.id/finansial/bursa/6ab06a006da37/asa-himbara-gotong-royong-restrukturisasi-utang-adhi-karya-adhi-rp-3-triliun",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2021/05/01/2021_05_01-18_40_00_b1b3f6cb3e8fd2bb96e60de8eefb550b_620x413_thumb.jpg",
-   "t_id": "Asa Himbara Gotong Royong Restrukturisasi Utang Adhi Karya (ADHI) Rp 3 Triliun",
-   "t_ko": "Asa Himbara 상호 협력 구조 조정 Adhi Karya(ADHI) 부채 IDR 3조"
+   "t_ko": "Asa Himbara 상호 협력 구조 조정 Adhi Karya(ADHI) 부채 IDR 3조",
+   "t_id": "Asa Himbara Gotong Royong Restrukturisasi Utang Adhi Karya (ADHI) Rp 3 Triliun"
   },
   {
    "ts": "2026-09-21T06:15:00+07:00",
@@ -17336,20 +17384,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/19/ilustrasi-kantor-pt-pertamina-persero-istimewa-EOtEK.webp",
    "t_ko": "2026년 Fortune Indonesia 100 Gala에서 상위권을 차지한 Pertamina는 인도네시아에서 가장 큰 수익을 기록했습니다.",
    "t_id": "Duduki Puncak Fortune Indonesia 100 Gala 2026, Pertamina Catatkan Pendapatan Terbesar di Indonesia"
-  },
-  {
-   "ts": "2026-09-19T15:35:00+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "IDX Channel",
-   "t": "YUPI Siapkan Empat Opsi Penuhi Aturan Free Float 15 Persen",
-   "tags": [
-    "YUPI"
-   ],
-   "url": "https://www.idxchannel.com/market-news/yupi-siapkan-empat-opsi-penuhi-aturan-free-float-15-persen",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2025/03/25/YUPI_cahya.JPG",
-   "t_ko": "YUPI, 15% 자유 유동 규칙을 충족하기 위한 4가지 옵션 준비",
-   "t_id": "YUPI Siapkan Empat Opsi Penuhi Aturan Free Float 15 Persen"
   },
   {
    "ts": "2026-09-19T15:24:04+07:00",
@@ -17735,6 +17769,270 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T08:11:00+07:00",
+   "date": "2026-09-21",
+   "time": "08:11",
+   "src": "Katadata",
+   "t": "Deret 20 Akuisisi Jumbo 2026, intip Manuver Prajogo, Hapsoro hingga Sinar Mas",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/korporasi/6ab0845757d4b/deret-20-akuisisi-jumbo-2026-intip-manuver-prajogo-hapsoro-hingga-sinar-mas",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/09/15/Apa_Itu_Investasi_Saham-2023_09_15-10_45_16_d6703d677a21df7dba8bd2301ba2b797_620x413_thumb.png",
+   "t_ko": "2026년 20개 점보 인수 시리즈, Prajogo, Hapsoro에서 Sinar Mas까지의 작전을 엿보세요.",
+   "t_id": "Deret 20 Akuisisi Jumbo 2026, intip Manuver Prajogo, Hapsoro hingga Sinar Mas"
+  },
+  {
+   "ts": "2026-09-21T08:09:42+07:00",
+   "date": "2026-09-21",
+   "time": "08:09",
+   "src": "Jawa Pos",
+   "t": "Harga Minyak Mentah Dunia Turun Lagi di Tengah Serangan Rudal Houthi ke Riyadh",
+   "tags": [],
+   "url": "https://www.jawapos.com/energi/2609210022/harga-minyak-mentah-dunia-turun-lagi-di-tengah-serangan-rudal-houthi-ke-riyadh",
+   "g": 1,
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/05/25/ilustrasi-pengeboran-minyak-mentah-dunia-istimewa-3vinA.webp",
+   "t_id": "Harga Minyak Mentah Dunia Turun Lagi di Tengah Serangan Rudal Houthi ke Riyadh",
+   "t_ko": "리야드에 대한 후티 미사일 공격으로 세계 원유 가격이 다시 하락"
+  },
+  {
+   "ts": "2026-09-21T08:05:22+07:00",
+   "date": "2026-09-21",
+   "time": "08:05",
+   "src": "Republika",
+   "t": "Pramono Bertemu Wali Kota Zohran Mamdani di New York, Bahas Transportasi hingga Jakarta Bond",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlow8y416/pramono-bertemu-wali-kota-zohran-mamdani-di-new-york-bahas-transportasi-hingga-jakarta-bond",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/_260921080444-874.png",
+   "t_id": "Pramono Bertemu Wali Kota Zohran Mamdani di New York, Bahas Transportasi hingga Jakarta Bond",
+   "t_ko": "Pramono는 뉴욕에서 Zohran Mamdani 시장을 만나 자카르타 본드까지의 교통에 대해 논의합니다."
+  },
+  {
+   "ts": "2026-09-21T08:01:11+07:00",
+   "date": "2026-09-21",
+   "time": "08:01",
+   "src": "FT",
+   "t": "US and China agree to dialogue on AI ahead of Trump-Xi meeting",
+   "tags": [],
+   "url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd55be54e-dcbd-40da-b431-33e18ef2ff92.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "미국과 중국은 트럼프-시 회담을 앞두고 AI 관련 대화에 합의했다.",
+   "t_id": "AS dan Tiongkok sepakat untuk berdialog mengenai AI menjelang pertemuan Trump-Xi"
+  },
+  {
+   "ts": "2026-09-21T08:00:00+07:00",
+   "date": "2026-09-21",
+   "time": "08:00",
+   "src": "WSJ",
+   "t": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5%",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/investing/see-the-10-year-treasury-yields-wild-ride-on-the-road-to-5-22e4bbc2?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-30004945",
+   "t_ko": "10년 만기 국채 수익률이 5%로 향하는 길을 따라가는 모습을 확인하세요.",
+   "t_id": "Lihatlah Perjalanan Liar Imbal Hasil Treasury 10-Tahun Menuju 5%"
+  },
+  {
+   "ts": "2026-09-21T07:55:56+07:00",
+   "date": "2026-09-21",
+   "time": "07:55",
+   "src": "Detik",
+   "t": "Masalah Perizinan & TKDN RI Disorot Industri Otomotif Jepang",
+   "tags": [],
+   "url": "https://finance.detik.com/industri/d-8671523/masalah-perizinan-tkdn-ri-disorot-industri-otomotif-jepang",
+   "g": 1,
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/02/25/ekspor-mobil-sepanjang-tahun-2025-1771995488091_169.jpeg?w=360&q=90",
+   "t_ko": "일본 자동차 산업이 강조하는 RI 라이센스 및 TKDN 문제",
+   "t_id": "Masalah Perizinan & TKDN RI Disorot Industri Otomotif Jepang"
+  },
+  {
+   "ts": "2026-09-21T07:50:09+07:00",
+   "date": "2026-09-21",
+   "time": "07:50",
+   "src": "Bloomberg",
+   "t": "Trump & Xi to Meet Amidst Friction on Wars, Tech, Trade",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-21/trump-xi-to-meet-amidst-friction-on-wars-tech-trade-video",
+   "g": 1,
+   "t_ko": "트럼프와 시, 전쟁, 기술, 무역의 마찰 속에서 만나다",
+   "t_id": "Trump & Xi Akan Bertemu di Tengah Gesekan Perang, Teknologi, Perdagangan"
+  },
+  {
+   "ts": "2026-09-21T07:45:38+07:00",
+   "date": "2026-09-21",
+   "time": "07:45",
+   "src": "Detik",
+   "t": "Harga Minyak Tembus US$ 104/Barel Usai Houthi Serang Arab Saudi",
+   "tags": [],
+   "url": "https://finance.detik.com/energi/d-8671748/harga-minyak-tembus-us-104-barel-usai-houthi-serang-arab-saudi",
+   "g": 1,
+   "img": "https://akcdn.detik.net.id/community/media/visual/2025/06/13/emas-minyak-membara-usai-israel-serang-iran-1749816574366_169.jpeg?w=360&q=90",
+   "t_ko": "사우디아라비아 후티 반군 공격 이후 유가가 배럴당 104달러에 도달",
+   "t_id": "Harga Minyak Tembus US$ 104/Barel Usai Houthi Serang Arab Saudi"
+  },
+  {
+   "ts": "2026-09-21T07:45:38+07:00",
+   "date": "2026-09-21",
+   "time": "07:45",
+   "src": "Jawa Pos",
+   "t": "BGN Bakal Siapkan Aplikasi Semacam Ojol, Kepala Sekolah Bisa Beri Rating ke Dapur MBG",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210020/bgn-bakal-siapkan-aplikasi-semacam-ojol-kepala-sekolah-bisa-beri-rating-ke-dapur-mbg",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/07/ilustrasi-petugas-sppg-di-jawa-timur-sedang-menyiapkan-menu-mbg-novia-herawatijawaposcom-21D6h.webp",
+   "t_id": "BGN Bakal Siapkan Aplikasi Semacam Ojol, Kepala Sekolah Bisa Beri Rating ke Dapur MBG",
+   "t_ko": "BGN은 Ojol과 같은 신청서를 준비할 예정이며, 학교 교장은 MBG Kitchens에 등급을 부여할 수 있습니다."
+  },
+  {
+   "ts": "2026-09-21T07:45:26+07:00",
+   "date": "2026-09-21",
+   "time": "07:45",
+   "src": "CNBC",
+   "t": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+   "g": 1,
+   "t_ko": "베센트, 트럼프-시진핑 회담 앞두고 허라이펑 중국 부총리와의 회담 '성공적'",
+   "t_id": "Bessent menyebut pertemuan dengan Wakil Perdana Menteri Tiongkok He Lifeng 'sukses' menjelang KTT Trump-Xi"
+  },
+  {
+   "ts": "2026-09-21T07:45:17+07:00",
+   "date": "2026-09-21",
+   "time": "07:45",
+   "src": "CNA",
+   "t": "New World Development bags Shanghai bourse nod for $570 million REIT listing",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/new-world-development-bags-shanghai-bourse-nod-570-million-reit-listing-6398361",
+   "g": 1,
+   "img": "https://dam.mediacorp.sg/image/upload/s--5RiKbIgy--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-21T004517Z_1_LYNXMPEM8K00V_RTROPTP_3_NEW-WORLD-DEV-MOVES.JPG?itok=jX9pvr95",
+   "t_ko": "New World Development, 상하이 증권거래소에서 5억 7천만 달러 REIT 상장 승인",
+   "t_id": "New World Development mengantongi bursa Shanghai menerima listing REIT senilai $570 juta"
+  },
+  {
+   "ts": "2026-09-21T07:40:28+07:00",
+   "date": "2026-09-21",
+   "time": "07:40",
+   "src": "CNA",
+   "t": "Tech leads shares higher in Asia, oil eases",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/tech-leads-shares-higher-in-asia-oil-eases-6398351",
+   "g": 1,
+   "img": "https://dam.mediacorp.sg/image/upload/s--L1iNY0FQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-21T004028Z_2_LYNXMPEM8K00O_RTROPTP_3_JAPAN-ECONOMY-BOJ.JPG?itok=LgJdr3sA",
+   "t_ko": "아시아에서 기술주 점유율 상승, 석유 완화",
+   "t_id": "Teknologi memimpin kenaikan saham di Asia, minyak melemah"
+  },
+  {
+   "ts": "2026-09-21T07:40:00+07:00",
+   "date": "2026-09-21",
+   "time": "07:40",
+   "src": "Bloomberg Technoz",
+   "t": "IHSG Konsolidasi Bearish, Dibayangi Arah Bank Indonesia",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122161/ihsg-konsolidasi-bearish-dibayangi-arah-bank-indonesia",
+   "img": "https://images.bloombergtechnoz.com/data/2026/07/image-20260727155332.jpeg",
+   "t_ko": "JCI는 인도네시아 은행의 지시로 인해 약세를 보이면서 통합했습니다.",
+   "t_id": "IHSG Konsolidasi Bearish, Dibayangi Arah Bank Indonesia"
+  },
+  {
+   "ts": "2026-09-21T07:34:53+07:00",
+   "date": "2026-09-21",
+   "time": "07:34",
+   "src": "BBC",
+   "t": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+   "tags": [],
+   "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+   "g": 1,
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg",
+   "t_ko": "엔비디아 사장, AI 멸종 우려를 '최후의 날 이야기'로 거부",
+   "t_id": "Bos Nvidia menolak ketakutan akan kepunahan AI sebagai 'narasi hari kiamat'"
+  },
+  {
+   "ts": "2026-09-21T07:33:06+07:00",
+   "date": "2026-09-21",
+   "time": "07:33",
+   "src": "Bloomberg",
+   "t": "US Diesel Tops $6.50 a Gallon as Wars Worsen Global Fuels Crunch",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/us-diesel-tops-6-50-a-gallon-as-wars-worsen-global-fuels-crunch",
+   "g": 1,
+   "t_ko": "전쟁이 악화됨에 따라 미국 디젤은 갤런당 6.50달러를 넘어섰습니다.",
+   "t_id": "Diesel AS Mencapai $6,50 per Galon karena Perang Memburuk Krisis Bahan Bakar Global"
+  },
+  {
+   "ts": "2026-09-21T07:30:56+07:00",
+   "date": "2026-09-21",
+   "time": "07:30",
+   "src": "Detik",
+   "t": "Ikan Teri Cirebon Bersiap Naik Kelas, Mutu Hasil Perikanan Jadi Perhatian",
+   "tags": [],
+   "url": "https://finance.detik.com/foto-bisnis/d-8671491/ikan-teri-cirebon-bersiap-naik-kelas-mutu-hasil-perikanan-jadi-perhatian",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/20/ikan-teri-cirebon-bersiap-naik-kelas-mutu-hasil-perikanan-jadi-perhatian-1789909145322_169.jpeg?w=360&q=90",
+   "t_id": "Ikan Teri Cirebon Bersiap Naik Kelas, Mutu Hasil Perikanan Jadi Perhatian",
+   "t_ko": "찌레본 멸치 등급 상향 준비 중, 수산물 품질이 문제"
+  },
+  {
+   "ts": "2026-09-21T07:20:54+07:00",
+   "date": "2026-09-21",
+   "time": "07:20",
+   "src": "Bloomberg Technoz",
+   "t": "Kalender Ekonomi: BI Rate, dan Pertemuan AS-China Jadi Sorotan",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122160/kalender-ekonomi-bi-rate-dan-pertemuan-as-china-jadi-sorotan",
+   "g": 1,
+   "img": "https://images.bloombergtechnoz.com/data/2026/05/image-20260520162706.jpg",
+   "t_id": "Kalender Ekonomi: BI Rate, dan Pertemuan AS-China Jadi Sorotan",
+   "t_ko": "경제 캘린더: BI 금리와 미중 회의가 주목받고 있습니다"
+  },
+  {
+   "ts": "2026-09-21T07:20:00+07:00",
+   "date": "2026-09-21",
+   "time": "07:20",
+   "src": "Bloomberg Technoz",
+   "t": "Harga Minyak Stabil, Pasar Pantau Risiko Pasokan Timur Tengah",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122158/harga-minyak-stabil-pasar-pantau-risiko-pasokan-timur-tengah",
+   "g": 1,
+   "img": "https://images.bloombergtechnoz.com/data/2026/03/image-20260330130817.jpg",
+   "t_ko": "유가는 안정적이고 시장은 중동 공급 위험을 모니터링합니다.",
+   "t_id": "Harga Minyak Stabil, Pasar Pantau Risiko Pasokan Timur Tengah"
+  },
+  {
+   "ts": "2026-09-21T07:14:57+07:00",
+   "date": "2026-09-21",
+   "time": "07:14",
+   "src": "Bloomberg",
+   "t": "Rupiah’s Advance at Risk as Fiscal, Rate Pressures Linger",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/rupiah-s-advance-at-risk-as-fiscal-rate-pressures-linger",
+   "g": 1,
+   "t_ko": "재정 측면에서 루피아의 상승 위험, 금리 압박 지속",
+   "t_id": "Penguatan Rupiah dalam Risiko karena Tekanan Fiskal dan Suku Bunga Masih Berlanjut"
+  },
+  {
+   "ts": "2026-09-21T07:14:37+07:00",
+   "date": "2026-09-21",
+   "time": "07:14",
+   "src": "Jawa Pos",
+   "t": "Rupiah Berpotensi Ambles Hari Ini, Sentimen The Fed dan El Nino jadi Pemicu",
+   "tags": [],
+   "url": "https://www.jawapos.com/finance/2609210018/rupiah-berpotensi-ambles-hari-ini-sentimen-the-fed-dan-el-nino-jadi-pemicu",
+   "g": 1,
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/05/26/karyawan-menunjukkan-uang-pecahan-rupiah-dan-dolar-amerika-serikat-as-di-gerai-penukaran-mata-uang-asing-di-jakarta-dery-ridwansah-jawaposcom-KKMzb.webp",
+   "t_id": "Rupiah Berpotensi Ambles Hari Ini, Sentimen The Fed dan El Nino jadi Pemicu",
+   "t_ko": "루피아는 오늘 붕괴할 가능성이 있으며, 연준의 정서와 엘니뇨가 그 원인입니다."
+  },
+  {
+   "ts": "2026-09-21T07:04:12+07:00",
+   "date": "2026-09-21",
+   "time": "07:04",
+   "src": "CNA",
+   "t": "Europe faces Q4 jet fuel supply deficit even as South Korea becomes latest big supplier",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/europe-faces-q4-jet-fuel-supply-deficit-even-south-korea-becomes-latest-big-supplier-6398316",
+   "g": 1,
+   "img": "https://dam.mediacorp.sg/image/upload/s--myemXM9e--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-21T000412Z_1_LYNXMPEM8K006_RTROPTP_3_IRAN-CRISIS-AVIATION-CENTRALEUROPE.JPG?itok=xR0EXgA4",
+   "t_ko": "한국이 최근 최대 공급국이 되었음에도 불구하고 유럽은 4분기 제트유 공급 부족에 직면해 있습니다.",
+   "t_id": "Eropa menghadapi defisit pasokan bahan bakar jet pada kuartal keempat bahkan ketika Korea Selatan menjadi pemasok besar terbaru"
+  },
+  {
    "ts": "2026-09-21T07:00:53+07:00",
    "date": "2026-09-21",
    "time": "07:00",
@@ -17743,8 +18041,8 @@
    "tags": [],
    "url": "https://www.liputan6.com/saham/read/8295726/ihsg-berpeluang-melemah-ke-6400-cek-rekomendasi-saham-21-september-2026",
    "img": "https://cdn0-production-images-kly.akamaized.net/_5YtYAysPwcwyQwktcti0P4fV6Y=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5497601/original/069263100_1770638743-1.jpg",
-   "t_id": "IHSG Berpeluang Melemah ke 6.400, Cek Rekomendasi Saham 21 September 2026",
-   "t_ko": "JCI는 6,400으로 약화될 가능성이 있습니다. 2026년 9월 21일 주식 추천을 확인하세요"
+   "t_ko": "JCI는 6,400으로 약화될 가능성이 있습니다. 2026년 9월 21일 주식 추천을 확인하세요",
+   "t_id": "IHSG Berpeluang Melemah ke 6.400, Cek Rekomendasi Saham 21 September 2026"
   },
   {
    "ts": "2026-09-21T06:56:31+07:00",
@@ -17755,45 +18053,20 @@
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671520/ini-yang-diperiksa-bpk-di-laporan-keuangan-danantara",
    "img": "https://akcdn.detik.net.id/community/media/visual/2025/07/01/wisma-danantara-indonesia-1751345496674_169.jpeg?w=360&q=90",
-   "t_id": "Ini yang Diperiksa BPK di Laporan Keuangan Danantara",
-   "t_ko": "BPK가 다난타라 재무보고서에서 검토한 내용입니다."
-  },
-  {
-   "ts": "2026-09-21T06:50:00+07:00",
-   "date": "2026-09-21",
-   "time": "06:50",
-   "src": "Republika",
-   "t": "Harga Emas Diprediksi Bergerak Fluktuatif Pekan Ini di Kisaran Rp 2,62 Juta—Rp 2,82 Juta per Gram",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlormw423/harga-emas-diprediksi-bergerak-fluktuatif-pekan-ini-di-kisaran-rp-262-jutarp-282-juta-per-gram",
-   "g": 1,
-   "img": "https://static.republika.co.id/uploads/images/detailnews/067240500-1767769487-830-556.jpg",
-   "t_id": "Harga Emas Diprediksi Bergerak Fluktuatif Pekan Ini di Kisaran Rp 2,62 Juta—Rp 2,82 Juta per Gram",
-   "t_ko": "금 가격은 이번 주 그램당 IDR 262만~IDR 282만 범위에서 변동될 것으로 예상됩니다."
-  },
-  {
-   "ts": "2026-09-21T06:45:47+07:00",
-   "date": "2026-09-21",
-   "time": "06:45",
-   "src": "Bloomberg",
-   "t": "Gold Steadies as Traders Weigh Inflation and Fed Hike Outlook",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/gold-steadies-as-traders-weigh-inflation-and-fed-hike-outlook",
-   "g": 1,
-   "t_ko": "트레이더들이 인플레이션과 연준의 인상 전망을 고려하면서 금은 안정되었습니다.",
-   "t_id": "Emas Stabil seiring Para Pedagang Menimbang Inflasi dan Prospek Kenaikan Suku Bunga Fed"
+   "t_ko": "BPK가 다난타라 재무보고서에서 검토한 내용입니다.",
+   "t_id": "Ini yang Diperiksa BPK di Laporan Keuangan Danantara"
   },
   {
    "ts": "2026-09-21T06:30:00+07:00",
    "date": "2026-09-21",
    "time": "06:30",
    "src": "Republika",
-   "t": "Presiden akan Gratiskan Pendidikan dari SD hingga Perguruan Tinggi Negeri, Ekonom: tidak Mustahil",
+   "t": "Presiden akan Gratiskan Pendidikan dari SD hingga Perguruan Tinggi Negeri, Ekonom: Tidak Mustahil",
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlor0c423/presiden-akan-gratiskan-pendidikan-dari-sd-hingga-perguruan-tinggi-negeri-ekonom-tidak-mustahil",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260919142819-446.png",
-   "t_id": "Presiden akan Gratiskan Pendidikan dari SD hingga Perguruan Tinggi Negeri, Ekonom: tidak Mustahil",
-   "t_ko": "대통령, 초등학교부터 주립대학까지 무상교육 실시할 것, 경제학자: 불가능하지는 않다"
+   "t_id": "Presiden akan Gratiskan Pendidikan dari SD hingga Perguruan Tinggi Negeri, Ekonom: Tidak Mustahil",
+   "t_ko": "대통령, 초등학교부터 주립대학까지 무상교육 실시할 것, 이코노미스트 “불가능하지 않다”"
   },
   {
    "ts": "2026-09-21T06:20:00+07:00",
@@ -17808,68 +18081,6 @@
    "t_id": "Investor Buru Obligasi AS Jangka Pendek, Bertaruh Inflasi Mereda"
   },
   {
-   "ts": "2026-09-21T06:19:46+07:00",
-   "date": "2026-09-21",
-   "time": "06:19",
-   "src": "Reuters",
-   "t": "Oil rises after Houthi attack on Saudi capital",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEljbFotbFNVU2Nyb1oyaElIUXJJc1ltUmF5a1FrMl9xbEwyNG9LOWwyZ3F2dUZIUl9QYnd6OXU1cU10UGx0QzkxaVp6QkoxY3ZYSm1qc3FvbFprT29VcldJZ3V1Y1YtZ1A3MjEtTUo2dk9laHFBaWZBMFNOMmZDVC16aDBhYUdmdmZFdUJ4d0hoMW5hZTgxRk1ETQ?oc=5",
-   "g": 1,
-   "t_ko": "사우디 자본에 대한 후티 공격 이후 유가 상승",
-   "t_id": "Minyak naik setelah serangan Houthi di ibu kota Saudi"
-  },
-  {
-   "ts": "2026-09-21T06:03:11+07:00",
-   "date": "2026-09-21",
-   "time": "06:03",
-   "src": "Bloomberg Technoz",
-   "t": "Futures S&P 500 Naik, Dolar Stabil Jelang Pertemuan AS-China",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122154/futures-s-p-500-naik-dolar-stabil-jelang-pertemuan-as-china",
-   "g": 1,
-   "img": "https://images.bloombergtechnoz.com/data/2026/06/image-20260616065352.jpg",
-   "t_ko": "S&P 500 선물 상승, 달러는 미-중 회의 앞두고 안정세 유지",
-   "t_id": "Futures S&P 500 Naik, Dolar Stabil Jelang Pertemuan AS-China"
-  },
-  {
-   "ts": "2026-09-21T06:01:01+07:00",
-   "date": "2026-09-21",
-   "time": "06:01",
-   "src": "Bloomberg",
-   "t": "Black Sea Shipping Turmoil Hits Wheat Market, Amplifies Inflation Risks",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/features/2026-09-20/black-sea-shipping-turmoil-hits-wheat-market-amplifies-inflation-risks",
-   "g": 1,
-   "t_ko": "흑해 해운 혼란으로 밀 시장이 타격을 입고 인플레이션 위험이 증폭됩니다.",
-   "t_id": "Gejolak Pengiriman Laut Hitam Menghantam Pasar Gandum, Memperkuat Risiko Inflasi"
-  },
-  {
-   "ts": "2026-09-21T06:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "06:00",
-   "src": "Bloomberg",
-   "t": "Ex-Banker Eyeing Top WHO Job Says Agency Can Tap Outside Money",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/ex-banker-eyeing-top-who-job-says-agency-can-tap-outside-money",
-   "g": 1,
-   "t_ko": "전직 은행가 주목 톱 WHO 직업, 대행사가 외부 돈을 활용할 수 있다고 말함",
-   "t_id": "Mantan Bankir Mengincar Pekerjaan Teratas WHO Mengatakan Agensi Dapat Memanfaatkan Uang Luar"
-  },
-  {
-   "ts": "2026-09-21T06:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "06:00",
-   "src": "IDX Channel",
-   "t": "Citi Perkirakan Sikap Hawkish The Fed Perlambat Sektor Ekonomi di Luar AI",
-   "tags": [],
-   "url": "https://www.idxchannel.com/market-news/citi-perkirakan-sikap-hawkish-the-fed-perlambat-sektor-ekonomi-di-luar-ai",
-   "g": 1,
-   "img": "https://img.idxchannel.com/media/439/images/idx/2025/09/13/the_fed.jpeg",
-   "t_ko": "Citi는 AI 이외의 경제 부문을 둔화시키는 연준의 강경한 태도를 기대합니다.",
-   "t_id": "Citi Perkirakan Sikap Hawkish The Fed Perlambat Sektor Ekonomi di Luar AI"
-  },
-  {
    "ts": "2026-09-21T05:55:48+07:00",
    "date": "2026-09-21",
    "time": "05:55",
@@ -17882,68 +18093,6 @@
    "t_id": "Harga Cabai Rawit Merah Bisa Tembus Rp 120 Ribu/Kg, Ini Alasannya"
   },
   {
-   "ts": "2026-09-21T05:53:00+07:00",
-   "date": "2026-09-21",
-   "time": "05:53",
-   "src": "Katadata",
-   "t": "Wall Street Bergejolak Tersengat Harga Minyak dan Imbal Hasil US Treasury Naik",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/keuangan/6ab063f919009/wall-street-bergejolak-tersengat-harga-minyak-dan-imbal-hasil-us-treasury-naik",
-   "g": 1,
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/10/12/Wall_Street-2023_10_12-05_51_11_8074be86ec350e0281213fa81ef24863_620x413_thumb.png",
-   "t_ko": "유가와 미국 국채 수익률 상승으로 월스트리트 발리슛",
-   "t_id": "Wall Street Bergejolak Tersengat Harga Minyak dan Imbal Hasil US Treasury Naik"
-  },
-  {
-   "ts": "2026-09-21T05:14:48+07:00",
-   "date": "2026-09-21",
-   "time": "05:14",
-   "src": "Bloomberg",
-   "t": "US Stock Futures Advance, Brent Crude Holds Losses: Markets Wrap",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/us-stock-futures-up-ahead-of-talks-dollar-steady-markets-wrap",
-   "g": 1,
-   "t_ko": "미국 주식 선물 상승, 브렌트 원유 손실 보유: 시장 마무리",
-   "t_id": "Saham Berjangka AS Menguat, Minyak Mentah Brent Menahan Kerugian: Pasar Selesai"
-  },
-  {
-   "ts": "2026-09-21T05:05:05+07:00",
-   "date": "2026-09-21",
-   "time": "05:05",
-   "src": "Bloomberg",
-   "t": "Latest Oil Market News and Analysis for Sept. 21",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/latest-oil-market-news-and-analysis-for-sept-21",
-   "g": 1,
-   "t_ko": "9월 21일 최신 석유 시장 뉴스 및 분석",
-   "t_id": "Berita dan Analisis Pasar Minyak Terbaru 21 September"
-  },
-  {
-   "ts": "2026-09-21T05:01:00+07:00",
-   "date": "2026-09-21",
-   "time": "05:01",
-   "src": "Bloomberg",
-   "t": "Swiss Dealmaking Bounces Back But Private Equity Is Squeezed",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/swiss-dealmaking-bounces-back-but-private-equity-is-squeezed",
-   "g": 1,
-   "t_ko": "스위스 딜메이킹은 반등했지만 사모펀드는 압박을 받았습니다.",
-   "t_id": "Pembuatan Kesepakatan Swiss Bangkit Kembali Namun Ekuitas Swasta Terjepit"
-  },
-  {
-   "ts": "2026-09-21T05:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "05:00",
-   "src": "CNA",
-   "t": "CNA Explains: Beyond the Air India stake, how have SIA's other investments fared?",
-   "tags": [],
-   "url": "https://www.channelnewsasia.com/singapore/sia-air-india-investment-track-record-6391561",
-   "g": 1,
-   "img": "https://dam.mediacorp.sg/image/upload/s--8Doj8GnI--/c_crop,h_448,w_798,x_0,y_18/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-09T052358Z_3_LYNXMPEM880AT_RTROPTP_3_AIR-INDIA-FUNDRAISING-SINGAPORE-AIR.JPG?itok=85Lp6Wnm",
-   "t_ko": "CNA 설명: Air India 지분 외에도 SIA의 다른 투자는 어떻게 진행되었습니까?",
-   "t_id": "Penjelasan CNA: Di luar kepemilikan Air India, bagaimana perkembangan investasi SIA lainnya?"
-  },
-  {
    "ts": "2026-09-21T04:00:52+07:00",
    "date": "2026-09-21",
    "time": "04:00",
@@ -17954,55 +18103,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/08/08/badan-pangan-nasional-bapanas-menemukan-ketidaksesuaian-kandungan-gizi-beras-fortifikasi-pada-sampel-hingga-80-persen-istimewa-zWo6j.webp",
    "t_ko": "BPKN은 2025년 이후 비표준 강화 쌀에 대한 조사 결과를 공개하고 SNI 의무화를 추진합니다.",
    "t_id": "BPKN Ungkap Temuan Beras Fortifikasi Tidak Standar Sejak 2025, Dorong Wajib SNI"
-  },
-  {
-   "ts": "2026-09-21T04:00:01+07:00",
-   "date": "2026-09-21",
-   "time": "04:00",
-   "src": "Bloomberg",
-   "t": "AI Boom Is Making Diversifying Investments Tough for Wall Street",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
-   "g": 1,
-   "t_ko": "AI 붐은 월스트리트에 다각적 투자를 어렵게 만들고 있습니다.",
-   "t_id": "AI Boom Membuat Diversifikasi Investasi Sulit bagi Wall Street"
-  },
-  {
-   "ts": "2026-09-21T04:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "04:00",
-   "src": "IDX Channel",
-   "t": "Harga Emas Diproyeksi Tembus Rp2.820.000 per Gram Pekan Ini",
-   "tags": [],
-   "url": "https://www.idxchannel.com/market-news/harga-emas-diproyeksi-tembus-rp2820000-per-gram-pekan-ini",
-   "g": 1,
-   "img": "https://img.idxchannel.com/media/439/images/idx/2023/10/26/Rincian_Harga_Emas_Antam_Hari_Ini.jpg",
-   "t_ko": "이번 주 금 가격은 그램당 IDR 2,820,000에 도달할 것으로 예상됩니다.",
-   "t_id": "Harga Emas Diproyeksi Tembus Rp2.820.000 per Gram Pekan Ini"
-  },
-  {
-   "ts": "2026-09-21T02:06:16+07:00",
-   "date": "2026-09-21",
-   "time": "02:06",
-   "src": "CNBC",
-   "t": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
-   "g": 1,
-   "t_ko": "트럼프, 유엔 총회 앞두고 조란 맘다니 뉴욕시장과 회담 예정",
-   "t_id": "Trump akan bertemu dengan Walikota NYC Zohran Mamdani pada hari Senin menjelang Majelis Umum PBB"
-  },
-  {
-   "ts": "2026-09-21T02:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "02:00",
-   "src": "Bloomberg",
-   "t": "Short-Term Treasuries Emerge as Popular Bet on Fed Inflation Win",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-20/short-term-treasuries-emerge-as-popular-bet-on-fed-inflation-win",
-   "g": 1,
-   "t_ko": "단기 국채가 연준 인플레이션 승리에 대한 인기 있는 베팅으로 부상",
-   "t_id": "Treasury Jangka Pendek Muncul sebagai Taruhan Populer pada Kemenangan Inflasi Fed"
   },
   {
    "ts": "2026-09-21T01:38:42+07:00",
@@ -18111,66 +18211,6 @@
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/20/1843308/W4Jwle0OGR.jpg?w=720",
    "t_ko": "토지증명서 분할과 분리, 차이점은 무엇인가요?",
    "t_id": "Pemecahan dan Pemisahan Sertifikat Tanah, Apa Bedanya?"
-  },
-  {
-   "ts": "2026-09-20T21:30:01+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Detik",
-   "t": "PLTP Gunung Ungaran Mau Dibangun, Begini Tahapannya",
-   "tags": [],
-   "url": "https://finance.detik.com/energi/d-8671386/pltp-gunung-ungaran-mau-dibangun-begini-tahapannya",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2024/10/28/penampakan-pltp-berdampingan-dengan-kebun-wortel-di-banjarnegara_169.jpeg?w=360&q=90",
-   "t_ko": "Mount Ungaran PLTP가 건설되기를 원합니다. 단계는 다음과 같습니다.",
-   "t_id": "PLTP Gunung Ungaran Mau Dibangun, Begini Tahapannya"
-  },
-  {
-   "ts": "2026-09-20T20:30:32+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Detik",
-   "t": "Pedagang Warteg Serba Salah Gara-gara Harga Cabai Mahal",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8671495/pedagang-warteg-serba-salah-gara-gara-harga-cabai-mahal",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/06/03/suasana-warteg-yang-mengalami-kenaikan-harga-di-kecamatan-semarang-selatan-kota-semarang-rabu-362026-1780474376586_169.jpeg?w=360&q=90",
-   "t_ko": "칠리 가격이 비싸기 때문에 Warteg 거래자들이 엉뚱한 일을 하고 있습니다.",
-   "t_id": "Pedagang Warteg Serba Salah Gara-gara Harga Cabai Mahal"
-  },
-  {
-   "ts": "2026-09-20T20:16:14+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Jawa Pos",
-   "t": "IHSG Turun 1,53 Persen ke Level 6.441 Selama Sepekan, Kapitalisasi Pasar Terkikis",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609200271/ihsg-turun-153-persen-ke-level-6441-selama-sepekan-kapitalisasi-pasar-terkikis",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/07/29/5Aa3XAfTScIk3UmL9yf7lIPnaNBX0vyf9PlIcLjT.webp",
-   "t_ko": "JCI, 이번 주 동안 1.53% 하락해 6,441레벨, 시가총액 하락",
-   "t_id": "IHSG Turun 1,53 Persen ke Level 6.441 Selama Sepekan, Kapitalisasi Pasar Terkikis"
-  },
-  {
-   "ts": "2026-09-20T19:58:04+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Detik",
-   "t": "Bank Permudah Masyarakat Pakai Transportasi Publik Lewat QRIS Tap",
-   "tags": [],
-   "url": "https://finance.detik.com/moneter/d-8671586/bank-permudah-masyarakat-pakai-transportasi-publik-lewat-qris-tap",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/16/warga-mulai-menjajal-lrt-kelapa-gading-manggarai-1789554576398_169.jpeg?w=360&q=90",
-   "t_ko": "은행은 QRIS Tap을 통해 사람들이 대중교통을 더 쉽게 이용할 수 있도록 합니다.",
-   "t_id": "Bank Permudah Masyarakat Pakai Transportasi Publik Lewat QRIS Tap"
-  },
-  {
-   "ts": "2026-09-20T19:30:26+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Detik",
-   "t": "Tol Palembang-Betung Ditargetkan Operasi Kuartal I 2027",
-   "tags": [],
-   "url": "https://finance.detik.com/infrastruktur/d-8671275/tol-palembang-betung-ditargetkan-operasi-kuartal-i-2027",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/07/26/progres-pembangunan-jembatan-musi-v-di-tol-palembang-betung-1785061936752_169.jpeg?w=360&q=90",
-   "t_ko": "팔렘방-베퉁 유료도로 2027년 1분기 개통 목표",
-   "t_id": "Tol Palembang-Betung Ditargetkan Operasi Kuartal I 2027"
   }
  ],
  "kisi_news": [
@@ -18336,9 +18376,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "12.79",
-   "d": -0.54,
-   "ytd": 10.15,
+   "v": "12.81",
+   "d": -0.4,
+   "ytd": 10.3,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -18371,9 +18411,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.28",
-   "d": 0.07,
-   "ytd": 2.04,
+   "v": "100.25",
+   "d": 0.03,
+   "ytd": 2.0,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18383,9 +18423,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "95.93",
-   "d": -0.16,
-   "ytd": 67.07,
+   "v": "94.12",
+   "d": -2.04,
+   "ytd": 63.92,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18395,9 +18435,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,409.4",
-   "d": -0.35,
-   "ytd": 1.94,
+   "v": "4,413.5",
+   "d": -0.26,
+   "ytd": 2.03,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -18432,7 +18472,7 @@
   {
    "k": "CPO (MYR/t)",
    "v": "4,898",
-   "d": 0.29,
+   "d": 0.0,
    "ytd": 20.94,
    "inv": false,
    "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
@@ -23807,7 +23847,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-18 20:52",
-  "pc_age_min": 3496,
+  "pc_age_min": 3568,
   "news_ai_cache": 56,
   "news_ai_hit": 11,
   "on_runner": true,
@@ -23869,32 +23909,33 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T00:09:32+07:00",
+   "ts": "2026-09-21T07:40:00+07:00",
    "date": "2026-09-21",
-   "time": "00:09",
-   "src": "Reuters",
-   "t": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
+   "time": "07:40",
+   "src": "Bloomberg Technoz",
+   "t": "IHSG Konsolidasi Bearish, Dibayangi Arah Bank Indonesia",
    "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
-   "g": 1,
-   "score": 310.0,
-   "srcs": 2,
-   "t_ko": "Fed의 Kashkari는 Fox News 인터뷰에서 미국 경제의 '모든 측면'에서 인플레이션이 여전히 너무 높다고 말했습니다.",
-   "t_id": "Kashkari dari Fed mengatakan inflasi masih terlalu tinggi di 'semua aspek' perekonomian AS, dalam wawancara dengan Fox News"
+   "url": "https://www.bloombergtechnoz.com/detail-news/122161/ihsg-konsolidasi-bearish-dibayangi-arah-bank-indonesia",
+   "img": "https://images.bloombergtechnoz.com/data/2026/07/image-20260727155332.jpeg",
+   "t_ko": "JCI는 인도네시아 은행의 지시로 인해 약세를 보이면서 통합했습니다.",
+   "t_id": "IHSG Konsolidasi Bearish, Dibayangi Arah Bank Indonesia",
+   "score": 404.25,
+   "srcs": 1
   },
   {
-   "ts": "2026-09-21T04:00:01+07:00",
+   "ts": "2026-09-21T08:00:00+07:00",
    "date": "2026-09-21",
-   "time": "04:00",
-   "src": "Bloomberg",
-   "t": "AI Boom Is Making Diversifying Investments Tough for Wall Street",
+   "time": "08:00",
+   "src": "WSJ",
+   "t": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5%",
    "tags": [],
-   "url": "https://www.bloomberg.com/news/features/2026-09-20/ai-boom-is-making-diversifying-investments-tough-for-wall-street",
+   "url": "https://www.wsj.com/finance/investing/see-the-10-year-treasury-yields-wild-ride-on-the-road-to-5-22e4bbc2?mod=rss_markets_main",
    "g": 1,
-   "t_ko": "AI 붐은 월스트리트에 다각적 투자를 어렵게 만들고 있습니다.",
-   "t_id": "AI Boom Membuat Diversifikasi Investasi Sulit bagi Wall Street",
-   "score": 308.0,
-   "srcs": 2
+   "img": "https://images.wsj.net/im-30004945",
+   "t_ko": "10년 만기 국채 수익률이 5%로 향하는 길을 따라가는 모습을 확인하세요.",
+   "t_id": "Lihatlah Perjalanan Liar Imbal Hasil Treasury 10-Tahun Menuju 5%",
+   "score": 311.5,
+   "srcs": 1
   }
  ],
  "daylog": {
@@ -24495,34 +24536,34 @@
   "2026-09-21": {
    "news": [
     {
-     "t": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview",
-     "ko": "Fed의 Kashkari는 Fox News 인터뷰에서 미국 경제의 '모든 측면'에서 인플레이션이 여전히 너무 높다고 말했습니다.",
-     "id": "Kashkari dari Fed mengatakan inflasi masih terlalu tinggi di 'semua aspek' perekonomian AS, dalam wawancara dengan Fox News",
+     "t": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5%",
+     "ko": "10년 만기 국채 수익률이 5%로 향하는 길을 따라가는 모습을 확인하세요.",
+     "id": "Lihatlah Perjalanan Liar Imbal Hasil Treasury 10-Tahun Menuju 5%",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5",
-     "time": "00:09",
+     "src": "WSJ",
+     "url": "https://www.wsj.com/finance/investing/see-the-10-year-treasury-yields-wild-ride-on-the-road-to-5-22e4bbc2?mod=rss_markets_main",
+     "time": "08:00",
      "tags": [],
-     "sc": 310.0,
+     "sc": 313.0,
      "slot": "global",
      "q": 85
     },
     {
-     "t": "Asa Himbara Gotong Royong Restrukturisasi Utang Adhi Karya (ADHI) Rp 3 Triliun",
-     "ko": "Asa Himbara 상호 협력 구조 조정 Adhi Karya(ADHI) 부채 IDR 3조",
-     "id": "Asa Himbara Gotong Royong Restrukturisasi Utang Adhi Karya (ADHI) Rp 3 Triliun",
+     "t": "Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo untuk Akuisisi Frisian Flag Rp14,6 Triliun",
+     "ko": "Ultrajaya(ULTJ), 프리지아 국기 IDR 14.6조 인수를 위한 점보 권리 발행 준비",
+     "id": "Ultrajaya (ULTJ) Siapkan Rights Issue Jumbo untuk Akuisisi Frisian Flag Rp14,6 Triliun",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Katadata",
-     "url": "https://katadata.co.id/finansial/bursa/6ab06a006da37/asa-himbara-gotong-royong-restrukturisasi-utang-adhi-karya-adhi-rp-3-triliun",
-     "time": "06:19",
+     "src": "IDX Channel",
+     "url": "https://www.idxchannel.com/market-news/ultrajaya-ultj-siapkan-rights-issue-jumbo-untuk-akuisisi-frisian-flag-rp146-triliun",
+     "time": "07:32",
      "tags": [
-      "ADHI"
+      "ULTJ"
      ],
      "sc": 214.8,
      "slot": "stock",
-     "q": 56
+     "q": 59
     },
     {
      "t": "Harga Cabai Rawit Merah Bisa Tembus Rp 120 Ribu/Kg, Ini Alasannya",
@@ -42452,7 +42493,7 @@
    "alpha": 8.75,
    "vrank": 14,
    "flow": 7.62,
-   "srcs": 1
+   "srcs": 2
   },
   {
    "t": "MBMA",

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 23:43",
+ "updated": "2026-09-21 23:56",
  "delay_min": 15,
  "fx_basis": "12.96 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,374 · 22:15 Yahoo",
- "idr_per_krw": 12.9599,
+ "idr_per_krw": 12.9581,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16747,11 +16747,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7751.83,
+   "px": 7750.84,
    "prev": 7650.5,
-   "pct": 1.32,
+   "pct": 1.31,
    "mst": 0,
-   "asof": "12:35",
+   "asof": "12:50",
    "live": true,
    "spark": [
     7695.07,
@@ -16791,18 +16791,21 @@
     7746.66,
     7748.91,
     7754.11,
-    7751.83
+    7749.51,
+    7750.41,
+    7752.63,
+    7750.84
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27042.29,
+   "px": 27038.58,
    "prev": 26522.54,
-   "pct": 1.96,
+   "pct": 1.95,
    "mst": 0,
-   "asof": "12:35",
+   "asof": "12:50",
    "live": true,
    "spark": [
     26745.7,
@@ -16842,18 +16845,21 @@
     27026.52,
     27035.86,
     27053.0,
-    27042.29
+    27034.31,
+    27039.1,
+    27043.31,
+    27038.58
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 52006.86,
+   "px": 51984.24,
    "prev": 51682.64,
-   "pct": 0.63,
+   "pct": 0.58,
    "mst": 0,
-   "asof": "12:35",
+   "asof": "12:50",
    "live": true,
    "spark": [
     51908.94,
@@ -16893,7 +16899,10 @@
     51942.39,
     51970.76,
     52002.19,
-    52006.86
+    51991.84,
+    51978.43,
+    51999.87,
+    51984.24
    ]
   },
   {
@@ -18237,14 +18246,87 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T23:34:10+07:00",
+   "ts": "2026-09-21T23:53:00+07:00",
    "date": "2026-09-21",
-   "time": "23:34",
+   "time": "23:53",
+   "src": "CNBC",
+   "t": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T23:46:24+07:00",
+   "date": "2026-09-21",
+   "time": "23:46",
    "src": "CNBC",
    "t": "Trump says DOJ will rein in AI 'if we have to'",
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
    "g": 1
+  },
+  {
+   "ts": "2026-09-21T23:46:00+07:00",
+   "date": "2026-09-21",
+   "time": "23:46",
+   "src": "WSJ",
+   "t": "U.S. Stocks Climb as Oil Prices Drop",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/stocks/global-stocks-rally-yields-lower-as-oil-prices-extend-falls-8b63390a?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-52162808"
+  },
+  {
+   "ts": "2026-09-21T23:44:53+07:00",
+   "date": "2026-09-21",
+   "time": "23:44",
+   "src": "CNBC",
+   "t": "White House TV pool won't cover Trump after press ban: CNN",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T23:44:00+07:00",
+   "date": "2026-09-21",
+   "time": "23:44",
+   "src": "Bloomberg",
+   "t": "Oil Drops Below $100 With Focus on Hormuz Flows, Diplomacy",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-21/oil-drops-below-100-with-focus-on-hormuz-flows-video",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T23:35:32+07:00",
+   "date": "2026-09-21",
+   "time": "23:35",
+   "src": "Medcom",
+   "t": "Astra Property Tambah Portofolio Gudang, Terisi 100 Persen",
+   "tags": [],
+   "url": "https://www.medcom.id/properti/news-properti/Rb1y9Vzb-astra-property-tambah-portofolio-gudang-terisi-100-persen",
+   "img": "https://cdn.medcom.id/dynamic/content/2026/09/21/1843527/04vMPgQT98.jpeg?w=720",
+   "t_id": "Astra Property Tambah Portofolio Gudang, Terisi 100 Persen"
+  },
+  {
+   "ts": "2026-09-21T23:35:31+07:00",
+   "date": "2026-09-21",
+   "time": "23:35",
+   "src": "Reuters",
+   "t": "Fed, BoE probe banks' exposure to trading firms after Jane Street loss, FT reports",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb3VXY2VHUTI3azdKbTBoSlhXcmFJZjhmMzVpVnVReEFwdlpUTlZFSElhSVNURlpSRFcyZVczOTRZaWFSRS11NDhwZXVhdVZFSXBTckpxc3JjclBkRTl1T1VEQXQ1R09mZGpWRFNGdnRmM1BJcmMwOHhBbHhCeklTY0ZKZ1o5Ni1ucWdFekhHYUVRa0JpbUxqWGxnQlJ6ZVdqbnNqNFhFTklrYzRKNktNWk9jU2lVc2NKYjdnUGdNS19iZkZDQ2tsalJ3VQ?oc=5",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T23:33:27+07:00",
+   "date": "2026-09-21",
+   "time": "23:33",
+   "src": "Yahoo Finance",
+   "t": "Oil Shipping Costs Explode 258% Higher in 2 Months. Here’s Why Everything Is About to Get More Expensive",
+   "tags": [],
+   "url": "https://finance.yahoo.com/energy/articles/oil-shipping-costs-explode-258-163327595.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/24_7_wall_st__718/303d5d235eae69086483694fcb9d0f37.jpg"
   },
   {
    "ts": "2026-09-21T23:28:00+07:00",
@@ -18353,26 +18435,25 @@
    "img": "https://s.yimg.com/uu/api/res/1.2/IxK88DBPfBGo3A3ZnwYc6A--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/03f2d825-6977-444e-8505-fe23726b9911"
   },
   {
-   "ts": "2026-09-21T23:16:13+07:00",
+   "ts": "2026-09-21T23:13:37+07:00",
    "date": "2026-09-21",
-   "time": "23:16",
-   "src": "Yahoo Finance",
-   "t": "Nebius Stock Is Down Over 20% From Its High. Is Now the Time to Buy?",
+   "time": "23:13",
+   "src": "Reuters",
+   "t": "UK indexes climb as oil prices retreat, banks lead gains",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-down-over-20-161613970.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/3cf3296fc22282e33aecfeefd146c834.jpg"
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODZIYnhhdnBpWldya3A4NDlISEduRzZWd0twSXFsa0tDanh5MV8teTM3T19CS2FLZURxeTRRbW9NR0JIVHdjd01FRTl3S2ZibFNHSENXYzZ0anB1OVdUNDl3eHJfdnBZSUs0NkEteTcybXoxOW5sYmxiQ3EzbnNwUGVUQVRsRWtwQUtXaGczckszX1R1R1JqZWdqMmJnUQ?oc=5",
+   "g": 1
   },
   {
-   "ts": "2026-09-21T23:16:03+07:00",
+   "ts": "2026-09-21T23:13:17+07:00",
    "date": "2026-09-21",
-   "time": "23:16",
+   "time": "23:13",
    "src": "Yahoo Finance",
-   "t": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
+   "t": "CBP importer crackdown puts thousands of cross-border freight shipments at risk",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/crypto/articles/apple-google-hunting-crypto-talent-161603364.html",
+   "url": "https://finance.yahoo.com/economy/policy/articles/cbp-importer-crackdown-puts-thousands-161317046.html",
    "g": 1,
-   "img": "https://media.zenfs.com/en/decrypt_157/4e6c19c7822d655f446df22769dde3ab.png"
+   "img": "https://media.zenfs.com/en/freightwaves_373/9f3f7bbcb858545839761cab3c687a94.jpg"
   },
   {
    "ts": "2026-09-21T23:12:00+07:00",
@@ -18386,17 +18467,6 @@
    "img": "https://images.mktw.net/im-74714915"
   },
   {
-   "ts": "2026-09-21T23:09:43+07:00",
-   "date": "2026-09-21",
-   "time": "23:09",
-   "src": "Yahoo Finance",
-   "t": "Stock Market Today: Dow Up As Boeing, Nvidia Pop; Bessent Touts This China AI Move (Live Coverage)",
-   "tags": [],
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/5b0c8e88a6bce74d796c6a0124f65d8f.jpg"
-  },
-  {
    "ts": "2026-09-21T23:06:32+07:00",
    "date": "2026-09-21",
    "time": "23:06",
@@ -18406,28 +18476,6 @@
    "url": "https://www.jawapos.com/ekonomi/2609210239/kemenperin-siapkan-reimbursement-hingga-rp1-miliar-untuk-industri-agro-ganti-mesin-pabrik",
    "img": "https://cdn-assets.jawapos.com/images/1/2023/09/29/perindustrian-2281200435.jpeg",
    "t_id": "Kemenperin Siapkan Reimbursement Hingga Rp1 Miliar untuk Industri Agro Ganti Mesin Pabrik"
-  },
-  {
-   "ts": "2026-09-21T23:03:29+07:00",
-   "date": "2026-09-21",
-   "time": "23:03",
-   "src": "CNBC",
-   "t": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
-   "g": 1,
-   "t_ko": "침체된 주택시장 속에서 윌리엄스-소노마의 주가가 급등했다. 월스트리트에서 승리한 방법은 다음과 같습니다.",
-   "t_id": "Saham Williams-Sonoma melonjak di tengah lesunya pasar perumahan. Inilah cara mereka memenangkan Wall Street"
-  },
-  {
-   "ts": "2026-09-21T23:03:14+07:00",
-   "date": "2026-09-21",
-   "time": "23:03",
-   "src": "CNBC",
-   "t": "What is the White House press pool and why does it matter?",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
-   "g": 1
   },
   {
    "ts": "2026-09-21T23:00:00+07:00",
@@ -18441,27 +18489,6 @@
    "t_id": "Pemegang Waralaba Wendy's Ajukan Kebangkrutan, Terbebani Utang Rp11,6 Triliun"
   },
   {
-   "ts": "2026-09-21T22:58:00+07:00",
-   "date": "2026-09-21",
-   "time": "22:58",
-   "src": "MarketWatch",
-   "t": "AMD hits a major milestone as AI stocks blaze higher",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-57006692"
-  },
-  {
-   "ts": "2026-09-21T22:57:01+07:00",
-   "date": "2026-09-21",
-   "time": "22:57",
-   "src": "Reuters",
-   "t": "Wall St rises on AI gains as oil slides, Treasury yields retreat",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T22:54:00+07:00",
    "date": "2026-09-21",
    "time": "22:54",
@@ -18471,16 +18498,6 @@
    "url": "https://finance.detik.com/moneter/d-8673196/pembiayaan-pergadaian-tembus-rp-160-triliun-gadai-barang-mewah-diminati",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/04/22/sultan-merapat-ada-tempat-gadai-barang-mewah-1776830585380_169.jpeg?w=360&q=90",
    "t_id": "Pembiayaan Pergadaian Tembus Rp 160 Triliun, Gadai Barang Mewah Diminati"
-  },
-  {
-   "ts": "2026-09-21T22:52:09+07:00",
-   "date": "2026-09-21",
-   "time": "22:52",
-   "src": "Bloomberg",
-   "t": "Stocks, Bonds Climb as Oil Falls on US-Iran Hopes",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/stocks-bonds-climb-as-oil-falls-on-us-iran-hopes-video",
-   "g": 1
   },
   {
    "ts": "2026-09-21T22:48:27+07:00",
@@ -18631,17 +18648,6 @@
    "url": "https://ekonomi.republika.co.id/berita/tlpggg370/ekosistem-affiliate-buka-peluang-pasar-dan-pendapatan-bagi-umkm-banjar",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260921151914-840.png",
    "t_id": "Ekosistem Affiliate Buka Peluang Pasar dan Pendapatan bagi UMKM Banjar"
-  },
-  {
-   "ts": "2026-09-21T20:55:09+07:00",
-   "date": "2026-09-21",
-   "time": "20:55",
-   "src": "Detik",
-   "t": "Mentan Amran Siapkan Skema BUMN-Swasta untuk Industri Bioetanol",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673098/mentan-amran-siapkan-skema-bumn-swasta-untuk-industri-bioetanol",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/kementan-1789998877923_169.jpeg?w=360&q=90",
-   "t_id": "Mentan Amran Siapkan Skema BUMN-Swasta untuk Industri Bioetanol"
   }
  ],
  "kisi_news": [
@@ -18818,9 +18824,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.955%",
-   "d": -0.86,
-   "ytd": 19.02,
+   "v": "4.953%",
+   "d": -0.9,
+   "ytd": 18.98,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18841,9 +18847,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.38",
-   "d": 0.07,
-   "ytd": 2.13,
+   "v": "100.39",
+   "d": 0.08,
+   "ytd": 2.14,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18853,9 +18859,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.74",
-   "d": -2.37,
-   "ytd": 59.77,
+   "v": "91.33",
+   "d": -2.81,
+   "ytd": 59.06,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18865,9 +18871,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,388.3",
-   "d": -0.17,
-   "ytd": 1.45,
+   "v": "4,384.7",
+   "d": -0.25,
+   "ytd": 1.37,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22473,7 +22479,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 332,
+  "pc_age_min": 345,
   "news_ai_cache": 61,
   "news_ai_hit": 33,
   "on_runner": true,

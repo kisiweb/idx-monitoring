@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 20:56",
+ "updated": "2026-09-21 21:10",
  "delay_min": 15,
  "fx_basis": "12.97 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,373 · 20:30 Yahoo",
- "idr_per_krw": 12.971,
+ "idr_per_krw": 12.9684,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16745,54 +16745,63 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7704.5,
+   "px": 7701.48,
    "prev": 7650.5,
-   "pct": 0.71,
+   "pct": 0.67,
    "mst": 0,
-   "asof": "09:50",
+   "asof": "10:05",
    "live": true,
    "spark": [
     7695.07,
     7697.49,
     7698.66,
     7700.23,
-    7704.5
+    7705.92,
+    7708.31,
+    7705.88,
+    7701.48
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 26835.68,
+   "px": 26847.97,
    "prev": 26522.54,
-   "pct": 1.18,
+   "pct": 1.23,
    "mst": 0,
-   "asof": "09:50",
+   "asof": "10:05",
    "live": true,
    "spark": [
     26745.7,
     26766.72,
     26799.58,
     26815.01,
-    26835.68
+    26846.59,
+    26851.64,
+    26854.05,
+    26847.97
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51830.18,
+   "px": 51783.42,
    "prev": 51682.64,
-   "pct": 0.29,
+   "pct": 0.2,
    "mst": 0,
-   "asof": "09:50",
+   "asof": "10:05",
    "live": true,
    "spark": [
     51908.94,
     51865.61,
     51774.42,
     51791.13,
-    51830.18
+    51817.8,
+    51809.74,
+    51818.46,
+    51783.42
    ]
   },
   {
@@ -18174,6 +18183,68 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T21:06:41+07:00",
+   "date": "2026-09-21",
+   "time": "21:06",
+   "src": "CNBC",
+   "t": "White House TV pool won't cover Trump after press ban: CNN",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T20:55:09+07:00",
+   "date": "2026-09-21",
+   "time": "20:55",
+   "src": "Detik",
+   "t": "Mentan Amran Siapkan Skema BUMN-Swasta untuk Industri Bioetanol",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673098/mentan-amran-siapkan-skema-bumn-swasta-untuk-industri-bioetanol",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/kementan-1789998877923_169.jpeg?w=360&q=90",
+   "t_id": "Mentan Amran Siapkan Skema BUMN-Swasta untuk Industri Bioetanol"
+  },
+  {
+   "ts": "2026-09-21T20:55:00+07:00",
+   "date": "2026-09-21",
+   "time": "20:55",
+   "src": "Media Indonesia",
+   "t": "KPK Sita Ratusan Juta Rupiah dalam OTT Bupati Bolaang Mongondow Utara Sirajudin Lasena",
+   "tags": [],
+   "url": "https://mediaindonesia.com/politik-dan-hukum/935908/kpk-sita-ratusan-juta-rupiah-dalam-ott-bupati-bolaang-mongondow-utara-sirajudin-lasena"
+  },
+  {
+   "ts": "2026-09-21T20:54:58+07:00",
+   "date": "2026-09-21",
+   "time": "20:54",
+   "src": "Yahoo Finance",
+   "t": "Silver prices today, Monday, September 21, 2026: Silver prices rising ahead of U.S.-China summit",
+   "tags": [],
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-21-2026-silver-prices-rising-ahead-of-us-china-summit-135458890.html",
+   "g": 1,
+   "img": "https://s.yimg.com/os/creatr-uploaded-images/2024-04/21b3a190-027e-11ef-bbb5-a0f6297c401d"
+  },
+  {
+   "ts": "2026-09-21T20:51:20+07:00",
+   "date": "2026-09-21",
+   "time": "20:51",
+   "src": "Bloomberg",
+   "t": "US-China Have Time to Discuss Trade Truce Extension, Greer Says",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-21/us-china-have-time-for-trade-truce-extension-greer-video",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T20:50:33+07:00",
+   "date": "2026-09-21",
+   "time": "20:50",
+   "src": "Yahoo Finance",
+   "t": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
+   "g": 1,
+   "img": "https://s.yimg.com/uu/api/res/1.2/Dm0LN_pd7N9kbrHU7mh0iw--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/cd30b118-b909-4084-a97a-8b06a645176d"
+  },
+  {
    "ts": "2026-09-21T20:48:25+07:00",
    "date": "2026-09-21",
    "time": "20:48",
@@ -18184,6 +18255,61 @@
    "g": 1
   },
   {
+   "ts": "2026-09-21T20:47:20+07:00",
+   "date": "2026-09-21",
+   "time": "20:47",
+   "src": "Yahoo Finance",
+   "t": "Seabridge Gold Inc. (SA) Spun Off a Major Gold Asset: Why Kopernik Sees More Upside",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/seabridge-gold-inc-sa-spun-134720749.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/01f87fe9ebf10f123978e7863785cdc1.jpg"
+  },
+  {
+   "ts": "2026-09-21T20:47:10+07:00",
+   "date": "2026-09-21",
+   "time": "20:47",
+   "src": "Yahoo Finance",
+   "t": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-upgraded-flutter-downgraded-wall-134710881.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec.jpg"
+  },
+  {
+   "ts": "2026-09-21T20:47:10+07:00",
+   "date": "2026-09-21",
+   "time": "20:47",
+   "src": "Yahoo Finance",
+   "t": "Mosaic Co. (MOS) Was Just Added to the Portfolio: Why the Fertilizer Stock Looks Undervalued",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/mosaic-co-mos-just-added-134710535.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/0333802877cea8a948937f01e98bfc39.jpg"
+  },
+  {
+   "ts": "2026-09-21T20:47:00+07:00",
+   "date": "2026-09-21",
+   "time": "20:47",
+   "src": "Yahoo Finance",
+   "t": "Northern Dynasty Minerals Ltd. (NAK) Gained 36.3% in Q2: The Alaska Gold-Copper Opportunity",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/northern-dynasty-minerals-ltd-nak-134700461.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/0755a7189e1bc8190b754aa134cbbcaf.jpg"
+  },
+  {
+   "ts": "2026-09-21T20:46:42+07:00",
+   "date": "2026-09-21",
+   "time": "20:46",
+   "src": "Yahoo Finance",
+   "t": "Molina Healthcare (MOH) Jumped 70.7% in Q2: Why the Stock Rally Was Enough to Sell",
+   "tags": [],
+   "url": "https://finance.yahoo.com/healthcare/articles/molina-healthcare-moh-jumped-70-134642412.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/4adb92fb70f15933b2c39a104a5a5046.jpg"
+  },
+  {
    "ts": "2026-09-21T20:46:00+07:00",
    "date": "2026-09-21",
    "time": "20:46",
@@ -18191,6 +18317,17 @@
    "t": "Kawasan Hunian Semarang masih terus Bertumbuh",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/935904/kawasan-hunian-semarang-masih-terus-bertumbuh"
+  },
+  {
+   "ts": "2026-09-21T20:45:59+07:00",
+   "date": "2026-09-21",
+   "time": "20:45",
+   "src": "Yahoo Finance",
+   "t": "Range Resources (RRC) Slid 17.2% in Q2: Why the Natural Gas Stock Still Looks Attractive",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/range-resources-rrc-slid-17-134559578.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/f6294ef0f079be4482e7e89615807ec4.jpg"
   },
   {
    "ts": "2026-09-21T20:45:50+07:00",
@@ -18204,35 +18341,48 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffcfec0a2-2f28-4046-b6f3-79af76bd3140.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
-   "ts": "2026-09-21T20:42:33+07:00",
+   "ts": "2026-09-21T20:45:45+07:00",
    "date": "2026-09-21",
-   "time": "20:42",
+   "time": "20:45",
    "src": "Yahoo Finance",
-   "t": "Paramount, Warner Bros shares rally on reports of merger settlement talks advancing",
+   "t": "Nutrien (NTR) Dropped 15.4% in Q2: Why the Fertilizer Stock Could Be a Bargain",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/article/paramount-warner-bros-shares-rally-on-reports-of-merger-settlement-talks-advancing-134233954.html",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nutrien-ntr-dropped-15-4-134545047.html",
    "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/QAurAkTkOBE6ikUC5Pup1A--~B/aD0yMDAwO3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/f5deb6f4-44d1-4dd0-a01f-36dc02e07c53"
+   "img": "https://media.zenfs.com/en/insidermonkey.com/fdc8d42646b882a1b0f0fbf458cf42c5.jpg"
   },
   {
-   "ts": "2026-09-21T20:42:27+07:00",
+   "ts": "2026-09-21T20:45:44+07:00",
    "date": "2026-09-21",
-   "time": "20:42",
-   "src": "CNBC",
-   "t": "White House TV pool won't cover Trump after press ban: CNN",
+   "time": "20:45",
+   "src": "Yahoo Finance",
+   "t": "Telix Beefs Up Radioisotopes Supply With $2.35 Billion Deal; Shares Crash",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-   "g": 1
+   "url": "https://www.investors.com/news/technology/telix-pharmaceuticals-telix-stock-itm-merger/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/cc1ba840394999bd8d2f9e90faab7a81.jpg"
   },
   {
-   "ts": "2026-09-21T20:41:49+07:00",
+   "ts": "2026-09-21T20:45:33+07:00",
    "date": "2026-09-21",
-   "time": "20:41",
-   "src": "Bloomberg",
-   "t": "Russia Set to Extend Diesel Export Ban Beyond End of September",
+   "time": "20:45",
+   "src": "Yahoo Finance",
+   "t": "NovaGold Resources (NG) Plunged 36.9%: Is the Gold Stock Now Undervalued?",
    "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/russia-set-to-extend-diesel-export-ban-beyond-end-of-september",
-   "g": 1
+   "url": "https://finance.yahoo.com/markets/stocks/articles/novagold-resources-ng-plunged-36-134533396.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/e10cef5887bc770af53198fee13b1245.jpg"
+  },
+  {
+   "ts": "2026-09-21T20:45:16+07:00",
+   "date": "2026-09-21",
+   "time": "20:45",
+   "src": "Yahoo Finance",
+   "t": "Sibanye Stillwater Ltd. (SBSW) Fell 29.3% in Q2: Why the Stock Could Be Worth Watching",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/sibanye-stillwater-ltd-sbsw-fell-134516978.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/34a61930942f0d7ff456e88af52487e4.jpg"
   },
   {
    "ts": "2026-09-21T20:41:39+07:00",
@@ -18245,61 +18395,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2024/10/09/nasib-insentif-kendaraan-listrik-di-tangan-prabowo-2_169.jpeg?w=360&q=90"
   },
   {
-   "ts": "2026-09-21T20:37:53+07:00",
-   "date": "2026-09-21",
-   "time": "20:37",
-   "src": "Yahoo Finance",
-   "t": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-5-report-flags-133753675.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/24_7_wall_st__718/31906370a742b7a1e1868a772e6df33e.jpg"
-  },
-  {
-   "ts": "2026-09-21T20:35:31+07:00",
-   "date": "2026-09-21",
-   "time": "20:35",
-   "src": "Yahoo Finance",
-   "t": "Gold prices today, Monday, September 21, 2026: Gold prices slip on Middle East tensions",
-   "tags": [],
-   "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-21-2026-gold-prices-slip-on-middle-east-tensions-133531697.html",
-   "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/zXVwgsaFyGNgvrXU6TElCg--~B/aD0xMDgwO3c9MTkyMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/monday.png"
-  },
-  {
-   "ts": "2026-09-21T20:32:00+07:00",
-   "date": "2026-09-21",
-   "time": "20:32",
-   "src": "MarketWatch",
-   "t": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-55320123"
-  },
-  {
-   "ts": "2026-09-21T20:30:00+07:00",
-   "date": "2026-09-21",
-   "time": "20:30",
-   "src": "MarketWatch",
-   "t": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-60640680"
-  },
-  {
-   "ts": "2026-09-21T20:28:00+07:00",
-   "date": "2026-09-21",
-   "time": "20:28",
-   "src": "Yahoo Finance",
-   "t": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt-132800172.html",
-   "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/CDoijz1VBRIXF6lFsFiLpQ--~B/aD0yNTA0O3c9Mzc1NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/cf67f6ee-bc47-4362-92a1-428e00a6bb2b"
-  },
-  {
    "ts": "2026-09-21T20:23:00+07:00",
    "date": "2026-09-21",
    "time": "20:23",
@@ -18307,27 +18402,6 @@
    "t": "Potensi Migas Nonkonvensional Blok Rokan Perpanjang Usia Cadangan Minyak Indonesia",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/935889/potensi-migas-nonkonvensional-blok-rokan-perpanjang-usia-cadangan-minyak-indonesia"
-  },
-  {
-   "ts": "2026-09-21T20:21:25+07:00",
-   "date": "2026-09-21",
-   "time": "20:21",
-   "src": "Bloomberg",
-   "t": "USTR Greer on China Trade, Diesel Exports, Canada",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/ustr-greer-on-china-trade-diesel-exports-canada-video",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T20:17:00+07:00",
-   "date": "2026-09-21",
-   "time": "20:17",
-   "src": "WSJ",
-   "t": "Qatar Investment Authority, JPMorgan Announce $20 Billion Partnership",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/investing/qatar-investment-authority-jpmorgan-announce-20-billion-partnership-63037e76?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-85401856"
   },
   {
    "ts": "2026-09-21T20:09:39+07:00",
@@ -18338,47 +18412,6 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210329/purbaya-perry-tak-lagi-menjabat-uang-rp-100-ribu-bertanda-tangannya-masih-tetap-berlaku",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/pecahan-rp-100000-tahun-emisi-te-2022-yang-memuat-tanda-tangan-purbaya-dan-perry-warjiyo-sebagai-gubernur-bank-indonesia-bi-threads-at-christopherkeju-fxOBK.webp"
-  },
-  {
-   "ts": "2026-09-21T20:08:16+07:00",
-   "date": "2026-09-21",
-   "time": "20:08",
-   "src": "Bloomberg",
-   "t": "Mexico REIT Fibra Educa Eyes $200 Million Debt Raise, More Deals",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/mexico-reit-fibra-educa-eyes-200-million-debt-raise-more-deals",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T20:06:06+07:00",
-   "date": "2026-09-21",
-   "time": "20:06",
-   "src": "CNBC",
-   "t": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T20:05:48+07:00",
-   "date": "2026-09-21",
-   "time": "20:05",
-   "src": "Bloomberg",
-   "t": "Trump y Venezuela: Acuerdo petrolero enfrenta campos deteriorados",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/trump-y-venezuela-acuerdo-petrolero-enfrenta-campos-deteriorados",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T20:02:13+07:00",
-   "date": "2026-09-21",
-   "time": "20:02",
-   "src": "Yahoo Finance",
-   "t": "The resilient stock market is flashing warning signs",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/article/the-resilient-stock-market-is-flashing-warning-signs-130213993.html",
-   "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/7LWlvW8fuEvrJpjypbWZoQ--~B/aD00MTMwO3c9NjE5NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/43335f00-ece2-4015-841c-f773ebf40063"
   },
   {
    "ts": "2026-09-21T20:01:00+07:00",
@@ -18536,28 +18569,6 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210098/lantik-pejabat-baru-suahasil-nazara-minta-bea-cukai-pertajam-pengawasan-berbasis-risiko",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/17/StPEKGg1VA3QF2CzvzNHkGBen9GcUPCy7U2gni6f.webp"
-  },
-  {
-   "ts": "2026-09-21T18:42:45+07:00",
-   "date": "2026-09-21",
-   "time": "18:42",
-   "src": "Jawa Pos",
-   "t": "Suahasil Nazara Sebut Pelantikan Pejabat Kemenkeu Masa Purbaya Tetap Sah dan Resmi",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210095/suahasil-nazara-sebut-pelantikan-pejabat-kemenkeu-masa-purbaya-tetap-sah-dan-resmi",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
-   "t_id": "Suahasil Nazara Sebut Pelantikan Pejabat Kemenkeu Masa Purbaya Tetap Sah dan Resmi"
-  },
-  {
-   "ts": "2026-09-21T18:41:40+07:00",
-   "date": "2026-09-21",
-   "time": "18:41",
-   "src": "Detik",
-   "t": "Mentan Yakin dalam Seminggu Harga Beras Turun!",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672930/mentan-yakin-dalam-seminggu-harga-beras-turun",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/03/30/menteri-pertanian-mentan-andi-amran-sulaiman-1774846718356_169.jpeg?w=360&q=90",
-   "t_id": "Mentan Yakin dalam Seminggu Harga Beras Turun!"
   }
  ],
  "kisi_news": [
@@ -18723,8 +18734,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "12.96",
-   "d": 0.79,
-   "ytd": 11.62,
+   "d": 0.77,
+   "ytd": 11.6,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -18734,9 +18745,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.965%",
-   "d": -0.66,
-   "ytd": 19.26,
+   "v": "4.974%",
+   "d": -0.48,
+   "ytd": 19.48,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18757,9 +18768,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.31",
-   "d": 0.0,
-   "ytd": 2.07,
+   "v": "100.37",
+   "d": 0.06,
+   "ytd": 2.12,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18769,9 +18780,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "92.66",
-   "d": -1.39,
-   "ytd": 61.37,
+   "v": "92.67",
+   "d": -1.38,
+   "ytd": 61.39,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18781,9 +18792,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,387.8",
-   "d": -0.18,
-   "ytd": 1.44,
+   "v": "4,386.4",
+   "d": -0.21,
+   "ytd": 1.41,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22389,7 +22400,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 165,
+  "pc_age_min": 179,
   "news_ai_cache": 61,
   "news_ai_hit": 35,
   "on_runner": true,
@@ -22470,15 +22481,15 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T19:52:00+07:00",
+   "ts": "2026-09-21T15:02:14+07:00",
    "date": "2026-09-21",
-   "time": "19:52",
+   "time": "15:02",
    "src": "Yahoo Finance",
-   "t": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as oil falls, anticipation builds for Trump-Xi summit",
    "tags": [],
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
    "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee.jpg",
+   "img": "https://s.yimg.com/uu/api/res/1.2/PpkPIddF3ylrDhnKjYMCQg--~B/aD0zMDg3O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/1a4ea8f1-64b0-427d-b36c-c68aabcebd16",
    "score": 313.5,
    "srcs": 7
   }

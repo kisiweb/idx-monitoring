@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 20:11",
+ "updated": "2026-09-21 20:27",
  "delay_min": 15,
- "fx_basis": "12.99 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,372 · 17:15 Yahoo",
- "idr_per_krw": 12.9931,
+ "fx_basis": "12.94 IDR/KRW · USD/IDR 17,740 · USD/KRW 1,371 · 20:15 Yahoo",
+ "idr_per_krw": 12.9375,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -279,9 +279,9 @@
    "code": "USDIDR",
    "label": "USD/IDR",
    "name": "달러/루피아",
-   "px": 17830.0,
+   "px": 17740.0,
    "prev": 17757.0,
-   "pct": 0.41,
+   "pct": -0.1,
    "spark": [
     17740.0,
     17740.0,
@@ -303,10 +303,11 @@
     17830.0,
     17830.0,
     17830.0,
-    17830.0
+    17830.0,
+    17740.0
    ],
    "inv": true,
-   "asof": "17:15",
+   "asof": "20:15",
    "high": 17833.0,
    "low": 17740.0,
    "src": "yahoo"
@@ -17554,7 +17555,7 @@
     "HEXA"
    ],
    "url": "https://www.idnfinancials.com/news/69175/hexa-to-pay-usd-11-18-million-cash-dividend-70-of-net-profit",
-   "img": "https://photo2.idnfinancials.com/fly/idn/HEXA.jpg",
+   "img": "https://photo2.idnfinancials.com/fly/idn/adhy-2026/hexa-210926.jpg",
    "ai_ko": "· Hexindo(HEXA), 현금배당 USD 1,118만 결정\n· 순이익의 70%, 주당 USD 0.013319\n· 9월 25일 배당락 전 매수 유효, 중장비 업종",
    "ai_id": "· HEXA bagikan dividen USD 11,18 juta\n· Setara 70% laba, USD 0,013319/saham\n· Cum dividen pasar reguler 25 September",
    "ai_tags": [
@@ -17709,7 +17710,7 @@
     "AMMN"
    ],
    "url": "https://www.idnfinancials.com/news/69169/ammn-profit-soars-435-prepares-elang-to-replace-batu-hijau",
-   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/AMMN-EMAS-MENTAH.jpg",
+   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/Arief-Sidarto-ammn-21092026.jpg",
    "ai_ko": "· Amman Mineral(AMMN) 상반기 순이익 USD 4.98억, 435% 증가\n· 매출 USD 20.5억으로 11.24배, 구리 생산 136% 증가\n· 금 정광 가이던스 775,000온스로 34% 상향",
    "ai_id": "· Laba AMMN H1 USD 497,93 juta, naik 435%\n· Pendapatan USD 2,05 miliar, 11,24 kali lipat\n· Panduan emas naik 34% jadi 775.000 ons",
    "ai_tags": [
@@ -18007,30 +18008,6 @@
    "ai_tags_id": [
     "penjualan saham",
     "properti"
-   ]
-  },
-  {
-   "ts": "2026-09-20T02:49:18+07:00",
-   "date": "2026-09-20",
-   "time": "09/20",
-   "src": "Jawa Pos",
-   "t": "Duduki Puncak Fortune Indonesia 100 Gala 2026, Pertamina Catatkan Pendapatan Terbesar di Indonesia",
-   "tags": [
-    "FORU"
-   ],
-   "url": "https://www.jawapos.com/energi/2609190300/duduki-puncak-fortune-indonesia-100-gala-2026-pertamina-catatkan-pendapatan-terbesar-di-indonesia",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/19/ilustrasi-kantor-pt-pertamina-persero-istimewa-EOtEK.webp",
-   "t_ko": "2026년 Fortune Indonesia 100 Gala에서 상위권을 차지한 Pertamina는 인도네시아에서 가장 큰 수익을 기록했습니다.",
-   "t_id": "Duduki Puncak Fortune Indonesia 100 Gala 2026, Pertamina Catatkan Pendapatan Terbesar di Indonesia",
-   "ai_ko": "· Pertamina 매출 Rp1,189.74조 1위\n· 순이익 Rp56.23조, 2025 회계연도\n· 환율 Rp16,785 기준 환산 수치",
-   "ai_id": "· Pertamina pendapatan Rp1.189,74 T\n· Laba bersih Rp56,23 triliun\n· Konversi kurs Rp16.785 per USD",
-   "ai_tags": [
-    "실적",
-    "에너지"
-   ],
-   "ai_tags_id": [
-    "kinerja",
-    "energi"
    ]
   },
   {
@@ -18401,6 +18378,48 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T20:17:00+07:00",
+   "date": "2026-09-21",
+   "time": "20:17",
+   "src": "WSJ",
+   "t": "Qatar Investment Authority, JPMorgan Announce $20 Billion Partnership",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/investing/qatar-investment-authority-jpmorgan-announce-20-billion-partnership-63037e76?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-85401856"
+  },
+  {
+   "ts": "2026-09-21T20:12:17+07:00",
+   "date": "2026-09-21",
+   "time": "20:12",
+   "src": "Yahoo Finance",
+   "t": "Is Archer Aviation Stock a No-Brainer Buy While It's Trading Near $5?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-stock-no-brainer-131217629.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/3e6e1f785a3aa925890c967c6e2955b8.jpg"
+  },
+  {
+   "ts": "2026-09-21T20:09:39+07:00",
+   "date": "2026-09-21",
+   "time": "20:09",
+   "src": "Jawa Pos",
+   "t": "Purbaya-Perry Tak Lagi Menjabat, Uang Rp 100 Ribu Bertanda Tangannya Masih Tetap Berlaku",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210329/purbaya-perry-tak-lagi-menjabat-uang-rp-100-ribu-bertanda-tangannya-masih-tetap-berlaku",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/pecahan-rp-100000-tahun-emisi-te-2022-yang-memuat-tanda-tangan-purbaya-dan-perry-warjiyo-sebagai-gubernur-bank-indonesia-bi-threads-at-christopherkeju-fxOBK.webp"
+  },
+  {
+   "ts": "2026-09-21T20:08:16+07:00",
+   "date": "2026-09-21",
+   "time": "20:08",
+   "src": "Bloomberg",
+   "t": "Mexico REIT Fibra Educa Eyes $200 Million Debt Raise, More Deals",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/mexico-reit-fibra-educa-eyes-200-million-debt-raise-more-deals",
+   "g": 1
+  },
+  {
    "ts": "2026-09-21T20:06:06+07:00",
    "date": "2026-09-21",
    "time": "20:06",
@@ -18409,6 +18428,38 @@
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
    "g": 1
+  },
+  {
+   "ts": "2026-09-21T20:05:48+07:00",
+   "date": "2026-09-21",
+   "time": "20:05",
+   "src": "Bloomberg",
+   "t": "Trump y Venezuela: Acuerdo petrolero enfrenta campos deteriorados",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/trump-y-venezuela-acuerdo-petrolero-enfrenta-campos-deteriorados",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T20:05:35+07:00",
+   "date": "2026-09-21",
+   "time": "20:05",
+   "src": "Yahoo Finance",
+   "t": "Oracle’s Co-CEOs Deliver Explosive Growth, but Stock Plunges 50% in Their First Year",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-co-ceos-deliver-explosive-130535126.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/24_7_wall_st__718/e8154315450c2794db7ada0fa9ce0506.jpg"
+  },
+  {
+   "ts": "2026-09-21T20:02:13+07:00",
+   "date": "2026-09-21",
+   "time": "20:02",
+   "src": "Yahoo Finance",
+   "t": "The resilient stock market is flashing warning signs",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/article/the-resilient-stock-market-is-flashing-warning-signs-130213993.html",
+   "g": 1,
+   "img": "https://s.yimg.com/uu/api/res/1.2/7LWlvW8fuEvrJpjypbWZoQ--~B/aD00MTMwO3c9NjE5NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/43335f00-ece2-4015-841c-f773ebf40063"
   },
   {
    "ts": "2026-09-21T20:01:40+07:00",
@@ -18442,6 +18493,16 @@
    "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah"
   },
   {
+   "ts": "2026-09-21T19:57:44+07:00",
+   "date": "2026-09-21",
+   "time": "19:57",
+   "src": "Reuters",
+   "t": "Wall St set for higher open as AI stocks rise, oil slides",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
+   "g": 1
+  },
+  {
    "ts": "2026-09-21T19:56:57+07:00",
    "date": "2026-09-21",
    "time": "19:56",
@@ -18450,6 +18511,17 @@
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/our-top-10-things-to-watch-in-the-stock-market-monday.html",
    "g": 1
+  },
+  {
+   "ts": "2026-09-21T19:52:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:52",
+   "src": "Yahoo Finance",
+   "t": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
+   "tags": [],
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee.jpg"
   },
   {
    "ts": "2026-09-21T19:51:10+07:00",
@@ -18551,17 +18623,6 @@
    "ts": "2026-09-21T19:32:00+07:00",
    "date": "2026-09-21",
    "time": "19:32",
-   "src": "WSJ",
-   "t": "Global Stocks Rally, Yields Lower as Oil Prices Extend Falls",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/stocks/global-stocks-rally-yields-lower-as-oil-prices-extend-falls-8b63390a?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-70147132"
-  },
-  {
-   "ts": "2026-09-21T19:32:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:32",
    "src": "Katadata",
    "t": "Gerakan Patungan Hutan Bergulir, Akankah Pacu Kebijakan Baru Pemerintah?",
    "tags": [],
@@ -18588,49 +18649,6 @@
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/935844/ekonom-sebut-streamlining-bumn-jadi-prestasi-fundamental-pemerintah",
    "t_id": "Ekonom Sebut Streamlining BUMN Jadi Prestasi Fundamental Pemerintah"
-  },
-  {
-   "ts": "2026-09-21T19:27:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:27",
-   "src": "Media Indonesia",
-   "t": "Komisi I DPR Dorong Koordinasi Lintas Pihak Cari 9 Anak Perempuan di Jila Papua",
-   "tags": [],
-   "url": "https://mediaindonesia.com/politik-dan-hukum/935846/komisi-i-dpr-dorong-koordinasi-lintas-pihak-cari-9-anak-perempuan-di-jila-papua",
-   "t_id": "Komisi I DPR Dorong Koordinasi Lintas Pihak Cari 9 Anak Perempuan di Jila Papua"
-  },
-  {
-   "ts": "2026-09-21T19:26:33+07:00",
-   "date": "2026-09-21",
-   "time": "19:26",
-   "src": "Yahoo Finance",
-   "t": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/bdd431683de9950040f02ea6c1d7659e.jpg"
-  },
-  {
-   "ts": "2026-09-21T19:26:10+07:00",
-   "date": "2026-09-21",
-   "time": "19:26",
-   "src": "CNBC",
-   "t": "Treasury yields ease as global borrowing costs tumble",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/treasury-yields-government-bonds.html",
-   "g": 1,
-   "ai_ko": "· 독일·영국 10년물 금리 각각 5bp 하락\n· 유가 하락에 위험자산 선호 회복\n· 미국 연준 0.25%p 인상 후 추가 인상 주시",
-   "ai_id": "· Yield bund dan gilt 10 tahun turun 5 bps\n· Harga minyak turun, bursa saham menguat\n· Pasar cerna kenaikan bunga The Fed",
-   "ai_tags": [
-    "금리",
-    "채권",
-    "유가"
-   ],
-   "ai_tags_id": [
-    "suku bunga",
-    "obligasi",
-    "harga minyak"
-   ]
   },
   {
    "ts": "2026-09-21T19:23:42+07:00",
@@ -18664,40 +18682,6 @@
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Konferensi_Nasional_Perkebunan_Rakyat_II-2026_09_21-18_27_47_f46b1d511cd38b3289e8bcfc9f9b73e1_620x413_thumb.jpeg"
   },
   {
-   "ts": "2026-09-21T19:19:55+07:00",
-   "date": "2026-09-21",
-   "time": "19:19",
-   "src": "Yahoo Finance",
-   "t": "Fenimore Bets on NASDAQ’s (NDAQ) Non-Transactional Revenue Streams",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/fenimore-bets-nasdaq-ndaq-non-121955576.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/91955f44d75d88f33e1647c18b0fe457.jpg"
-  },
-  {
-   "ts": "2026-09-21T19:18:12+07:00",
-   "date": "2026-09-21",
-   "time": "19:18",
-   "src": "CNBC",
-   "t": "U.S. crude oil falls back below $100 per barrel after Trump says he's open to talking to Iran",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T19:18:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:18",
-   "src": "WSJ",
-   "t": "Health Care Roundup: Market Talk",
-   "tags": [],
-   "url": "https://www.wsj.com/business/health-care-roundup-market-talk-b994d3f6?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-28660363",
-   "t_ko": "헬스케어 부문 동향",
-   "t_id": "Fokus Kesehatan: Market Talk"
-  },
-  {
    "ts": "2026-09-21T19:14:45+07:00",
    "date": "2026-09-21",
    "time": "19:14",
@@ -18718,29 +18702,6 @@
     "mutasi pejabat",
     "kebijakan"
    ]
-  },
-  {
-   "ts": "2026-09-21T19:14:29+07:00",
-   "date": "2026-09-21",
-   "time": "19:14",
-   "src": "Bloomberg",
-   "t": "US Stock Futures Climb Ahead of Trump-Xi Meeting as Oil Slips",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/us-stock-futures-climb-ahead-of-trump-xi-meeting-as-oil-slips",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T19:10:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:10",
-   "src": "WSJ",
-   "t": "Auto & Transport Roundup: Market Talk",
-   "tags": [],
-   "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-ea02b61d?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-96905171",
-   "t_ko": "자동차·운송 섹터 동향 정리",
-   "t_id": "Rangkuman Auto & Transport: Ulasan Pasar"
   },
   {
    "ts": "2026-09-21T19:08:48+07:00",
@@ -18956,9 +18917,9 @@
  "macro": [
   {
    "k": "USD/IDR",
-   "v": "17,830",
-   "d": 0.41,
-   "ytd": 6.64,
+   "v": "17,740",
+   "d": -0.1,
+   "ytd": 6.1,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 16,720",
    "k_ko": "USD/IDR",
@@ -18968,9 +18929,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "12.99",
-   "d": 1.0,
-   "ytd": 11.85,
+   "v": "12.92",
+   "d": 0.46,
+   "ytd": 11.26,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19003,8 +18964,8 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.27",
-   "d": -0.04,
+   "v": "100.28",
+   "d": -0.03,
    "ytd": 2.03,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
@@ -19015,9 +18976,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "93.55",
-   "d": -0.45,
-   "ytd": 62.92,
+   "v": "92.96",
+   "d": -1.07,
+   "ytd": 61.89,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19027,9 +18988,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,392.4",
-   "d": -0.08,
-   "ytd": 1.54,
+   "v": "4,401.3",
+   "d": 0.13,
+   "ytd": 1.75,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22635,9 +22596,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 120,
+  "pc_age_min": 136,
   "news_ai_cache": 61,
-  "news_ai_hit": 37,
+  "news_ai_hit": 35,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -22725,7 +22686,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/us-stock-futures-climb-ahead-of-trump-xi-meeting-as-oil-slips",
    "g": 1,
    "score": 314.0,
-   "srcs": 6
+   "srcs": 8
   }
  ],
  "daylog": {

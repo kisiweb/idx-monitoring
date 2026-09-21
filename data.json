@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 12:59",
+ "updated": "2026-09-21 13:20",
  "delay_min": 15,
- "fx_basis": "12.88 IDR/KRW · USD/IDR 17,812 · USD/KRW 1,383 · 12:15 Yahoo",
- "idr_per_krw": 12.8822,
+ "fx_basis": "12.89 IDR/KRW · USD/IDR 17,815 · USD/KRW 1,382 · 12:45 Yahoo",
+ "idr_per_krw": 12.8919,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -279,9 +279,9 @@
    "code": "USDIDR",
    "label": "USD/IDR",
    "name": "달러/루피아",
-   "px": 17812.0,
+   "px": 17815.0,
    "prev": 17757.0,
-   "pct": 0.31,
+   "pct": 0.33,
    "spark": [
     17740.0,
     17740.0,
@@ -292,11 +292,12 @@
     17800.0,
     17800.0,
     17808.0,
-    17812.0
+    17812.0,
+    17815.0
    ],
    "inv": true,
-   "asof": "12:15",
-   "high": 17812.0,
+   "asof": "12:45",
+   "high": 17815.0,
    "low": 17740.0,
    "src": "yahoo"
   },
@@ -319,7 +320,7 @@
    "inv": true,
    "unit": "bp",
    "asof": "PHEI · 09/18",
-   "spark_stale": "investing.com · 09/21"
+   "spark_stale": "PHEI · 09/18"
   }
  ],
  "index": {
@@ -332,8 +333,8 @@
   "value_idr": 5713022558666.671,
   "volume": null,
   "value_src": "yahoo",
-  "rank_src": "Yahoo 15분 지연 · 833종목 · 외국인·공시 PC 09-21 11:48",
-  "rank_asof": "12:55",
+  "rank_src": "Yahoo 15분 지연 · 833종목 · 외국인·공시 PC 09-21 13:10",
+  "rank_asof": "13:17",
   "rank_date": "2026-09-21",
   "adv": 344,
   "dec": 312,
@@ -17159,10 +17160,10 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 6997.01,
+   "px": 6991.76,
    "prev": 6874.79,
-   "pct": 1.78,
-   "asof": "12:35",
+   "pct": 1.7,
+   "asof": "12:55",
    "live": true,
    "spark": [
     6976.92,
@@ -17232,7 +17233,11 @@
     6992.14,
     6983.63,
     6995.9,
-    6997.01
+    6992.37,
+    6998.22,
+    6996.18,
+    6996.42,
+    6991.76
    ]
   },
   {
@@ -17319,10 +17324,10 @@
    "sym": "^HSI",
    "name": "항셍",
    "name_id": "Hang Seng",
-   "px": 24892.92,
+   "px": 24911.68,
    "prev": 24750.78,
-   "pct": 0.57,
-   "asof": "12:40",
+   "pct": 0.65,
+   "asof": "13:00",
    "live": true,
    "spark": [
     24835.27,
@@ -17365,7 +17370,11 @@
     24845.2,
     24865.14,
     24889.26,
-    24892.92
+    24904.43,
+    24902.62,
+    24916.21,
+    24922.34,
+    24911.68
    ]
   }
  ],
@@ -17454,6 +17463,46 @@
  },
  "news": [
   {
+   "ts": "2026-09-21T13:17:27+07:00",
+   "date": "2026-09-21",
+   "time": "13:17",
+   "src": "Bloomberg Technoz",
+   "t": "AMMN Cetak Laba Bersih Rp8,89 Triliun Semester I-2026",
+   "tags": [
+    "AMMN"
+   ],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122203/ammn-cetak-laba-bersih-rp8-89-triliun-semester-i-2026",
+   "img": "https://images.bloombergtechnoz.com/data/2023/04/image-20230405103950.jpg",
+   "t_id": "AMMN Cetak Laba Bersih Rp8,89 Triliun Semester I-2026"
+  },
+  {
+   "ts": "2026-09-21T13:10:00+07:00",
+   "date": "2026-09-21",
+   "time": "13:10",
+   "src": "Katadata",
+   "t": "Menekan Emisi, Mewujudkan Dampak: Ragam Inovasi Hijau Telkom",
+   "tags": [
+    "TLKM"
+   ],
+   "url": "https://katadata.co.id/infografik/6ab0b5a2eeea1/menekan-emisi-mewujudkan-dampak-ragam-inovasi-hijau-telkom",
+   "img": "https://cdn1.katadata.co.id/media/images/temp/2026/09/21/Inovasi_Hijau_Telkom_Dan-2026_09_21-11_41_22_5df6422bd5164650fc48a52a80a5d59a.jpg"
+  },
+  {
+   "ts": "2026-09-21T12:53:00+07:00",
+   "date": "2026-09-21",
+   "time": "12:53",
+   "src": "Katadata",
+   "t": "IHSG Turun 0,27% di Sesi I, Saham ANTM, BMRI, TLKM Dilego Asing",
+   "tags": [
+    "ANTM",
+    "BMRI",
+    "TLKM"
+   ],
+   "url": "https://katadata.co.id/finansial/bursa/6ab0c6573854a/ihsg-turun-0-27-di-sesi-i-saham-antm-bmri-tlkm-dilego-asing",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/07/27/IHSG_ditutup_turun_017_atau_1065_poin_ke_level_6185_Foto_Katadat-2026_07_27-17_16_02_b3d2331b45c97bcd41d41abce75071e1_620x413_thumb.jpg",
+   "t_id": "IHSG Turun 0,27% di Sesi I, Saham ANTM, BMRI, TLKM Dilego Asing"
+  },
+  {
    "ts": "2026-09-21T12:15:00+07:00",
    "date": "2026-09-21",
    "time": "12:15",
@@ -17463,7 +17512,17 @@
     "JECX"
    ],
    "url": "https://www.idnfinancials.com/news/69166/jecx-finance-director-resigns-after-nine-years-in-office",
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/JECX-22062026.jpg"
+   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/JECX-22062026.jpg",
+   "ai_ko": "· Jakarta Eye Center(JECX)\n  재무담당 이사 사임서 제출\n· Budi Djatmiko Musaffa는 2017년\n  선임, 2027년 1월 1일 이전 사임 희망\n· 주주총회서 이사회 구성 변경 예정,\n  회사는 영업 영향 없다고 밝힘",
+   "ai_id": "· Direktur keuangan JECX\n ajukan pengunduran diri\n· Budi Djatmiko menjabat sejak 2017,\n efektif paling lambat 1 Januari 2027\n· Perubahan direksi lewat RUPS,\n operasional disebut tak terdampak",
+   "ai_tags": [
+    "경영진",
+    "주주총회"
+   ],
+   "ai_tags_id": [
+    "direksi",
+    "RUPS"
+   ]
   },
   {
    "ts": "2026-09-21T12:00:00+07:00",
@@ -17475,7 +17534,19 @@
     "YUPI"
    ],
    "url": "https://www.idnfinancials.com/news/69138/yupi-prepares-four-options-to-meet-free-float-rules",
-   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/YUPI-min.jpg"
+   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/YUPI-min.jpg",
+   "ai_ko": "· Yupi(YUPI), 유통주식비율 확대 위해\n  4가지 방안 검토\n· 8월 31일 기준 유통비율 10%,\n  2027년 3월 12.5%·2028년 3월 15% 충족 필요\n· 최대주주 지분 매각, 제3자배정,\n  주주배정 증자, 우리사주 중 선택",
+   "ai_id": "· YUPI siapkan empat opsi penuhi\n ketentuan free float BEI\n· Free float 10% per 31 Agustus,\n wajib 12,5% (2027) dan 15% (2028)\n· Opsi: divestasi pengendali,\n private placement, rights issue, ESOP",
+   "ai_tags": [
+    "유통주식",
+    "규제",
+    "유상증자"
+   ],
+   "ai_tags_id": [
+    "free float",
+    "regulasi",
+    "rights issue"
+   ]
   },
   {
    "ts": "2026-09-21T11:29:37+07:00",
@@ -18470,11 +18541,125 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T13:16:00+07:00",
+   "date": "2026-09-21",
+   "time": "13:16",
+   "src": "WSJ",
+   "t": "Citi Raises 10-Year U.S. Treasury Yield Forecast",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/citi-raises-10-year-u-s-treasury-yield-forecast-ee0a5651?mod=rss_markets_main",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T13:11:48+07:00",
+   "date": "2026-09-21",
+   "time": "13:11",
+   "src": "Bloomberg Technoz",
+   "t": "Parkir di Zona Merah, IHSG Terbeban Saham-saham Ini",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122197/parkir-di-zona-merah-ihsg-terbeban-saham-saham-ini",
+   "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105605.jpeg",
+   "t_id": "Parkir di Zona Merah, IHSG Terbeban Saham-saham Ini"
+  },
+  {
+   "ts": "2026-09-21T13:11:00+07:00",
+   "date": "2026-09-21",
+   "time": "13:11",
+   "src": "Media Indonesia",
+   "t": "Kesejahteraan Finansial bukan hanya soal Mengelola Pendapatan",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935667/kesejahteraan-finansial-bukan-hanya-soal-mengelola-pendapatan"
+  },
+  {
+   "ts": "2026-09-21T13:08:00+07:00",
+   "date": "2026-09-21",
+   "time": "13:08",
+   "src": "Media Indonesia",
+   "t": "Pemerintah Siapkan 2 Juta Hektare Lahan Tebu, Singkong, dan Jagung untuk Kemandirian Energi",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935660/pemerintah-siapkan-2-juta-hektare-lahan-tebu-singkong-dan-jagung-untuk-kemandirian-energi",
+   "t_id": "Pemerintah Siapkan 2 Juta Hektare Lahan Tebu, Singkong, dan Jagung untuk Kemandirian Energi"
+  },
+  {
+   "ts": "2026-09-21T13:06:00+07:00",
+   "date": "2026-09-21",
+   "time": "13:06",
+   "src": "Media Indonesia",
+   "t": "Penggerak Inovasi Lokal Jadi Garda Depan Perubahan Sosial",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935661/penggerak-inovasi-lokal-jadi-garda-depan-perubahan-sosial",
+   "t_id": "Penggerak Inovasi Lokal Jadi Garda Depan Perubahan Sosial"
+  },
+  {
+   "ts": "2026-09-21T13:05:00+07:00",
+   "date": "2026-09-21",
+   "time": "13:05",
+   "src": "Media Indonesia",
+   "t": "Krisis Suplai Gas Buat Industri Keramik Terancam",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935659/krisis-suplai-gas-buat-industri-keramik-terancam"
+  },
+  {
+   "ts": "2026-09-21T13:01:59+07:00",
+   "date": "2026-09-21",
+   "time": "13:01",
+   "src": "Republika",
+   "t": "Indonesia dan Makau Jajaki Kerja Sama Industri Halal hingga Investasi",
+   "tags": [
+    "MICE"
+   ],
+   "url": "https://ekonomi.republika.co.id/berita/tlpa0u416/indonesia-dan-makau-jajaki-kerja-sama-industri-halal-hingga-investasi",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/_260921130138-926.png",
+   "t_id": "Indonesia dan Makau Jajaki Kerja Sama Industri Halal hingga Investasi",
+   "ai_ko": "· 인도네시아와 Macao,\n  협력 36건 체결\n· 9월 1일 Jakarta 설명회에 400여명\n  참석, 비즈니스 매칭 120여회 진행\n· 관광·MICE·할랄 산업 중심,\n  Kimia Farma 등 현지 시설 시찰",
+   "ai_id": "· Indonesia-Makau teken\n 36 kesepakatan kerja sama\n· Seminar di Jakarta 1 September\n diikuti 400 peserta, 120 business matching\n· Fokus pariwisata, MICE, industri halal;\n delegasi kunjungi Kimia Farma",
+   "ai_tags": [
+    "할랄",
+    "투자유치",
+    "관광"
+   ],
+   "ai_tags_id": [
+    "halal",
+    "investasi",
+    "pariwisata"
+   ]
+  },
+  {
+   "ts": "2026-09-21T13:00:14+07:00",
+   "date": "2026-09-21",
+   "time": "13:00",
+   "src": "Bloomberg",
+   "t": "KRW/USD: South Korea Starts Trial Run of 24-Hour Won Settlement System",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/krw-usd-south-korea-starts-trial-run-of-24-hour-won-settlement-system",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T12:59:44+07:00",
+   "date": "2026-09-21",
+   "time": "12:59",
+   "src": "CNBC",
+   "t": "Oil falls as crude flows remain 'surprisingly strong'",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+   "g": 1,
+   "ai_ko": "· 원유 수출 회복에 국제유가 하락\n· Trump, 미국-Iran 전쟁 관련 '결정 단계' 발언\n· 선적 여건 악화 시 유가 반등 가능성 지적",
+   "ai_id": "· Harga minyak turun, ekspor crude tetap kuat\n· Trump sebut dirinya dalam 'deciding mode' soal Iran\n· Gangguan pengapalan bisa dorong harga naik",
+   "ai_tags": [
+    "유가",
+    "지정학"
+   ],
+   "ai_tags_id": [
+    "harga minyak",
+    "geopolitik"
+   ]
+  },
+  {
    "ts": "2026-09-21T12:53:35+07:00",
    "date": "2026-09-21",
    "time": "12:53",
    "src": "Bloomberg",
-   "t": "Black Sea Impasse Adds to Global Economic Damage (Video)",
+   "t": "Black Sea Impasse Adds to Global Economic Damage",
    "tags": [],
    "url": "https://www.bloomberg.com/news/videos/2026-09-21/black-sea-impasse-adds-to-global-economic-damage-video",
    "g": 1
@@ -18488,7 +18673,17 @@
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672184/sesepi-ini-pasar-pondok-labu-kini-pembeli-bisa-dihitung-jari",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/pasar-pondok-labu-1789969187637_169.jpeg?w=360&q=90",
-   "t_id": "Sesepi Ini Pasar Pondok Labu Kini, Pembeli Bisa Dihitung Jari"
+   "t_id": "Sesepi Ini Pasar Pondok Labu Kini, Pembeli Bisa Dihitung Jari",
+   "ai_ko": "· Jakarta 남부 Pasar Pondok Labu\n  점포 상당수 폐업, 방문객 급감\n· 3층 시장 지하층 대부분 셔터 폐쇄,\n  정오까지 진입 차량 소수에 그침\n· 상인들은 침체가 팬데믹 이전부터\n  이어졌다고 전언",
+   "ai_id": "· Pasar Pondok Labu sepi,\n banyak kios tutup dan bergembok\n· Di basement pasar tiga lantai\n rolling door mayoritas terkunci\n· Pedagang sebut kondisi memburuk\n sejak sebelum pandemi",
+   "ai_tags": [
+    "소비",
+    "유통"
+   ],
+   "ai_tags_id": [
+    "konsumsi",
+    "ritel"
+   ]
   },
   {
    "ts": "2026-09-21T12:50:56+07:00",
@@ -18499,7 +18694,19 @@
    "tags": [],
    "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
    "g": 1,
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8242/live/884826e0-b57f-11f1-b53e-014a16f73df2.jpg"
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8242/live/884826e0-b57f-11f1-b53e-014a16f73df2.jpg",
+   "ai_ko": "· 미국·중국, AI 사고 통보 체계\n  신설 논의\n· Scott Bessent 재무장관과 He Lifeng\n  부총리가 뉴욕에서 회담\n· 관세 휴전은 11월 10일 만료,\n  이번 주 정상회담서 후속 논의",
+   "ai_id": "· AS dan China bahas mekanisme\n notifikasi insiden AI\n· Menkeu Scott Bessent bertemu\n Wakil PM He Lifeng di New York\n· Gencatan tarif berakhir 10 November,\n KTT digelar pekan ini",
+   "ai_tags": [
+    "AI",
+    "미중관계",
+    "관세"
+   ],
+   "ai_tags_id": [
+    "AI",
+    "AS-China",
+    "tarif"
+   ]
   },
   {
    "ts": "2026-09-21T12:50:15+07:00",
@@ -18510,7 +18717,29 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlp9gf416/sucofindo-dorong-pasar-karbon-dan-ketahanan-rantai-pasok-pangan",
    "img": "https://static.republika.co.id/uploads/images/detailnews/suasana-kegiatan-environmental-and-social-innovation-awards-ensia-2026_260921124920-248.jpeg",
-   "t_id": "Sucofindo Dorong Pasar Karbon dan Ketahanan Rantai Pasok Pangan"
+   "t_id": "Sucofindo Dorong Pasar Karbon dan Ketahanan Rantai Pasok Pangan",
+   "ai_ko": "· Sucofindo, ENSIA 2026에서\n  탄소시장·식량 공급망 논의\n· Paris 협정 6조 이행으로\n  탄소시장 개설 기회 부각\n· 에너지·폐기물·산림·CCUS 등이\n  감축 프로젝트 후보로 거론",
+   "ai_id": "· Sucofindo angkat pasar karbon\n dan rantai pasok pangan di ENSIA 2026\n· Implementasi Artikel 6 Paris Agreement\n buka peluang mekanisme pasar karbon\n· Potensi proyek di energi, limbah,\n kehutanan hingga CCS/CCUS",
+   "ai_tags": [
+    "탄소배출권",
+    "ESG",
+    "식량"
+   ],
+   "ai_tags_id": [
+    "pasar karbon",
+    "ESG",
+    "pangan"
+   ]
+  },
+  {
+   "ts": "2026-09-21T12:50:03+07:00",
+   "date": "2026-09-21",
+   "time": "12:50",
+   "src": "Bloomberg",
+   "t": "China Buys More US Soybeans Just Days Before Trump-Xi Summit",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/china-buys-more-us-soybeans-just-days-before-trump-xi-summit",
+   "g": 1
   },
   {
    "ts": "2026-09-21T12:48:19+07:00",
@@ -18521,7 +18750,19 @@
    "tags": [],
    "url": "https://www.channelnewsasia.com/business/thailand-considering-oil-tax-cut-finance-minister-says-6398926",
    "g": 1,
-   "img": "https://dam.mediacorp.sg/image/upload/s--IEDfIGu3--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-21T054819Z_1_LYNXMPEM8K09L_RTROPTP_3_THAILAND-ELECTION.JPG?itok=C-yGAjPq"
+   "img": "https://dam.mediacorp.sg/image/upload/s--bKYSGeSn--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-21T054942Z_2_LYNXMPEM8K09L_RTROPTP_3_THAILAND-ELECTION.JPG?itok=rB2LRqaE",
+   "ai_ko": "· Thailand, 유류 소비세 인하 검토\n· E20·B20 등 바이오혼합유 대상\n· 정유 마진 인하·기금 투입 이미 단행",
+   "ai_id": "· Thailand kaji potong cukai BBM\n· Sasar biofuel campuran E20 dan B20\n· Margin kilang dan Oil Fund sudah dipakai",
+   "ai_tags": [
+    "유가",
+    "규제",
+    "정유"
+   ],
+   "ai_tags_id": [
+    "harga minyak",
+    "regulasi",
+    "kilang"
+   ]
   },
   {
    "ts": "2026-09-21T12:46:07+07:00",
@@ -18541,7 +18782,19 @@
    "t": "JCI falls 0.27% as foreign investors sell these stocks",
    "tags": [],
    "url": "https://www.idnfinancials.com/news/69168/jci-falls-0-27-as-foreign-investors-sell-these-stocks",
-   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/IHSG%20-%20PASAR.jpg"
+   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/IHSG%20-%20PASAR.jpg",
+   "ai_ko": "· JCI 0.27% 하락한 6,423.51 마감\n· 거래대금 Rp5.74조, 평균 절반 밑\n· 외국인 Rp2,162억 순매도, ANTM 최대",
+   "ai_id": "· IHSG turun 0,27% ke 6.423,51\n· Nilai transaksi Rp5,74 triliun\n· Asing net sell Rp216,24 miliar",
+   "ai_tags": [
+    "증시",
+    "외국인",
+    "수급"
+   ],
+   "ai_tags_id": [
+    "IHSG",
+    "asing",
+    "net sell"
+   ]
   },
   {
    "ts": "2026-09-21T12:40:51+07:00",
@@ -18562,7 +18815,19 @@
    "t": "Menkop Pastikan Kopdes Merah Putih Mulai Operasi Oktober",
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672158/menkop-pastikan-kopdes-merah-putih-mulai-operasi-oktober",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/menteri-koperasi-menkop-ferry-juliantono-1789968751189_169.jpeg?w=360&q=90"
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/menteri-koperasi-menkop-ferry-juliantono-1789968751189_169.jpeg?w=360&q=90",
+   "ai_ko": "· 마을협동조합 2.3만곳 10월 시범 가동\n· 1.7만곳은 검증·확인 절차 진행 중\n· 식용유·비료·쌀·LPG 등 보조물자 유통",
+   "ai_id": "· 23.000 Kopdes mulai soft launching\n· 17.000 unit masih verifikasi validasi\n· Salurkan minyak goreng, pupuk, LPG 3 kg",
+   "ai_tags": [
+    "정책",
+    "유통",
+    "보조금"
+   ],
+   "ai_tags_id": [
+    "kebijakan",
+    "distribusi",
+    "subsidi"
+   ]
   },
   {
    "ts": "2026-09-21T12:39:00+07:00",
@@ -18583,7 +18848,19 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlp90v370/pemerintah-lunasi-surat-utang-krisis-19971998-pada-agustus-2026",
    "img": "https://static.republika.co.id/uploads/images/detailnews/019920100-1789380513-830-556.jpg",
-   "t_id": "Pemerintah Lunasi Surat Utang Krisis 1997-1998 pada Agustus 2026"
+   "t_id": "Pemerintah Lunasi Surat Utang Krisis 1997-1998 pada Agustus 2026",
+   "ai_ko": "· 1997~98년 위기 국채, 8월 상환 완료\n· Bank Indonesia 잉여금 재원 활용\n· 분리국유재산 수입 Rp58조 수령",
+   "ai_id": "· Surat utang BLBI lunas Agustus 2026\n· Dibayar dari surplus Bank Indonesia\n· Pendapatan KND masuk Rp58 triliun",
+   "ai_tags": [
+    "국채",
+    "재정",
+    "상환"
+   ],
+   "ai_tags_id": [
+    "surat utang",
+    "fiskal",
+    "pelunasan"
+   ]
   },
   {
    "ts": "2026-09-21T12:37:00+07:00",
@@ -18592,7 +18869,19 @@
    "src": "Media Indonesia",
    "t": "El Nino Berisiko Tekan Kualitas Kredit Perbankan",
    "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935631/el-nino-berisiko-tekan-kualitas-kredit-perbankan"
+   "url": "https://mediaindonesia.com/ekonomi/935631/el-nino-berisiko-tekan-kualitas-kredit-perbankan",
+   "ai_ko": "· OJK, El Nino로 은행 부실채권 위험 경고\n· 농업·플랜테이션·식음료 업종 취약\n· 지역 소액여신 비중 큰 BPR 노출 커",
+   "ai_id": "· OJK: El Nino berisiko naikkan NPL\n· Sektor pertanian dan makanan rentan\n· BPR punya eksposur besar ke UMKM",
+   "ai_tags": [
+    "은행",
+    "규제",
+    "신용위험"
+   ],
+   "ai_tags_id": [
+    "perbankan",
+    "regulasi",
+    "risiko kredit"
+   ]
   },
   {
    "ts": "2026-09-21T12:36:30+07:00",
@@ -18604,7 +18893,19 @@
    "url": "https://finance.detik.com/energi/d-8672154/prabowo-mau-bensin-dari-batu-bara-bahlil-china-sudah-tawarkan-kerja-sama",
    "g": 1,
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/bahlil-lahadalia-1789968591021_169.jpeg?w=360&q=90",
-   "t_id": "Prabowo Mau Bensin dari Batu Bara, Bahlil: China Sudah Tawarkan Kerja Sama"
+   "t_id": "Prabowo Mau Bensin dari Batu Bara, Bahlil: China Sudah Tawarkan Kerja Sama",
+   "ai_ko": "· 정부, 석탄 원료 휘발유 생산 추진\n· 중국 기업들이 협력 제안 접수\n· 저열량탄 활용, 연료 수입 축소 목표",
+   "ai_id": "· Pemerintah dorong bensin dari batu bara\n· Perusahaan China tawarkan kerja sama\n· Manfaatkan batu bara kalori rendah",
+   "ai_tags": [
+    "석탄",
+    "에너지",
+    "정책"
+   ],
+   "ai_tags_id": [
+    "batu bara",
+    "energi",
+    "kebijakan"
+   ]
   },
   {
    "ts": "2026-09-21T12:27:00+07:00",
@@ -18625,7 +18926,19 @@
    "t": "5 Tahun Beroperasi, blu by BCA Digital Perluas Ekosistem Finansial Anak Muda",
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672135/5-tahun-beroperasi-blu-by-bca-digital-perluas-ekosistem-finansial-anak-muda",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/blu-by-bca-digital-1789968330051.jpeg?w=360&q=90"
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/blu-by-bca-digital-1789968330051.jpeg?w=360&q=90",
+   "ai_ko": "· BCA Digital 상반기 예수금 20% 증가\n· 신규 고객 25% 늘며 Gen Z가 56%\n· 3년간 비송금 거래액 Rp13.13조로 186%↑",
+   "ai_id": "· DPK BCA Digital tumbuh 20% YoY\n· Nasabah baru naik 25%, Gen Z 56%\n· Transaksi nontransfer Rp13,13 triliun",
+   "ai_tags": [
+    "실적",
+    "디지털뱅크",
+    "은행"
+   ],
+   "ai_tags_id": [
+    "kinerja",
+    "bank digital",
+    "perbankan"
+   ]
   },
   {
    "ts": "2026-09-21T12:24:35+07:00",
@@ -18656,7 +18969,19 @@
    "tags": [],
    "url": "https://www.idxchannel.com/market-news/ojk-wajibkan-penyelenggara-bursa-mineral-punya-modal-disetor-minimal-rp1-triliun",
    "img": "https://img.idxchannel.com/media/439/images/idx/2023/08/26/mineral_kritis.jpg",
-   "t_id": "OJK Wajibkan Penyelenggara Bursa Mineral Punya Modal Disetor Minimal Rp1 Triliun"
+   "t_id": "OJK Wajibkan Penyelenggara Bursa Mineral Punya Modal Disetor Minimal Rp1 Triliun",
+   "ai_ko": "· OJK, 광물거래소 최소 납입자본\n· Rp1조 의무화 규정 시행\n· POJK 16/2026, 2026년 9월 제정\n· 2027년 1월 1일 발효\n· 거래소 인가 신청 시 3년 재무\n· 추정·사업계획 제출 의무",
+   "ai_id": "· OJK wajibkan modal disetor\n· bursa mineral min Rp1 triliun\n· POJK 16/2026 terbit Sep 2026\n· berlaku efektif 1 Januari 2027\n· Izin usaha wajib lampirkan\n· proyeksi keuangan 3 tahun",
+   "ai_tags": [
+    "규제",
+    "광물",
+    "자본금"
+   ],
+   "ai_tags_id": [
+    "regulasi",
+    "mineral",
+    "modal disetor"
+   ]
   },
   {
    "ts": "2026-09-21T12:18:00+07:00",
@@ -18742,158 +19067,6 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672091/pesan-khusus-suahasil-ke-pejabat-bea-cukai-pajak-yang-baru-dilantik",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/menteri-keuangan-suahasil-nazara-melantik-14-pejabat-1789959240542_169.jpeg?w=360&q=90",
    "t_id": "Pesan Khusus Suahasil ke Pejabat Bea Cukai-Pajak yang Baru Dilantik"
-  },
-  {
-   "ts": "2026-09-21T12:05:00+07:00",
-   "date": "2026-09-21",
-   "time": "12:05",
-   "src": "Media Indonesia",
-   "t": "Keselamatan Pelayaran Mendesak, Pemerintah Didorong Bertindak",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935637/keselamatan-pelayaran-mendesak-pemerintah-didorong-bertindak"
-  },
-  {
-   "ts": "2026-09-21T12:00:24+07:00",
-   "date": "2026-09-21",
-   "time": "12:00",
-   "src": "Bloomberg",
-   "t": "Emerging-Market Stocks, Currencies Gain After US-China Talks",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/emerging-market-stocks-currencies-gain-after-us-china-talks",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T11:56:15+07:00",
-   "date": "2026-09-21",
-   "time": "11:56",
-   "src": "Bloomberg",
-   "t": "Copper Holds Gain as Traders Weigh Signs of Near-Term Tightness",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/copper-holds-gain-as-traders-weigh-signs-of-near-term-tightness",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T11:55:00+07:00",
-   "date": "2026-09-21",
-   "time": "11:55",
-   "src": "IDX Channel",
-   "t": "MNC Sekuritas Resmikan Galeri Investasi MNC University, Targetkan 1.000 Rekening Efek",
-   "tags": [],
-   "url": "https://www.idxchannel.com/market-news/mnc-sekuritas-resmikan-galeri-investasi-mnc-university-targetkan-1000-rekening-efek",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/21/87865.jpg"
-  },
-  {
-   "ts": "2026-09-21T11:55:00+07:00",
-   "date": "2026-09-21",
-   "time": "11:55",
-   "src": "Media Indonesia",
-   "t": "Lantik Sejumlah Pejabat Kemenkeu, Suahasil: Bukan yang Dirombak Purbaya",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935634/lantik-sejumlah-pejabat-kemenkeu-suahasil-bukan-yang-dirombak-purbaya",
-   "t_id": "Lantik Sejumlah Pejabat Kemenkeu, Suahasil: Bukan yang Dirombak Purbaya"
-  },
-  {
-   "ts": "2026-09-21T11:51:02+07:00",
-   "date": "2026-09-21",
-   "time": "11:51",
-   "src": "CNBC",
-   "t": "Oil falls as crude flows remain 'surprisingly strong'",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T11:45:40+07:00",
-   "date": "2026-09-21",
-   "time": "11:45",
-   "src": "Jawa Pos",
-   "t": "Lantik Pejabat Baru, Suahasil Nazara Minta Bea Cukai Pertajam Pengawasan Berbasis Risiko",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210098/lantik-pejabat-baru-suahasil-nazara-minta-bea-cukai-pertajam-pengawasan-berbasis-risiko",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/17/StPEKGg1VA3QF2CzvzNHkGBen9GcUPCy7U2gni6f.webp",
-   "ai_ko": "· Suahasil Nazara 재무장관, 신임 간부 임명\n· Bea Cukai에 리스크 기반 감독 강화 지시\n· 수출입 통관 규제 기조 변화 주목",
-   "ai_id": "· Menkeu lantik pejabat baru Kemenkeu\n· Bea Cukai diminta pertajam pengawasan\n· Fokus pengawasan berbasis risiko",
-   "ai_tags": [
-    "인사",
-    "규제",
-    "관세"
-   ],
-   "ai_tags_id": [
-    "mutasi",
-    "regulasi",
-    "bea cukai"
-   ]
-  },
-  {
-   "ts": "2026-09-21T11:42:45+07:00",
-   "date": "2026-09-21",
-   "time": "11:42",
-   "src": "Jawa Pos",
-   "t": "Suahasil Nazara Sebut Pelantikan Pejabat Kemenkeu Masa Purbaya Tetap Sah dan Resmi",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210095/suahasil-nazara-sebut-pelantikan-pejabat-kemenkeu-masa-purbaya-tetap-sah-dan-resmi",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
-   "t_id": "Suahasil Nazara Sebut Pelantikan Pejabat Kemenkeu Masa Purbaya Tetap Sah dan Resmi",
-   "ai_ko": "· Suahasil, Purbaya 시기 인사 유효 확인\n· 승진·전보 절차 적법 진행 강조\n· 재무부 인사 절차 불확실성 해소",
-   "ai_id": "· Suahasil: pelantikan era Purbaya sah\n· Mutasi dan promosi dinilai kredibel\n· Sistem kepegawaian Kemenkeu dijaga",
-   "ai_tags": [
-    "인사",
-    "재무부"
-   ],
-   "ai_tags_id": [
-    "mutasi",
-    "kemenkeu"
-   ]
-  },
-  {
-   "ts": "2026-09-21T11:41:50+07:00",
-   "date": "2026-09-21",
-   "time": "11:41",
-   "src": "Bloomberg Technoz",
-   "t": "21 September 2026, Seperti Ini Harga Emas di Pegadaian",
-   "tags": [
-    "BBRI"
-   ],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122190/21-september-2026-seperti-ini-harga-emas-di-pegadaian",
-   "g": 1,
-   "img": "https://images.bloombergtechnoz.com/data/2024/05/image-20240521204013.jpg",
-   "t_id": "21 September 2026, Seperti Ini Harga Emas di Pegadaian",
-   "ai_ko": "· Pegadaian 금값, ANTM 1g Rp266.8만\n· UBS Rp260.3만, Galeri 24 Rp257.8만\n· Pegadaian은 BBRI 자회사, ANTM 금 판매",
-   "ai_id": "· Harga emas Antam 1 gram Rp2.668.000\n· UBS Rp2.603.000, Galeri 24 Rp2.578.000\n· Pegadaian anak usaha BBRI",
-   "ai_tags": [
-    "금값",
-    "ANTM",
-    "BBRI"
-   ],
-   "ai_tags_id": [
-    "harga emas",
-    "ANTM",
-    "BBRI"
-   ]
-  },
-  {
-   "ts": "2026-09-21T11:40:00+07:00",
-   "date": "2026-09-21",
-   "time": "11:40",
-   "src": "Bloomberg Technoz",
-   "t": "Pejabat The Fed: Tekanan Inflasi AS Meluas ke Berbagai Sektor",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122189/pejabat-the-fed-tekanan-inflasi-as-meluas-ke-berbagai-sektor",
-   "g": 1,
-   "img": "https://images.bloombergtechnoz.com/data/2024/11/image-20241111055250.jpg",
-   "t_id": "Pejabat The Fed: Tekanan Inflasi AS Meluas ke Berbagai Sektor",
-   "ai_ko": "· Kashkari, 미국 물가 압력 광범위 확산 진단\n· Fed, 9월 15-16일 25bp 인상, 2023년 후 첫 인상\n· 물가 목표 2% 5년 넘게 미달, 긴축 기조 지속",
-   "ai_id": "· Kashkari: tekanan inflasi AS meluas\n· Fed naikkan 25 bps, pertama sejak 2023\n· Inflasi di atas target 2% lebih 5 tahun",
-   "ai_tags": [
-    "금리",
-    "물가",
-    "통화정책"
-   ],
-   "ai_tags_id": [
-    "suku bunga",
-    "inflasi",
-    "kebijakan moneter"
-   ]
   }
  ],
  "kisi_news": [
@@ -19058,8 +19231,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "12.88",
-   "d": 0.12,
-   "ytd": 10.88,
+   "d": 0.15,
+   "ytd": 10.91,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19092,9 +19265,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.34",
-   "d": 0.11,
-   "ytd": 2.1,
+   "v": "100.35",
+   "d": 0.04,
+   "ytd": 2.11,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19104,9 +19277,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "94.46",
-   "d": 0.81,
-   "ytd": 64.51,
+   "v": "94.52",
+   "d": 0.59,
+   "ytd": 64.61,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19116,9 +19289,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,390.1",
-   "d": -0.72,
-   "ytd": 1.49,
+   "v": "4,391.5",
+   "d": -0.1,
+   "ytd": 1.52,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19140,9 +19313,9 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,257",
-   "d": 0.2,
-   "ytd": -2.55,
+   "v": "16,278",
+   "d": 0.33,
+   "ytd": -2.42,
    "inv": false,
    "note": "investing.com · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
@@ -20416,17 +20589,6 @@
    "src": "manual",
    "title_ko": "FTSE GEIS 리밸런싱 기준 종가 (9/21 효력)",
    "title_id": "Harga penutupan acuan rebalancing FTSE GEIS (efektif 21/9)"
-  },
-  {
-   "date": "2026-09-21",
-   "t": "CRAB",
-   "kind": "corp",
-   "imp": 2,
-   "title": "기업설명회 · Penyampaian Materi Public Expose - Tahunan",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "기업설명회 · Penyampaian Materi Public Expose - Tahunan",
-   "title_id": "Public Expose · Penyampaian Materi Public Expose Tahunan"
   }
  ],
  "announcements": [
@@ -21910,10 +22072,10 @@
  "sources": {
   "idx_index": false,
   "idx_market": true,
-  "idx_from_pc": "2026-09-21 11:48",
-  "pc_age_min": 71,
-  "news_ai_cache": 88,
-  "news_ai_hit": 42,
+  "idx_from_pc": "2026-09-21 13:10",
+  "pc_age_min": 10,
+  "news_ai_cache": 85,
+  "news_ai_hit": 55,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -21940,7 +22102,19 @@
    "url": "https://www.idxchannel.com/market-news/ojk-wajibkan-penyelenggara-bursa-mineral-punya-modal-disetor-minimal-rp1-triliun",
    "img": "https://img.idxchannel.com/media/439/images/idx/2023/08/26/mineral_kritis.jpg",
    "t_id": "OJK Wajibkan Penyelenggara Bursa Mineral Punya Modal Disetor Minimal Rp1 Triliun",
-   "score": 414.25,
+   "ai_ko": "· OJK, 광물거래소 최소 납입자본\n· Rp1조 의무화 규정 시행\n· POJK 16/2026, 2026년 9월 제정\n· 2027년 1월 1일 발효\n· 거래소 인가 신청 시 3년 재무\n· 추정·사업계획 제출 의무",
+   "ai_id": "· OJK wajibkan modal disetor\n· bursa mineral min Rp1 triliun\n· POJK 16/2026 terbit Sep 2026\n· berlaku efektif 1 Januari 2027\n· Izin usaha wajib lampirkan\n· proyeksi keuangan 3 tahun",
+   "ai_tags": [
+    "규제",
+    "광물",
+    "자본금"
+   ],
+   "ai_tags_id": [
+    "regulasi",
+    "mineral",
+    "modal disetor"
+   ],
+   "score": 416.35,
    "srcs": 2
   },
   {
@@ -21993,7 +22167,19 @@
    "score": 315.5,
    "srcs": 4,
    "t_ko": "사우디아라비아 후티 반군 공격 이후 유가가 배럴당 104달러에 도달",
-   "t_id": "Harga Minyak Tembus US$ 104/Barel Usai Houthi Serang Arab Saudi"
+   "t_id": "Harga Minyak Tembus US$ 104/Barel Usai Houthi Serang Arab Saudi",
+   "ai_ko": "· Brent유 0.78% 상승, 배럴당 USD 104.68\n· WTI는 0.76% 올라 USD 101.06\n· Houthi가 Riyadh에 미사일·드론 공격, 사우디는 요격 성공 발표\n· Yanbu 송유관 종착지와 Taif·Baysh·Farasan도 공격 시도\n· Houthi는 Saudi Aramco 시설 화재 주장, Aramco는 무응답",
+   "ai_id": "· Brent naik 0,78% ke US$104,68\n· WTI naik 0,76% ke US$101,06\n· Houthi serang Riyadh dengan rudal\n· Arab Saudi klaim rudal dicegat\n· Serangan juga menyasar Yanbu\n· Aramco belum memberi tanggapan",
+   "ai_tags": [
+    "유가",
+    "지정학",
+    "원자재"
+   ],
+   "ai_tags_id": [
+    "harga minyak",
+    "geopolitik",
+    "komoditas"
+   ]
   }
  ],
  "daylog": {

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 19:32",
+ "updated": "2026-09-21 19:45",
  "delay_min": 15,
  "fx_basis": "12.99 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,372 · 17:15 Yahoo",
- "idr_per_krw": 12.993,
+ "idr_per_krw": 12.9949,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17347,6 +17347,19 @@
  },
  "news": [
   {
+   "ts": "2026-09-21T19:25:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:25",
+   "src": "IDX Channel",
+   "t": "Baramulti (BSSR) Guyur Dividen Interim Rp1 Triliun, Catat Jadwalnya",
+   "tags": [
+    "BSSR"
+   ],
+   "url": "https://www.idxchannel.com/market-news/baramulti-bssr-guyur-dividen-interim-rp1-triliun-catat-jadwalnya",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/21/Baramulti.jpg",
+   "t_id": "Baramulti (BSSR) Guyur Dividen Interim Rp1 Triliun, Catat Jadwalnya"
+  },
+  {
    "ts": "2026-09-21T19:17:00+07:00",
    "date": "2026-09-21",
    "time": "19:17",
@@ -17397,18 +17410,6 @@
    "url": "https://www.idxchannel.com/market-news/amman-mineral-ammn-cetak-laba-bersih-rp86-triliun-pada-semester-i-2026",
    "img": "https://img.idxchannel.com/media/439/images/idx/2025/04/30/amman_mineral_ammn.jpg",
    "t_id": "Amman Mineral (AMMN) Cetak Laba Bersih Rp8,6 Triliun pada Semester I-2026"
-  },
-  {
-   "ts": "2026-09-21T18:11:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:11",
-   "src": "Media Indonesia",
-   "t": "IHSG Tergelincir ke 6.384 Jelang RDG BI, Investor Ambil Sikap Waspada",
-   "tags": [
-    "LAJU"
-   ],
-   "url": "https://mediaindonesia.com/ekonomi/935805/ihsg-tergelincir-ke-6384-jelang-rdg-bi-investor-ambil-sikap-waspada",
-   "t_id": "IHSG Tergelincir ke 6.384 Jelang RDG BI, Investor Ambil Sikap Waspada"
   },
   {
    "ts": "2026-09-21T17:54:00+07:00",
@@ -18426,6 +18427,79 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T19:35:02+07:00",
+   "date": "2026-09-21",
+   "time": "19:35",
+   "src": "CNBC",
+   "t": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T19:32:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:32",
+   "src": "WSJ",
+   "t": "Global Stocks Rally, Yields Lower as Oil Prices Extend Falls",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/stocks/global-stocks-rally-yields-lower-as-oil-prices-extend-falls-8b63390a?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-70147132"
+  },
+  {
+   "ts": "2026-09-21T19:32:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:32",
+   "src": "Katadata",
+   "t": "Gerakan Patungan Hutan Bergulir, Akankah Pacu Kebijakan Baru Pemerintah?",
+   "tags": [],
+   "url": "https://katadata.co.id/ekonomi-hijau/investasi-hijau/6ab1245a5e645/gerakan-patungan-hutan-bergulir-akankah-pacu-kebijakan-baru-pemerintah",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/09/2026_09_09-17_39_00_9d9cc9d8-ac47-11f1-9607-0242ac12000a_620x413_thumb.jpg"
+  },
+  {
+   "ts": "2026-09-21T19:30:38+07:00",
+   "date": "2026-09-21",
+   "time": "19:30",
+   "src": "Detik",
+   "t": "748 Orang Direkrut Jadi Petugas Jaga Lintasan Kereta",
+   "tags": [],
+   "url": "https://finance.detik.com/foto-bisnis/d-8672742/748-orang-direkrut-jadi-petugas-jaga-lintasan-kereta",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/748-orang-direkrut-jadi-petugas-jaga-lintasan-kereta-1789985421130_169.jpeg?w=360&q=90",
+   "t_id": "748 Orang Direkrut Jadi Petugas Jaga Lintasan Kereta"
+  },
+  {
+   "ts": "2026-09-21T19:28:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:28",
+   "src": "Media Indonesia",
+   "t": "Ekonom Sebut Streamlining BUMN Jadi Prestasi Fundamental Pemerintah",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935844/ekonom-sebut-streamlining-bumn-jadi-prestasi-fundamental-pemerintah",
+   "t_id": "Ekonom Sebut Streamlining BUMN Jadi Prestasi Fundamental Pemerintah"
+  },
+  {
+   "ts": "2026-09-21T19:27:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:27",
+   "src": "Media Indonesia",
+   "t": "Komisi I DPR Dorong Koordinasi Lintas Pihak Cari 9 Anak Perempuan di Jila Papua",
+   "tags": [],
+   "url": "https://mediaindonesia.com/politik-dan-hukum/935846/komisi-i-dpr-dorong-koordinasi-lintas-pihak-cari-9-anak-perempuan-di-jila-papua",
+   "t_id": "Komisi I DPR Dorong Koordinasi Lintas Pihak Cari 9 Anak Perempuan di Jila Papua"
+  },
+  {
+   "ts": "2026-09-21T19:26:33+07:00",
+   "date": "2026-09-21",
+   "time": "19:26",
+   "src": "Yahoo Finance",
+   "t": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/bdd431683de9950040f02ea6c1d7659e.jpg"
+  },
+  {
    "ts": "2026-09-21T19:26:10+07:00",
    "date": "2026-09-21",
    "time": "19:26",
@@ -18469,6 +18543,17 @@
    "t_id": "UMKM Daerah Didorong Masuk Ekosistem Affiliate untuk Perluas Pasar"
   },
   {
+   "ts": "2026-09-21T19:20:53+07:00",
+   "date": "2026-09-21",
+   "time": "19:20",
+   "src": "Yahoo Finance",
+   "t": "Progressive’s Trailing Yield Is Wildly Misleading. Here Is What It Actually Pays",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/progressive-trailing-yield-wildly-misleading-122053774.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/24_7_wall_st__718/a71a5f7c5ecc80e44bea76f087281d71.jpg"
+  },
+  {
    "ts": "2026-09-21T19:20:00+07:00",
    "date": "2026-09-21",
    "time": "19:20",
@@ -18477,6 +18562,28 @@
    "tags": [],
    "url": "https://katadata.co.id/berita/industri/6ab120f4ba773/petani-sawit-rakyat-ingin-dilibatkan-dalam-hilirisasi-sawit-ajukan-3-tuntutan",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Konferensi_Nasional_Perkebunan_Rakyat_II-2026_09_21-18_27_47_f46b1d511cd38b3289e8bcfc9f9b73e1_620x413_thumb.jpeg"
+  },
+  {
+   "ts": "2026-09-21T19:19:55+07:00",
+   "date": "2026-09-21",
+   "time": "19:19",
+   "src": "Yahoo Finance",
+   "t": "Fenimore Bets on NASDAQ’s (NDAQ) Non-Transactional Revenue Streams",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/fenimore-bets-nasdaq-ndaq-non-121955576.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/91955f44d75d88f33e1647c18b0fe457.jpg"
+  },
+  {
+   "ts": "2026-09-21T19:19:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:19",
+   "src": "Yahoo Finance",
+   "t": "Saudi Central Bank leaves China-led digital currency initiative",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/crypto/articles/saudi-central-bank-leaves-china-121900552.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/electronic_payments_938/3a1d26836acb0ac2006ab104daa6cad1.jpg"
   },
   {
    "ts": "2026-09-21T19:18:00+07:00",
@@ -18589,17 +18696,6 @@
    "t_id": "MS NOW, CNN, Politico Gugat Trump untuk Batalkan Larangan Gedung Putih"
   },
   {
-   "ts": "2026-09-21T19:00:11+07:00",
-   "date": "2026-09-21",
-   "time": "19:00",
-   "src": "Yahoo Finance",
-   "t": "Prediction: Lucid Stock Could Double in 12 Months",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-lucid-stock-could-double-120011402.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/24_7_wall_st__718/c738bb628f3200429d65bfe5a9151717.jpg"
-  },
-  {
    "ts": "2026-09-21T18:59:54+07:00",
    "date": "2026-09-21",
    "time": "18:59",
@@ -18644,19 +18740,6 @@
    ]
   },
   {
-   "ts": "2026-09-21T18:59:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:59",
-   "src": "WSJ",
-   "t": "Tech, Media & Telecom Roundup: Market Talk",
-   "tags": [],
-   "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-6af76ecb?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-92361535",
-   "t_ko": "테크·미디어·텔레콤 부문 동향",
-   "t_id": "Teknologi, Media & Telekomunikasi: Market Talk"
-  },
-  {
    "ts": "2026-09-21T18:58:39+07:00",
    "date": "2026-09-21",
    "time": "18:58",
@@ -18688,16 +18771,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/0CUiJKdkvKfHGM6FniGmioFVCQtw3Rjj4i13WwXu.webp"
   },
   {
-   "ts": "2026-09-21T18:52:58+07:00",
-   "date": "2026-09-21",
-   "time": "18:52",
-   "src": "Bloomberg",
-   "t": "Stocks Rise as US, China Hail Positive Talks Ahead of Trump-Xi Summit",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/bloomberg-brief-09-21-2026-video",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T18:50:00+07:00",
    "date": "2026-09-21",
    "time": "18:50",
@@ -18706,29 +18779,6 @@
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/935819/bunga-tinggi-dan-permintaan-melemah-pengusaha-tahan-ekspansi-kredit",
    "t_id": "Bunga Tinggi dan Permintaan Melemah, Pengusaha Tahan Ekspansi Kredit"
-  },
-  {
-   "ts": "2026-09-21T18:49:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:49",
-   "src": "MarketWatch",
-   "t": "A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-20502372",
-   "t_ko": "이란 전쟁의 갑작스러운 종료는 유가와 에너지 주식에 타격을 줄 것입니다. 그러나 회사 내부자들은 구매하고 있습니다.",
-   "t_id": "Berakhirnya perang Iran secara tiba-tiba akan memberikan pukulan telak terhadap harga minyak dan stok energi. Namun orang dalam perusahaan membeli."
-  },
-  {
-   "ts": "2026-09-21T18:46:53+07:00",
-   "date": "2026-09-21",
-   "time": "18:46",
-   "src": "Bloomberg",
-   "t": "NSE’s $2.4 Billion India IPO Subscribed 5.7 Times as Books Close",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/nse-s-2-4-billion-india-ipo-subscribed-5-7-times-as-books-close",
-   "g": 1
   },
   {
    "ts": "2026-09-21T18:45:40+07:00",
@@ -18763,16 +18813,6 @@
    "t_id": "Mentan Yakin dalam Seminggu Harga Beras Turun!"
   },
   {
-   "ts": "2026-09-21T18:41:03+07:00",
-   "date": "2026-09-21",
-   "time": "18:41",
-   "src": "Bloomberg",
-   "t": "Fed’s Goolsbee Says Path to 2% ‘Unlikely to Be Painless’",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/fed-s-goolsbee-says-path-to-2-unlikely-to-be-painless-video",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T18:34:00+07:00",
    "date": "2026-09-21",
    "time": "18:34",
@@ -18803,49 +18843,6 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122259/ajaib-dorong-generasi-muda-melek-investasi-di-surabaya",
    "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260921181511.jpg",
    "t_id": "Ajaib Dorong Generasi Muda Melek Investasi di Surabaya"
-  },
-  {
-   "ts": "2026-09-21T18:20:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:20",
-   "src": "Katadata",
-   "t": "KPK Periksa Pengepul Dana dalam Dugaan Korupsi di Kementerian ATR",
-   "tags": [],
-   "url": "https://katadata.co.id/berita/nasional/6ab112f6a9170/kpk-periksa-pengepul-dana-dalam-dugaan-korupsi-di-kementerian-atr",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/18/2026_09_18-21_20_00_1e8e0e22-b3e0-11f1-9607-0242ac12000a_620x413_thumb.jpg",
-   "t_id": "KPK Periksa Pengepul Dana dalam Dugaan Korupsi di Kementerian ATR"
-  },
-  {
-   "ts": "2026-09-21T18:19:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:19",
-   "src": "Media Indonesia",
-   "t": "Empat Pilar Ekonomi Kerakyatan Dinilai Jadi Kunci Nyata Capai Target Pertumbuhan 8 Persen",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935807/empat-pilar-ekonomi-kerakyatan-dinilai-jadi-kunci-nyata-capai-target-pertumbuhan-8-persen",
-   "t_id": "Empat Pilar Ekonomi Kerakyatan Dinilai Jadi Kunci Nyata Capai Target Pertumbuhan 8 Persen"
-  },
-  {
-   "ts": "2026-09-21T18:18:40+07:00",
-   "date": "2026-09-21",
-   "time": "18:18",
-   "src": "Jawa Pos",
-   "t": "Sudah Tak Jadi Menkeu, Uang Rp 100 Ribu Bertanda Tangan Purbaya Malah Diburu",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210292/sudah-tak-jadi-menkeu-uang-rp-100-ribu-bertanda-tangan-purbaya-malah-diburu",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/pecahan-rp-100000-tahun-emisi-te-2022-yang-memuat-tanda-tangan-purbaya-dan-perry-warjiyo-sebagai-gubernur-bank-indonesia-bi-threads-at-christopherkeju-fxOBK.webp",
-   "t_id": "Sudah Tak Jadi Menkeu, Uang Rp 100 Ribu Bertanda Tangan Purbaya Malah Diburu"
-  },
-  {
-   "ts": "2026-09-21T18:18:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:18",
-   "src": "Jawa Pos",
-   "t": "Demi Penyempurnaan, Suahasil Nazara Lantik 14 Pejabat Baru di Kemenkeu dan KSSK",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210068/demi-penyempurnaan-suahasil-nazara-lantik-14-pejabat-baru-di-kemenkeu-dan-kssk",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
-   "t_id": "Demi Penyempurnaan, Suahasil Nazara Lantik 14 Pejabat Baru di Kemenkeu dan KSSK"
   }
  ],
  "kisi_news": [
@@ -19022,9 +19019,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.998%",
-   "d": 1.03,
-   "ytd": 20.06,
+   "v": "4.955%",
+   "d": -0.86,
+   "ytd": 19.02,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19045,9 +19042,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.23",
-   "d": -0.08,
-   "ytd": 1.98,
+   "v": "100.25",
+   "d": -0.06,
+   "ytd": 2.0,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19057,9 +19054,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "93.24",
-   "d": -0.78,
-   "ytd": 62.38,
+   "v": "93.61",
+   "d": -0.38,
+   "ytd": 63.03,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19069,9 +19066,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,406.8",
-   "d": 0.25,
-   "ytd": 1.88,
+   "v": "4,396.3",
+   "d": 0.01,
+   "ytd": 1.63,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22677,7 +22674,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 81,
+  "pc_age_min": 94,
   "news_ai_cache": 61,
   "news_ai_hit": 40,
   "on_runner": true,
@@ -22767,7 +22764,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/us-stock-futures-climb-ahead-of-trump-xi-meeting-as-oil-slips",
    "g": 1,
    "score": 314.0,
-   "srcs": 9
+   "srcs": 8
   }
  ],
  "daylog": {

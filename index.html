@@ -206,11 +206,11 @@ body.laymode #row2 .col{min-height:80px;border-radius:12px;transition:background
 .row .px b{display:block;font-size:14px;font-weight:700}
 .row .px small{font-size:12.5px;font-weight:600}
 .row .heart{display:none}
-.fx{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-top:12px}
-.fx div{background:var(--chip);border-radius:8px;padding:10px 12px}
-.fx span{display:block;font-size:11.5px;color:var(--ink3);margin-bottom:2px}
-.fx b{font-size:21px;font-weight:800;line-height:1.15;letter-spacing:-.01em}.fx b span,.fx b small{font-size:12px;font-weight:600;color:var(--ink3);margin-left:4px}
-.mini-list .row{padding:7px 4px}
+.fx{display:grid;grid-template-columns:1fr 1fr 1fr;gap:7px;margin-top:9px}
+.fx div{background:var(--chip);border-radius:8px;padding:6px 11px}
+.fx span{display:block;font-size:11px;color:var(--ink3);margin-bottom:2px}
+.fx b{font-size:18px;font-weight:800;line-height:1.15;letter-spacing:-.01em}.fx b span,.fx b small{font-size:12px;font-weight:600;color:var(--ink3);margin-left:4px}
+.mini-list .row{padding:4.5px 4px}
 .mini-list .logo{width:28px;height:28px;flex-basis:28px;font-size:11px}
 .mini-list .row .nm b{font-size:13px}
 .two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:14px;margin-top:6px}
@@ -1092,6 +1092,25 @@ function setSecWin(w){swin=w;const p=$('secwin');if(p)[...p.children].forEach((e
 /* 이 줄의 높이는 종목 랭킹 10행이 정한다 — 뉴스·관심종목이 길어져도 줄을 밀어 올리지 못하게 막고,
    넘치는 내용은 각 카드 안에서 스크롤시킨다 (2026-09-21 사장: 랭킹은 10개여야 의미 있다).
    랭킹이 없는 줄은 건드리지 않는다 — 기준으로 삼을 카드가 없다. */
+/* 같은 줄에 놓인 첫 카드들의 바닥을 한 선으로 맞춘다.
+   열마다 카드 높이가 달라 가로 경계가 어긋나 보인다 (2026-09-21 지시: "자로 잰 듯이").
+   차이가 60px 을 넘으면 손대지 않는다 — 억지로 늘리면 짧은 카드에 빈칸이 생기고,
+   그 줄은 capRow 가 따로 맡는다. */
+function rowAlign(){
+  const g={};
+  document.querySelectorAll('.col').forEach(c=>{
+    const r=c.getBoundingClientRect(); if(r.height<10)return;
+    const k=Math.round(r.top/20); (g[k]=g[k]||[]).push(c);});
+  Object.keys(g).forEach(k=>{
+    const list=g[k]; if(list.length<2)return;
+    const firsts=list.map(c=>[...c.children].find(e=>!e.hidden&&e.getBoundingClientRect().height>0)).filter(Boolean);
+    if(firsts.length<2)return;
+    firsts.forEach(e=>{e.style.height='';});
+    const hs=firsts.map(e=>e.getBoundingClientRect().height);
+    const mx=Math.round(Math.max.apply(null,hs)), mn=Math.round(Math.min.apply(null,hs));
+    if(mx-mn<2||mx-mn>60)return;
+    firsts.forEach(e=>{e.style.height=mx+'px';});});
+}
 function capRow(){
   const cols=[...document.querySelectorAll('#row2 .col')];
   cols.forEach(c=>{c.style.maxHeight='';});
@@ -1111,7 +1130,7 @@ function fitLists(){
     boxes.forEach(b=>{b.style.flex='';b.style.height='';});
     for(let pass=0;pass<2;pass++){
       boxes.forEach(box=>{const list=box.querySelector('.fill');if(!list)return;[...list.children].forEach(el=>el.style.display='');});}};
-  rowFit(); fitBoxes(); capRow();   /* rowFit 은 지금 높이를 맞추지 않고 이전에 박아 둔 높이만 푼다 (사장: 높이까지 맞출 필요 없음) */
+  rowFit(); fitBoxes(); capRow(); rowAlign();   /* rowFit 은 지금 높이를 맞추지 않고 이전에 박아 둔 높이만 푼다 (사장: 높이까지 맞출 필요 없음) */
   annCount();}
 /* 같은 줄에 놓인 카드들의 이음매를 맞춘다 — 열마다 카드 높이가 제각각이면 가로줄이 톱니처럼 보인다.
    맞추는 대상은 '같은 그리드 줄 · 같은 카드 수'인 열끼리, 마지막 카드는 건드리지 않는다

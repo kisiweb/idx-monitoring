@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 18:57",
+ "updated": "2026-09-21 19:10",
  "delay_min": 15,
- "fx_basis": "12.99 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,372 · 17:15 Yahoo",
- "idr_per_krw": 12.9946,
+ "fx_basis": "13.00 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,372 · 17:15 Yahoo",
+ "idr_per_krw": 12.9996,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -18413,6 +18413,127 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T19:07:45.835862+07:00",
+   "date": "2026-09-21",
+   "time": "19:07",
+   "src": "Jawa Pos",
+   "t": "Menkeu Suahasil Instruksikan Pejabat Baru DJP Pahami Karakter Wajib Pajak",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210113/menkeu-suahasil-instruksikan-pejabat-baru-djp-pahami-karakter-wajib-pajak",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
+   "ai_ko": "· Suahasil Nazara 재무장관, DJP 국장급 5명 임명\n· 에셀론 II·III 신임 간부 공식 임명\n· 납세자 특성 파악·과세 판단 정확성 주문",
+   "ai_id": "· Menkeu Suahasil lantik 5 pejabat DJP\n· Eselon II dan III resmi ditetapkan\n· Diminta pahami karakter wajib pajak",
+   "ai_tags": [
+    "세제",
+    "인사",
+    "정책"
+   ],
+   "ai_tags_id": [
+    "perpajakan",
+    "mutasi pejabat",
+    "kebijakan"
+   ]
+  },
+  {
+   "ts": "2026-09-21T19:06:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:06",
+   "src": "MarketWatch",
+   "t": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-55320123"
+  },
+  {
+   "ts": "2026-09-21T19:02:29+07:00",
+   "date": "2026-09-21",
+   "time": "19:02",
+   "src": "CNBC",
+   "t": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+   "g": 1,
+   "t_ko": "MS NOW·CNN·Politico, Trump 상대 백악관 출입금지 취소소송 제기",
+   "t_id": "MS NOW, CNN, Politico Gugat Trump untuk Batalkan Larangan Gedung Putih"
+  },
+  {
+   "ts": "2026-09-21T18:59:16+07:00",
+   "date": "2026-09-21",
+   "time": "18:59",
+   "src": "CNBC",
+   "t": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
+   "g": 1,
+   "ai_ko": "· Greenland Energy 장전 최대 150% 급등\n· 미국·Denmark, Greenland 안보 협정 합의\n· Greenland Mines 80%, Critical Metals Corp 25% 동반 강세",
+   "ai_id": "· Greenland Energy melonjak hingga 150%\n· AS dan Denmark sepakat soal keamanan Greenland\n· Greenland Mines naik 80%, Critical Metals 25%",
+   "ai_tags": [
+    "주가급등",
+    "자원개발",
+    "지정학"
+   ],
+   "ai_tags_id": [
+    "saham melonjak",
+    "pertambangan",
+    "geopolitik"
+   ]
+  },
+  {
+   "ts": "2026-09-21T18:59:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:59",
+   "src": "WSJ",
+   "t": "Tech, Media & Telecom Roundup: Market Talk",
+   "tags": [],
+   "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-6af76ecb?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-92361535",
+   "t_ko": "테크·미디어·텔레콤 부문 동향",
+   "t_id": "Teknologi, Media & Telekomunikasi: Market Talk"
+  },
+  {
+   "ts": "2026-09-21T18:58:39+07:00",
+   "date": "2026-09-21",
+   "time": "18:58",
+   "src": "Republika",
+   "t": "Bye Saham Gocap, BEI Resmi Turunkan Batas Harga Saham Jadi Rp 1",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlpqlr370/bye-saham-gocap-bei-resmi-turunkan-batas-harga-saham-jadi-rp-1",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/033504600-1785491442-830-556.jpg",
+   "t_id": "Bye Saham Gocap, BEI Resmi Turunkan Batas Harga Saham Jadi Rp 1"
+  },
+  {
+   "ts": "2026-09-21T18:54:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:54",
+   "src": "Media Indonesia",
+   "t": "Menteri Imipas Minta Kemenimipas Perbaiki Tata Kelola dan Pelayanan Publik",
+   "tags": [],
+   "url": "https://mediaindonesia.com/politik-dan-hukum/935822/menteri-imipas-minta-kemenimipas-perbaiki-tata-kelola-dan-pelayanan-publik",
+   "t_id": "Menteri Imipas Minta Kemenimipas Perbaiki Tata Kelola dan Pelayanan Publik"
+  },
+  {
+   "ts": "2026-09-21T18:53:36+07:00",
+   "date": "2026-09-21",
+   "time": "18:53",
+   "src": "Jawa Pos",
+   "t": "Makin Mudah Investasi Emas, Pegadaian Gandeng blu Lewat bluInvest Emas dengan Modal Rp10 Ribu",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210302/makin-mudah-investasi-emas-pegadaian-gandeng-blu-lewat-bluinvest-emas-dengan-modal-rp10-ribu",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/0CUiJKdkvKfHGM6FniGmioFVCQtw3Rjj4i13WwXu.webp"
+  },
+  {
+   "ts": "2026-09-21T18:50:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:50",
+   "src": "Media Indonesia",
+   "t": "Bunga Tinggi dan Permintaan Melemah, Pengusaha Tahan Ekspansi Kredit",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935819/bunga-tinggi-dan-permintaan-melemah-pengusaha-tahan-ekspansi-kredit",
+   "t_id": "Bunga Tinggi dan Permintaan Melemah, Pengusaha Tahan Ekspansi Kredit"
+  },
+  {
    "ts": "2026-09-21T18:49:00+07:00",
    "date": "2026-09-21",
    "time": "18:49",
@@ -18444,18 +18565,6 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210098/lantik-pejabat-baru-suahasil-nazara-minta-bea-cukai-pertajam-pengawasan-berbasis-risiko",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/17/StPEKGg1VA3QF2CzvzNHkGBen9GcUPCy7U2gni6f.webp"
-  },
-  {
-   "ts": "2026-09-21T18:43:45+07:00",
-   "date": "2026-09-21",
-   "time": "18:43",
-   "src": "CNBC",
-   "t": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-   "g": 1,
-   "t_ko": "MS NOW·CNN·Politico, Trump 상대 백악관 출입금지 취소소송 제기",
-   "t_id": "MS NOW, CNN, Politico Gugat Trump untuk Batalkan Larangan Gedung Putih"
   },
   {
    "ts": "2026-09-21T18:42:45+07:00",
@@ -18712,26 +18821,6 @@
    ]
   },
   {
-   "ts": "2026-09-21T18:00:01+07:00",
-   "date": "2026-09-21",
-   "time": "18:00",
-   "src": "CNBC",
-   "t": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T18:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:00",
-   "src": "Bloomberg",
-   "t": "Foreign Cash Pours In as Chile Fiscal Stance Reassures Investors",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/foreign-cash-pours-in-as-chile-fiscal-stance-reassures-investors",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T18:00:00+07:00",
    "date": "2026-09-21",
    "time": "18:00",
@@ -18741,74 +18830,6 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122251/ojk-soroti-risiko-kredit-himbara-di-tengah-pembiayaan-proyek-ri",
    "img": "https://images.bloombergtechnoz.com/data/2024/11/image-20241112130804.jpg",
    "t_id": "OJK Soroti Risiko Kredit Himbara di Tengah Pembiayaan Proyek RI"
-  },
-  {
-   "ts": "2026-09-21T18:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:00",
-   "src": "IDNFinancials",
-   "t": "Bank Indonesia's IDR 58 trillion surplus helps repay 1998 crisis debt",
-   "tags": [],
-   "url": "https://www.idnfinancials.com/news/69128/bank-indonesias-idr-58-trillion-surplus-helps-repay-1998-crisis-debt",
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/SUAHASIL-MENKEU-14092026.jpg"
-  },
-  {
-   "ts": "2026-09-21T17:56:00+07:00",
-   "date": "2026-09-21",
-   "time": "17:56",
-   "src": "Katadata",
-   "t": "BEI Ubah Aturan Auto Rejection, Batas ARB Makin Lebar Jadi 35% mulai 2027",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/bursa/6ab10d458e4d5/bei-ubah-aturan-auto-rejection-batas-arb-makin-lebar-jadi-35-mulai-2027",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Ilustrasi_ARA_dan_ARB_Harga_Saham_-_Auto_Rejection-2026_09_21-17_48_28_ee2b1205a1d6ebf0fdc0605517116cfb_620x413_thumb.png",
-   "t_id": "BEI Ubah Aturan Auto Rejection, Batas ARB Makin Lebar Jadi 35% mulai 2027"
-  },
-  {
-   "ts": "2026-09-21T17:55:57+07:00",
-   "date": "2026-09-21",
-   "time": "17:55",
-   "src": "FT",
-   "t": "Slide in oil prices drives rebound in battered government bonds",
-   "tags": [],
-   "url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7c23f60-7bb9-43db-986a-f7c090ed7b8c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "ts": "2026-09-21T17:43:00+07:00",
-   "date": "2026-09-21",
-   "time": "17:43",
-   "src": "Katadata",
-   "t": "Skema Tadpole Disorot, Transparansi Jadi Kunci Pelindungan Konsumen",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/keuangan/6ab108346ff69/skema-tadpole-disorot-transparansi-jadi-kunci-pelindungan-konsumen",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/pindar-2026_09_21-17_54_04_d0c2ccb309c875e951f72eea2a95bea2_620x413_thumb.jpg",
-   "t_id": "Skema Tadpole Disorot, Transparansi Jadi Kunci Pelindungan Konsumen",
-   "t_ko": "Tadpole 스킴 논란 부상, 소비자 보호 핵심은 투명성"
-  },
-  {
-   "ts": "2026-09-21T17:38:47+07:00",
-   "date": "2026-09-21",
-   "time": "17:38",
-   "src": "Detik",
-   "t": "Mudahkan Investasi, Pegadaian Gaet BCA Digital Hadirkan bluInvest Emas",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672815/mudahkan-investasi-pegadaian-gaet-bca-digital-hadirkan-bluinvest-emas",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/pegadaian-gaet-bca-digital-hadirkan-bluinvest-emas-modal-awal-rp-10000-1789986947811_169.jpeg?w=360&q=90",
-   "t_ko": "Pegadaian, BCA Digital과 손잡고 금 투자 서비스 bluInvest Emas 출시",
-   "t_id": "Mudahkan Investasi, Pegadaian Gaet BCA Digital Hadirkan bluInvest Emas"
-  },
-  {
-   "ts": "2026-09-21T17:31:12+07:00",
-   "date": "2026-09-21",
-   "time": "17:31",
-   "src": "Bloomberg Technoz",
-   "t": "Investasi Syariah Jadi Alternatif, BRI Bidik Nasabah Prioritas",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122255/investasi-syariah-jadi-alternatif-bri-bidik-nasabah-prioritas",
-   "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260921142121.jpg",
-   "t_id": "Investasi Syariah Jadi Alternatif, BRI Bidik Nasabah Prioritas",
-   "t_ko": "BRI, 샤리아 투자 대안 부상에 우수고객 공략"
   }
  ],
  "kisi_news": [
@@ -19008,9 +19029,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.25",
-   "d": -0.06,
-   "ytd": 2.01,
+   "v": "100.22",
+   "d": -0.08,
+   "ytd": 1.98,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19020,9 +19041,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "93.40",
-   "d": -0.61,
-   "ytd": 62.66,
+   "v": "93.52",
+   "d": -0.48,
+   "ytd": 62.87,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19032,9 +19053,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,401.6",
-   "d": 0.13,
-   "ytd": 1.76,
+   "v": "4,405.0",
+   "d": 0.21,
+   "ytd": 1.84,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22640,9 +22661,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 46,
+  "pc_age_min": 59,
   "news_ai_cache": 61,
-  "news_ai_hit": 38,
+  "news_ai_hit": 40,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -22668,9 +22689,9 @@
    "tags": [],
    "url": "https://katadata.co.id/finansial/bursa/6ab10d458e4d5/bei-ubah-aturan-auto-rejection-batas-arb-makin-lebar-jadi-35-mulai-2027",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Ilustrasi_ARA_dan_ARB_Harga_Saham_-_Auto_Rejection-2026_09_21-17_48_28_ee2b1205a1d6ebf0fdc0605517116cfb_620x413_thumb.png",
-   "t_id": "BEI Ubah Aturan Auto Rejection, Batas ARB Makin Lebar Jadi 35% mulai 2027",
-   "score": 428.45,
-   "srcs": 3
+   "score": 430.65,
+   "srcs": 4,
+   "t_id": "BEI Ubah Aturan Auto Rejection, Batas ARB Makin Lebar Jadi 35% mulai 2027"
   },
   {
    "ts": "2026-09-21T06:45:47+07:00",
@@ -22687,16 +22708,14 @@
    "t_id": "Harga Emas Melemah Tipis, Pelaku Pasar Cermati Harga Minyak dan Arah Suku Bunga The Fed"
   },
   {
-   "ts": "2026-09-21T12:14:45+07:00",
+   "ts": "2026-09-21T19:07:45.835862+07:00",
    "date": "2026-09-21",
-   "time": "12:14",
+   "time": "19:07",
    "src": "Jawa Pos",
    "t": "Menkeu Suahasil Instruksikan Pejabat Baru DJP Pahami Karakter Wajib Pajak",
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210113/menkeu-suahasil-instruksikan-pejabat-baru-djp-pahami-karakter-wajib-pajak",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
-   "score": 411.25,
-   "srcs": 2,
    "ai_ko": "· Suahasil Nazara 재무장관, DJP 국장급 5명 임명\n· 에셀론 II·III 신임 간부 공식 임명\n· 납세자 특성 파악·과세 판단 정확성 주문",
    "ai_id": "· Menkeu Suahasil lantik 5 pejabat DJP\n· Eselon II dan III resmi ditetapkan\n· Diminta pahami karakter wajib pajak",
    "ai_tags": [
@@ -22708,7 +22727,9 @@
     "perpajakan",
     "mutasi pejabat",
     "kebijakan"
-   ]
+   ],
+   "score": 413.35,
+   "srcs": 2
   },
   {
    "ts": "2026-09-21T16:50:00+07:00",
@@ -22723,17 +22744,16 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T15:02:14+07:00",
+   "ts": "2026-09-21T18:05:14+07:00",
    "date": "2026-09-21",
-   "time": "15:02",
-   "src": "Yahoo Finance",
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
+   "time": "18:05",
+   "src": "CNBC",
+   "t": "Treasury Secretary Bessent talks to CNBC as Trump administration faces affordability concerns",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+   "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
    "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/PpkPIddF3ylrDhnKjYMCQg--~B/aD0zMDg3O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/1a4ea8f1-64b0-427d-b36c-c68aabcebd16",
-   "score": 313.5,
-   "srcs": 7
+   "score": 313.0,
+   "srcs": 4
   }
  ],
  "daylog": {

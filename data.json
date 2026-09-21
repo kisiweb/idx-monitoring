@@ -1,6 +1,6 @@
 {
  "mode": "live",
- "updated": "2026-09-21 22:46",
+ "updated": "2026-09-21 22:57",
  "delay_min": 15,
  "fx_basis": "12.95 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,375 · 22:15 Yahoo",
  "idr_per_krw": 12.9539,
@@ -16747,11 +16747,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7732.47,
+   "px": 7739.23,
    "prev": 7650.5,
-   "pct": 1.07,
+   "pct": 1.16,
    "mst": 0,
-   "asof": "11:35",
+   "asof": "11:50",
    "live": true,
    "spark": [
     7695.07,
@@ -16779,18 +16779,21 @@
     7730.08,
     7728.82,
     7728.94,
-    7732.47
+    7735.61,
+    7737.17,
+    7739.8,
+    7739.23
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 26962.65,
+   "px": 26993.21,
    "prev": 26522.54,
-   "pct": 1.66,
+   "pct": 1.77,
    "mst": 0,
-   "asof": "11:35",
+   "asof": "11:50",
    "live": true,
    "spark": [
     26745.7,
@@ -16818,18 +16821,21 @@
     26945.86,
     26950.23,
     26950.92,
-    26962.65
+    26977.07,
+    26976.55,
+    26990.8,
+    26993.21
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51911.36,
+   "px": 51935.27,
    "prev": 51682.64,
-   "pct": 0.44,
+   "pct": 0.49,
    "mst": 0,
-   "asof": "11:35",
+   "asof": "11:50",
    "live": true,
    "spark": [
     51908.94,
@@ -16857,7 +16863,10 @@
     51922.71,
     51880.69,
     51885.3,
-    51911.36
+    51918.74,
+    51924.22,
+    51946.53,
+    51935.27
    ]
   },
   {
@@ -18201,15 +18210,46 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T22:39:38.731261+07:00",
+   "ts": "2026-09-21T22:48:27+07:00",
    "date": "2026-09-21",
-   "time": "22:39",
+   "time": "22:48",
    "src": "Jawa Pos",
    "t": "Cari Peluang dan Buka Persektif Investasi, Sandiaga dan Surabaya Business Forum Kunjungi Sydney",
    "tags": [],
    "url": "https://www.jawapos.com/bisnis/2609210233/cari-peluang-dan-buka-persektif-investasi-sandiaga-dan-surabaya-business-forum-kunjungi-sydney",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/sandiaga-dan-delegasi-surabaya-business-forum-kunjungi-sydney-cari-peluang-dan-buka-persektif-investasi-diterima-founder-dan-ceo-one-global-iwan-sunito-istimewa-1h0h0.webp",
    "t_id": "Cari Peluang dan Buka Persektif Investasi, Sandiaga dan Surabaya Business Forum Kunjungi Sydney"
+  },
+  {
+   "ts": "2026-09-21T22:46:30+07:00",
+   "date": "2026-09-21",
+   "time": "22:46",
+   "src": "CNBC",
+   "t": "Trump sued by MS NOW, CNN, Politico over White House media ban",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:38:25+07:00",
+   "date": "2026-09-21",
+   "time": "22:38",
+   "src": "Detik",
+   "t": "Usaha Jasa Ramai Tapi Laporan Keuangan Berantakan? Ini Jalannya",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673184/usaha-jasa-ramai-tapi-laporan-keuangan-berantakan-ini-jalannya",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/08/detikevent-accurate-service-company-1788883745552_169.jpeg?w=360&q=90",
+   "t_id": "Usaha Jasa Ramai Tapi Laporan Keuangan Berantakan? Ini Jalannya"
+  },
+  {
+   "ts": "2026-09-21T22:36:44+07:00",
+   "date": "2026-09-21",
+   "time": "22:36",
+   "src": "Bloomberg",
+   "t": "AMD Set to Top $1 Trillion in Market Value as Chip Stocks Soar",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/amd-set-to-top-1-trillion-in-market-value-as-chip-stocks-soar",
+   "g": 1
   },
   {
    "ts": "2026-09-21T22:34:42+07:00",
@@ -18234,14 +18274,37 @@
    ]
   },
   {
-   "ts": "2026-09-21T22:28:26+07:00",
+   "ts": "2026-09-21T22:33:22+07:00",
    "date": "2026-09-21",
-   "time": "22:28",
-   "src": "CNBC",
-   "t": "Trump sued by MS NOW, CNN, Politico over White House media ban",
+   "time": "22:33",
+   "src": "Detik",
+   "t": "Pesan Suahasil ke 14 Pejabat Baru: Yang Kita Kelola Bukan Sekadar Angka",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-   "g": 1
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673180/pesan-suahasil-ke-14-pejabat-baru-yang-kita-kelola-bukan-sekadar-angka",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/14/pesan-suahasil-nazara-usai-jadi-menkeu-lanjutkan-tugas-dan-jaga-kepercayaan-1789383969386_169.jpeg?w=360&q=90",
+   "t_id": "Pesan Suahasil ke 14 Pejabat Baru: Yang Kita Kelola Bukan Sekadar Angka"
+  },
+  {
+   "ts": "2026-09-21T22:33:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:33",
+   "src": "Yahoo Finance",
+   "t": "Bank of America hikes S&P 500 target after Al trade cracks",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-hikes-p-500-153300657.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/thestreet_881/e9af022d3052c9619d4f9f065817b320.jpg"
+  },
+  {
+   "ts": "2026-09-21T22:30:16+07:00",
+   "date": "2026-09-21",
+   "time": "22:30",
+   "src": "Yahoo Finance",
+   "t": "Broadcom’s AI Opportunity Is Bigger Than Its Stock Price Suggests",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-ai-opportunity-bigger-stock-153016243.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/24_7_wall_st__718/d7427ece82afcc017c742aaa54eda6b6.jpg"
   },
   {
    "ts": "2026-09-21T22:27:00+07:00",
@@ -18252,37 +18315,6 @@
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/935937/dampak-kebijakan-saham-rp1-terhadap-ihsg-cenderung-moderat",
    "t_id": "Dampak Kebijakan Saham Rp1 Terhadap IHSG Cenderung Moderat"
-  },
-  {
-   "ts": "2026-09-21T22:26:05+07:00",
-   "date": "2026-09-21",
-   "time": "22:26",
-   "src": "CNBC",
-   "t": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T22:23:44+07:00",
-   "date": "2026-09-21",
-   "time": "22:23",
-   "src": "CNBC",
-   "t": "Historic lawsuit sparks flurry of option activity in NY Times stock",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/historic-lawsuit-sparks-flurry-of-option-activity-in-ny-times-stock.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T22:23:00+07:00",
-   "date": "2026-09-21",
-   "time": "22:23",
-   "src": "Yahoo Finance",
-   "t": "Why AMD Stock Is Rising Fast Today",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-rising-fast-152300624.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/dc5f49c604a2c0ddccb7f995cccf5981.png"
   },
   {
    "ts": "2026-09-21T22:22:40+07:00",
@@ -18367,38 +18399,6 @@
    "url": "https://mediaindonesia.com/politik-dan-hukum/935928/ott-bupati-bolmut-sirajudin-lasena-kpk-sita-uang-tunai-ratusan-juta-rupiah"
   },
   {
-   "ts": "2026-09-21T22:12:12+07:00",
-   "date": "2026-09-21",
-   "time": "22:12",
-   "src": "CNBC",
-   "t": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
-   "g": 1,
-   "ai_ko": "· Novo 주가 장중 7% 하락\n· 2035년 파이프라인 매출 목표 USD 230억 제시\n· 2030년까지 블록버스터 5종 이상 출시 계획",
-   "ai_id": "· Saham Novo anjlok hingga 7%\n· Target penjualan pipeline US$23 miliar\n· Bidik lebih dari 5 obat blockbuster",
-   "ai_tags": [
-    "주가",
-    "실적",
-    "신약"
-   ],
-   "ai_tags_id": [
-    "saham",
-    "kinerja",
-    "obat baru"
-   ]
-  },
-  {
-   "ts": "2026-09-21T22:10:24+07:00",
-   "date": "2026-09-21",
-   "time": "22:10",
-   "src": "CNBC",
-   "t": "Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T22:10:13+07:00",
    "date": "2026-09-21",
    "time": "22:10",
@@ -18476,6 +18476,17 @@
    "t_id": "IFG Life Bayarkan Klaim Rp9,4 Triliun, Premi Tumbuh 32,87 Persen"
   },
   {
+   "ts": "2026-09-21T21:57:00+07:00",
+   "date": "2026-09-21",
+   "time": "21:57",
+   "src": "MarketWatch",
+   "t": "AI is a Pandora’s box that some CEOs seem wary of opening — at least with investors",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-29864721"
+  },
+  {
    "ts": "2026-09-21T21:55:23+07:00",
    "date": "2026-09-21",
    "time": "21:55",
@@ -18484,6 +18495,17 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210384/menkop-mau-rebranding-koperasi-merah-putih-agar-dipahami-gen-z",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/ilustrasi-koperasi-desa-merah-putih-kdmp-dokumentasi-jawa-pos-fcluQ.webp"
+  },
+  {
+   "ts": "2026-09-21T21:55:00+07:00",
+   "date": "2026-09-21",
+   "time": "21:55",
+   "src": "Yahoo Finance",
+   "t": "Tim Cook warned of a ‘hundred-year flood’ striking tech giants — and now Apple is raising prices. What it means for you",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/articles/tim-cook-warned-hundred-flood-145500897.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/moneywise_ecomm_711/9fea3b942b64d44eed810f389641c331.jpg"
   },
   {
    "ts": "2026-09-21T21:34:04+07:00",
@@ -18588,27 +18610,6 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122260/bei-turunkan-minimum-harga-saham-jadi-rp1-auto-rejection-berubah",
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
    "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah"
-  },
-  {
-   "ts": "2026-09-21T19:45:03+07:00",
-   "date": "2026-09-21",
-   "time": "19:45",
-   "src": "Liputan6",
-   "t": "Harga Saham Terendah Rp 1 Mulai Berlaku 28 September 2026",
-   "tags": [],
-   "url": "https://www.liputan6.com/saham/read/8296421/harga-saham-terendah-rp-1-mulai-berlaku-28-september-2026",
-   "img": "https://cdn0-production-images-kly.akamaized.net/D0lzNRWBTfKKTS3L-jaujC41dC4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3008991/original/022280300_1577703437-20191230-Akhir-2019_-IHSG-Ditutup-Melemah-2.jpg",
-   "t_id": "Harga Saham Terendah Rp 1 Mulai Berlaku 28 September 2026"
-  },
-  {
-   "ts": "2026-09-21T19:44:43+07:00",
-   "date": "2026-09-21",
-   "time": "19:44",
-   "src": "Republika",
-   "t": "Bahlil: Pemerintah Mulai Susun Roadmap Pengembangan E50",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlpsqj349/bahlil-pemerintah-mulai-susun-roadmap-pengembangan-e50",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/057913500-1789962917-830-556.jpg"
   }
  ],
  "kisi_news": [
@@ -18785,9 +18786,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.961%",
-   "d": -0.74,
-   "ytd": 19.17,
+   "v": "4.959%",
+   "d": -0.78,
+   "ytd": 19.12,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18808,9 +18809,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.39",
-   "d": 0.08,
-   "ytd": 2.14,
+   "v": "100.40",
+   "d": 0.1,
+   "ytd": 2.16,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18820,9 +18821,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "92.42",
-   "d": -1.65,
-   "ytd": 60.95,
+   "v": "92.25",
+   "d": -1.83,
+   "ytd": 60.66,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18832,9 +18833,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,389.1",
-   "d": -0.15,
-   "ytd": 1.47,
+   "v": "4,387.5",
+   "d": -0.19,
+   "ytd": 1.43,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22440,9 +22441,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 275,
+  "pc_age_min": 286,
   "news_ai_cache": 61,
-  "news_ai_hit": 35,
+  "news_ai_hit": 34,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -22473,18 +22474,6 @@
    "srcs": 7
   },
   {
-   "ts": "2026-09-21T16:50:00+07:00",
-   "date": "2026-09-21",
-   "time": "16:50",
-   "src": "IDNFinancials",
-   "t": "JCI down 0.88% as market lacks positive signals, rupiah under pressure",
-   "tags": [],
-   "url": "https://www.idnfinancials.com/news/69179/jci-down-0-88-as-market-lacks-positive-signals-rupiah-under-pressure",
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/IHSG-RUPIAH-24062026.jpg",
-   "score": 410.15,
-   "srcs": 1
-  },
-  {
    "ts": "2026-09-21T19:14:45+07:00",
    "date": "2026-09-21",
    "time": "19:14",
@@ -22493,8 +22482,8 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210113/menkeu-suahasil-instruksikan-pejabat-baru-djp-pahami-karakter-wajib-pajak",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
-   "score": 409.05,
-   "srcs": 1,
+   "score": 411.25,
+   "srcs": 2,
    "ai_ko": "· Suahasil Nazara 재무장관, DJP 국장급 5명 임명\n· 에셀론 II·III 신임 간부 공식 임명\n· 납세자 특성 파악·과세 판단 정확성 주문",
    "ai_id": "· Menkeu Suahasil lantik 5 pejabat DJP\n· Eselon II dan III resmi ditetapkan\n· Diminta pahami karakter wajib pajak",
    "ai_tags": [
@@ -22509,6 +22498,18 @@
    ]
   },
   {
+   "ts": "2026-09-21T16:50:00+07:00",
+   "date": "2026-09-21",
+   "time": "16:50",
+   "src": "IDNFinancials",
+   "t": "JCI down 0.88% as market lacks positive signals, rupiah under pressure",
+   "tags": [],
+   "url": "https://www.idnfinancials.com/news/69179/jci-down-0-88-as-market-lacks-positive-signals-rupiah-under-pressure",
+   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/IHSG-RUPIAH-24062026.jpg",
+   "score": 410.15,
+   "srcs": 1
+  },
+  {
    "ts": "2026-09-21T21:00:29+07:00",
    "date": "2026-09-21",
    "time": "21:00",
@@ -22521,16 +22522,19 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T22:10:24+07:00",
+   "ts": "2026-09-21T08:00:00+07:00",
    "date": "2026-09-21",
-   "time": "22:10",
-   "src": "CNBC",
-   "t": "Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran",
+   "time": "08:00",
+   "src": "WSJ",
+   "t": "See the 10-Year Treasury Yield’s Wild Ride on the Road to 5%",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+   "url": "https://www.wsj.com/finance/investing/see-the-10-year-treasury-yields-wild-ride-on-the-road-to-5-22e4bbc2?mod=rss_markets_main",
    "g": 1,
-   "score": 316.0,
-   "srcs": 5
+   "img": "https://images.wsj.net/im-30004945",
+   "score": 313.5,
+   "srcs": 3,
+   "t_ko": "10년 만기 국채 수익률이 5%로 향하는 길을 따라가는 모습을 확인하세요.",
+   "t_id": "Lihatlah Perjalanan Liar Imbal Hasil Treasury 10-Tahun Menuju 5%"
   }
  ],
  "daylog": {

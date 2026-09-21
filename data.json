@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 12:48",
+ "updated": "2026-09-21 12:59",
  "delay_min": 15,
  "fx_basis": "12.88 IDR/KRW · USD/IDR 17,812 · USD/KRW 1,383 · 12:15 Yahoo",
- "idr_per_krw": 12.8792,
+ "idr_per_krw": 12.8822,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -304,9 +304,9 @@
    "code": "SUN10Y",
    "label": "SUN 10Y",
    "name": "국채 10년물",
-   "px": 7.12,
-   "prev": 7.157,
-   "pct": -3.7,
+   "px": 7.154,
+   "prev": 7.17,
+   "pct": -1.5,
    "spark": [
     7.156,
     7.156,
@@ -315,10 +315,11 @@
     7.157,
     7.12
    ],
-   "span": "1W",
+   "span": "1M",
    "inv": true,
-   "asof": "investing.com · 09/21",
-   "unit": "bp"
+   "unit": "bp",
+   "asof": "PHEI · 09/18",
+   "spark_stale": "investing.com · 09/21"
   }
  ],
  "index": {
@@ -332,7 +333,7 @@
   "volume": null,
   "value_src": "yahoo",
   "rank_src": "Yahoo 15분 지연 · 833종목 · 외국인·공시 PC 09-21 11:48",
-  "rank_asof": "12:41",
+  "rank_asof": "12:55",
   "rank_date": "2026-09-21",
   "adv": 344,
   "dec": 312,
@@ -17158,10 +17159,10 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 6993.33,
+   "px": 6997.01,
    "prev": 6874.79,
-   "pct": 1.72,
-   "asof": "12:20",
+   "pct": 1.78,
+   "asof": "12:35",
    "live": true,
    "spark": [
     6976.92,
@@ -17228,7 +17229,10 @@
     7000.29,
     6990.78,
     6996.26,
-    6993.33
+    6992.14,
+    6983.63,
+    6995.9,
+    6997.01
    ]
   },
   {
@@ -17315,10 +17319,10 @@
    "sym": "^HSI",
    "name": "항셍",
    "name_id": "Hang Seng",
-   "px": 24854.7,
+   "px": 24892.92,
    "prev": 24750.78,
-   "pct": 0.42,
-   "asof": "12:25",
+   "pct": 0.57,
+   "asof": "12:40",
    "live": true,
    "spark": [
     24835.27,
@@ -17358,7 +17362,10 @@
     24884.34,
     24861.31,
     24852.15,
-    24854.7
+    24845.2,
+    24865.14,
+    24889.26,
+    24892.92
    ]
   }
  ],
@@ -18463,6 +18470,91 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T12:53:35+07:00",
+   "date": "2026-09-21",
+   "time": "12:53",
+   "src": "Bloomberg",
+   "t": "Black Sea Impasse Adds to Global Economic Damage (Video)",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-21/black-sea-impasse-adds-to-global-economic-damage-video",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T12:51:07+07:00",
+   "date": "2026-09-21",
+   "time": "12:51",
+   "src": "Detik",
+   "t": "Sesepi Ini Pasar Pondok Labu Kini, Pembeli Bisa Dihitung Jari",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672184/sesepi-ini-pasar-pondok-labu-kini-pembeli-bisa-dihitung-jari",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/pasar-pondok-labu-1789969187637_169.jpeg?w=360&q=90",
+   "t_id": "Sesepi Ini Pasar Pondok Labu Kini, Pembeli Bisa Dihitung Jari"
+  },
+  {
+   "ts": "2026-09-21T12:50:56+07:00",
+   "date": "2026-09-21",
+   "time": "12:50",
+   "src": "BBC",
+   "t": "US and China discuss AI safety plan ahead of Trump-Xi summit",
+   "tags": [],
+   "url": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+   "g": 1,
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8242/live/884826e0-b57f-11f1-b53e-014a16f73df2.jpg"
+  },
+  {
+   "ts": "2026-09-21T12:50:15+07:00",
+   "date": "2026-09-21",
+   "time": "12:50",
+   "src": "Republika",
+   "t": "Sucofindo Dorong Pasar Karbon dan Ketahanan Rantai Pasok Pangan",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlp9gf416/sucofindo-dorong-pasar-karbon-dan-ketahanan-rantai-pasok-pangan",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/suasana-kegiatan-environmental-and-social-innovation-awards-ensia-2026_260921124920-248.jpeg",
+   "t_id": "Sucofindo Dorong Pasar Karbon dan Ketahanan Rantai Pasok Pangan"
+  },
+  {
+   "ts": "2026-09-21T12:48:19+07:00",
+   "date": "2026-09-21",
+   "time": "12:48",
+   "src": "CNA",
+   "t": "Thailand considering oil tax cut, finance minister says",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/thailand-considering-oil-tax-cut-finance-minister-says-6398926",
+   "g": 1,
+   "img": "https://dam.mediacorp.sg/image/upload/s--IEDfIGu3--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-21T054819Z_1_LYNXMPEM8K09L_RTROPTP_3_THAILAND-ELECTION.JPG?itok=C-yGAjPq"
+  },
+  {
+   "ts": "2026-09-21T12:46:07+07:00",
+   "date": "2026-09-21",
+   "time": "12:46",
+   "src": "Bloomberg",
+   "t": "FTSE 100 Live: Stocks Set to Rebound, Pound Holds Below $1.34",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/live-blog/2026-09-21/ftse-100-stocks-gilts-pound-brent-latest-what-s-moving-uk-markets-right-now-markets-today",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T12:45:00+07:00",
+   "date": "2026-09-21",
+   "time": "12:45",
+   "src": "IDNFinancials",
+   "t": "JCI falls 0.27% as foreign investors sell these stocks",
+   "tags": [],
+   "url": "https://www.idnfinancials.com/news/69168/jci-falls-0-27-as-foreign-investors-sell-these-stocks",
+   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/IHSG%20-%20PASAR.jpg"
+  },
+  {
+   "ts": "2026-09-21T12:40:51+07:00",
+   "date": "2026-09-21",
+   "time": "12:40",
+   "src": "Liputan6",
+   "t": "OJK Atur Pemegang Saham Bursa Efek, Kepemilikan Maksimal 5 Persen",
+   "tags": [],
+   "url": "https://www.liputan6.com/saham/read/8295982/ojk-atur-pemegang-saham-bursa-efek-kepemilikan-maksimal-5-persen",
+   "img": "https://cdn0-production-images-kly.akamaized.net/AWZph8pCbJyiMusqFF0g5JUR9wE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3893146/original/099183700_1641196873-20220103-Pembukaan_Awal_Tahun_2022_IHSG_Menguat-3.jpg",
+   "t_id": "OJK Atur Pemegang Saham Bursa Efek, Kepemilikan Maksimal 5 Persen"
+  },
+  {
    "ts": "2026-09-21T12:39:15+07:00",
    "date": "2026-09-21",
    "time": "12:39",
@@ -18802,140 +18894,6 @@
     "inflasi",
     "kebijakan moneter"
    ]
-  },
-  {
-   "ts": "2026-09-21T11:34:02+07:00",
-   "date": "2026-09-21",
-   "time": "11:34",
-   "src": "Detik",
-   "t": "Kereta Bandara Masih Melintas di Jalur Tanjung Priok Pekan Ini",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672035/kereta-bandara-masih-melintas-di-jalur-tanjung-priok-pekan-ini",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/10/krl-rute-jakarta-kota-tanjung-priok-mendapatkan-rangkaian-kereta-bandara-soetta-sejumlah-penumpang-pink-line-terkesan-dengan-f-1789032521008_169.jpeg?w=360&q=90",
-   "t_id": "Kereta Bandara Masih Melintas di Jalur Tanjung Priok Pekan Ini",
-   "ai_ko": "· KRL 전체 운행 1,065회로 정상화\n· CLI 225 7편성 정비, Bogor선 392회\n· 공항철도 52회 유지, INKA가 정비 담당",
-   "ai_id": "· Total perjalanan KRL kembali 1.065\n· 7 KRL CLI 225 perawatan, 1 selesai\n· KA Bandara tetap 52 perjalanan",
-   "ai_tags": [
-    "철도",
-    "정비",
-    "공항철도"
-   ],
-   "ai_tags_id": [
-    "kereta",
-    "perawatan",
-    "ka bandara"
-   ]
-  },
-  {
-   "ts": "2026-09-21T11:26:00+07:00",
-   "date": "2026-09-21",
-   "time": "11:26",
-   "src": "Katadata",
-   "t": "Suahasil Bantah Pejabat Kemenkeu yang Dilantik Hari Ini Hasil Perombakan Purbaya",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/makro/6ab0b1ea00710/suahasil-bantah-pejabat-kemenkeu-yang-dilantik-hari-ini-hasil-perombakan-purbaya",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/15/Purbaya_Serahkan_Jabatan_Menteri_Keuangan_ke_Suahasil_Nazara_Fot-2026_09_15-13_02_51_b0221328abbb15f6ede06a8c4ae4a74e_620x413_thumb.jpg",
-   "t_id": "Suahasil Bantah Pejabat Kemenkeu yang Dilantik Hari Ini Hasil Perombakan Purbaya",
-   "ai_ko": "· 재무부, 2급 간부 14명 신규 임명\n· Suahasil Nazara 장관, Baperjakat 거쳐 확정\n· Purbaya발 조직개편설 부인, 인사 절차 마무리",
-   "ai_id": "· Kemenkeu lantik 14 pejabat eselon II\n· Ditetapkan lewat mekanisme Baperjakat\n· Suahasil bantah hasil perombakan Purbaya",
-   "ai_tags": [
-    "인사",
-    "재무부",
-    "정책"
-   ],
-   "ai_tags_id": [
-    "mutasi pejabat",
-    "Kemenkeu",
-    "kebijakan"
-   ]
-  },
-  {
-   "ts": "2026-09-21T11:25:15+07:00",
-   "date": "2026-09-21",
-   "time": "11:25",
-   "src": "Bloomberg",
-   "t": "US, China Begin Trade Talks in New York",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/the-asia-trade-9-21-2026-video",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T11:20:33+07:00",
-   "date": "2026-09-21",
-   "time": "11:20",
-   "src": "CNBC",
-   "t": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
-   "g": 1,
-   "ai_ko": "· 홍콩 Hang Seng Biotech 지수 5% 이상 상승\n· 미국, 중국 신약 라이선스 허용 규정 검토 보도\n· Akeso·Sino Biopharm 8%, Innovent 6% 강세",
-   "ai_id": "· Indeks Hang Seng Biotech naik 5%\n· AS siapkan aturan izinkan lisensi obat China\n· Akeso & Sino Biopharm melonjak 8%",
-   "ai_tags": [
-    "규제",
-    "제약바이오",
-    "미중관계"
-   ],
-   "ai_tags_id": [
-    "regulasi",
-    "farmasi",
-    "hubungan AS-China"
-   ]
-  },
-  {
-   "ts": "2026-09-21T11:18:00+07:00",
-   "date": "2026-09-21",
-   "time": "11:18",
-   "src": "Jawa Pos",
-   "t": "Demi Penyempurnaan, Suahasil Nazara Lantik 14 Pejabat Baru di Kemenkeu dan KSSK",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210068/demi-penyempurnaan-suahasil-nazara-lantik-14-pejabat-baru-di-kemenkeu-dan-kssk",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
-   "t_id": "Demi Penyempurnaan, Suahasil Nazara Lantik 14 Pejabat Baru di Kemenkeu dan KSSK"
-  },
-  {
-   "ts": "2026-09-21T11:17:53+07:00",
-   "date": "2026-09-21",
-   "time": "11:17",
-   "src": "Jawa Pos",
-   "t": "Harga Emas Hari Ini Naik Lagi, Cek Rincian Lengkap Antam, Galeri24, dan UBS",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210067/harga-emas-hari-ini-naik-lagi-cek-rincian-lengkap-antam-galeri24-dan-ubs",
-   "g": 1,
-   "img": "https://cdn-assets.jawapos.com/images/1/2023/04/03/Emas-Dery-Ridwansah-9-1-560x374-3630227027.jpg",
-   "t_id": "Harga Emas Hari Ini Naik Lagi, Cek Rincian Lengkap Antam, Galeri24, dan UBS"
-  },
-  {
-   "ts": "2026-09-21T11:11:57+07:00",
-   "date": "2026-09-21",
-   "time": "11:11",
-   "src": "FT",
-   "t": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
-   "tags": [],
-   "url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd55be54e-dcbd-40da-b431-33e18ef2ff92.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "ts": "2026-09-21T11:04:18+07:00",
-   "date": "2026-09-21",
-   "time": "11:04",
-   "src": "CNBC",
-   "t": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
-   "g": 1,
-   "ai_ko": "· Brent 1.7% 하락한 USD 102.15,\n  WTI 1.8% 내린 USD 98.46\n· Houthi의 Riyadh 미사일·드론\n  공격, Saudi 요격으로 피해 없음\n· Eurasia Group, 연말까지 Brent\n  USD 90~110 밴드 전망",
-   "ai_id": "· Brent turun 1,7% ke USD 102,15;\n WTI melemah 1,8% ke USD 98,46\n· Houthi serang Riyadh; rudal\n dicegat, tanpa korban\n· Eurasia Group: Brent USD 90-110\n hingga akhir tahun",
-   "ai_tags": [
-    "유가",
-    "지정학",
-    "중동"
-   ],
-   "ai_tags_id": [
-    "harga minyak",
-    "geopolitik",
-    "Timur Tengah"
-   ]
   }
  ],
  "kisi_news": [
@@ -19087,9 +19045,9 @@
  "macro": [
   {
    "k": "USD/IDR",
-   "v": "17,812",
-   "d": 0.31,
-   "ytd": 6.53,
+   "v": "17,815",
+   "d": 0.33,
+   "ytd": 6.55,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 16,720",
    "k_ko": "USD/IDR",
@@ -19099,9 +19057,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "12.87",
-   "d": 0.07,
-   "ytd": 10.83,
+   "v": "12.88",
+   "d": 0.12,
+   "ytd": 10.88,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19134,9 +19092,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.31",
-   "d": 0.09,
-   "ytd": 2.07,
+   "v": "100.34",
+   "d": 0.11,
+   "ytd": 2.1,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19146,9 +19104,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "94.35",
-   "d": 0.69,
-   "ytd": 64.32,
+   "v": "94.46",
+   "d": 0.81,
+   "ytd": 64.51,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19158,9 +19116,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,398.7",
-   "d": -0.53,
-   "ytd": 1.69,
+   "v": "4,390.1",
+   "d": -0.72,
+   "ytd": 1.49,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19182,9 +19140,9 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,265",
-   "d": 0.24,
-   "ytd": -2.5,
+   "v": "16,257",
+   "d": 0.2,
+   "ytd": -2.55,
    "inv": false,
    "note": "investing.com · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
@@ -19205,7 +19163,68 @@
    "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
   }
  ],
- "curve": null,
+ "curve": {
+  "date": "2026-09-18",
+  "src": "PHEI (IBPA)",
+  "rows": [
+   [
+    0.1,
+    6.6203,
+    6.5966
+   ],
+   [
+    1.0,
+    6.6821,
+    6.6953
+   ],
+   [
+    2.0,
+    6.7601,
+    6.7925
+   ],
+   [
+    3.0,
+    6.8425,
+    6.8806
+   ],
+   [
+    5.0,
+    6.9869,
+    7.02
+   ],
+   [
+    7.0,
+    7.0834,
+    7.1075
+   ],
+   [
+    10.0,
+    7.1542,
+    7.1696
+   ],
+   [
+    15.0,
+    7.1846,
+    7.1957
+   ],
+   [
+    20.0,
+    7.1885,
+    7.199
+   ],
+   [
+    25.0,
+    7.1889,
+    7.1994
+   ],
+   [
+    30.0,
+    7.1889,
+    7.1994
+   ]
+  ],
+  "n": 41
+ },
  "calendar": [
   {
    "date": "2026-08-31",
@@ -21892,9 +21911,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 11:48",
-  "pc_age_min": 60,
+  "pc_age_min": 71,
   "news_ai_cache": 88,
-  "news_ai_hit": 47,
+  "news_ai_hit": 42,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -21925,32 +21944,6 @@
    "srcs": 2
   },
   {
-   "ts": "2026-09-21T07:40:00+07:00",
-   "date": "2026-09-21",
-   "time": "07:40",
-   "src": "Bloomberg Technoz",
-   "t": "IHSG Konsolidasi Bearish, Dibayangi Arah Bank Indonesia",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122161/ihsg-konsolidasi-bearish-dibayangi-arah-bank-indonesia",
-   "img": "https://images.bloombergtechnoz.com/data/2026/07/image-20260727155332.jpeg",
-   "score": 413.65,
-   "srcs": 3,
-   "t_ko": "JCI는 인도네시아 은행의 지시로 인해 약세를 보이면서 통합했습니다.",
-   "t_id": "IHSG Konsolidasi Bearish, Dibayangi Arah Bank Indonesia",
-   "ai_ko": "· IHSG, MA20 6,551 이탈 후 약세 조정\n· Bank Indonesia RDG 22~23일, 5.75% 동결 전망\n· Fed·BOJ 인상에 루피아 안정이 최대 관심사",
-   "ai_id": "· IHSG bearish, tembus ke bawah MA20 6.551\n· RDG BI 22-23 Sept, BI-Rate 5,75% bertahan\n· Fokus stabilisasi rupiah usai Fed & BOJ",
-   "ai_tags": [
-    "증시",
-    "금리",
-    "환율"
-   ],
-   "ai_tags_id": [
-    "IHSG",
-    "suku bunga",
-    "rupiah"
-   ]
-  },
-  {
    "ts": "2026-09-21T12:14:45+07:00",
    "date": "2026-09-21",
    "time": "12:14",
@@ -21961,6 +21954,19 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
    "score": 411.25,
    "srcs": 2
+  },
+  {
+   "ts": "2026-09-21T09:22:01+07:00",
+   "date": "2026-09-21",
+   "time": "09:22",
+   "src": "Bloomberg Technoz",
+   "t": "Dibayangi Keperkasaan Dolar AS, Begini Nasib Rupiah di Awal Pekan",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122175/dibayangi-keperkasaan-dolar-as-begini-nasib-rupiah-di-awal-pekan",
+   "img": "https://images.bloombergtechnoz.com/data/2026/06/image-20260613164612.jpg",
+   "score": 410.35,
+   "srcs": 2,
+   "t_id": "Dibayangi Keperkasaan Dolar AS, Begini Nasib Rupiah di Awal Pekan"
   },
   {
    "ts": "2026-09-21T06:45:47+07:00",

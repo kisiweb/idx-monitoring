@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 23:30",
+ "updated": "2026-09-21 23:43",
  "delay_min": 15,
  "fx_basis": "12.96 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,374 · 22:15 Yahoo",
- "idr_per_krw": 12.9637,
+ "idr_per_krw": 12.9599,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16747,11 +16747,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7748.69,
+   "px": 7751.83,
    "prev": 7650.5,
-   "pct": 1.28,
+   "pct": 1.32,
    "mst": 0,
-   "asof": "12:25",
+   "asof": "12:35",
    "live": true,
    "spark": [
     7695.07,
@@ -16789,18 +16789,20 @@
     7745.92,
     7746.52,
     7746.66,
-    7748.69
+    7748.91,
+    7754.11,
+    7751.83
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27030.96,
+   "px": 27042.29,
    "prev": 26522.54,
-   "pct": 1.92,
+   "pct": 1.96,
    "mst": 0,
-   "asof": "12:25",
+   "asof": "12:35",
    "live": true,
    "spark": [
     26745.7,
@@ -16838,18 +16840,20 @@
     27013.03,
     27019.55,
     27026.52,
-    27030.96
+    27035.86,
+    27053.0,
+    27042.29
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51963.87,
+   "px": 52006.86,
    "prev": 51682.64,
-   "pct": 0.54,
+   "pct": 0.63,
    "mst": 0,
-   "asof": "12:25",
+   "asof": "12:35",
    "live": true,
    "spark": [
     51908.94,
@@ -16887,7 +16891,9 @@
     51969.37,
     51976.79,
     51942.39,
-    51963.87
+    51970.76,
+    52002.19,
+    52006.86
    ]
   },
   {
@@ -18231,6 +18237,52 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T23:34:10+07:00",
+   "date": "2026-09-21",
+   "time": "23:34",
+   "src": "CNBC",
+   "t": "Trump says DOJ will rein in AI 'if we have to'",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T23:28:00+07:00",
+   "date": "2026-09-21",
+   "time": "23:28",
+   "src": "WSJ",
+   "t": "Health Care Roundup: Market Talk",
+   "tags": [],
+   "url": "https://www.wsj.com/business/health-care-roundup-market-talk-b994d3f6?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-28660363",
+   "t_ko": "헬스케어 부문 동향",
+   "t_id": "Fokus Kesehatan: Market Talk"
+  },
+  {
+   "ts": "2026-09-21T23:27:00+07:00",
+   "date": "2026-09-21",
+   "time": "23:27",
+   "src": "WSJ",
+   "t": "Auto & Transport Roundup: Market Talk",
+   "tags": [],
+   "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-ea02b61d?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-96905171",
+   "t_ko": "자동차·운송 섹터 동향 정리",
+   "t_id": "Rangkuman Auto & Transport: Ulasan Pasar"
+  },
+  {
+   "ts": "2026-09-21T23:27:00+07:00",
+   "date": "2026-09-21",
+   "time": "23:27",
+   "src": "Media Indonesia",
+   "t": "B50 Berlanjut pada 2027, Pemerintah Soroti Kesiapan Pasokan dan Investasi Biodiesel",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935957/b50-berlanjut-pada-2027-pemerintah-soroti-kesiapan-pasokan-dan-investasi-biodiesel",
+   "t_id": "B50 Berlanjut pada 2027, Pemerintah Soroti Kesiapan Pasokan dan Investasi Biodiesel"
+  },
+  {
    "ts": "2026-09-21T23:25:26+07:00",
    "date": "2026-09-21",
    "time": "23:25",
@@ -18266,16 +18318,6 @@
    "t_id": "Rangkuman Jasa Keuangan: Sinyal Pasar"
   },
   {
-   "ts": "2026-09-21T23:23:56+07:00",
-   "date": "2026-09-21",
-   "time": "23:23",
-   "src": "CNBC",
-   "t": "Trump says DOJ will rein in AI 'if we have to'",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T23:23:00+07:00",
    "date": "2026-09-21",
    "time": "23:23",
@@ -18298,6 +18340,39 @@
    "url": "https://www.jawapos.com/energi/2609210245/bahlil-jelaskan-rencana-produksi-bensin-dari-batu-bara-kalori-rendah",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/06/18/menteri-energi-dan-sumber-daya-mineral-esdm-bahlil-lahadalia-saat-mengikuti-rapat-kerja-bersama-komisi-xii-dpr-ri-di-gedung-nusantara-i-kompleks-parlemen-senayan-jakarta-senin-1562026-dery-ridwansah-jawaposcom-duKXU.webp",
    "t_id": "Bahlil Jelaskan Rencana Produksi Bensin dari Batu Bara Kalori Rendah"
+  },
+  {
+   "ts": "2026-09-21T23:16:27+07:00",
+   "date": "2026-09-21",
+   "time": "23:16",
+   "src": "Yahoo Finance",
+   "t": "AMD stock soars to new record as semiconductors bounce: Chart of the Day",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/article/amd-stock-soars-to-new-record-as-semiconductors-bounce-chart-of-the-day-161627271.html",
+   "g": 1,
+   "img": "https://s.yimg.com/uu/api/res/1.2/IxK88DBPfBGo3A3ZnwYc6A--~B/aD0yNjY3O3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/03f2d825-6977-444e-8505-fe23726b9911"
+  },
+  {
+   "ts": "2026-09-21T23:16:13+07:00",
+   "date": "2026-09-21",
+   "time": "23:16",
+   "src": "Yahoo Finance",
+   "t": "Nebius Stock Is Down Over 20% From Its High. Is Now the Time to Buy?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-down-over-20-161613970.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/3cf3296fc22282e33aecfeefd146c834.jpg"
+  },
+  {
+   "ts": "2026-09-21T23:16:03+07:00",
+   "date": "2026-09-21",
+   "time": "23:16",
+   "src": "Yahoo Finance",
+   "t": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/crypto/articles/apple-google-hunting-crypto-talent-161603364.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/decrypt_157/4e6c19c7822d655f446df22769dde3ab.png"
   },
   {
    "ts": "2026-09-21T23:12:00+07:00",
@@ -18331,17 +18406,6 @@
    "url": "https://www.jawapos.com/ekonomi/2609210239/kemenperin-siapkan-reimbursement-hingga-rp1-miliar-untuk-industri-agro-ganti-mesin-pabrik",
    "img": "https://cdn-assets.jawapos.com/images/1/2023/09/29/perindustrian-2281200435.jpeg",
    "t_id": "Kemenperin Siapkan Reimbursement Hingga Rp1 Miliar untuk Industri Agro Ganti Mesin Pabrik"
-  },
-  {
-   "ts": "2026-09-21T23:05:01+07:00",
-   "date": "2026-09-21",
-   "time": "23:05",
-   "src": "Yahoo Finance",
-   "t": "Energy Stock CEO Liquidates Nearly 4,000 Shares Valued at Almost $200,000",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/energy-stock-ceo-liquidates-nearly-160501720.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/c2be141052df25b8d0a87e7be03c304c.png"
   },
   {
    "ts": "2026-09-21T23:03:29+07:00",
@@ -18430,16 +18494,6 @@
    "t_id": "Cari Peluang dan Buka Persektif Investasi, Sandiaga dan Surabaya Business Forum Kunjungi Sydney"
   },
   {
-   "ts": "2026-09-21T22:46:30+07:00",
-   "date": "2026-09-21",
-   "time": "22:46",
-   "src": "CNBC",
-   "t": "Trump sued by MS NOW, CNN, Politico over White House media ban",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T22:38:25+07:00",
    "date": "2026-09-21",
    "time": "22:38",
@@ -18449,49 +18503,6 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673184/usaha-jasa-ramai-tapi-laporan-keuangan-berantakan-ini-jalannya",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/08/detikevent-accurate-service-company-1788883745552_169.jpeg?w=360&q=90",
    "t_id": "Usaha Jasa Ramai Tapi Laporan Keuangan Berantakan? Ini Jalannya"
-  },
-  {
-   "ts": "2026-09-21T22:36:44+07:00",
-   "date": "2026-09-21",
-   "time": "22:36",
-   "src": "Bloomberg",
-   "t": "AMD Set to Top $1 Trillion in Market Value as Chip Stocks Soar",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/amd-set-to-top-1-trillion-in-market-value-as-chip-stocks-soar",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T22:34:42+07:00",
-   "date": "2026-09-21",
-   "time": "22:34",
-   "src": "CNBC",
-   "t": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
-   "g": 1,
-   "ai_ko": "· Greenland Energy 장전 최대 150% 급등\n· 미국·Denmark, Greenland 안보 협정 합의\n· Greenland Mines 80%, Critical Metals Corp 25% 동반 강세",
-   "ai_id": "· Greenland Energy melonjak hingga 150%\n· AS dan Denmark sepakat soal keamanan Greenland\n· Greenland Mines naik 80%, Critical Metals 25%",
-   "ai_tags": [
-    "주가급등",
-    "자원개발",
-    "지정학"
-   ],
-   "ai_tags_id": [
-    "saham melonjak",
-    "pertambangan",
-    "geopolitik"
-   ]
-  },
-  {
-   "ts": "2026-09-21T22:33:32+07:00",
-   "date": "2026-09-21",
-   "time": "22:33",
-   "src": "Yahoo Finance",
-   "t": "Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi",
-   "tags": [],
-   "url": "https://www.investors.com/news/critical-metals-crml-stock-rare-earth-us-denmark-greenland-trump-xi/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/7cbb2448124155c971e83643fc4c2e51.jpg"
   },
   {
    "ts": "2026-09-21T22:33:22+07:00",
@@ -18631,16 +18642,6 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673098/mentan-amran-siapkan-skema-bumn-swasta-untuk-industri-bioetanol",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/kementan-1789998877923_169.jpeg?w=360&q=90",
    "t_id": "Mentan Amran Siapkan Skema BUMN-Swasta untuk Industri Bioetanol"
-  },
-  {
-   "ts": "2026-09-21T20:41:39+07:00",
-   "date": "2026-09-21",
-   "time": "20:41",
-   "src": "Detik",
-   "t": "Penjualan Motor Listrik Merosot Tajam, Pengusaha Ungkap Biang Keroknya",
-   "tags": [],
-   "url": "https://finance.detik.com/industri/d-8673078/penjualan-motor-listrik-merosot-tajam-pengusaha-ungkap-biang-keroknya",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2024/10/09/nasib-insentif-kendaraan-listrik-di-tangan-prabowo-2_169.jpeg?w=360&q=90"
   }
  ],
  "kisi_news": [
@@ -18817,9 +18818,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.959%",
-   "d": -0.78,
-   "ytd": 19.12,
+   "v": "4.955%",
+   "d": -0.86,
+   "ytd": 19.02,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18842,7 +18843,7 @@
    "k": "달러 인덱스 (DXY)",
    "v": "100.38",
    "d": 0.07,
-   "ytd": 2.14,
+   "ytd": 2.13,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18852,9 +18853,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.57",
-   "d": -2.55,
-   "ytd": 59.47,
+   "v": "91.74",
+   "d": -2.37,
+   "ytd": 59.77,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18864,9 +18865,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,391.9",
-   "d": -0.09,
-   "ytd": 1.53,
+   "v": "4,388.3",
+   "d": -0.17,
+   "ytd": 1.45,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22472,9 +22473,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 319,
+  "pc_age_min": 332,
   "news_ai_cache": 61,
-  "news_ai_hit": 34,
+  "news_ai_hit": 33,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,

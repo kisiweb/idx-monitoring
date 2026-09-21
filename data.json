@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 18:28",
+ "updated": "2026-09-21 18:44",
  "delay_min": 15,
- "fx_basis": "12.99 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,372 · 17:15 Yahoo",
- "idr_per_krw": 12.9922,
+ "fx_basis": "12.99 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,373 · 17:15 Yahoo",
+ "idr_per_krw": 12.9893,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17347,6 +17347,19 @@
  },
  "news": [
   {
+   "ts": "2026-09-21T18:40:12+07:00",
+   "date": "2026-09-21",
+   "time": "18:40",
+   "src": "Bloomberg Technoz",
+   "t": "Saham BYAN Jadi Biang Keladi Buat IHSG Turun Nyaris 1%",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122258/saham-byan-jadi-biang-keladi-buat-ihsg-turun-nyaris-1",
+   "img": "https://images.bloombergtechnoz.com/data/2026/07/image-20260727155300.jpeg",
+   "t_id": "Saham BYAN Jadi Biang Keladi Buat IHSG Turun Nyaris 1%"
+  },
+  {
    "ts": "2026-09-21T18:11:00+07:00",
    "date": "2026-09-21",
    "time": "18:11",
@@ -18374,6 +18387,121 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T18:40:39.758630+07:00",
+   "date": "2026-09-21",
+   "time": "18:40",
+   "src": "Jawa Pos",
+   "t": "Suahasil Nazara Sebut Pelantikan Pejabat Kemenkeu Masa Purbaya Tetap Sah dan Resmi",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210095/suahasil-nazara-sebut-pelantikan-pejabat-kemenkeu-masa-purbaya-tetap-sah-dan-resmi",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
+   "t_id": "Suahasil Nazara Sebut Pelantikan Pejabat Kemenkeu Masa Purbaya Tetap Sah dan Resmi"
+  },
+  {
+   "ts": "2026-09-21T18:40:39.755785+07:00",
+   "date": "2026-09-21",
+   "time": "18:40",
+   "src": "Jawa Pos",
+   "t": "Lantik Pejabat Baru, Suahasil Nazara Minta Bea Cukai Pertajam Pengawasan Berbasis Risiko",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210098/lantik-pejabat-baru-suahasil-nazara-minta-bea-cukai-pertajam-pengawasan-berbasis-risiko",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/17/StPEKGg1VA3QF2CzvzNHkGBen9GcUPCy7U2gni6f.webp"
+  },
+  {
+   "ts": "2026-09-21T18:34:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:34",
+   "src": "Katadata",
+   "t": "Ajaib Kenalkan Instrumen ETF di Sekolah Pasar Modal BEI Surabaya",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/keuangan/6ab116603baaa/ajaib-kenalkan-instrumen-etf-di-sekolah-pasar-modal-bei-surabaya",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Ajaib_platform_investasi_digital_memperkenalkan_Exchange_Traded-2026_09_21-18_27_00_d2f30433fab63dab53237b562042e1f7_620x413_thumb.jpg",
+   "t_id": "Ajaib Kenalkan Instrumen ETF di Sekolah Pasar Modal BEI Surabaya"
+  },
+  {
+   "ts": "2026-09-21T18:33:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:33",
+   "src": "Media Indonesia",
+   "t": "Komisi XI Fraksi PKS Tolak Batas Defisit APBN Lebih dari 3 Persen",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935812/komisi-xi-fraksi-pks-tolak-batas-defisit-apbn-lebih-dari-3-persen",
+   "t_id": "Komisi XI Fraksi PKS Tolak Batas Defisit APBN Lebih dari 3 Persen"
+  },
+  {
+   "ts": "2026-09-21T18:30:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:30",
+   "src": "MarketWatch",
+   "t": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-60640680"
+  },
+  {
+   "ts": "2026-09-21T18:27:11+07:00",
+   "date": "2026-09-21",
+   "time": "18:27",
+   "src": "Bloomberg",
+   "t": "US LNG Producers Eye Bonanza If Trump and Xi Can Ease Tariffs",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/newsletters/2026-09-21/us-lng-producers-eye-bonanza-if-trump-and-xi-can-ease-tariffs",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T18:26:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:26",
+   "src": "Bloomberg",
+   "t": "HKEX Seeks Further Listing Rule Easing to Help Deals, Spinoffs",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/hkex-seeks-further-listing-rule-easing-to-help-deals-spinoffs",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T18:26:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:26",
+   "src": "Bloomberg Technoz",
+   "t": "Ajaib Dorong Generasi Muda Melek Investasi di Surabaya",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122259/ajaib-dorong-generasi-muda-melek-investasi-di-surabaya",
+   "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260921181511.jpg",
+   "t_id": "Ajaib Dorong Generasi Muda Melek Investasi di Surabaya"
+  },
+  {
+   "ts": "2026-09-21T18:25:33+07:00",
+   "date": "2026-09-21",
+   "time": "18:25",
+   "src": "Bloomberg",
+   "t": "Oil, Energy Common Denominator to Market Risks: Citi",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-21/oil-energy-common-denominator-to-market-risks-citi-video",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T18:25:07+07:00",
+   "date": "2026-09-21",
+   "time": "18:25",
+   "src": "Bloomberg",
+   "t": "Nuveen Plans Dollar Bonds, Debut in Sterling for Schroders Deal",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/nuveen-plans-dollar-bonds-debut-in-sterling-for-schroders-deal",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T18:20:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:20",
+   "src": "Katadata",
+   "t": "KPK Periksa Pengepul Dana dalam Dugaan Korupsi di Kementerian ATR",
+   "tags": [],
+   "url": "https://katadata.co.id/berita/nasional/6ab112f6a9170/kpk-periksa-pengepul-dana-dalam-dugaan-korupsi-di-kementerian-atr",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/18/2026_09_18-21_20_00_1e8e0e22-b3e0-11f1-9607-0242ac12000a_620x413_thumb.jpg",
+   "t_id": "KPK Periksa Pengepul Dana dalam Dugaan Korupsi di Kementerian ATR"
+  },
+  {
    "ts": "2026-09-21T18:19:00+07:00",
    "date": "2026-09-21",
    "time": "18:19",
@@ -18543,17 +18671,6 @@
    "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/SUAHASIL-MENKEU-14092026.jpg"
   },
   {
-   "ts": "2026-09-21T17:57:00+07:00",
-   "date": "2026-09-21",
-   "time": "17:57",
-   "src": "MarketWatch",
-   "t": "Why one Buffett-inspired fund manager is betting big on Chinese stocks",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-60640680"
-  },
-  {
    "ts": "2026-09-21T17:56:00+07:00",
    "date": "2026-09-21",
    "time": "17:56",
@@ -18657,30 +18774,6 @@
    "t_ko": "Tadpole 스킴 논란 부상, 소비자 보호 핵심은 투명성"
   },
   {
-   "ts": "2026-09-21T17:40:51+07:00",
-   "date": "2026-09-21",
-   "time": "17:40",
-   "src": "CNBC",
-   "t": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
-   "g": 1,
-   "ai_ko": "· Novo 주가 장중 7% 하락\n· 2035년 파이프라인 매출 목표 USD 230억 제시\n· 2030년까지 블록버스터 5종 이상 출시 계획",
-   "ai_id": "· Saham Novo anjlok hingga 7%\n· Target penjualan pipeline US$23 miliar\n· Bidik lebih dari 5 obat blockbuster",
-   "ai_tags": [
-    "주가",
-    "실적",
-    "신약"
-   ],
-   "ai_tags_id": [
-    "saham",
-    "kinerja",
-    "obat baru"
-   ],
-   "t_ko": "Novo, Wegovy 이후 성장전략 공개에 주가 하락",
-   "t_id": "Saham Novo Anjlok Usai Produsen Obat Paparkan Strategi Pertumbuhan Pasca-Wegovy"
-  },
-  {
    "ts": "2026-09-21T17:38:47+07:00",
    "date": "2026-09-21",
    "time": "17:38",
@@ -18715,114 +18808,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/06/04/ihsg-terpuruk-kekhawatiran-pasar-meningkat-1780558039733_169.jpeg?w=360&q=90",
    "t_id": "Saham Rp 1 Mulai Berlaku",
    "t_ko": "주당 Rp1 주식 거래 시행"
-  },
-  {
-   "ts": "2026-09-21T17:30:29+07:00",
-   "date": "2026-09-21",
-   "time": "17:30",
-   "src": "Jawa Pos",
-   "t": "Pemerintah Bentuk Tim DIM RUU Migas Setelah Surpres Terbit",
-   "tags": [],
-   "url": "https://www.jawapos.com/energi/2609210275/pemerintah-bentuk-tim-dim-ruu-migas-setelah-surpres-terbit",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/06/19/sidang-anggota-den-ke-2-dan-ke-3-tahun-2026-yang-dipimpin-menteri-energi-dan-sumber-daya-mineral-esdm-sekaligus-ketua-harian-den-bahlil-lahadalia-di-jakarta-kamis-186-dok-den-WRDMU.webp",
-   "t_ko": "정부, 대통령교서 발표 후 석유가스법 개정안 TF 구성",
-   "t_id": "Pemerintah Bentuk Tim DIM RUU Migas Setelah Surpres Terbit"
-  },
-  {
-   "ts": "2026-09-21T17:30:00+07:00",
-   "date": "2026-09-21",
-   "time": "17:30",
-   "src": "Media Indonesia",
-   "t": "Rupiah Melemah ke Rp17.847 per Dolar AS, Dipengaruhi Ketegangan Asia Barat",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935786/rupiah-melemah-ke-rp17847-per-dolar-as-dipengaruhi-ketegangan-asia-barat",
-   "g": 1,
-   "t_id": "Rupiah Melemah ke Rp17.847 per Dolar AS, Dipengaruhi Ketegangan Asia Barat",
-   "t_ko": "루피아, 중동 긴장에 달러당 Rp17,847로 하락"
-  },
-  {
-   "ts": "2026-09-21T17:28:00+07:00",
-   "date": "2026-09-21",
-   "time": "17:28",
-   "src": "Katadata",
-   "t": "KPK Usut Aliran Dana dari Temuan Koper Dirjen Kementerian ATR Senilai Rp 8 M",
-   "tags": [],
-   "url": "https://katadata.co.id/berita/nasional/6ab106db4afa4/kpk-usut-aliran-dana-dari-temuan-koper-dirjen-kementerian-atr-senilai-rp-8-m",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/18/2026_09_18-21_20_00_7022a762-b3d5-11f1-9cb1-0242ac12000a_620x413_thumb.jpg",
-   "t_id": "KPK Usut Aliran Dana dari Temuan Koper Dirjen Kementerian ATR Senilai Rp 8 M",
-   "t_ko": "KPK, ATR부 국장 캐리어 현금 Rp80억 자금흐름 수사"
-  },
-  {
-   "ts": "2026-09-21T17:22:42+07:00",
-   "date": "2026-09-21",
-   "time": "17:22",
-   "src": "Bloomberg",
-   "t": "Goldman Says Some of Virgin Media’s Beaten-Down Bonds Are a Buy",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/goldman-says-some-of-virgin-media-s-beaten-down-bonds-are-a-buy",
-   "g": 1,
-   "t_ko": "Goldman, Virgin Media 부진한 회사채 매수 추천",
-   "t_id": "Goldman Sebut Sebagian Obligasi Virgin Media yang Anjlok Layak Beli"
-  },
-  {
-   "ts": "2026-09-21T17:21:58+07:00",
-   "date": "2026-09-21",
-   "time": "17:21",
-   "src": "Bloomberg",
-   "t": "There’s $33 Trillion in Stock Gains Riding on the Future of AI",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/newsletters/2026-09-21/there-s-33-trillion-in-stock-gains-riding-on-the-future-of-ai",
-   "g": 1,
-   "t_ko": "AI 미래에 걸린 주식시장 상승분 33조 달러",
-   "t_id": "Kenaikan Saham Senilai US$33 Triliun Bergantung pada Masa Depan AI"
-  },
-  {
-   "ts": "2026-09-21T17:21:49+07:00",
-   "date": "2026-09-21",
-   "time": "17:21",
-   "src": "Liputan6",
-   "t": "IHSG Hari Ini Merosot ke 6.384, Analis Ungkap Pemicunya",
-   "tags": [],
-   "url": "https://www.liputan6.com/saham/read/8296321/ihsg-hari-ini-merosot-ke-6384-analis-ungkap-pemicunya",
-   "img": "https://cdn1-production-images-kly.akamaized.net/sg_wv_id-VZ4f1rg8QkWjt5B1_0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4585820/original/007305100_1695442703-Akhir_pekan_IHSG_ditutup_menguat-ANGGA_3.jpg",
-   "t_id": "IHSG Hari Ini Merosot ke 6.384, Analis Ungkap Pemicunya",
-   "t_ko": "IHSG 오늘 6,384로 하락 — 분석가가 밝힌 배경"
-  },
-  {
-   "ts": "2026-09-21T17:15:37+07:00",
-   "date": "2026-09-21",
-   "time": "17:15",
-   "src": "Detik",
-   "t": "Perusahaan Singapura Gandeng APCO Group, Investasi Awal Rp 10 M di Bogor",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672752/perusahaan-singapura-gandeng-apco-group-investasi-awal-rp-10-m-di-bogor",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/apco-group-1789985627691_169.jpeg?w=360&q=90",
-   "t_id": "Perusahaan Singapura Gandeng APCO Group, Investasi Awal Rp 10 M di Bogor",
-   "t_ko": "싱가포르 기업, APCO Group과 협력해 Bogor에 Rp100억 초기 투자"
-  },
-  {
-   "ts": "2026-09-21T17:13:58+07:00",
-   "date": "2026-09-21",
-   "time": "17:13",
-   "src": "Jawa Pos",
-   "t": "Pertamina Bantah Isu Harga Pertamax Naik Per 21 September 2026: Tidak Benar",
-   "tags": [],
-   "url": "https://www.jawapos.com/energi/2609210261/pertamina-bantah-isu-harga-pertamax-naik-per-21-september-2026-tidak-benar",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/06/11/petugas-melayani-pengisian-bahan-bakar-minyak-bbm-jenis-pertamax-di-spbu-pertamina-menteng-jakarta-rabu-1062026-salman-toyibijawa-pos-RmPa4.webp",
-   "t_id": "Pertamina Bantah Isu Harga Pertamax Naik Per 21 September 2026: Tidak Benar",
-   "t_ko": "Pertamina, \"9월 21일 Pertamax 가격 인상설은 사실무근\" 반박"
-  },
-  {
-   "ts": "2026-09-21T17:12:00+07:00",
-   "date": "2026-09-21",
-   "time": "17:12",
-   "src": "Katadata",
-   "t": "Pemerintah Bayar Subsidi dan Kompensasi ke Pertamina - PLN Rp 331T",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/makro/6ab1031a1ba4a/pemerintah-bayar-subsidi-dan-kompensasi-ke-pertamina-pln-rp-331t",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/11/2026_09_11-14_27_00_4127111e-adb8-11f1-9607-0242ac12000a_620x413_thumb.jpg",
-   "t_id": "Pemerintah Bayar Subsidi dan Kompensasi ke Pertamina - PLN Rp 331T",
-   "t_ko": "정부, Pertamina·PLN에 보조금·보상금 Rp331조 지급"
   }
  ],
  "kisi_news": [
@@ -19022,9 +19007,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.29",
-   "d": -0.01,
-   "ytd": 2.05,
+   "v": "100.26",
+   "d": -0.04,
+   "ytd": 2.02,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19034,9 +19019,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "93.50",
-   "d": -0.5,
-   "ytd": 62.84,
+   "v": "93.56",
+   "d": -0.44,
+   "ytd": 62.94,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19046,9 +19031,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,387.3",
-   "d": -0.19,
-   "ytd": 1.43,
+   "v": "4,391.5",
+   "d": -0.1,
+   "ytd": 1.52,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22654,9 +22639,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 17,
+  "pc_age_min": 33,
   "news_ai_cache": 61,
-  "news_ai_hit": 41,
+  "news_ai_hit": 40,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -22737,15 +22722,16 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T18:05:14+07:00",
+   "ts": "2026-09-21T15:02:14+07:00",
    "date": "2026-09-21",
-   "time": "18:05",
-   "src": "CNBC",
-   "t": "Treasury Secretary Bessent talks to CNBC as Trump administration faces affordability concerns",
+   "time": "15:02",
+   "src": "Yahoo Finance",
+   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
    "g": 1,
-   "score": 313.0,
+   "img": "https://s.yimg.com/uu/api/res/1.2/PpkPIddF3ylrDhnKjYMCQg--~B/aD0zMDg3O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/1a4ea8f1-64b0-427d-b36c-c68aabcebd16",
+   "score": 313.5,
    "srcs": 4
   }
  ],

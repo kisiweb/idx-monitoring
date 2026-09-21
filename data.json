@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 21:10",
+ "updated": "2026-09-21 21:30",
  "delay_min": 15,
  "fx_basis": "12.97 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,373 · 20:30 Yahoo",
- "idr_per_krw": 12.9684,
+ "idr_per_krw": 12.9722,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16745,11 +16745,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7701.48,
+   "px": 7721.96,
    "prev": 7650.5,
-   "pct": 0.67,
+   "pct": 0.93,
    "mst": 0,
-   "asof": "10:05",
+   "asof": "10:25",
    "live": true,
    "spark": [
     7695.07,
@@ -16759,18 +16759,22 @@
     7705.92,
     7708.31,
     7705.88,
-    7701.48
+    7703.82,
+    7708.51,
+    7714.62,
+    7720.6,
+    7721.96
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 26847.97,
+   "px": 26920.18,
    "prev": 26522.54,
-   "pct": 1.23,
+   "pct": 1.5,
    "mst": 0,
-   "asof": "10:05",
+   "asof": "10:25",
    "live": true,
    "spark": [
     26745.7,
@@ -16780,18 +16784,22 @@
     26846.59,
     26851.64,
     26854.05,
-    26847.97
+    26858.51,
+    26867.88,
+    26887.06,
+    26913.03,
+    26920.18
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51783.42,
+   "px": 51922.04,
    "prev": 51682.64,
-   "pct": 0.2,
+   "pct": 0.46,
    "mst": 0,
-   "asof": "10:05",
+   "asof": "10:25",
    "live": true,
    "spark": [
     51908.94,
@@ -16801,7 +16809,11 @@
     51817.8,
     51809.74,
     51818.46,
-    51783.42
+    51800.51,
+    51835.04,
+    51880.02,
+    51916.57,
+    51922.04
    ]
   },
   {
@@ -17138,6 +17150,20 @@
   }
  },
  "news": [
+  {
+   "ts": "2026-09-21T21:20:00+07:00",
+   "date": "2026-09-21",
+   "time": "21:20",
+   "src": "IDNFinancials",
+   "t": "Foreign trading value drops, outflow Rp503 billion",
+   "tags": [
+    "BMRI",
+    "TINS",
+    "TLKM"
+   ],
+   "url": "https://www.idnfinancials.com/news/69190/foreign-trading-value-drops-outflow-rp503-billion",
+   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/NET%20FOREIGN%20IMAGE%20%28ARIF%29/NET%20FOREIGN%2017.jpeg"
+  },
   {
    "ts": "2026-09-21T19:55:00+07:00",
    "date": "2026-09-21",
@@ -18183,13 +18209,139 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T21:06:41+07:00",
+   "ts": "2026-09-21T21:27:24.358761+07:00",
    "date": "2026-09-21",
-   "time": "21:06",
+   "time": "21:27",
+   "src": "Jawa Pos",
+   "t": "Jalankan Arahan Presiden Prabowo, Bahlil Siap Sulap Batu Bara Kalori Rendah jadi Bensin",
+   "tags": [],
+   "url": "https://www.jawapos.com/energi/2609210182/jalankan-arahan-presiden-prabowo-bahlil-siap-sulap-batu-bara-kalori-rendah-jadi-bensin",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/06/09/I3GNm7CIPYDrAH5NURWwU55QaDoka9WVBTgBjeng.webp",
+   "t_id": "Jalankan Arahan Presiden Prabowo, Bahlil Siap Sulap Batu Bara Kalori Rendah jadi Bensin"
+  },
+  {
+   "ts": "2026-09-21T21:25:46+07:00",
+   "date": "2026-09-21",
+   "time": "21:25",
+   "src": "Detik",
+   "t": "OJK Buka Suara soal Isu Gaji ASN Dipindah dari BPD ke Bank BUMN",
+   "tags": [],
+   "url": "https://finance.detik.com/moneter/d-8673130/ojk-buka-suara-soal-isu-gaji-asn-dipindah-dari-bpd-ke-bank-bumn",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/01/09/ilustrasi-gaji-1767955120071_169.jpeg?w=360&q=90",
+   "t_id": "OJK Buka Suara soal Isu Gaji ASN Dipindah dari BPD ke Bank BUMN"
+  },
+  {
+   "ts": "2026-09-21T21:20:48+07:00",
+   "date": "2026-09-21",
+   "time": "21:20",
+   "src": "CNBC",
+   "t": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:20:31+07:00",
+   "date": "2026-09-21",
+   "time": "21:20",
+   "src": "CNBC",
+   "t": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:17:37+07:00",
+   "date": "2026-09-21",
+   "time": "21:17",
    "src": "CNBC",
    "t": "White House TV pool won't cover Trump after press ban: CNN",
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:16:00+07:00",
+   "date": "2026-09-21",
+   "time": "21:16",
+   "src": "WSJ",
+   "t": "Treasury Yields Ease, Inflation Concerns Tread Lower",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/citi-raises-10-year-u-s-treasury-yield-forecast-ee0a5651?mod=rss_markets_main",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:14:26+07:00",
+   "date": "2026-09-21",
+   "time": "21:14",
+   "src": "Reuters",
+   "t": "Fed's Goolsbee says strong demand may be adding to US inflation",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:12:00+07:00",
+   "date": "2026-09-21",
+   "time": "21:12",
+   "src": "Republika",
+   "t": "Ekosistem Affiliate Buka Peluang Pasar dan Pendapatan bagi UMKM Banjar",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlpggg370/ekosistem-affiliate-buka-peluang-pasar-dan-pendapatan-bagi-umkm-banjar",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/_260921151914-840.png",
+   "t_id": "Ekosistem Affiliate Buka Peluang Pasar dan Pendapatan bagi UMKM Banjar"
+  },
+  {
+   "ts": "2026-09-21T21:09:13+07:00",
+   "date": "2026-09-21",
+   "time": "21:09",
+   "src": "CNA",
+   "t": "Czech Republic approves Tesla's FSD after earlier safety concerns",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/czech-republic-approves-teslas-fsd-after-earlier-safety-concerns-6400006",
+   "g": 1,
+   "img": "https://dam.mediacorp.sg/image/upload/s--bGx0ZrhQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-21T141428Z_2_LYNXMPEM8K167_RTROPTP_3_TESLA-RESULTS.JPG?itok=-kIVUYbe"
+  },
+  {
+   "ts": "2026-09-21T21:08:50+07:00",
+   "date": "2026-09-21",
+   "time": "21:08",
+   "src": "CNBC",
+   "t": "U.S. crude oil falls back below $100 per barrel after Trump says he's open to talking to Iran",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:06:00+07:00",
+   "date": "2026-09-21",
+   "time": "21:06",
+   "src": "WSJ",
+   "t": "U.S. Stocks Tick Up as Oil Falls",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/stocks/global-stocks-rally-yields-lower-as-oil-prices-extend-falls-8b63390a?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-52162808"
+  },
+  {
+   "ts": "2026-09-21T21:05:01+07:00",
+   "date": "2026-09-21",
+   "time": "21:05",
+   "src": "Yahoo Finance",
+   "t": "Bitcoin Hits $85,000 and Nears 8-Month High. Is the Crypto Bull Market Finally Here?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-85-000-nears-140501744.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/8c0ca4e0a0ca797234d9b707006119b6.jpg"
+  },
+  {
+   "ts": "2026-09-21T21:00:29+07:00",
+   "date": "2026-09-21",
+   "time": "21:00",
+   "src": "Reuters",
+   "t": "Gold inches down on rising odds of Fed rate hike, stronger dollar",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtKdjloRHZCamhPWmFUa00yUkQwRWZJNFVpbUFiRl9KQmNWbmViLTJQN1hvUmphTzVuMm9ubU5VaXNoQ2NPdVgzM3JPd0t6Qk5XOHQ4ZG96bDRkMlhEMG1kN09OaElGdGxsOEpYdzA2eE53aXBsZm1ZaWhXR1JJY0FSN2NPdzFaX2d6UjY4VU5aWTJOcDNRZC1kTURhRWFPUVNoeU9NTEVUcFRuQmc?oc=5",
    "g": 1
   },
   {
@@ -18270,44 +18422,11 @@
    "date": "2026-09-21",
    "time": "20:47",
    "src": "Yahoo Finance",
-   "t": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-upgraded-flutter-downgraded-wall-134710881.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/the_fly_169/5039a5ccc6ec98e1b92bc672330bfcec.jpg"
-  },
-  {
-   "ts": "2026-09-21T20:47:10+07:00",
-   "date": "2026-09-21",
-   "time": "20:47",
-   "src": "Yahoo Finance",
    "t": "Mosaic Co. (MOS) Was Just Added to the Portfolio: Why the Fertilizer Stock Looks Undervalued",
    "tags": [],
    "url": "https://finance.yahoo.com/markets/stocks/articles/mosaic-co-mos-just-added-134710535.html",
    "g": 1,
    "img": "https://media.zenfs.com/en/insidermonkey.com/0333802877cea8a948937f01e98bfc39.jpg"
-  },
-  {
-   "ts": "2026-09-21T20:47:00+07:00",
-   "date": "2026-09-21",
-   "time": "20:47",
-   "src": "Yahoo Finance",
-   "t": "Northern Dynasty Minerals Ltd. (NAK) Gained 36.3% in Q2: The Alaska Gold-Copper Opportunity",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/northern-dynasty-minerals-ltd-nak-134700461.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/0755a7189e1bc8190b754aa134cbbcaf.jpg"
-  },
-  {
-   "ts": "2026-09-21T20:46:42+07:00",
-   "date": "2026-09-21",
-   "time": "20:46",
-   "src": "Yahoo Finance",
-   "t": "Molina Healthcare (MOH) Jumped 70.7% in Q2: Why the Stock Rally Was Enough to Sell",
-   "tags": [],
-   "url": "https://finance.yahoo.com/healthcare/articles/molina-healthcare-moh-jumped-70-134642412.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/4adb92fb70f15933b2c39a104a5a5046.jpg"
   },
   {
    "ts": "2026-09-21T20:46:00+07:00",
@@ -18317,72 +18436,6 @@
    "t": "Kawasan Hunian Semarang masih terus Bertumbuh",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/935904/kawasan-hunian-semarang-masih-terus-bertumbuh"
-  },
-  {
-   "ts": "2026-09-21T20:45:59+07:00",
-   "date": "2026-09-21",
-   "time": "20:45",
-   "src": "Yahoo Finance",
-   "t": "Range Resources (RRC) Slid 17.2% in Q2: Why the Natural Gas Stock Still Looks Attractive",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/range-resources-rrc-slid-17-134559578.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/f6294ef0f079be4482e7e89615807ec4.jpg"
-  },
-  {
-   "ts": "2026-09-21T20:45:50+07:00",
-   "date": "2026-09-21",
-   "time": "20:45",
-   "src": "FT",
-   "t": "US news outlets to sue Trump administration over White House ban",
-   "tags": [],
-   "url": "https://www.ft.com/content/63140a82-8af6-4af8-90bd-0325c5724e74?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffcfec0a2-2f28-4046-b6f3-79af76bd3140.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "ts": "2026-09-21T20:45:45+07:00",
-   "date": "2026-09-21",
-   "time": "20:45",
-   "src": "Yahoo Finance",
-   "t": "Nutrien (NTR) Dropped 15.4% in Q2: Why the Fertilizer Stock Could Be a Bargain",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/nutrien-ntr-dropped-15-4-134545047.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/fdc8d42646b882a1b0f0fbf458cf42c5.jpg"
-  },
-  {
-   "ts": "2026-09-21T20:45:44+07:00",
-   "date": "2026-09-21",
-   "time": "20:45",
-   "src": "Yahoo Finance",
-   "t": "Telix Beefs Up Radioisotopes Supply With $2.35 Billion Deal; Shares Crash",
-   "tags": [],
-   "url": "https://www.investors.com/news/technology/telix-pharmaceuticals-telix-stock-itm-merger/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/cc1ba840394999bd8d2f9e90faab7a81.jpg"
-  },
-  {
-   "ts": "2026-09-21T20:45:33+07:00",
-   "date": "2026-09-21",
-   "time": "20:45",
-   "src": "Yahoo Finance",
-   "t": "NovaGold Resources (NG) Plunged 36.9%: Is the Gold Stock Now Undervalued?",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/novagold-resources-ng-plunged-36-134533396.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/e10cef5887bc770af53198fee13b1245.jpg"
-  },
-  {
-   "ts": "2026-09-21T20:45:16+07:00",
-   "date": "2026-09-21",
-   "time": "20:45",
-   "src": "Yahoo Finance",
-   "t": "Sibanye Stillwater Ltd. (SBSW) Fell 29.3% in Q2: Why the Stock Could Be Worth Watching",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/sibanye-stillwater-ltd-sbsw-fell-134516978.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/34a61930942f0d7ff456e88af52487e4.jpg"
   },
   {
    "ts": "2026-09-21T20:41:39+07:00",
@@ -18538,37 +18591,6 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlpr2o349/amran-sebut-kenaikan-harga-beras-tak-seharusnya-terjadi-saat-stok-melimpah",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260904104541-117.png"
-  },
-  {
-   "ts": "2026-09-21T18:58:39+07:00",
-   "date": "2026-09-21",
-   "time": "18:58",
-   "src": "Republika",
-   "t": "Bye Saham Gocap, BEI Resmi Turunkan Batas Harga Saham Jadi Rp 1",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlpqlr370/bye-saham-gocap-bei-resmi-turunkan-batas-harga-saham-jadi-rp-1",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/033504600-1785491442-830-556.jpg",
-   "t_id": "Bye Saham Gocap, BEI Resmi Turunkan Batas Harga Saham Jadi Rp 1"
-  },
-  {
-   "ts": "2026-09-21T18:53:36+07:00",
-   "date": "2026-09-21",
-   "time": "18:53",
-   "src": "Jawa Pos",
-   "t": "Makin Mudah Investasi Emas, Pegadaian Gandeng blu Lewat bluInvest Emas dengan Modal Rp10 Ribu",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210302/makin-mudah-investasi-emas-pegadaian-gandeng-blu-lewat-bluinvest-emas-dengan-modal-rp10-ribu",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/0CUiJKdkvKfHGM6FniGmioFVCQtw3Rjj4i13WwXu.webp"
-  },
-  {
-   "ts": "2026-09-21T18:45:40+07:00",
-   "date": "2026-09-21",
-   "time": "18:45",
-   "src": "Jawa Pos",
-   "t": "Lantik Pejabat Baru, Suahasil Nazara Minta Bea Cukai Pertajam Pengawasan Berbasis Risiko",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210098/lantik-pejabat-baru-suahasil-nazara-minta-bea-cukai-pertajam-pengawasan-berbasis-risiko",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/17/StPEKGg1VA3QF2CzvzNHkGBen9GcUPCy7U2gni6f.webp"
   }
  ],
  "kisi_news": [
@@ -18745,9 +18767,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.974%",
-   "d": -0.48,
-   "ytd": 19.48,
+   "v": "4.971%",
+   "d": -0.54,
+   "ytd": 19.41,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18768,9 +18790,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.37",
-   "d": 0.06,
-   "ytd": 2.12,
+   "v": "100.38",
+   "d": 0.07,
+   "ytd": 2.14,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18780,9 +18802,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "92.67",
-   "d": -1.38,
-   "ytd": 61.39,
+   "v": "92.06",
+   "d": -2.03,
+   "ytd": 60.33,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18792,9 +18814,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,386.4",
-   "d": -0.21,
-   "ytd": 1.41,
+   "v": "4,376.3",
+   "d": -0.44,
+   "ytd": 1.17,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22400,7 +22422,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 179,
+  "pc_age_min": 199,
   "news_ai_cache": 61,
   "news_ai_hit": 35,
   "on_runner": true,
@@ -22469,15 +22491,15 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T18:00:00+07:00",
+   "ts": "2026-09-21T21:00:29+07:00",
    "date": "2026-09-21",
-   "time": "18:00",
-   "src": "IDNFinancials",
-   "t": "Bank Indonesia's IDR 58 trillion surplus helps repay 1998 crisis debt",
+   "time": "21:00",
+   "src": "Reuters",
+   "t": "Gold inches down on rising odds of Fed rate hike, stronger dollar",
    "tags": [],
-   "url": "https://www.idnfinancials.com/news/69128/bank-indonesias-idr-58-trillion-surplus-helps-repay-1998-crisis-debt",
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/SUAHASIL-MENKEU-14092026.jpg",
-   "score": 407.05,
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtKdjloRHZCamhPWmFUa00yUkQwRWZJNFVpbUFiRl9KQmNWbmViLTJQN1hvUmphTzVuMm9ubU5VaXNoQ2NPdVgzM3JPd0t6Qk5XOHQ4ZG96bDRkMlhEMG1kN09OaElGdGxsOEpYdzA2eE53aXBsZm1ZaWhXR1JJY0FSN2NPdzFaX2d6UjY4VU5aWTJOcDNRZC1kTURhRWFPUVNoeU9NTEVUcFRuQmc?oc=5",
+   "g": 1,
+   "score": 408.0,
    "srcs": 1
   },
   {
@@ -22491,7 +22513,7 @@
    "g": 1,
    "img": "https://s.yimg.com/uu/api/res/1.2/PpkPIddF3ylrDhnKjYMCQg--~B/aD0zMDg3O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/1a4ea8f1-64b0-427d-b36c-c68aabcebd16",
    "score": 313.5,
-   "srcs": 7
+   "srcs": 6
   }
  ],
  "daylog": {

@@ -513,6 +513,12 @@ em.ngbig{font-style:normal;font-size:9.5px;font-weight:800;padding:1px 6px;borde
 /* 원화 환산은 말풍선으로만 — 줄을 차지하지 않게 한다 (2026-09-21) */
 /* 오늘 체결이 없어 전 거래일 값을 그대로 들고 있는 종목 표식 */
 .ngseg{margin-bottom:8px}
+.ngr2{display:grid;grid-template-columns:minmax(0,1fr) auto auto auto;gap:10px;align-items:center;padding:5px 2px;border-bottom:1px solid var(--line);font-size:12.5px}
+.ngr2 .tk{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;cursor:pointer}
+.ngr2 .tk b{font-weight:800}.ngr2 .tk i{font-style:normal;color:var(--ink2);margin-left:5px}
+.ngr2 .c{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.ngr2 b.c{font-weight:800}
+.ngr2.hd{font-size:10.5px;color:var(--ink3);font-weight:600;padding-bottom:3px}
 .ngsub{font-size:11px;color:var(--ink3);margin:8px 0 4px}
 .stl.sus{color:var(--dn);background:rgba(200,60,60,.10)}
 .stl{display:inline-block;font-size:10.5px;font-weight:700;color:var(--ink3);background:var(--chip);border-radius:6px;padding:1px 6px;white-space:nowrap;cursor:help;letter-spacing:-.2px}
@@ -1708,16 +1714,21 @@ function ngTabs(){const F=DATA.ngflow;if(!F)return'';
 function ngFlowBody(){const F=(DATA.ngflow||{})[ngwin];if(!F)return'<div class="empty">'+T('ngNone')+'</div>';
   const shr=(F.total+F.reg)?F.total/(F.total+F.reg)*100:null;
   const acc=F.days<F.need?('<em class="stl">'+T('ngAcc')+' '+F.days+'/'+F.need+T('ngDays')+'</em>'):'';
+  /* 칸 구성은 사장 지시(2026-09-21): 평균가 · 거래건수 · 거래대금.
+     평균가 = 기간 장외 거래대금 / 기간 장외 거래량 (IDX 공표값의 나눗셈, 해석 없음) */
+  const head='<div class="ngr2 hd"><span></span><span class="c">'+T('ngAvg')+'</span><span class="c">'+T('ngFreq')+'</span><span class="c">'+T('turnoverK')+'</span></div>';
   const rows=(F.top||[]).map(r=>{const o=findStock(r[0])||{};
-    return'<div class="ngr"><span class="tk" onclick="openDr(\''+r[0]+'\')"><b>'+r[0]+'</b> <i>'+((o.n||'').replace(/\s*\(Persero\)/i,''))+'</i></span>'
-      +'<span class="xw"><small class="src">'+r[3]+T('ngCnt')+'</small></span>'
-      +'<b class="amt krwh"'+krwT(r[1])+'>'+idrShort(r[1])+'</b></div>';}).join('');
+    const avg=(r[2]>0)?Math.round(r[1]/r[2]):null;
+    return'<div class="ngr2"><span class="tk" onclick="openDr(\''+r[0]+'\')"><b>'+r[0]+'</b> <i>'+((o.n||'').replace(/\s*\(Persero\)/i,''))+'</i></span>'
+      +'<span class="c">'+(avg?idrFull(avg):'\u2014')+'</span>'
+      +'<span class="c">'+r[3]+T('ngCnt')+'</span>'
+      +'<b class="c amt krwh"'+krwT(r[1])+'>'+idrShort(r[1])+'</b></div>';}).join('');
   return'<div class="ngtop"><b class="big krwh"'+krwT(F.total)+'>'+idrShort(F.total)+'</b>'
       +'<span>'+T('ngOfAll')+' <b>'+(shr==null?'—':shr.toFixed(1))+'%</b></span>'
       +'<span>'+F.stocks+T('ngStocks')+'</span>'+acc
       +'<span class="ngmb"><i style="width:'+Math.max(1.5,Math.min(100,shr||0)).toFixed(1)+'%"></i>'
       +'<u>'+T('ngReg')+' '+idrShort(F.reg)+'</u></span></div>'
-    +'<div class="ngsub">'+T('ngTop')+' · '+mmdd(F.from)+'~'+mmdd(F.to)+'</div>'+rows;}
+    +'<div class="ngsub">'+T('ngTop')+' · '+mmdd(F.from)+'~'+mmdd(F.to)+'</div>'+head+rows;}
 function negoCard(){
   if(ngwin!=='1d')return ngTabs()+ngFlowBody();
   /* 장외 수치는 IDX 가 전 거래일치로 공표한다 — 카드 머리에 기준일을 박아 오늘 값으로 읽히지 않게 한다 */

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 18:15",
+ "updated": "2026-09-21 18:20",
  "delay_min": 15,
  "fx_basis": "12.99 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,373 · 17:15 Yahoo",
- "idr_per_krw": 12.9891,
+ "idr_per_krw": 12.9881,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17347,6 +17347,18 @@
  },
  "news": [
   {
+   "ts": "2026-09-21T18:11:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:11",
+   "src": "Media Indonesia",
+   "t": "IHSG Tergelincir ke 6.384 Jelang RDG BI, Investor Ambil Sikap Waspada",
+   "tags": [
+    "LAJU"
+   ],
+   "url": "https://mediaindonesia.com/ekonomi/935805/ihsg-tergelincir-ke-6384-jelang-rdg-bi-investor-ambil-sikap-waspada",
+   "t_id": "IHSG Tergelincir ke 6.384 Jelang RDG BI, Investor Ambil Sikap Waspada"
+  },
+  {
    "ts": "2026-09-21T17:54:00+07:00",
    "date": "2026-09-21",
    "time": "17:54",
@@ -17888,32 +17900,6 @@
    "t_id": "Berita utama pekan ini: Pemecatan Purbaya, akuisisi iNews, BYAN, ULTJ"
   },
   {
-   "ts": "2026-09-21T07:40:00+07:00",
-   "date": "2026-09-21",
-   "time": "07:40",
-   "src": "IDNFinancials",
-   "t": "ADHI restructures IDR 3 trillion debt through MRA",
-   "tags": [
-    "ADHI"
-   ],
-   "url": "https://www.idnfinancials.com/news/69134/adhi-restructures-idr-3-trillion-debt-through-mra",
-   "img": "https://photo2.idnfinancials.com/fly/idn/adhy-2026/perusahan-tbk/adhi-karya/adhi-karya-210926.jpg",
-   "ai_ko": "· ADHI, Rp3조 채무 재조정 MRA 체결\n· 3개 트랜치 분할, 15년 만기 포함\n· BMRI·BBRI·BBNI 채권 부담 경감",
-   "ai_id": "· ADHI teken MRA utang Rp3 triliun\n· Dibagi 3 tranche, tenor s/d 15 tahun\n· Kreditur BMRI, BBRI, dan BBNI",
-   "ai_tags": [
-    "채무재조정",
-    "건설",
-    "은행"
-   ],
-   "ai_tags_id": [
-    "restrukturisasi utan",
-    "konstruksi",
-    "perbankan"
-   ],
-   "t_ko": "ADHI, Rp3조 채무 MRA로 재조정",
-   "t_id": "ADHI restrukturisasi utang Rp3 triliun lewat MRA"
-  },
-  {
    "ts": "2026-09-20T13:17:40+07:00",
    "date": "2026-09-20",
    "time": "09/20",
@@ -18403,9 +18389,9 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T18:12:52.848280+07:00",
+   "ts": "2026-09-21T18:17:49.858876+07:00",
    "date": "2026-09-21",
-   "time": "18:12",
+   "time": "18:17",
    "src": "Jawa Pos",
    "t": "Harga Emas Hari Ini Naik Lagi, Cek Rincian Lengkap Antam, Galeri24, dan UBS",
    "tags": [],
@@ -18415,15 +18401,25 @@
    "t_id": "Harga Emas Hari Ini Naik Lagi, Cek Rincian Lengkap Antam, Galeri24, dan UBS"
   },
   {
-   "ts": "2026-09-21T18:12:52.844684+07:00",
+   "ts": "2026-09-21T18:17:49.854678+07:00",
    "date": "2026-09-21",
-   "time": "18:12",
+   "time": "18:17",
    "src": "Jawa Pos",
    "t": "Demi Penyempurnaan, Suahasil Nazara Lantik 14 Pejabat Baru di Kemenkeu dan KSSK",
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210068/demi-penyempurnaan-suahasil-nazara-lantik-14-pejabat-baru-di-kemenkeu-dan-kssk",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
    "t_id": "Demi Penyempurnaan, Suahasil Nazara Lantik 14 Pejabat Baru di Kemenkeu dan KSSK"
+  },
+  {
+   "ts": "2026-09-21T18:10:55+07:00",
+   "date": "2026-09-21",
+   "time": "18:10",
+   "src": "CNBC",
+   "t": "Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
+   "g": 1
   },
   {
    "ts": "2026-09-21T18:09:00+07:00",
@@ -18779,18 +18775,6 @@
    "t_id": "Trump Desak Zelensky Setop Serang Kilang Minyak Rusia"
   },
   {
-   "ts": "2026-09-21T17:17:45+07:00",
-   "date": "2026-09-21",
-   "time": "17:17",
-   "src": "Bloomberg",
-   "t": "Trump-Xi Summit in Focus After Positive US-China Talks",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/the-pulse-9-21-2026-video",
-   "g": 1,
-   "t_ko": "미중 협상 성과에 Trump-Xi 정상회담 관심 집중",
-   "t_id": "KTT Trump-Xi Jadi Sorotan Usai Perundingan Positif AS-China"
-  },
-  {
    "ts": "2026-09-21T17:15:37+07:00",
    "date": "2026-09-21",
    "time": "17:15",
@@ -19074,7 +19058,7 @@
    "k": "달러 인덱스 (DXY)",
    "v": "100.31",
    "d": 0.0,
-   "ytd": 2.06,
+   "ytd": 2.07,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19084,9 +19068,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "93.46",
-   "d": -0.54,
-   "ytd": 62.77,
+   "v": "93.56",
+   "d": -0.44,
+   "ytd": 62.94,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19096,9 +19080,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,381.5",
-   "d": -0.33,
-   "ytd": 1.29,
+   "v": "4,382.4",
+   "d": -0.3,
+   "ytd": 1.31,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22704,8 +22688,8 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:03",
-  "pc_age_min": 12,
-  "news_ai_cache": 63,
+  "pc_age_min": 17,
+  "news_ai_cache": 61,
   "news_ai_hit": 42,
   "on_runner": true,
   "bi": null,
@@ -22751,20 +22735,6 @@
    "t_id": "Harga Emas Melemah Tipis, Pelaku Pasar Cermati Harga Minyak dan Arah Suku Bunga The Fed"
   },
   {
-   "ts": "2026-09-21T15:20:00+07:00",
-   "date": "2026-09-21",
-   "time": "15:20",
-   "src": "Bloomberg Technoz",
-   "t": "Rupiah Tertinggal dari Mata Uang Asia, Ada Apa?",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122236/rupiah-tertinggal-dari-mata-uang-asia-ada-apa",
-   "g": 1,
-   "img": "https://images.bloombergtechnoz.com/data/2026/06/image-20260604174032.jpeg",
-   "score": 413.75,
-   "srcs": 4,
-   "t_id": "Rupiah Tertinggal dari Mata Uang Asia, Ada Apa?"
-  },
-  {
    "ts": "2026-09-21T12:14:45+07:00",
    "date": "2026-09-21",
    "time": "12:14",
@@ -22774,7 +22744,31 @@
    "url": "https://www.jawapos.com/ekonomi/2609210113/menkeu-suahasil-instruksikan-pejabat-baru-djp-pahami-karakter-wajib-pajak",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
    "score": 411.25,
-   "srcs": 2
+   "srcs": 2,
+   "ai_ko": "· Suahasil Nazara 재무장관, DJP 국장급 5명 임명\n· 에셀론 II·III 신임 간부 공식 임명\n· 납세자 특성 파악·과세 판단 정확성 주문",
+   "ai_id": "· Menkeu Suahasil lantik 5 pejabat DJP\n· Eselon II dan III resmi ditetapkan\n· Diminta pahami karakter wajib pajak",
+   "ai_tags": [
+    "세제",
+    "인사",
+    "정책"
+   ],
+   "ai_tags_id": [
+    "perpajakan",
+    "mutasi pejabat",
+    "kebijakan"
+   ]
+  },
+  {
+   "ts": "2026-09-21T16:50:00+07:00",
+   "date": "2026-09-21",
+   "time": "16:50",
+   "src": "IDNFinancials",
+   "t": "JCI down 0.88% as market lacks positive signals, rupiah under pressure",
+   "tags": [],
+   "url": "https://www.idnfinancials.com/news/69179/jci-down-0-88-as-market-lacks-positive-signals-rupiah-under-pressure",
+   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/IHSG-RUPIAH-24062026.jpg",
+   "score": 410.15,
+   "srcs": 1
   },
   {
    "ts": "2026-09-21T15:02:14+07:00",
@@ -23468,16 +23462,16 @@
   "2026-09-21": {
    "news": [
     {
-     "t": "Harga Minyak Turun usai Trump Buka Peluang Temui Presiden Iran",
-     "ko": "유가, Trump의 이란 대통령 회동 가능성 언급에 하락",
-     "id": "Harga Minyak Turun usai Trump Buka Peluang Temui Presiden Iran",
-     "ai_ko": "· Brent 2.08% 내린 USD101.71\n· WTI 2.14% 내린 USD98.15, 9월 10일 이후 최저\n· 미국·이란 대화 기대, 중동 선적 일부 회복",
-     "ai_id": "· Brent turun 2,08% ke USD101,71\n· WTI turun 2,14% ke USD98,15\n· Harapan diplomasi AS-Iran tekan harga",
-     "src": "IDX Channel",
-     "url": "https://www.idxchannel.com/market-news/harga-minyak-turun-usai-trump-buka-peluang-temui-presiden-iran",
-     "time": "10:12",
+     "t": "Treasury Secretary Bessent talks to CNBC as Trump administration faces affordability concerns",
+     "ko": "Bessent 재무장관, 물가 우려 속 CNBC 인터뷰서 트럼프 행정부 입장 설명",
+     "id": "Menkeu AS Bessent Bicara ke CNBC di Tengah Kekhawatiran Keterjangkauan Biaya Hidup",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "CNBC",
+     "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+     "time": "18:05",
      "tags": [],
-     "sc": 312.5,
+     "sc": 315.0,
      "slot": "global",
      "q": 85
     },

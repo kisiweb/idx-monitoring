@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 19:45",
+ "updated": "2026-09-21 19:58",
  "delay_min": 15,
  "fx_basis": "12.99 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,372 · 17:15 Yahoo",
- "idr_per_krw": 12.9949,
+ "idr_per_krw": 12.9942,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17347,6 +17347,19 @@
  },
  "news": [
   {
+   "ts": "2026-09-21T19:50:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:50",
+   "src": "Katadata",
+   "t": "Emiten Hary Tanoe MNCN Ungkap Detail JV dengan Republikorp di iNews Media Group",
+   "tags": [
+    "MNCN"
+   ],
+   "url": "https://katadata.co.id/finansial/bursa/6ab12807168ee/emiten-hary-tanoe-mncn-ungkap-detail-jv-dengan-republikorp-di-inews-media-group",
+   "img": "https://cdn1.katadata.co.id/media/oldmedia/field/image/MNC-Katadata-Arief.jpg",
+   "t_id": "Emiten Hary Tanoe MNCN Ungkap Detail JV dengan Republikorp di iNews Media Group"
+  },
+  {
    "ts": "2026-09-21T19:25:00+07:00",
    "date": "2026-09-21",
    "time": "19:25",
@@ -17518,33 +17531,6 @@
     "saham"
    ],
    "t_ko": "9월 21일 상승률 상위 10종목 — CSMI·TRUE 선두"
-  },
-  {
-   "ts": "2026-09-21T16:28:00+07:00",
-   "date": "2026-09-21",
-   "time": "16:28",
-   "src": "Katadata",
-   "t": "IHSG Turun 0,88%, Ada Transaksi Crossing di Saham Tambang Nikel INCO dan NCKL",
-   "tags": [
-    "INCO",
-    "NCKL"
-   ],
-   "url": "https://katadata.co.id/finansial/bursa/6ab0f8d0a168c/ihsg-turun-0-88-ada-transaksi-crossing-di-saham-tambang-nikel-inco-dan-nckl",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/06/08/IHSG_kembali_ditutup_melemah_ke_level_5342_Foto_KatadataFauza_Sy-2026_06_08-17_48_01_7a52cca2efab744648edec05cc36728f_620x413_thumb.jpg",
-   "t_id": "IHSG Turun 0,88%, Ada Transaksi Crossing di Saham Tambang Nikel INCO dan NCKL",
-   "ai_ko": "· IHSG 0.88% 내린 6,384 마감\n  56.43포인트 하락\n· 거래대금 Rp11.78조, 11개 업종\n  중 8개 하락, 인프라 1.38% 약세\n· 니켈주 대량 매매, VALE\n  Rp7,023억·NCKL Rp4,074억",
-   "ai_id": "· IHSG turun 0,88% ke 6.384\n· Nilai transaksi Rp11,78 triliun\n· Crossing VALE Rp702,3 miliar",
-   "ai_tags": [
-    "증시",
-    "니켈",
-    "블록딜"
-   ],
-   "ai_tags_id": [
-    "IHSG",
-    "nikel",
-    "crossing"
-   ],
-   "t_ko": "IHSG 0.88% 하락 — INCO·NCKL 니켈 광산주 크로싱 거래 발생"
   },
   {
    "ts": "2026-09-21T16:20:00+07:00",
@@ -17838,7 +17824,7 @@
     "YUPI"
    ],
    "url": "https://www.idnfinancials.com/news/69138/yupi-prepares-four-options-to-meet-free-float-rules",
-   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/YUPI-min.jpg",
+   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/YUPI-21092026.jpg",
    "ai_ko": "· Yupi(YUPI), 유통주식비율 확대 위해\n  4가지 방안 검토\n· 8월 31일 기준 유통비율 10%,\n  2027년 3월 12.5%·2028년 3월 15% 충족 필요\n· 최대주주 지분 매각, 제3자배정,\n  주주배정 증자, 우리사주 중 선택",
    "ai_id": "· YUPI siapkan empat opsi penuhi\n ketentuan free float BEI\n· Free float 10% per 31 Agustus,\n wajib 12,5% (2027) dan 15% (2028)\n· Opsi: divestasi pengendali,\n private placement, rights issue, ESOP",
    "ai_tags": [
@@ -18349,30 +18335,6 @@
    ]
   },
   {
-   "ts": "2026-09-17T18:56:37+07:00",
-   "date": "2026-09-17",
-   "time": "09/17",
-   "src": "Liputan6",
-   "t": "UBS AG Beli 2,26 Juta Saham CPIN",
-   "tags": [
-    "CPIN"
-   ],
-   "url": "https://www.liputan6.com/saham/read/8294005/ubs-ag-beli-226-juta-saham-cpin",
-   "img": "https://cdn0-production-images-kly.akamaized.net/fFyvwscjNnCiJ0ROgGnyxmKL9UY=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4277615/original/062866500_1672400411-Penutupan_Perdagangan_Bursa_Efek_Indonesia_2022-Angga-4.JPG",
-   "t_ko": "UBS AG, CPIN 주식 226만 주 매수",
-   "t_id": "UBS AG Beli 2,26 Juta Saham CPIN",
-   "ai_ko": "· UBS AG, CPIN 226.1만주를 주당 Rp3,141에 매입\n· 거래대금 Rp71.0억, 14일 체결\n· 지분 5.99%에서 6.01%로 확대, 파생 헤지 목적",
-   "ai_id": "· UBS AG beli 2,26 juta saham CPIN\n· Harga Rp3.141, nilai Rp7,10 miliar\n· Kepemilikan naik dari 5,99% ke 6,01%",
-   "ai_tags": [
-    "지분변동",
-    "외국인"
-   ],
-   "ai_tags_id": [
-    "kepemilikan saham",
-    "asing"
-   ]
-  },
-  {
    "ts": "2026-09-17T10:08:16.573291+07:00",
    "date": "2026-09-17",
    "time": "09/17",
@@ -18427,6 +18389,103 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T19:51:10+07:00",
+   "date": "2026-09-21",
+   "time": "19:51",
+   "src": "CNBC",
+   "t": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+   "g": 1,
+   "t_ko": "베센트, 트럼프-시진핑 회담 앞두고 허라이펑 중국 부총리와의 회담 '성공적'",
+   "t_id": "Bessent menyebut pertemuan dengan Wakil Perdana Menteri Tiongkok He Lifeng 'sukses' menjelang KTT Trump-Xi"
+  },
+  {
+   "ts": "2026-09-21T19:50:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:50",
+   "src": "MarketWatch",
+   "t": "Record diesel prices are exposing pain points in the stock market and economy",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-25666926",
+   "t_ko": "기록적인 디젤 가격은 주식 시장과 경제의 문제점을 노출시키고 있습니다.",
+   "t_id": "Rekor harga solar memperlihatkan kelemahan di pasar saham dan perekonomian"
+  },
+  {
+   "ts": "2026-09-21T19:46:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:46",
+   "src": "Media Indonesia",
+   "t": "BEI Berlakukan Harga Saham Minimum Rp1 Mulai 28 September 2026",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935860/bei-berlakukan-harga-saham-minimum-rp1-mulai-28-september-2026",
+   "t_id": "BEI Berlakukan Harga Saham Minimum Rp1 Mulai 28 September 2026"
+  },
+  {
+   "ts": "2026-09-21T19:45:03+07:00",
+   "date": "2026-09-21",
+   "time": "19:45",
+   "src": "Liputan6",
+   "t": "Harga Saham Terendah Rp 1 Mulai Berlaku 28 September 2026",
+   "tags": [],
+   "url": "https://www.liputan6.com/saham/read/8296421/harga-saham-terendah-rp-1-mulai-berlaku-28-september-2026",
+   "img": "https://cdn0-production-images-kly.akamaized.net/D0lzNRWBTfKKTS3L-jaujC41dC4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3008991/original/022280300_1577703437-20191230-Akhir-2019_-IHSG-Ditutup-Melemah-2.jpg",
+   "t_id": "Harga Saham Terendah Rp 1 Mulai Berlaku 28 September 2026"
+  },
+  {
+   "ts": "2026-09-21T19:44:43+07:00",
+   "date": "2026-09-21",
+   "time": "19:44",
+   "src": "Republika",
+   "t": "Bahlil: Pemerintah Mulai Susun Roadmap Pengembangan E50",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlpsqj349/bahlil-pemerintah-mulai-susun-roadmap-pengembangan-e50",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/057913500-1789962917-830-556.jpg"
+  },
+  {
+   "ts": "2026-09-21T19:42:48+07:00",
+   "date": "2026-09-21",
+   "time": "19:42",
+   "src": "Bloomberg",
+   "t": "UBS AM’s Zhao Is Ready to Sell Yen If Japan Intervenes Again",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/ubs-am-s-zhao-is-ready-to-sell-yen-if-japan-intervenes-again",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T19:42:20+07:00",
+   "date": "2026-09-21",
+   "time": "19:42",
+   "src": "Bloomberg",
+   "t": "Satellite Snapshot Points to Increase in Saudis’ Gulf Oil Flows",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-21/satellite-snapshot-points-to-increase-in-saudis-gulf-oil-flows",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T19:39:00+07:00",
+   "date": "2026-09-21",
+   "time": "19:39",
+   "src": "Media Indonesia",
+   "t": "Pemerintah Didesak Cari 9 Anak yang Disandera KKB di Jila Papua, DPR: Ini Kasus Serius!",
+   "tags": [],
+   "url": "https://mediaindonesia.com/politik-dan-hukum/935855/pemerintah-didesak-cari-9-anak-yang-disandera-kkb-di-jila-papua-dpr-ini-kasus-serius",
+   "t_id": "Pemerintah Didesak Cari 9 Anak yang Disandera KKB di Jila Papua, DPR: Ini Kasus Serius!"
+  },
+  {
+   "ts": "2026-09-21T19:37:02+07:00",
+   "date": "2026-09-21",
+   "time": "19:37",
+   "src": "Yahoo Finance",
+   "t": "Prediction: Robinhood Will Launch Tokenized Stock Trading in the U.S. Before the End of 2027",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-robinhood-launch-tokenized-stock-123702180.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/b577e5206926ebefe01b84961d42aefa.png"
+  },
+  {
    "ts": "2026-09-21T19:35:02+07:00",
    "date": "2026-09-21",
    "time": "19:35",
@@ -18435,6 +18494,28 @@
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
    "g": 1
+  },
+  {
+   "ts": "2026-09-21T19:34:29+07:00",
+   "date": "2026-09-21",
+   "time": "19:34",
+   "src": "Yahoo Finance",
+   "t": "Can Investing in Marvell Technology Stock Double Your Money?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/investing-marvell-technology-stock-double-123429591.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/639e8de7e7aab4552829b77f17e4d204.jpg"
+  },
+  {
+   "ts": "2026-09-21T19:33:14+07:00",
+   "date": "2026-09-21",
+   "time": "19:33",
+   "src": "Yahoo Finance",
+   "t": "Tariffs, fuel costs, and rising rates squeeze U.S. manufacturers",
+   "tags": [],
+   "url": "https://finance.yahoo.com/economy/policy/articles/tariffs-fuel-costs-rising-rates-123314726.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/quartz_855/3ffc1a9b4c354b73f168d74482b51fba.jpg"
   },
   {
    "ts": "2026-09-21T19:32:00+07:00",
@@ -18543,17 +18624,6 @@
    "t_id": "UMKM Daerah Didorong Masuk Ekosistem Affiliate untuk Perluas Pasar"
   },
   {
-   "ts": "2026-09-21T19:20:53+07:00",
-   "date": "2026-09-21",
-   "time": "19:20",
-   "src": "Yahoo Finance",
-   "t": "Progressive’s Trailing Yield Is Wildly Misleading. Here Is What It Actually Pays",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/progressive-trailing-yield-wildly-misleading-122053774.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/24_7_wall_st__718/a71a5f7c5ecc80e44bea76f087281d71.jpg"
-  },
-  {
    "ts": "2026-09-21T19:20:00+07:00",
    "date": "2026-09-21",
    "time": "19:20",
@@ -18573,17 +18643,6 @@
    "url": "https://finance.yahoo.com/markets/stocks/articles/fenimore-bets-nasdaq-ndaq-non-121955576.html",
    "g": 1,
    "img": "https://media.zenfs.com/en/insidermonkey.com/91955f44d75d88f33e1647c18b0fe457.jpg"
-  },
-  {
-   "ts": "2026-09-21T19:19:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:19",
-   "src": "Yahoo Finance",
-   "t": "Saudi Central Bank leaves China-led digital currency initiative",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/crypto/articles/saudi-central-bank-leaves-china-121900552.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/electronic_payments_938/3a1d26836acb0ac2006ab104daa6cad1.jpg"
   },
   {
    "ts": "2026-09-21T19:18:00+07:00",
@@ -18673,73 +18732,6 @@
    "g": 1
   },
   {
-   "ts": "2026-09-21T19:06:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:06",
-   "src": "MarketWatch",
-   "t": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-55320123"
-  },
-  {
-   "ts": "2026-09-21T19:02:29+07:00",
-   "date": "2026-09-21",
-   "time": "19:02",
-   "src": "CNBC",
-   "t": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-   "g": 1,
-   "t_ko": "MS NOW·CNN·Politico, Trump 상대 백악관 출입금지 취소소송 제기",
-   "t_id": "MS NOW, CNN, Politico Gugat Trump untuk Batalkan Larangan Gedung Putih"
-  },
-  {
-   "ts": "2026-09-21T18:59:54+07:00",
-   "date": "2026-09-21",
-   "time": "18:59",
-   "src": "FT",
-   "t": "Trump and Xi are the wrong men at the wrong time",
-   "tags": [],
-   "url": "https://www.ft.com/content/aa1dbf18-eaa3-411a-9bf0-52c99adcb7a8?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb605f505-6378-43ed-98cc-b04a659470a0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "ts": "2026-09-21T18:59:26+07:00",
-   "date": "2026-09-21",
-   "time": "18:59",
-   "src": "Yahoo Finance",
-   "t": "Stock Market Today: Dow Rallies 450 Points As Oil Prices, Treasury Yields Fall; Nvidia Extends Gains (Live Coverage)",
-   "tags": [],
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/8e3f0f90c622d76c522be98b9f3975ee.jpg"
-  },
-  {
-   "ts": "2026-09-21T18:59:16+07:00",
-   "date": "2026-09-21",
-   "time": "18:59",
-   "src": "CNBC",
-   "t": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
-   "g": 1,
-   "ai_ko": "· Greenland Energy 장전 최대 150% 급등\n· 미국·Denmark, Greenland 안보 협정 합의\n· Greenland Mines 80%, Critical Metals Corp 25% 동반 강세",
-   "ai_id": "· Greenland Energy melonjak hingga 150%\n· AS dan Denmark sepakat soal keamanan Greenland\n· Greenland Mines naik 80%, Critical Metals 25%",
-   "ai_tags": [
-    "주가급등",
-    "자원개발",
-    "지정학"
-   ],
-   "ai_tags_id": [
-    "saham melonjak",
-    "pertambangan",
-    "geopolitik"
-   ]
-  },
-  {
    "ts": "2026-09-21T18:58:39+07:00",
    "date": "2026-09-21",
    "time": "18:58",
@@ -18751,16 +18743,6 @@
    "t_id": "Bye Saham Gocap, BEI Resmi Turunkan Batas Harga Saham Jadi Rp 1"
   },
   {
-   "ts": "2026-09-21T18:54:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:54",
-   "src": "Media Indonesia",
-   "t": "Menteri Imipas Minta Kemenimipas Perbaiki Tata Kelola dan Pelayanan Publik",
-   "tags": [],
-   "url": "https://mediaindonesia.com/politik-dan-hukum/935822/menteri-imipas-minta-kemenimipas-perbaiki-tata-kelola-dan-pelayanan-publik",
-   "t_id": "Menteri Imipas Minta Kemenimipas Perbaiki Tata Kelola dan Pelayanan Publik"
-  },
-  {
    "ts": "2026-09-21T18:53:36+07:00",
    "date": "2026-09-21",
    "time": "18:53",
@@ -18769,16 +18751,6 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210302/makin-mudah-investasi-emas-pegadaian-gandeng-blu-lewat-bluinvest-emas-dengan-modal-rp10-ribu",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/0CUiJKdkvKfHGM6FniGmioFVCQtw3Rjj4i13WwXu.webp"
-  },
-  {
-   "ts": "2026-09-21T18:50:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:50",
-   "src": "Media Indonesia",
-   "t": "Bunga Tinggi dan Permintaan Melemah, Pengusaha Tahan Ekspansi Kredit",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935819/bunga-tinggi-dan-permintaan-melemah-pengusaha-tahan-ekspansi-kredit",
-   "t_id": "Bunga Tinggi dan Permintaan Melemah, Pengusaha Tahan Ekspansi Kredit"
   },
   {
    "ts": "2026-09-21T18:45:40+07:00",
@@ -18822,27 +18794,6 @@
    "url": "https://katadata.co.id/finansial/keuangan/6ab116603baaa/ajaib-kenalkan-instrumen-etf-di-sekolah-pasar-modal-bei-surabaya",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Ajaib_platform_investasi_digital_memperkenalkan_Exchange_Traded-2026_09_21-18_27_00_d2f30433fab63dab53237b562042e1f7_620x413_thumb.jpg",
    "t_id": "Ajaib Kenalkan Instrumen ETF di Sekolah Pasar Modal BEI Surabaya"
-  },
-  {
-   "ts": "2026-09-21T18:33:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:33",
-   "src": "Media Indonesia",
-   "t": "Komisi XI Fraksi PKS Tolak Batas Defisit APBN Lebih dari 3 Persen",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935812/komisi-xi-fraksi-pks-tolak-batas-defisit-apbn-lebih-dari-3-persen",
-   "t_id": "Komisi XI Fraksi PKS Tolak Batas Defisit APBN Lebih dari 3 Persen"
-  },
-  {
-   "ts": "2026-09-21T18:26:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:26",
-   "src": "Bloomberg Technoz",
-   "t": "Ajaib Dorong Generasi Muda Melek Investasi di Surabaya",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122259/ajaib-dorong-generasi-muda-melek-investasi-di-surabaya",
-   "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260921181511.jpg",
-   "t_id": "Ajaib Dorong Generasi Muda Melek Investasi di Surabaya"
   }
  ],
  "kisi_news": [
@@ -19019,9 +18970,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.955%",
-   "d": -0.86,
-   "ytd": 19.02,
+   "v": "4.961%",
+   "d": -0.74,
+   "ytd": 19.17,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19042,9 +18993,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.25",
-   "d": -0.06,
-   "ytd": 2.0,
+   "v": "100.27",
+   "d": -0.04,
+   "ytd": 2.02,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19054,9 +19005,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "93.61",
-   "d": -0.38,
-   "ytd": 63.03,
+   "v": "93.43",
+   "d": -0.57,
+   "ytd": 62.71,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19066,9 +19017,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,396.3",
-   "d": 0.01,
-   "ytd": 1.63,
+   "v": "4,398.2",
+   "d": 0.05,
+   "ytd": 1.68,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22674,9 +22625,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 94,
+  "pc_age_min": 107,
   "news_ai_cache": 61,
-  "news_ai_hit": 40,
+  "news_ai_hit": 37,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -22703,7 +22654,7 @@
    "url": "https://katadata.co.id/finansial/bursa/6ab10d458e4d5/bei-ubah-aturan-auto-rejection-batas-arb-makin-lebar-jadi-35-mulai-2027",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Ilustrasi_ARA_dan_ARB_Harga_Saham_-_Auto_Rejection-2026_09_21-17_48_28_ee2b1205a1d6ebf0fdc0605517116cfb_620x413_thumb.png",
    "score": 430.65,
-   "srcs": 4,
+   "srcs": 8,
    "t_id": "BEI Ubah Aturan Auto Rejection, Batas ARB Makin Lebar Jadi 35% mulai 2027"
   },
   {
@@ -22764,7 +22715,7 @@
    "url": "https://www.bloomberg.com/news/articles/2026-09-21/us-stock-futures-climb-ahead-of-trump-xi-meeting-as-oil-slips",
    "g": 1,
    "score": 314.0,
-   "srcs": 8
+   "srcs": 6
   }
  ],
  "daylog": {

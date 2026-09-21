@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 21:57",
+ "updated": "2026-09-21 22:09",
  "delay_min": 15,
- "fx_basis": "12.96 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,374 · 20:30 Yahoo",
- "idr_per_krw": 12.9621,
+ "fx_basis": "12.96 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,374 · 22:00 Yahoo",
+ "idr_per_krw": 12.9614,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -305,10 +305,11 @@
     17830.0,
     17830.0,
     17808.0,
+    17808.0,
     17808.0
    ],
    "inv": true,
-   "asof": "20:30",
+   "asof": "22:00",
    "high": 17833.0,
    "low": 17740.0,
    "src": "yahoo"
@@ -16745,11 +16746,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7720.13,
+   "px": 7724.72,
    "prev": 7650.5,
-   "pct": 0.91,
+   "pct": 0.97,
    "mst": 0,
-   "asof": "10:50",
+   "asof": "11:05",
    "live": true,
    "spark": [
     7695.07,
@@ -16768,18 +16769,21 @@
     7723.22,
     7720.17,
     7720.76,
-    7720.13
+    7722.24,
+    7722.77,
+    7724.95,
+    7724.72
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 26913.47,
+   "px": 26939.19,
    "prev": 26522.54,
-   "pct": 1.47,
+   "pct": 1.57,
    "mst": 0,
-   "asof": "10:50",
+   "asof": "11:05",
    "live": true,
    "spark": [
     26745.7,
@@ -16798,18 +16802,21 @@
     26928.02,
     26916.92,
     26916.72,
-    26913.47
+    26920.07,
+    26931.66,
+    26938.11,
+    26939.19
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51878.66,
+   "px": 51900.22,
    "prev": 51682.64,
-   "pct": 0.38,
+   "pct": 0.42,
    "mst": 0,
-   "asof": "10:50",
+   "asof": "11:05",
    "live": true,
    "spark": [
     51908.94,
@@ -16828,7 +16835,10 @@
     51909.35,
     51885.78,
     51899.55,
-    51878.66
+    51887.31,
+    51876.14,
+    51891.23,
+    51900.22
    ]
   },
   {
@@ -16838,8 +16848,8 @@
    "px": 7007.72,
    "prev": 6894.23,
    "pct": 1.65,
-   "mst": 1,
-   "asof": "15:30",
+   "mst": 2,
+   "asof": "09:00",
    "live": false,
    "spark": [
     6976.92,
@@ -16923,8 +16933,8 @@
    "px": 65018.95,
    "prev": 64098.31,
    "pct": 1.44,
-   "mst": 3,
-   "asof": "09/18",
+   "mst": 2,
+   "asof": "09:00",
    "live": false,
    "spark": [
     64620.01,
@@ -17731,32 +17741,6 @@
    "t_ko": "9월 21일 투자의견: INCO·ANTM·ARCI·MAPI·BULL·MBMA 등"
   },
   {
-   "ts": "2026-09-21T10:34:00+07:00",
-   "date": "2026-09-21",
-   "time": "10:34",
-   "src": "Republika",
-   "t": "BNI dan Unpad Perluas Layanan Digital untuk Ekosistem Kampus",
-   "tags": [
-    "BBNI"
-   ],
-   "url": "https://ekonomi.republika.co.id/berita/tlos6y522/bni-dan-unpad-perluas-layanan-digital-untuk-ekosistem-kampus",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/pt-bank-negara-indonesia-persero-tbk-bni-memperluas-kerja_260921063507-859.jpeg",
-   "t_id": "BNI dan Unpad Perluas Layanan Digital untuk Ekosistem Kampus",
-   "ai_ko": "· BNI(BBNI), Unpad와 디지털금융 협력 확대\n· 2021년 MOU 이후 등록금 가상계좌·QRIS·EDC 제공\n· BBNI 리테일 채널, 동문 카드·대학기금으로 확대",
-   "ai_id": "· BNI (BBNI) perluas layanan digital Unpad\n· Sejak 2021: UKT via VA, QRIS, dan EDC\n· Basis ritel BBNI meluas ke alumni Unpad",
-   "ai_tags": [
-    "은행",
-    "디지털금융",
-    "제휴"
-   ],
-   "ai_tags_id": [
-    "perbankan",
-    "layanan digital",
-    "kemitraan"
-   ],
-   "t_ko": "BNI, Unpad과 캠퍼스 디지털 서비스 확대"
-  },
-  {
    "ts": "2026-09-21T10:30:00+07:00",
    "date": "2026-09-21",
    "time": "10:30",
@@ -18224,9 +18208,19 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T21:54:22.207078+07:00",
+   "ts": "2026-09-21T22:05:57+07:00",
    "date": "2026-09-21",
-   "time": "21:54",
+   "time": "22:05",
+   "src": "CNBC",
+   "t": "Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:01:41+07:00",
+   "date": "2026-09-21",
+   "time": "22:01",
    "src": "Jawa Pos",
    "t": "Pemerintah Gandeng PGN Optimalisasi Jargas di Gresik dan Sidoarjo, Perkuat Gas Bumi Untuk Masyarakat",
    "tags": [],
@@ -18235,14 +18229,100 @@
    "t_id": "Pemerintah Gandeng PGN Optimalisasi Jargas di Gresik dan Sidoarjo, Perkuat Gas Bumi Untuk Masyarakat"
   },
   {
-   "ts": "2026-09-21T21:50:59+07:00",
+   "ts": "2026-09-21T22:00:38+07:00",
+   "date": "2026-09-21",
+   "time": "22:00",
+   "src": "CNBC",
+   "t": "Trump sued by MS NOW, CNN, Politico over White House media ban",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:00:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:00",
+   "src": "IDX Channel",
+   "t": "BEI Turunkan Batas Minimum Harga Saham Jadi Rp1 Mulai 28 September 2026",
+   "tags": [],
+   "url": "https://www.idxchannel.com/market-news/bei-turunkan-batas-minimum-harga-saham-jadi-rp1-mulai-28-september-2026",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/07/29/bei_idx_isra.jpg",
+   "t_id": "BEI Turunkan Batas Minimum Harga Saham Jadi Rp1 Mulai 28 September 2026"
+  },
+  {
+   "ts": "2026-09-21T22:00:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:00",
+   "src": "Republika",
+   "t": "IFG Life Bayarkan Klaim Rp9,4 Triliun, Premi Tumbuh 32,87 Persen",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlptdi416/ifg-life-bayarkan-klaim-rp94-triliun-premi-tumbuh-3287-persen",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/ifg-life-menyiapkan-rp7-5-triliun-untuk-membayar-klaim-polis_260415100316-385.png",
+   "t_id": "IFG Life Bayarkan Klaim Rp9,4 Triliun, Premi Tumbuh 32,87 Persen"
+  },
+  {
+   "ts": "2026-09-21T21:57:00+07:00",
+   "date": "2026-09-21",
+   "time": "21:57",
+   "src": "MarketWatch",
+   "t": "AI is a Pandora’s box that some CEOs seem wary of opening — at least with investors",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-29864721"
+  },
+  {
+   "ts": "2026-09-21T21:55:23+07:00",
+   "date": "2026-09-21",
+   "time": "21:55",
+   "src": "Jawa Pos",
+   "t": "Menkop Mau Rebranding Koperasi Merah Putih Agar Dipahami Gen Z",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210384/menkop-mau-rebranding-koperasi-merah-putih-agar-dipahami-gen-z",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/ilustrasi-koperasi-desa-merah-putih-kdmp-dokumentasi-jawa-pos-fcluQ.webp"
+  },
+  {
+   "ts": "2026-09-21T21:54:32+07:00",
+   "date": "2026-09-21",
+   "time": "21:54",
+   "src": "Bloomberg",
+   "t": "US Diesel Tops Record as Global Crunch Feeds Inflation",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-21/us-diesel-tops-record-as-global-crunch-feeds-inflation-video",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:52:00+07:00",
+   "date": "2026-09-21",
+   "time": "21:52",
+   "src": "Yahoo Finance",
+   "t": "Why Novo Stock Is Tumbling After Drugmaker Unveils Ambitious Growth Plan",
+   "tags": [],
+   "url": "https://www.barrons.com/articles/novo-stock-growth-plan-wegovy-ozempic-5d86fa59?siteid=yhoof2&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/Barrons.com/dc1c6f9012998f61fbc4f365deabfe09.jpg"
+  },
+  {
+   "ts": "2026-09-21T21:50:00+07:00",
    "date": "2026-09-21",
    "time": "21:50",
-   "src": "CNBC",
-   "t": "Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran",
+   "src": "Yahoo Finance",
+   "t": "History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO) in September",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
-   "g": 1
+   "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-know-3-things-145000685.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/a2c84a6695dbce3dd09cddc716f34fc6.jpg"
+  },
+  {
+   "ts": "2026-09-21T21:49:18+07:00",
+   "date": "2026-09-21",
+   "time": "21:49",
+   "src": "Yahoo Finance",
+   "t": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
+   "g": 1,
+   "img": "https://s.yimg.com/uu/api/res/1.2/LRQisy7b_AqHRmMCWEmjVw--~B/aD0xOTM2O3c9MzQ1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/4cccc833-cfbd-4753-84e2-684fcc5da921"
   },
   {
    "ts": "2026-09-21T21:49:08+07:00",
@@ -18255,6 +18335,28 @@
    "g": 1
   },
   {
+   "ts": "2026-09-21T21:48:29+07:00",
+   "date": "2026-09-21",
+   "time": "21:48",
+   "src": "FT",
+   "t": "Battered government bonds rebound as oil falls below $100",
+   "tags": [],
+   "url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7c23f60-7bb9-43db-986a-f7c090ed7b8c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "ts": "2026-09-21T21:47:27+07:00",
+   "date": "2026-09-21",
+   "time": "21:47",
+   "src": "Yahoo Finance",
+   "t": "Robinhood’s Vlad Tenev: Trump Accounts Could Become “The Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade”",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-vlad-tenev-trump-accounts-144727251.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/24_7_wall_st__718/73b0e20fb2bd60f1b66171094c877d29"
+  },
+  {
    "ts": "2026-09-21T21:46:27+07:00",
    "date": "2026-09-21",
    "time": "21:46",
@@ -18262,16 +18364,6 @@
    "t": "White House TV pool won't cover Trump after press ban: CNN",
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T21:44:58+07:00",
-   "date": "2026-09-21",
-   "time": "21:44",
-   "src": "CNBC",
-   "t": "Trump sued by MS NOW, CNN, Politico over White House media ban",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
    "g": 1
   },
   {
@@ -18306,17 +18398,6 @@
    "url": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
    "g": 1,
    "img": "https://images.mktw.net/im-21959265"
-  },
-  {
-   "ts": "2026-09-21T21:35:42+07:00",
-   "date": "2026-09-21",
-   "time": "21:35",
-   "src": "Yahoo Finance",
-   "t": "Larvotto begins gold and antimony concentrate output at Hillgrove",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/commodities/articles/larvotto-begins-gold-antimony-concentrate-143542739.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/mining_technology_700/2c75d9d84fc7e09c33b42b67a7ed57a5.jpg"
   },
   {
    "ts": "2026-09-21T21:34:04+07:00",
@@ -18362,17 +18443,6 @@
    "t_id": "OJK Buka Suara soal Isu Gaji ASN Dipindah dari BPD ke Bank BUMN"
   },
   {
-   "ts": "2026-09-21T21:24:29+07:00",
-   "date": "2026-09-21",
-   "time": "21:24",
-   "src": "Yahoo Finance",
-   "t": "Rivian’s  Remarkable Three Month Stock Collapse",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-remarkable-three-month-stock-142429024.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/24_7_wall_st__718/26156d2de292f9241c0aefbaac9a9e2a.jpg"
-  },
-  {
    "ts": "2026-09-21T21:20:48+07:00",
    "date": "2026-09-21",
    "time": "21:20",
@@ -18393,27 +18463,6 @@
    "g": 1
   },
   {
-   "ts": "2026-09-21T21:14:33+07:00",
-   "date": "2026-09-21",
-   "time": "21:14",
-   "src": "Yahoo Finance",
-   "t": "Stock Market Today: Dow Rallies As Nvidia Nears Entry; Oil Dips On Iran Hopes (Live Coverage)",
-   "tags": [],
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/fded86d9811300314d706a3d2135a764.jpg"
-  },
-  {
-   "ts": "2026-09-21T21:14:26+07:00",
-   "date": "2026-09-21",
-   "time": "21:14",
-   "src": "Reuters",
-   "t": "Fed's Goolsbee says strong demand may be adding to US inflation",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ0hYN2ZsV3h2enhYZkdSaVlTUFRLQnFaNnRmYVJ6LTZxdGN1SGowVDdHUUNRR3pCdXExRG9MdGFRN0dlWEdnWTVfd0NaWnRDRFo5T0pZSnZmRnJWdWxqdEljUVV3LUItRjdjbF9uUzBucjNUeWNBdlZXMDdWbE42elpySFJ6eURzTm02S0xqQWQ3bVFrVU4xLUp4MlpicnN6c19Qc1JTQzVUc1ZBVkVYV2wwS3BwRHNyZXZsZw?oc=5",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T21:12:00+07:00",
    "date": "2026-09-21",
    "time": "21:12",
@@ -18423,39 +18472,6 @@
    "url": "https://ekonomi.republika.co.id/berita/tlpggg370/ekosistem-affiliate-buka-peluang-pasar-dan-pendapatan-bagi-umkm-banjar",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260921151914-840.png",
    "t_id": "Ekosistem Affiliate Buka Peluang Pasar dan Pendapatan bagi UMKM Banjar"
-  },
-  {
-   "ts": "2026-09-21T21:09:13+07:00",
-   "date": "2026-09-21",
-   "time": "21:09",
-   "src": "CNA",
-   "t": "Czech Republic approves Tesla's FSD after earlier safety concerns",
-   "tags": [],
-   "url": "https://www.channelnewsasia.com/business/czech-republic-approves-teslas-fsd-after-earlier-safety-concerns-6400006",
-   "g": 1,
-   "img": "https://dam.mediacorp.sg/image/upload/s--bGx0ZrhQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-21T141428Z_2_LYNXMPEM8K167_RTROPTP_3_TESLA-RESULTS.JPG?itok=-kIVUYbe"
-  },
-  {
-   "ts": "2026-09-21T21:06:00+07:00",
-   "date": "2026-09-21",
-   "time": "21:06",
-   "src": "WSJ",
-   "t": "U.S. Stocks Tick Up as Oil Falls",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/stocks/global-stocks-rally-yields-lower-as-oil-prices-extend-falls-8b63390a?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-52162808"
-  },
-  {
-   "ts": "2026-09-21T21:01:34+07:00",
-   "date": "2026-09-21",
-   "time": "21:01",
-   "src": "Yahoo Finance",
-   "t": "Bitcoin Surges. Coinbase Wins Target Hike. These Crypto Stocks Break Out.",
-   "tags": [],
-   "url": "https://www.investors.com/news/bitcoin-price-cryptocurrency-liquidations-etf-inflows-cftc-sec-coinbase-bullish/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/20b1f6fa22278dc6d25ccbaedfff2e11.jpg"
   },
   {
    "ts": "2026-09-21T20:55:09+07:00",
@@ -18577,49 +18593,6 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlprri349/investor-pasar-modal-tembus-316-juta-ajaib-perluas-edukasi-etf",
    "img": "https://static.republika.co.id/uploads/images/detailnews/financial-expert-ratih-mustikoningsih-memperkenalkan-etf-di-sekolah-pasar_260921192312-183.jpg"
-  },
-  {
-   "ts": "2026-09-21T19:23:39+07:00",
-   "date": "2026-09-21",
-   "time": "19:23",
-   "src": "Jawa Pos",
-   "t": "UMKM Daerah Didorong Masuk Ekosistem Affiliate untuk Perluas Pasar",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210305/umkm-daerah-didorong-masuk-ekosistem-affiliate-untuk-perluas-pasar",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/ilustrasi-affiliate-marketingistimewa-F0ETi.webp",
-   "t_id": "UMKM Daerah Didorong Masuk Ekosistem Affiliate untuk Perluas Pasar"
-  },
-  {
-   "ts": "2026-09-21T19:20:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:20",
-   "src": "Katadata",
-   "t": "Petani Sawit Rakyat Ingin Dilibatkan dalam Hilirisasi Sawit, Ajukan 3 Tuntutan",
-   "tags": [],
-   "url": "https://katadata.co.id/berita/industri/6ab120f4ba773/petani-sawit-rakyat-ingin-dilibatkan-dalam-hilirisasi-sawit-ajukan-3-tuntutan",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Konferensi_Nasional_Perkebunan_Rakyat_II-2026_09_21-18_27_47_f46b1d511cd38b3289e8bcfc9f9b73e1_620x413_thumb.jpeg"
-  },
-  {
-   "ts": "2026-09-21T19:14:45+07:00",
-   "date": "2026-09-21",
-   "time": "19:14",
-   "src": "Jawa Pos",
-   "t": "Menkeu Suahasil Instruksikan Pejabat Baru DJP Pahami Karakter Wajib Pajak",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210113/menkeu-suahasil-instruksikan-pejabat-baru-djp-pahami-karakter-wajib-pajak",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
-   "ai_ko": "· Suahasil Nazara 재무장관, DJP 국장급 5명 임명\n· 에셀론 II·III 신임 간부 공식 임명\n· 납세자 특성 파악·과세 판단 정확성 주문",
-   "ai_id": "· Menkeu Suahasil lantik 5 pejabat DJP\n· Eselon II dan III resmi ditetapkan\n· Diminta pahami karakter wajib pajak",
-   "ai_tags": [
-    "세제",
-    "인사",
-    "정책"
-   ],
-   "ai_tags_id": [
-    "perpajakan",
-    "mutasi pejabat",
-    "kebijakan"
-   ]
   }
  ],
  "kisi_news": [
@@ -18784,9 +18757,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "12.96",
-   "d": 0.77,
-   "ytd": 11.6,
+   "v": "12.95",
+   "d": 0.7,
+   "ytd": 11.52,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -18796,9 +18769,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.961%",
-   "d": -0.74,
-   "ytd": 19.17,
+   "v": "4.959%",
+   "d": -0.78,
+   "ytd": 19.12,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18819,9 +18792,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.34",
-   "d": 0.03,
-   "ytd": 2.09,
+   "v": "100.37",
+   "d": 0.06,
+   "ytd": 2.12,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18831,9 +18804,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.85",
-   "d": -2.26,
-   "ytd": 59.96,
+   "v": "92.28",
+   "d": -1.8,
+   "ytd": 60.71,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18843,9 +18816,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,374.8",
-   "d": -0.48,
-   "ytd": 1.14,
+   "v": "4,376.9",
+   "d": -0.43,
+   "ytd": 1.19,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22451,9 +22424,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 226,
+  "pc_age_min": 238,
   "news_ai_cache": 61,
-  "news_ai_hit": 36,
+  "news_ai_hit": 34,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -22481,7 +22454,7 @@
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
    "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah",
    "score": 430.65,
-   "srcs": 4
+   "srcs": 7
   },
   {
    "ts": "2026-09-21T19:14:45+07:00",
@@ -22492,6 +22465,8 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210113/menkeu-suahasil-instruksikan-pejabat-baru-djp-pahami-karakter-wajib-pajak",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
+   "score": 411.25,
+   "srcs": 2,
    "ai_ko": "· Suahasil Nazara 재무장관, DJP 국장급 5명 임명\n· 에셀론 II·III 신임 간부 공식 임명\n· 납세자 특성 파악·과세 판단 정확성 주문",
    "ai_id": "· Menkeu Suahasil lantik 5 pejabat DJP\n· Eselon II dan III resmi ditetapkan\n· Diminta pahami karakter wajib pajak",
    "ai_tags": [
@@ -22503,9 +22478,7 @@
     "perpajakan",
     "mutasi pejabat",
     "kebijakan"
-   ],
-   "score": 413.35,
-   "srcs": 2
+   ]
   },
   {
    "ts": "2026-09-21T16:50:00+07:00",
@@ -22532,16 +22505,16 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T21:50:59+07:00",
+   "ts": "2026-09-21T22:05:57+07:00",
    "date": "2026-09-21",
-   "time": "21:50",
+   "time": "22:05",
    "src": "CNBC",
    "t": "Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran",
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
    "g": 1,
    "score": 316.0,
-   "srcs": 6
+   "srcs": 7
   }
  ],
  "daylog": {

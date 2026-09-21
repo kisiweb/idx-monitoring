@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 22:09",
+ "updated": "2026-09-21 22:28",
  "delay_min": 15,
- "fx_basis": "12.96 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,374 · 22:00 Yahoo",
- "idr_per_krw": 12.9614,
+ "fx_basis": "12.95 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,375 · 22:00 Yahoo",
+ "idr_per_krw": 12.9545,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16746,11 +16746,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7724.72,
+   "px": 7729.99,
    "prev": 7650.5,
-   "pct": 0.97,
+   "pct": 1.04,
    "mst": 0,
-   "asof": "11:05",
+   "asof": "11:20",
    "live": true,
    "spark": [
     7695.07,
@@ -16772,18 +16772,21 @@
     7722.24,
     7722.77,
     7724.95,
-    7724.72
+    7725.46,
+    7728.08,
+    7731.83,
+    7729.99
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 26939.19,
+   "px": 26945.38,
    "prev": 26522.54,
-   "pct": 1.57,
+   "pct": 1.59,
    "mst": 0,
-   "asof": "11:05",
+   "asof": "11:20",
    "live": true,
    "spark": [
     26745.7,
@@ -16805,18 +16808,21 @@
     26920.07,
     26931.66,
     26938.11,
-    26939.19
+    26945.36,
+    26946.77,
+    26957.21,
+    26945.38
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51900.22,
+   "px": 51924.71,
    "prev": 51682.64,
-   "pct": 0.42,
+   "pct": 0.47,
    "mst": 0,
-   "asof": "11:05",
+   "asof": "11:20",
    "live": true,
    "spark": [
     51908.94,
@@ -16838,7 +16844,10 @@
     51887.31,
     51876.14,
     51891.23,
-    51900.22
+    51895.6,
+    51915.06,
+    51937.94,
+    51924.71
    ]
   },
   {
@@ -17741,32 +17750,6 @@
    "t_ko": "9월 21일 투자의견: INCO·ANTM·ARCI·MAPI·BULL·MBMA 등"
   },
   {
-   "ts": "2026-09-21T10:30:00+07:00",
-   "date": "2026-09-21",
-   "time": "10:30",
-   "src": "IDNFinancials",
-   "t": "Moody’s cuts Bayan Resources outlook after Haji Isam bid",
-   "tags": [
-    "BYAN"
-   ],
-   "url": "https://www.idnfinancials.com/news/69161/moodys-cuts-bayan-resources-outlook-after-haji-isam-bid",
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/MOODYS-BYAN-21092026.jpg",
-   "ai_ko": "· Moody's, BYAN 등급전망 negative로\n· 등급 Ba1 유지, 생산쿼터 불확실성\n· 2026년 생산 3,900만톤 전망",
-   "ai_id": "· Moody's turunkan outlook BYAN\n jadi negatif, rating tetap Ba1\n· Kuota produksi picu force majeure\n· Produksi 2026 diperkirakan 39 juta ton",
-   "ai_tags": [
-    "신용등급",
-    "석탄",
-    "규제"
-   ],
-   "ai_tags_id": [
-    "peringkat",
-    "batu bara",
-    "regulasi"
-   ],
-   "t_ko": "Moody's, Haji Isam 인수설에 Bayan Resources(BYAN) 등급전망 하향",
-   "t_id": "Moody's pangkas outlook Bayan Resources usai tawaran Haji Isam"
-  },
-  {
    "ts": "2026-09-20T13:17:40+07:00",
    "date": "2026-09-20",
    "time": "09/20",
@@ -18208,14 +18191,151 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T22:05:57+07:00",
+   "ts": "2026-09-21T22:23:04+07:00",
    "date": "2026-09-21",
-   "time": "22:05",
+   "time": "22:23",
+   "src": "CNBC",
+   "t": "AMD hits $1 trillion market cap as stock continues 5-day rally",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:22:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:22",
+   "src": "MarketWatch",
+   "t": "Many young adults can only afford to invest thanks to the bank of mom and dad",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-96227400"
+  },
+  {
+   "ts": "2026-09-21T22:20:46+07:00",
+   "date": "2026-09-21",
+   "time": "22:20",
+   "src": "CNBC",
+   "t": "Treasury yields ease as global borrowing costs tumble",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/treasury-yields-government-bonds.html",
+   "g": 1,
+   "ai_ko": "· 독일·영국 10년물 금리 각각 5bp 하락\n· 유가 하락에 위험자산 선호 회복\n· 미국 연준 0.25%p 인상 후 추가 인상 주시",
+   "ai_id": "· Yield bund dan gilt 10 tahun turun 5 bps\n· Harga minyak turun, bursa saham menguat\n· Pasar cerna kenaikan bunga The Fed",
+   "ai_tags": [
+    "금리",
+    "채권",
+    "유가"
+   ],
+   "ai_tags_id": [
+    "suku bunga",
+    "obligasi",
+    "harga minyak"
+   ]
+  },
+  {
+   "ts": "2026-09-21T22:20:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:20",
+   "src": "Media Indonesia",
+   "t": "50 Produsen Mesin Tambang Dunia Perkuat Industri Alat Berat",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935929/50-produsen-mesin-tambang-dunia-perkuat-industri-alat-berat",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:14:53+07:00",
+   "date": "2026-09-21",
+   "time": "22:14",
+   "src": "CNBC",
+   "t": "What is the White House press pool and why does it matter?",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:14:18+07:00",
+   "date": "2026-09-21",
+   "time": "22:14",
+   "src": "CNBC",
+   "t": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:13:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:13",
+   "src": "Media Indonesia",
+   "t": "OTT Bupati Bolmut Sirajudin Lasena, KPK Sita Uang Tunai Ratusan Juta Rupiah",
+   "tags": [],
+   "url": "https://mediaindonesia.com/politik-dan-hukum/935928/ott-bupati-bolmut-sirajudin-lasena-kpk-sita-uang-tunai-ratusan-juta-rupiah"
+  },
+  {
+   "ts": "2026-09-21T22:12:12+07:00",
+   "date": "2026-09-21",
+   "time": "22:12",
+   "src": "CNBC",
+   "t": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
+   "g": 1,
+   "ai_ko": "· Novo 주가 장중 7% 하락\n· 2035년 파이프라인 매출 목표 USD 230억 제시\n· 2030년까지 블록버스터 5종 이상 출시 계획",
+   "ai_id": "· Saham Novo anjlok hingga 7%\n· Target penjualan pipeline US$23 miliar\n· Bidik lebih dari 5 obat blockbuster",
+   "ai_tags": [
+    "주가",
+    "실적",
+    "신약"
+   ],
+   "ai_tags_id": [
+    "saham",
+    "kinerja",
+    "obat baru"
+   ]
+  },
+  {
+   "ts": "2026-09-21T22:10:24+07:00",
+   "date": "2026-09-21",
+   "time": "22:10",
    "src": "CNBC",
    "t": "Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran",
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
    "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:07:46+07:00",
+   "date": "2026-09-21",
+   "time": "22:07",
+   "src": "Yahoo Finance",
+   "t": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage)",
+   "tags": [],
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/fded86d9811300314d706a3d2135a764.jpg"
+  },
+  {
+   "ts": "2026-09-21T22:07:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:07",
+   "src": "MarketWatch",
+   "t": "AMD hits a major milestone as AI stocks blaze higher",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-57006692"
+  },
+  {
+   "ts": "2026-09-21T22:04:12+07:00",
+   "date": "2026-09-21",
+   "time": "22:04",
+   "src": "Detik",
+   "t": "Terungkap Alasan Bensin di RI Bakal Dicampur Etanol 50%",
+   "tags": [],
+   "url": "https://finance.detik.com/energi/d-8673160/terungkap-alasan-bensin-di-ri-bakal-dicampur-etanol-50",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/08/04/bahlil-lahadalia-1785840108228_169.jpeg?w=360&q=90",
+   "t_id": "Terungkap Alasan Bensin di RI Bakal Dicampur Etanol 50%"
   },
   {
    "ts": "2026-09-21T22:01:41+07:00",
@@ -18282,6 +18402,17 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/ilustrasi-koperasi-desa-merah-putih-kdmp-dokumentasi-jawa-pos-fcluQ.webp"
   },
   {
+   "ts": "2026-09-21T21:55:00+07:00",
+   "date": "2026-09-21",
+   "time": "21:55",
+   "src": "Yahoo Finance",
+   "t": "Tim Cook warned of a ‘hundred-year flood’ striking tech giants — and now Apple is raising prices. What it means for you",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/articles/tim-cook-warned-hundred-flood-145500897.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/moneywise_ecomm_711/9fea3b942b64d44eed810f389641c331.jpg"
+  },
+  {
    "ts": "2026-09-21T21:54:32+07:00",
    "date": "2026-09-21",
    "time": "21:54",
@@ -18290,28 +18421,6 @@
    "tags": [],
    "url": "https://www.bloomberg.com/news/videos/2026-09-21/us-diesel-tops-record-as-global-crunch-feeds-inflation-video",
    "g": 1
-  },
-  {
-   "ts": "2026-09-21T21:52:00+07:00",
-   "date": "2026-09-21",
-   "time": "21:52",
-   "src": "Yahoo Finance",
-   "t": "Why Novo Stock Is Tumbling After Drugmaker Unveils Ambitious Growth Plan",
-   "tags": [],
-   "url": "https://www.barrons.com/articles/novo-stock-growth-plan-wegovy-ozempic-5d86fa59?siteid=yhoof2&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/Barrons.com/dc1c6f9012998f61fbc4f365deabfe09.jpg"
-  },
-  {
-   "ts": "2026-09-21T21:50:00+07:00",
-   "date": "2026-09-21",
-   "time": "21:50",
-   "src": "Yahoo Finance",
-   "t": "History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO) in September",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-know-3-things-145000685.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/a2c84a6695dbce3dd09cddc716f34fc6.jpg"
   },
   {
    "ts": "2026-09-21T21:49:18+07:00",
@@ -18333,71 +18442,6 @@
    "tags": [],
    "url": "https://www.bloomberg.com/news/videos/2026-09-21/accenture-anthropic-partnership-novo-nordisk-falls-video",
    "g": 1
-  },
-  {
-   "ts": "2026-09-21T21:48:29+07:00",
-   "date": "2026-09-21",
-   "time": "21:48",
-   "src": "FT",
-   "t": "Battered government bonds rebound as oil falls below $100",
-   "tags": [],
-   "url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7c23f60-7bb9-43db-986a-f7c090ed7b8c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "ts": "2026-09-21T21:47:27+07:00",
-   "date": "2026-09-21",
-   "time": "21:47",
-   "src": "Yahoo Finance",
-   "t": "Robinhood’s Vlad Tenev: Trump Accounts Could Become “The Biggest Element of Long-Term Saving and Investing in This Country Within Possibly Even a Decade”",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-vlad-tenev-trump-accounts-144727251.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/24_7_wall_st__718/73b0e20fb2bd60f1b66171094c877d29"
-  },
-  {
-   "ts": "2026-09-21T21:46:27+07:00",
-   "date": "2026-09-21",
-   "time": "21:46",
-   "src": "CNBC",
-   "t": "White House TV pool won't cover Trump after press ban: CNN",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T21:39:09+07:00",
-   "date": "2026-09-21",
-   "time": "21:39",
-   "src": "CNBC",
-   "t": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
-   "g": 1,
-   "ai_ko": "· Novo 주가 장중 7% 하락\n· 2035년 파이프라인 매출 목표 USD 230억 제시\n· 2030년까지 블록버스터 5종 이상 출시 계획",
-   "ai_id": "· Saham Novo anjlok hingga 7%\n· Target penjualan pipeline US$23 miliar\n· Bidik lebih dari 5 obat blockbuster",
-   "ai_tags": [
-    "주가",
-    "실적",
-    "신약"
-   ],
-   "ai_tags_id": [
-    "saham",
-    "kinerja",
-    "obat baru"
-   ]
-  },
-  {
-   "ts": "2026-09-21T21:39:00+07:00",
-   "date": "2026-09-21",
-   "time": "21:39",
-   "src": "MarketWatch",
-   "t": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-21959265"
   },
   {
    "ts": "2026-09-21T21:34:04+07:00",
@@ -18422,16 +18466,6 @@
    "t_id": "Jalankan Arahan Presiden Prabowo, Bahlil Siap Sulap Batu Bara Kalori Rendah jadi Bensin"
   },
   {
-   "ts": "2026-09-21T21:28:58+07:00",
-   "date": "2026-09-21",
-   "time": "21:28",
-   "src": "CNBC",
-   "t": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T21:25:46+07:00",
    "date": "2026-09-21",
    "time": "21:25",
@@ -18441,26 +18475,6 @@
    "url": "https://finance.detik.com/moneter/d-8673130/ojk-buka-suara-soal-isu-gaji-asn-dipindah-dari-bpd-ke-bank-bumn",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/01/09/ilustrasi-gaji-1767955120071_169.jpeg?w=360&q=90",
    "t_id": "OJK Buka Suara soal Isu Gaji ASN Dipindah dari BPD ke Bank BUMN"
-  },
-  {
-   "ts": "2026-09-21T21:20:48+07:00",
-   "date": "2026-09-21",
-   "time": "21:20",
-   "src": "CNBC",
-   "t": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T21:16:00+07:00",
-   "date": "2026-09-21",
-   "time": "21:16",
-   "src": "WSJ",
-   "t": "Treasury Yields Ease, Inflation Concerns Tread Lower",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/citi-raises-10-year-u-s-treasury-yield-forecast-ee0a5651?mod=rss_markets_main",
-   "g": 1
   },
   {
    "ts": "2026-09-21T21:12:00+07:00",
@@ -18572,27 +18586,6 @@
    "tags": [],
    "url": "https://katadata.co.id/ekonomi-hijau/investasi-hijau/6ab1245a5e645/gerakan-patungan-hutan-bergulir-akankah-pacu-kebijakan-baru-pemerintah",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/09/2026_09_09-17_39_00_9d9cc9d8-ac47-11f1-9607-0242ac12000a_620x413_thumb.jpg"
-  },
-  {
-   "ts": "2026-09-21T19:30:38+07:00",
-   "date": "2026-09-21",
-   "time": "19:30",
-   "src": "Detik",
-   "t": "748 Orang Direkrut Jadi Petugas Jaga Lintasan Kereta",
-   "tags": [],
-   "url": "https://finance.detik.com/foto-bisnis/d-8672742/748-orang-direkrut-jadi-petugas-jaga-lintasan-kereta",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/748-orang-direkrut-jadi-petugas-jaga-lintasan-kereta-1789985421130_169.jpeg?w=360&q=90",
-   "t_id": "748 Orang Direkrut Jadi Petugas Jaga Lintasan Kereta"
-  },
-  {
-   "ts": "2026-09-21T19:23:42+07:00",
-   "date": "2026-09-21",
-   "time": "19:23",
-   "src": "Republika",
-   "t": "Investor Pasar Modal Tembus 31,6 Juta, Ajaib Perluas Edukasi ETF",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlprri349/investor-pasar-modal-tembus-316-juta-ajaib-perluas-edukasi-etf",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/financial-expert-ratih-mustikoningsih-memperkenalkan-etf-di-sekolah-pasar_260921192312-183.jpg"
   }
  ],
  "kisi_news": [
@@ -18758,8 +18751,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "12.95",
-   "d": 0.7,
-   "ytd": 11.52,
+   "d": 0.65,
+   "ytd": 11.47,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -18769,9 +18762,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.959%",
-   "d": -0.78,
-   "ytd": 19.12,
+   "v": "4.963%",
+   "d": -0.7,
+   "ytd": 19.22,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18792,9 +18785,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.37",
-   "d": 0.06,
-   "ytd": 2.12,
+   "v": "100.38",
+   "d": 0.07,
+   "ytd": 2.14,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18804,9 +18797,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "92.28",
-   "d": -1.8,
-   "ytd": 60.71,
+   "v": "92.10",
+   "d": -1.99,
+   "ytd": 60.4,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18816,9 +18809,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,376.9",
-   "d": -0.43,
-   "ytd": 1.19,
+   "v": "4,387.6",
+   "d": -0.19,
+   "ytd": 1.43,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22424,7 +22417,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 238,
+  "pc_age_min": 257,
   "news_ai_cache": 61,
   "news_ai_hit": 34,
   "on_runner": true,
@@ -22454,31 +22447,7 @@
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
    "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah",
    "score": 430.65,
-   "srcs": 7
-  },
-  {
-   "ts": "2026-09-21T19:14:45+07:00",
-   "date": "2026-09-21",
-   "time": "19:14",
-   "src": "Jawa Pos",
-   "t": "Menkeu Suahasil Instruksikan Pejabat Baru DJP Pahami Karakter Wajib Pajak",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210113/menkeu-suahasil-instruksikan-pejabat-baru-djp-pahami-karakter-wajib-pajak",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
-   "score": 411.25,
-   "srcs": 2,
-   "ai_ko": "· Suahasil Nazara 재무장관, DJP 국장급 5명 임명\n· 에셀론 II·III 신임 간부 공식 임명\n· 납세자 특성 파악·과세 판단 정확성 주문",
-   "ai_id": "· Menkeu Suahasil lantik 5 pejabat DJP\n· Eselon II dan III resmi ditetapkan\n· Diminta pahami karakter wajib pajak",
-   "ai_tags": [
-    "세제",
-    "인사",
-    "정책"
-   ],
-   "ai_tags_id": [
-    "perpajakan",
-    "mutasi pejabat",
-    "kebijakan"
-   ]
+   "srcs": 6
   },
   {
    "ts": "2026-09-21T16:50:00+07:00",
@@ -22493,6 +22462,30 @@
    "srcs": 1
   },
   {
+   "ts": "2026-09-21T19:14:45+07:00",
+   "date": "2026-09-21",
+   "time": "19:14",
+   "src": "Jawa Pos",
+   "t": "Menkeu Suahasil Instruksikan Pejabat Baru DJP Pahami Karakter Wajib Pajak",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210113/menkeu-suahasil-instruksikan-pejabat-baru-djp-pahami-karakter-wajib-pajak",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
+   "score": 409.05,
+   "srcs": 1,
+   "ai_ko": "· Suahasil Nazara 재무장관, DJP 국장급 5명 임명\n· 에셀론 II·III 신임 간부 공식 임명\n· 납세자 특성 파악·과세 판단 정확성 주문",
+   "ai_id": "· Menkeu Suahasil lantik 5 pejabat DJP\n· Eselon II dan III resmi ditetapkan\n· Diminta pahami karakter wajib pajak",
+   "ai_tags": [
+    "세제",
+    "인사",
+    "정책"
+   ],
+   "ai_tags_id": [
+    "perpajakan",
+    "mutasi pejabat",
+    "kebijakan"
+   ]
+  },
+  {
    "ts": "2026-09-21T21:00:29+07:00",
    "date": "2026-09-21",
    "time": "21:00",
@@ -22505,16 +22498,16 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T22:05:57+07:00",
+   "ts": "2026-09-21T22:10:24+07:00",
    "date": "2026-09-21",
-   "time": "22:05",
+   "time": "22:10",
    "src": "CNBC",
    "t": "Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran",
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
    "g": 1,
    "score": 316.0,
-   "srcs": 7
+   "srcs": 5
   }
  ],
  "daylog": {

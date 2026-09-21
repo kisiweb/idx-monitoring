@@ -1889,9 +1889,12 @@ function today(){return new Date(Date.now()+7*3600e3).toISOString().slice(0,10);
 function isoLocal(d){return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;}
 function addDays(iso,n){const d=new Date(iso+'T12:00:00');d.setDate(d.getDate()+n);return isoLocal(d);}
 function stars(n){return`<span class="stars">${'★'.repeat(n)}<i>${'★'.repeat(3-n)}</i></span>`;}
-/* 별 개수는 우리 점수(sc) 기준. 70점↑ ★★★ · 40~69 ★★ · 그 미만 ★.
-   sc 가 없는 예전 데이터는 종전대로 investing.com 별점을 쓴다. */
-const evStar=e=>(e&&e.sc!=null)?(e.sc>=70?3:(e.sc>=40?2:1)):((e&&e.imp)||1);
+/* 별은 승인된 등급표 그대로 — S·A ★★★ / B·C ★★ / D 이하 ★ (2026-09-21 지시).
+   기준은 보정 전 등급점수(gs)다. 별점·임박 보정이 붙은 sc 로 매기면 D 등급이 ★★ 로 올라간다.
+   gs 가 없는 예전 데이터만 종전대로 investing.com 별점을 쓴다. */
+const evStar=e=>{const g=e&&e.gs;
+  if(g==null)return (e&&e.imp)||1;
+  return g>=76?3:(g>=46?2:1);};
 function ev(e){const c=e.kind==='corp'||e.kind==='div'||e.kind==='ipo';return`<div class="ev ${c?'corp':''} ${e.kind==='div'?'div':''} ${e.kind==='ipo'?'ipo':''}" onclick='evDetail(${JSON.stringify(e).replace(/'/g,"&#39;")})'><div class="tm">${e.time||'—'}</div>${c&&e.t&&e.t!=='—'?logo(e.t):''}<div class="bd">${cbadge(e.country)}${stars(evStar(e))}<b>${c&&e.t&&e.t!=='—'?e.t+' · ':''}${L(e,'title')}</b>${e.exp||e.prev?`<div class="cons">(${T('exp')}: ${e.exp||'—'} · ${T('prev')}: ${e.prev||'—'})</div>`:''}${e.act?`<div class="act">${T('act')}: ${e.act}</div>`:''}</div>${(()=>{const k=calKey(e),on=calPinned(k);return `<button class="bell${on?' on':''}" data-k="${k.replace(/"/g,'&quot;')}" title="${T(on?'calOn':'calOff')}" onclick='event.stopPropagation();calBell(this,${JSON.stringify(k).replace(/'/g,"&#39;")})'>${on?'\uD83D\uDD14':'\uD83D\uDD15'}</button>`;})()}</div>`;}
 function renderCal(){const dt=new Date(calDate+'T00:00:00');$('cal-date').textContent=dayLabel(calDate);
   const from=calDate,to=addDays(calDate,13);

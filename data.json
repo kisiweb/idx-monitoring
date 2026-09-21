@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 21:43",
+ "updated": "2026-09-21 21:57",
  "delay_min": 15,
- "fx_basis": "12.97 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,373 · 20:30 Yahoo",
- "idr_per_krw": 12.9684,
+ "fx_basis": "12.96 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,374 · 20:30 Yahoo",
+ "idr_per_krw": 12.9621,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16745,11 +16745,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7723.29,
+   "px": 7720.13,
    "prev": 7650.5,
-   "pct": 0.95,
+   "pct": 0.91,
    "mst": 0,
-   "asof": "10:35",
+   "asof": "10:50",
    "live": true,
    "spark": [
     7695.07,
@@ -16765,18 +16765,21 @@
     7720.6,
     7720.73,
     7721.9,
-    7723.29
+    7723.22,
+    7720.17,
+    7720.76,
+    7720.13
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 26927.81,
+   "px": 26913.47,
    "prev": 26522.54,
-   "pct": 1.53,
+   "pct": 1.47,
    "mst": 0,
-   "asof": "10:35",
+   "asof": "10:50",
    "live": true,
    "spark": [
     26745.7,
@@ -16792,18 +16795,21 @@
     26913.03,
     26923.15,
     26930.31,
-    26927.81
+    26928.02,
+    26916.92,
+    26916.72,
+    26913.47
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51912.69,
+   "px": 51878.66,
    "prev": 51682.64,
-   "pct": 0.45,
+   "pct": 0.38,
    "mst": 0,
-   "asof": "10:35",
+   "asof": "10:50",
    "live": true,
    "spark": [
     51908.94,
@@ -16819,7 +16825,10 @@
     51916.57,
     51894.95,
     51897.53,
-    51912.69
+    51909.35,
+    51885.78,
+    51899.55,
+    51878.66
    ]
   },
   {
@@ -18215,6 +18224,57 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T21:54:22.207078+07:00",
+   "date": "2026-09-21",
+   "time": "21:54",
+   "src": "Jawa Pos",
+   "t": "Pemerintah Gandeng PGN Optimalisasi Jargas di Gresik dan Sidoarjo, Perkuat Gas Bumi Untuk Masyarakat",
+   "tags": [],
+   "url": "https://www.jawapos.com/energi/2609210198/pemerintah-gandeng-pgn-optimalisasi-jargas-di-gresik-dan-sidoarjo-perkuat-gas-bumi-untuk-masyarakat",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/WhaVUkpdoboncjzwcENP3uQaeCI5SrfVpCunM9gn.webp",
+   "t_id": "Pemerintah Gandeng PGN Optimalisasi Jargas di Gresik dan Sidoarjo, Perkuat Gas Bumi Untuk Masyarakat"
+  },
+  {
+   "ts": "2026-09-21T21:50:59+07:00",
+   "date": "2026-09-21",
+   "time": "21:50",
+   "src": "CNBC",
+   "t": "Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:49:08+07:00",
+   "date": "2026-09-21",
+   "time": "21:49",
+   "src": "Bloomberg",
+   "t": "Accenture Up on Partnership with Anthropic; Novo Nordisk Falls on Turnaround",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-21/accenture-anthropic-partnership-novo-nordisk-falls-video",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:46:27+07:00",
+   "date": "2026-09-21",
+   "time": "21:46",
+   "src": "CNBC",
+   "t": "White House TV pool won't cover Trump after press ban: CNN",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T21:44:58+07:00",
+   "date": "2026-09-21",
+   "time": "21:44",
+   "src": "CNBC",
+   "t": "Trump sued by MS NOW, CNN, Politico over White House media ban",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+   "g": 1
+  },
+  {
    "ts": "2026-09-21T21:39:09+07:00",
    "date": "2026-09-21",
    "time": "21:39",
@@ -18237,14 +18297,26 @@
    ]
   },
   {
-   "ts": "2026-09-21T21:36:38+07:00",
+   "ts": "2026-09-21T21:39:00+07:00",
    "date": "2026-09-21",
-   "time": "21:36",
-   "src": "CNBC",
-   "t": "White House TV pool won't cover Trump after press ban: CNN",
+   "time": "21:39",
+   "src": "MarketWatch",
+   "t": "AT&T’s stock looks like the smartest bet in the wireless sector, analyst says",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-   "g": 1
+   "url": "https://www.marketwatch.com/story/at-ts-stock-looks-like-the-smartest-bet-in-the-wireless-sector-analyst-says-6e773d63?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-21959265"
+  },
+  {
+   "ts": "2026-09-21T21:35:42+07:00",
+   "date": "2026-09-21",
+   "time": "21:35",
+   "src": "Yahoo Finance",
+   "t": "Larvotto begins gold and antimony concentrate output at Hillgrove",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/commodities/articles/larvotto-begins-gold-antimony-concentrate-143542739.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/mining_technology_700/2c75d9d84fc7e09c33b42b67a7ed57a5.jpg"
   },
   {
    "ts": "2026-09-21T21:34:04+07:00",
@@ -18290,6 +18362,17 @@
    "t_id": "OJK Buka Suara soal Isu Gaji ASN Dipindah dari BPD ke Bank BUMN"
   },
   {
+   "ts": "2026-09-21T21:24:29+07:00",
+   "date": "2026-09-21",
+   "time": "21:24",
+   "src": "Yahoo Finance",
+   "t": "Rivian’s  Remarkable Three Month Stock Collapse",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-remarkable-three-month-stock-142429024.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/24_7_wall_st__718/26156d2de292f9241c0aefbaac9a9e2a.jpg"
+  },
+  {
    "ts": "2026-09-21T21:20:48+07:00",
    "date": "2026-09-21",
    "time": "21:20",
@@ -18297,16 +18380,6 @@
    "t": "Iranian President Pezeshkian to head to New York for UN meeting as Trump warns of no-deal consequences",
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T21:20:31+07:00",
-   "date": "2026-09-21",
-   "time": "21:20",
-   "src": "CNBC",
-   "t": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
    "g": 1
   },
   {
@@ -18352,17 +18425,6 @@
    "t_id": "Ekosistem Affiliate Buka Peluang Pasar dan Pendapatan bagi UMKM Banjar"
   },
   {
-   "ts": "2026-09-21T21:11:00+07:00",
-   "date": "2026-09-21",
-   "time": "21:11",
-   "src": "Yahoo Finance",
-   "t": "Meet the Quantum Computing Stock Growing Faster Than Nvidia",
-   "tags": [],
-   "url": "https://finance.yahoo.com/technology/ai/articles/meet-quantum-computing-stock-growing-141100719.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/688feda7fda8348556aa6cb2d2056511.jpg"
-  },
-  {
    "ts": "2026-09-21T21:09:13+07:00",
    "date": "2026-09-21",
    "time": "21:09",
@@ -18372,16 +18434,6 @@
    "url": "https://www.channelnewsasia.com/business/czech-republic-approves-teslas-fsd-after-earlier-safety-concerns-6400006",
    "g": 1,
    "img": "https://dam.mediacorp.sg/image/upload/s--bGx0ZrhQ--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-21T141428Z_2_LYNXMPEM8K167_RTROPTP_3_TESLA-RESULTS.JPG?itok=-kIVUYbe"
-  },
-  {
-   "ts": "2026-09-21T21:08:50+07:00",
-   "date": "2026-09-21",
-   "time": "21:08",
-   "src": "CNBC",
-   "t": "U.S. crude oil falls back below $100 per barrel after Trump says he's open to talking to Iran",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
-   "g": 1
   },
   {
    "ts": "2026-09-21T21:06:00+07:00",
@@ -18406,16 +18458,6 @@
    "img": "https://media.zenfs.com/en/ibd.com/20b1f6fa22278dc6d25ccbaedfff2e11.jpg"
   },
   {
-   "ts": "2026-09-21T21:00:29+07:00",
-   "date": "2026-09-21",
-   "time": "21:00",
-   "src": "Reuters",
-   "t": "Gold inches down on rising odds of Fed rate hike, stronger dollar",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUtKdjloRHZCamhPWmFUa00yUkQwRWZJNFVpbUFiRl9KQmNWbmViLTJQN1hvUmphTzVuMm9ubU5VaXNoQ2NPdVgzM3JPd0t6Qk5XOHQ4ZG96bDRkMlhEMG1kN09OaElGdGxsOEpYdzA2eE53aXBsZm1ZaWhXR1JJY0FSN2NPdzFaX2d6UjY4VU5aWTJOcDNRZC1kTURhRWFPUVNoeU9NTEVUcFRuQmc?oc=5",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T20:55:09+07:00",
    "date": "2026-09-21",
    "time": "20:55",
@@ -18434,27 +18476,6 @@
    "t": "KPK Sita Ratusan Juta Rupiah dalam OTT Bupati Bolaang Mongondow Utara Sirajudin Lasena",
    "tags": [],
    "url": "https://mediaindonesia.com/politik-dan-hukum/935908/kpk-sita-ratusan-juta-rupiah-dalam-ott-bupati-bolaang-mongondow-utara-sirajudin-lasena"
-  },
-  {
-   "ts": "2026-09-21T20:54:58+07:00",
-   "date": "2026-09-21",
-   "time": "20:54",
-   "src": "Yahoo Finance",
-   "t": "Silver prices today, Monday, September 21, 2026: Silver prices rising ahead of U.S.-China summit",
-   "tags": [],
-   "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-monday-september-21-2026-silver-prices-rising-ahead-of-us-china-summit-135458890.html",
-   "g": 1,
-   "img": "https://s.yimg.com/os/creatr-uploaded-images/2024-04/21b3a190-027e-11ef-bbb5-a0f6297c401d"
-  },
-  {
-   "ts": "2026-09-21T20:51:20+07:00",
-   "date": "2026-09-21",
-   "time": "20:51",
-   "src": "Bloomberg",
-   "t": "US-China Have Time to Discuss Trade Truce Extension, Greer Says",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/us-china-have-time-for-trade-truce-extension-greer-video",
-   "g": 1
   },
   {
    "ts": "2026-09-21T20:46:00+07:00",
@@ -18599,16 +18620,6 @@
     "mutasi pejabat",
     "kebijakan"
    ]
-  },
-  {
-   "ts": "2026-09-21T19:08:48+07:00",
-   "date": "2026-09-21",
-   "time": "19:08",
-   "src": "Republika",
-   "t": "Amran Sebut Kenaikan Harga Beras tak Seharusnya Terjadi Saat Stok Melimpah",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlpr2o349/amran-sebut-kenaikan-harga-beras-tak-seharusnya-terjadi-saat-stok-melimpah",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260904104541-117.png"
   }
  ],
  "kisi_news": [
@@ -18785,9 +18796,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.965%",
-   "d": -0.66,
-   "ytd": 19.26,
+   "v": "4.961%",
+   "d": -0.74,
+   "ytd": 19.17,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18808,9 +18819,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.36",
-   "d": 0.05,
-   "ytd": 2.12,
+   "v": "100.34",
+   "d": 0.03,
+   "ytd": 2.09,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18820,9 +18831,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.75",
-   "d": -2.36,
-   "ytd": 59.79,
+   "v": "91.85",
+   "d": -2.26,
+   "ytd": 59.96,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18832,9 +18843,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,380.7",
-   "d": -0.34,
-   "ytd": 1.27,
+   "v": "4,374.8",
+   "d": -0.48,
+   "ytd": 1.14,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22440,7 +22451,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 212,
+  "pc_age_min": 226,
   "news_ai_cache": 61,
   "news_ai_hit": 36,
   "on_runner": true,
@@ -22521,16 +22532,15 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T15:02:14+07:00",
+   "ts": "2026-09-21T21:50:59+07:00",
    "date": "2026-09-21",
-   "time": "15:02",
-   "src": "Yahoo Finance",
-   "t": "Stock market today: Dow, S&P 500, Nasdaq rise as oil falls, anticipation builds for Trump-Xi summit",
+   "time": "21:50",
+   "src": "CNBC",
+   "t": "Oil prices tumble back below $100 per barrel after Trump says he's open to talking to Iran",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
    "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/PpkPIddF3ylrDhnKjYMCQg--~B/aD0zMDg3O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/1a4ea8f1-64b0-427d-b36c-c68aabcebd16",
-   "score": 313.5,
+   "score": 316.0,
    "srcs": 6
   }
  ],

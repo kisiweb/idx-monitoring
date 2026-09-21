@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 22:28",
+ "updated": "2026-09-21 22:46",
  "delay_min": 15,
- "fx_basis": "12.95 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,375 · 22:00 Yahoo",
- "idr_per_krw": 12.9545,
+ "fx_basis": "12.95 IDR/KRW · USD/IDR 17,808 · USD/KRW 1,375 · 22:15 Yahoo",
+ "idr_per_krw": 12.9539,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -306,10 +306,11 @@
     17830.0,
     17808.0,
     17808.0,
+    17808.0,
     17808.0
    ],
    "inv": true,
-   "asof": "22:00",
+   "asof": "22:15",
    "high": 17833.0,
    "low": 17740.0,
    "src": "yahoo"
@@ -16746,11 +16747,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7729.99,
+   "px": 7732.47,
    "prev": 7650.5,
-   "pct": 1.04,
+   "pct": 1.07,
    "mst": 0,
-   "asof": "11:20",
+   "asof": "11:35",
    "live": true,
    "spark": [
     7695.07,
@@ -16775,18 +16776,21 @@
     7725.46,
     7728.08,
     7731.83,
-    7729.99
+    7730.08,
+    7728.82,
+    7728.94,
+    7732.47
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 26945.38,
+   "px": 26962.65,
    "prev": 26522.54,
-   "pct": 1.59,
+   "pct": 1.66,
    "mst": 0,
-   "asof": "11:20",
+   "asof": "11:35",
    "live": true,
    "spark": [
     26745.7,
@@ -16811,18 +16815,21 @@
     26945.36,
     26946.77,
     26957.21,
-    26945.38
+    26945.86,
+    26950.23,
+    26950.92,
+    26962.65
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51924.71,
+   "px": 51911.36,
    "prev": 51682.64,
-   "pct": 0.47,
+   "pct": 0.44,
    "mst": 0,
-   "asof": "11:20",
+   "asof": "11:35",
    "live": true,
    "spark": [
     51908.94,
@@ -16847,7 +16854,10 @@
     51895.6,
     51915.06,
     51937.94,
-    51924.71
+    51922.71,
+    51880.69,
+    51885.3,
+    51911.36
    ]
   },
   {
@@ -18191,13 +18201,97 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T22:23:04+07:00",
+   "ts": "2026-09-21T22:39:38.731261+07:00",
+   "date": "2026-09-21",
+   "time": "22:39",
+   "src": "Jawa Pos",
+   "t": "Cari Peluang dan Buka Persektif Investasi, Sandiaga dan Surabaya Business Forum Kunjungi Sydney",
+   "tags": [],
+   "url": "https://www.jawapos.com/bisnis/2609210233/cari-peluang-dan-buka-persektif-investasi-sandiaga-dan-surabaya-business-forum-kunjungi-sydney",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/sandiaga-dan-delegasi-surabaya-business-forum-kunjungi-sydney-cari-peluang-dan-buka-persektif-investasi-diterima-founder-dan-ceo-one-global-iwan-sunito-istimewa-1h0h0.webp",
+   "t_id": "Cari Peluang dan Buka Persektif Investasi, Sandiaga dan Surabaya Business Forum Kunjungi Sydney"
+  },
+  {
+   "ts": "2026-09-21T22:34:42+07:00",
+   "date": "2026-09-21",
+   "time": "22:34",
+   "src": "CNBC",
+   "t": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
+   "g": 1,
+   "ai_ko": "· Greenland Energy 장전 최대 150% 급등\n· 미국·Denmark, Greenland 안보 협정 합의\n· Greenland Mines 80%, Critical Metals Corp 25% 동반 강세",
+   "ai_id": "· Greenland Energy melonjak hingga 150%\n· AS dan Denmark sepakat soal keamanan Greenland\n· Greenland Mines naik 80%, Critical Metals 25%",
+   "ai_tags": [
+    "주가급등",
+    "자원개발",
+    "지정학"
+   ],
+   "ai_tags_id": [
+    "saham melonjak",
+    "pertambangan",
+    "geopolitik"
+   ]
+  },
+  {
+   "ts": "2026-09-21T22:28:26+07:00",
+   "date": "2026-09-21",
+   "time": "22:28",
+   "src": "CNBC",
+   "t": "Trump sued by MS NOW, CNN, Politico over White House media ban",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:27:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:27",
+   "src": "Media Indonesia",
+   "t": "Dampak Kebijakan Saham Rp1 Terhadap IHSG Cenderung Moderat",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935937/dampak-kebijakan-saham-rp1-terhadap-ihsg-cenderung-moderat",
+   "t_id": "Dampak Kebijakan Saham Rp1 Terhadap IHSG Cenderung Moderat"
+  },
+  {
+   "ts": "2026-09-21T22:26:05+07:00",
+   "date": "2026-09-21",
+   "time": "22:26",
+   "src": "CNBC",
+   "t": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:23:44+07:00",
    "date": "2026-09-21",
    "time": "22:23",
    "src": "CNBC",
-   "t": "AMD hits $1 trillion market cap as stock continues 5-day rally",
+   "t": "Historic lawsuit sparks flurry of option activity in NY Times stock",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html",
+   "url": "https://www.cnbc.com/2026/09/21/historic-lawsuit-sparks-flurry-of-option-activity-in-ny-times-stock.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T22:23:00+07:00",
+   "date": "2026-09-21",
+   "time": "22:23",
+   "src": "Yahoo Finance",
+   "t": "Why AMD Stock Is Rising Fast Today",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-rising-fast-152300624.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/dc5f49c604a2c0ddccb7f995cccf5981.png"
+  },
+  {
+   "ts": "2026-09-21T22:22:40+07:00",
+   "date": "2026-09-21",
+   "time": "22:22",
+   "src": "Bloomberg",
+   "t": "Inside the New War for Critical Metals",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-21/inside-the-new-war-for-critical-metals-video",
    "g": 1
   },
   {
@@ -18305,6 +18399,17 @@
    "g": 1
   },
   {
+   "ts": "2026-09-21T22:10:13+07:00",
+   "date": "2026-09-21",
+   "time": "22:10",
+   "src": "FT",
+   "t": "Fed will need to be ‘aggressive’ on inflation, says top official",
+   "tags": [],
+   "url": "https://www.ft.com/content/e173bec6-352b-4b51-b3a4-382a9229bc86?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F00e875b5-613f-4b9e-8ad5-a1bc3c0bcfb4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
    "ts": "2026-09-21T22:07:46+07:00",
    "date": "2026-09-21",
    "time": "22:07",
@@ -18349,16 +18454,6 @@
    "t_id": "Pemerintah Gandeng PGN Optimalisasi Jargas di Gresik dan Sidoarjo, Perkuat Gas Bumi Untuk Masyarakat"
   },
   {
-   "ts": "2026-09-21T22:00:38+07:00",
-   "date": "2026-09-21",
-   "time": "22:00",
-   "src": "CNBC",
-   "t": "Trump sued by MS NOW, CNN, Politico over White House media ban",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-   "g": 1
-  },
-  {
    "ts": "2026-09-21T22:00:00+07:00",
    "date": "2026-09-21",
    "time": "22:00",
@@ -18381,17 +18476,6 @@
    "t_id": "IFG Life Bayarkan Klaim Rp9,4 Triliun, Premi Tumbuh 32,87 Persen"
   },
   {
-   "ts": "2026-09-21T21:57:00+07:00",
-   "date": "2026-09-21",
-   "time": "21:57",
-   "src": "MarketWatch",
-   "t": "AI is a Pandora’s box that some CEOs seem wary of opening — at least with investors",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-29864721"
-  },
-  {
    "ts": "2026-09-21T21:55:23+07:00",
    "date": "2026-09-21",
    "time": "21:55",
@@ -18400,48 +18484,6 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609210384/menkop-mau-rebranding-koperasi-merah-putih-agar-dipahami-gen-z",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/ilustrasi-koperasi-desa-merah-putih-kdmp-dokumentasi-jawa-pos-fcluQ.webp"
-  },
-  {
-   "ts": "2026-09-21T21:55:00+07:00",
-   "date": "2026-09-21",
-   "time": "21:55",
-   "src": "Yahoo Finance",
-   "t": "Tim Cook warned of a ‘hundred-year flood’ striking tech giants — and now Apple is raising prices. What it means for you",
-   "tags": [],
-   "url": "https://finance.yahoo.com/technology/articles/tim-cook-warned-hundred-flood-145500897.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/moneywise_ecomm_711/9fea3b942b64d44eed810f389641c331.jpg"
-  },
-  {
-   "ts": "2026-09-21T21:54:32+07:00",
-   "date": "2026-09-21",
-   "time": "21:54",
-   "src": "Bloomberg",
-   "t": "US Diesel Tops Record as Global Crunch Feeds Inflation",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/us-diesel-tops-record-as-global-crunch-feeds-inflation-video",
-   "g": 1
-  },
-  {
-   "ts": "2026-09-21T21:49:18+07:00",
-   "date": "2026-09-21",
-   "time": "21:49",
-   "src": "Yahoo Finance",
-   "t": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
-   "tags": [],
-   "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html",
-   "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/LRQisy7b_AqHRmMCWEmjVw--~B/aD0xOTM2O3c9MzQ1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/4cccc833-cfbd-4753-84e2-684fcc5da921"
-  },
-  {
-   "ts": "2026-09-21T21:49:08+07:00",
-   "date": "2026-09-21",
-   "time": "21:49",
-   "src": "Bloomberg",
-   "t": "Accenture Up on Partnership with Anthropic; Novo Nordisk Falls on Turnaround",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/accenture-anthropic-partnership-novo-nordisk-falls-video",
-   "g": 1
   },
   {
    "ts": "2026-09-21T21:34:04+07:00",
@@ -18527,15 +18569,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2024/10/09/nasib-insentif-kendaraan-listrik-di-tangan-prabowo-2_169.jpeg?w=360&q=90"
   },
   {
-   "ts": "2026-09-21T20:23:00+07:00",
-   "date": "2026-09-21",
-   "time": "20:23",
-   "src": "Media Indonesia",
-   "t": "Potensi Migas Nonkonvensional Blok Rokan Perpanjang Usia Cadangan Minyak Indonesia",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935889/potensi-migas-nonkonvensional-blok-rokan-perpanjang-usia-cadangan-minyak-indonesia"
-  },
-  {
    "ts": "2026-09-21T20:09:39+07:00",
    "date": "2026-09-21",
    "time": "20:09",
@@ -18576,16 +18609,6 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlpsqj349/bahlil-pemerintah-mulai-susun-roadmap-pengembangan-e50",
    "img": "https://static.republika.co.id/uploads/images/detailnews/057913500-1789962917-830-556.jpg"
-  },
-  {
-   "ts": "2026-09-21T19:32:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:32",
-   "src": "Katadata",
-   "t": "Gerakan Patungan Hutan Bergulir, Akankah Pacu Kebijakan Baru Pemerintah?",
-   "tags": [],
-   "url": "https://katadata.co.id/ekonomi-hijau/investasi-hijau/6ab1245a5e645/gerakan-patungan-hutan-bergulir-akankah-pacu-kebijakan-baru-pemerintah",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/09/2026_09_09-17_39_00_9d9cc9d8-ac47-11f1-9607-0242ac12000a_620x413_thumb.jpg"
   }
  ],
  "kisi_news": [
@@ -18751,7 +18774,7 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "12.95",
-   "d": 0.65,
+   "d": 0.66,
    "ytd": 11.47,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
@@ -18762,9 +18785,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.963%",
-   "d": -0.7,
-   "ytd": 19.22,
+   "v": "4.961%",
+   "d": -0.74,
+   "ytd": 19.17,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18785,8 +18808,8 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.38",
-   "d": 0.07,
+   "v": "100.39",
+   "d": 0.08,
    "ytd": 2.14,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
@@ -18797,9 +18820,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "92.10",
-   "d": -1.99,
-   "ytd": 60.4,
+   "v": "92.42",
+   "d": -1.65,
+   "ytd": 60.95,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18809,9 +18832,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,387.6",
-   "d": -0.19,
-   "ytd": 1.43,
+   "v": "4,389.1",
+   "d": -0.15,
+   "ytd": 1.47,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22417,9 +22440,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 257,
+  "pc_age_min": 275,
   "news_ai_cache": 61,
-  "news_ai_hit": 34,
+  "news_ai_hit": 35,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -22447,7 +22470,7 @@
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
    "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah",
    "score": 430.65,
-   "srcs": 6
+   "srcs": 7
   },
   {
    "ts": "2026-09-21T16:50:00+07:00",

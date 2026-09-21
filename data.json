@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 18:20",
+ "updated": "2026-09-21 18:28",
  "delay_min": 15,
- "fx_basis": "12.99 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,373 · 17:15 Yahoo",
- "idr_per_krw": 12.9881,
+ "fx_basis": "12.99 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,372 · 17:15 Yahoo",
+ "idr_per_krw": 12.9922,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -342,7 +342,7 @@
   "value_idr": 10360833681366.664,
   "volume": null,
   "value_src": "yahoo",
-  "rank_src": "Yahoo 15분 지연 · 835종목 · 종가 · 외국인·공시 PC 09-21 18:03",
+  "rank_src": "Yahoo 15분 지연 · 835종목 · 종가 · 외국인·공시 PC 09-21 18:11",
   "rank_asof": null,
   "rank_date": "2026-09-21",
   "adv": 299,
@@ -17372,6 +17372,18 @@
    "t_id": "Usai Transaksi Saham dengan Haji Isam, RKAB Tiga Anak Usaha Bayan (BYAN) Terbit"
   },
   {
+   "ts": "2026-09-21T17:45:00+07:00",
+   "date": "2026-09-21",
+   "time": "17:45",
+   "src": "IDNFinancials",
+   "t": "Former Henan Putihrai CEO buys more FORE shares, now owns 6%",
+   "tags": [
+    "FORE"
+   ],
+   "url": "https://www.idnfinancials.com/news/69180/former-henan-putihrai-ceo-buys-more-fore-shares-now-owns-6",
+   "img": "https://photos.idnfinancials.com/_idn/adhi%202026/fore.jpg"
+  },
+  {
    "ts": "2026-09-21T17:30:00+07:00",
    "date": "2026-09-21",
    "time": "17:30",
@@ -17873,33 +17885,6 @@
    "t_id": "Moody's pangkas outlook Bayan Resources usai tawaran Haji Isam"
   },
   {
-   "ts": "2026-09-21T08:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "08:00",
-   "src": "IDNFinancials",
-   "t": "Top news this week: Purbaya's dismissal, iNews acquisition, BYAN, ULTJ",
-   "tags": [
-    "BYAN",
-    "ULTJ"
-   ],
-   "url": "https://www.idnfinancials.com/news/69147/top-news-this-week-purbayas-dismissal-inews-acquisition-byan-ultj",
-   "img": "https://photos.idnfinancials.com/static/web/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/PURBAYA-08012026.jpg",
-   "ai_ko": "· Purbaya Yudhi Sadewa 재무장관 전격 경질, 후임 Suahasil Nazara\n· Frisian Flag 모회사, Ultrajaya(ULTJ)에 Rp14.57조 규모 사업 매각\n· 석탄 감산에 Bayan(BYAN) 불가항력 선언, Haji Isam이 지분 30% 인수",
-   "ai_id": "· Purbaya dicopot, digantikan Suahasil Nazara\n· Induk Frisian Flag lepas bisnis ke ULTJ Rp14,57 triliun\n· BYAN force majeure, Haji Isam ambil 30%",
-   "ai_tags": [
-    "정책",
-    "M&A",
-    "석탄"
-   ],
-   "ai_tags_id": [
-    "kebijakan",
-    "akuisisi",
-    "batu bara"
-   ],
-   "t_ko": "이번 주 주요 뉴스 — Purbaya 해임·iNews 인수·BYAN·ULTJ",
-   "t_id": "Berita utama pekan ini: Pemecatan Purbaya, akuisisi iNews, BYAN, ULTJ"
-  },
-  {
    "ts": "2026-09-20T13:17:40+07:00",
    "date": "2026-09-20",
    "time": "09/20",
@@ -18389,7 +18374,39 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-21T18:17:49.858876+07:00",
+   "ts": "2026-09-21T18:19:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:19",
+   "src": "Media Indonesia",
+   "t": "Empat Pilar Ekonomi Kerakyatan Dinilai Jadi Kunci Nyata Capai Target Pertumbuhan 8 Persen",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935807/empat-pilar-ekonomi-kerakyatan-dinilai-jadi-kunci-nyata-capai-target-pertumbuhan-8-persen",
+   "t_id": "Empat Pilar Ekonomi Kerakyatan Dinilai Jadi Kunci Nyata Capai Target Pertumbuhan 8 Persen"
+  },
+  {
+   "ts": "2026-09-21T18:18:40+07:00",
+   "date": "2026-09-21",
+   "time": "18:18",
+   "src": "Jawa Pos",
+   "t": "Sudah Tak Jadi Menkeu, Uang Rp 100 Ribu Bertanda Tangan Purbaya Malah Diburu",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210292/sudah-tak-jadi-menkeu-uang-rp-100-ribu-bertanda-tangan-purbaya-malah-diburu",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/pecahan-rp-100000-tahun-emisi-te-2022-yang-memuat-tanda-tangan-purbaya-dan-perry-warjiyo-sebagai-gubernur-bank-indonesia-bi-threads-at-christopherkeju-fxOBK.webp",
+   "t_id": "Sudah Tak Jadi Menkeu, Uang Rp 100 Ribu Bertanda Tangan Purbaya Malah Diburu"
+  },
+  {
+   "ts": "2026-09-21T18:18:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:18",
+   "src": "Jawa Pos",
+   "t": "Demi Penyempurnaan, Suahasil Nazara Lantik 14 Pejabat Baru di Kemenkeu dan KSSK",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609210068/demi-penyempurnaan-suahasil-nazara-lantik-14-pejabat-baru-di-kemenkeu-dan-kssk",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
+   "t_id": "Demi Penyempurnaan, Suahasil Nazara Lantik 14 Pejabat Baru di Kemenkeu dan KSSK"
+  },
+  {
+   "ts": "2026-09-21T18:17:53+07:00",
    "date": "2026-09-21",
    "time": "18:17",
    "src": "Jawa Pos",
@@ -18401,15 +18418,25 @@
    "t_id": "Harga Emas Hari Ini Naik Lagi, Cek Rincian Lengkap Antam, Galeri24, dan UBS"
   },
   {
-   "ts": "2026-09-21T18:17:49.854678+07:00",
+   "ts": "2026-09-21T18:17:25+07:00",
    "date": "2026-09-21",
    "time": "18:17",
-   "src": "Jawa Pos",
-   "t": "Demi Penyempurnaan, Suahasil Nazara Lantik 14 Pejabat Baru di Kemenkeu dan KSSK",
+   "src": "Bloomberg",
+   "t": "Wealth Effect Maintaining Growth: McCormick",
    "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609210068/demi-penyempurnaan-suahasil-nazara-lantik-14-pejabat-baru-di-kemenkeu-dan-kssk",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
-   "t_id": "Demi Penyempurnaan, Suahasil Nazara Lantik 14 Pejabat Baru di Kemenkeu dan KSSK"
+   "url": "https://www.bloomberg.com/news/videos/2026-09-21/wealth-effect-maintaining-growth-mccormick-video",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T18:14:00+07:00",
+   "date": "2026-09-21",
+   "time": "18:14",
+   "src": "Katadata",
+   "t": "Fitch Beri Peringkat BBB ke Danantara Investment Management, Outlook Negatif",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/bursa/6ab111957b5ca/fitch-beri-peringkat-bbb-ke-danantara-investment-management-outlook-negatif",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/04/Ilustrasi_logo_Danantara_dan_gedung_Danantara_Indonesia-2026_09_04-21_13_48_62fe1c13ac9695f0fd0854f2dd852bfa_620x413_thumb.jpg",
+   "t_id": "Fitch Beri Peringkat BBB ke Danantara Investment Management, Outlook Negatif"
   },
   {
    "ts": "2026-09-21T18:10:55+07:00",
@@ -18762,19 +18789,6 @@
    "t_ko": "IHSG 오늘 6,384로 하락 — 분석가가 밝힌 배경"
   },
   {
-   "ts": "2026-09-21T17:20:49+07:00",
-   "date": "2026-09-21",
-   "time": "17:20",
-   "src": "FT",
-   "t": "Trump presses Zelenskyy to stop hitting Russian refineries",
-   "tags": [],
-   "url": "https://www.ft.com/content/adb80fa3-b54a-4b3d-8ed2-0ebe55a5e05e?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2dfdfb6f-cad6-43fa-899c-72dfca390470.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "Trump, Zelenskyy에 러시아 정유시설 공격 중단 압박",
-   "t_id": "Trump Desak Zelensky Setop Serang Kilang Minyak Rusia"
-  },
-  {
    "ts": "2026-09-21T17:15:37+07:00",
    "date": "2026-09-21",
    "time": "17:15",
@@ -18809,54 +18823,6 @@
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/11/2026_09_11-14_27_00_4127111e-adb8-11f1-9607-0242ac12000a_620x413_thumb.jpg",
    "t_id": "Pemerintah Bayar Subsidi dan Kompensasi ke Pertamina - PLN Rp 331T",
    "t_ko": "정부, Pertamina·PLN에 보조금·보상금 Rp331조 지급"
-  },
-  {
-   "ts": "2026-09-21T17:07:51+07:00",
-   "date": "2026-09-21",
-   "time": "17:07",
-   "src": "Detik",
-   "t": "Beras di Ritel Modern Kosong Imbas Fortifikasi Disetop, Mentan Buka Suara",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672732/beras-di-ritel-modern-kosong-imbas-fortifikasi-disetop-mentan-buka-suara",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/15/25-merek-beras-fortifikasi-dinyatakan-tak-sesuai-standar-1789447060266_169.jpeg?w=360&q=90",
-   "t_id": "Beras di Ritel Modern Kosong Imbas Fortifikasi Disetop, Mentan Buka Suara",
-   "t_ko": "영양강화 중단 여파에 마트 쌀 품절 — 농업부 장관 입장 표명"
-  },
-  {
-   "ts": "2026-09-21T17:03:00+07:00",
-   "date": "2026-09-21",
-   "time": "17:03",
-   "src": "Katadata",
-   "t": "DPR Restui RUU Reforma Agraria Dibawa ke Rapat Paripurna, Apa Poin Pokoknya?",
-   "tags": [],
-   "url": "https://katadata.co.id/berita/industri/6ab100fd520b9/dpr-restui-ruu-reforma-agraria-dibawa-ke-rapat-paripurna-apa-poin-pokoknya",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2025/04/17/2025_04_17-11_38_00_9297566c-1b4f-11f0-a7e0-dfc8e62a8e3f_620x413_thumb.jpg",
-   "t_id": "DPR Restui RUU Reforma Agraria Dibawa ke Rapat Paripurna, Apa Poin Pokoknya?",
-   "t_ko": "DPR, 토지개혁법안 본회의 상정 승인 — 핵심 내용은"
-  },
-  {
-   "ts": "2026-09-21T17:00:00+07:00",
-   "date": "2026-09-21",
-   "time": "17:00",
-   "src": "Bloomberg Technoz",
-   "t": "OJK: Penyaluran Kredit Himbara ke BUMN/BUMD Melesat 57% Juli 2026",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122248/ojk-penyaluran-kredit-himbara-ke-bumn-bumd-melesat-57-juli-2026",
-   "img": "https://images.bloombergtechnoz.com/data/2025/09/image-20250912162813.jpg",
-   "t_id": "OJK: Penyaluran Kredit Himbara ke BUMN/BUMD Melesat 57% Juli 2026",
-   "ai_ko": "· 7월 Himbara의 BUMN 대출 57.79% 증가\n· 전체 대출 증가율 16.95%, 전년 7.63%\n· 민간 비금융 증가액 Rp346.6조로 최대",
-   "ai_id": "· Kredit Himbara ke BUMN naik 57,79%\n· Total kredit Himbara tumbuh 16,95%\n· Swasta non-LK naik Rp346,6 triliun",
-   "ai_tags": [
-    "대출",
-    "은행",
-    "실적"
-   ],
-   "ai_tags_id": [
-    "kredit",
-    "perbankan",
-    "kinerja"
-   ],
-   "t_ko": "OJK: Himbara의 BUMN/BUMD 대출 2026년 7월 57% 급증"
   }
  ],
  "kisi_news": [
@@ -19056,9 +19022,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.31",
-   "d": 0.0,
-   "ytd": 2.07,
+   "v": "100.29",
+   "d": -0.01,
+   "ytd": 2.05,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19068,9 +19034,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "93.56",
-   "d": -0.44,
-   "ytd": 62.94,
+   "v": "93.50",
+   "d": -0.5,
+   "ytd": 62.84,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19080,9 +19046,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,382.4",
-   "d": -0.3,
-   "ytd": 1.31,
+   "v": "4,387.3",
+   "d": -0.19,
+   "ytd": 1.43,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22687,10 +22653,10 @@
  "sources": {
   "idx_index": false,
   "idx_market": true,
-  "idx_from_pc": "2026-09-21 18:03",
+  "idx_from_pc": "2026-09-21 18:11",
   "pc_age_min": 17,
   "news_ai_cache": 61,
-  "news_ai_hit": 42,
+  "news_ai_hit": 41,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -22771,16 +22737,15 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-21T15:02:14+07:00",
+   "ts": "2026-09-21T18:05:14+07:00",
    "date": "2026-09-21",
-   "time": "15:02",
-   "src": "Yahoo Finance",
-   "t": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
+   "time": "18:05",
+   "src": "CNBC",
+   "t": "Treasury Secretary Bessent talks to CNBC as Trump administration faces affordability concerns",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+   "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
    "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/PpkPIddF3ylrDhnKjYMCQg--~B/aD0zMDg3O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/1a4ea8f1-64b0-427d-b36c-c68aabcebd16",
-   "score": 313.5,
+   "score": 313.0,
    "srcs": 4
   }
  ],

@@ -961,10 +961,21 @@ function renderRank(){if(!$('rank-pills').children.length)layRankPills();const l
 /* 일반 탭(행 1줄)의 실제 높이를 기억해 두고, 행이 높은 탭은 그 높이로 잘라 스크롤시킨다.
    탭을 오갈 때 카드 높이가 변하지 않으므로 옆 카드에 빈칸이 생기지 않는다 */
 let RANK_H=0;
+const RANK_ROWS = 10;      /* 이 카드는 언제나 10행 높이다 — 탭을 오가도 칸이 늘었다 줄었다 하지 않는다 */
+addEventListener('resize',()=>{RANK_H=0;},{passive:true});
 function rankFix(){const el=$('rank');if(!el)return;
-  /* 2026-09-18 사장 지시 — 칸 크기는 열이 정한다. 카드가 내용만큼만 짧아지면 그 아래가 빈칸으로 남는다.
-     탭을 오가도 높이가 변하지 않고, 항목이 칸을 넘으면 카드 안에서 스크롤된다 */
-  el.classList.add('fixh');el.style.height='';}
+  /* 2026-09-18 사장 지시 — 칸 크기는 박아 두고, 항목이 넘치면 카드 안에서 스크롤한다.
+     '주목' 탭처럼 항목이 10개를 넘는 탭에서 카드가 늘어나면 그 줄 전체가 밀린다
+     (2026-09-21 사장 지적: 주목 탭 스크롤이 사라지고 카드가 늘어남 — 내가 height 를 비워 둔 탓). */
+  el.classList.add('fixh');
+  const rows=[...el.children].filter(c=>c.nodeType===1);
+  if(rows.length>=2){
+    const rh=rows[1].getBoundingClientRect().height;
+    /* 탭마다 행 높이가 다르다 — '주목' 은 한 줄에 설명이 붙어 94px, 나머지는 61px.
+       가장 낮은 탭을 기준으로 삼아야 카드가 탭을 따라 늘었다 줄었다 하지 않는다. */
+    if(rh>20){const h=Math.round(rh*RANK_ROWS); RANK_H = RANK_H ? Math.min(RANK_H,h) : h;}
+  }
+  if(RANK_H) el.style.height=RANK_H+'px'; else el.style.height='';}
 const H={};const changed=(k,v)=>{const j=JSON.stringify(v);if(H[k]===j)return false;H[k]=j;return true;};
 function render(d){DATA=d;IDRKRW=d.idr_per_krw||IDRKRW;const demo=d.mode==='demo';
   if(!liveOk){$('dot').className='dot'+(demo?' demo':'');$('mode').textContent=demo?T('demo'):`${T('live')} · 15${T('delay')}`;}

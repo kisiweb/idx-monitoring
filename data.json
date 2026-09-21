@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-21 19:58",
+ "updated": "2026-09-21 20:11",
  "delay_min": 15,
  "fx_basis": "12.99 IDR/KRW · USD/IDR 17,830 · USD/KRW 1,372 · 17:15 Yahoo",
- "idr_per_krw": 12.9942,
+ "idr_per_krw": 12.9931,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17360,6 +17360,18 @@
    "t_id": "Emiten Hary Tanoe MNCN Ungkap Detail JV dengan Republikorp di iNews Media Group"
   },
   {
+   "ts": "2026-09-21T19:47:06+07:00",
+   "date": "2026-09-21",
+   "time": "19:47",
+   "src": "Detik",
+   "t": "Pengeboran Sumur Kedua Pengembangan PLTP 55 Megawatt Dimulai",
+   "tags": [
+    "PGEO"
+   ],
+   "url": "https://finance.detik.com/energi/d-8673001/pengeboran-sumur-kedua-pengembangan-pltp-55-megawatt-dimulai",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/21/pengeboran-sumur-untuk-pltp-lumut-balai-dimulai-1789994770073_169.jpeg?w=360&q=90"
+  },
+  {
    "ts": "2026-09-21T19:25:00+07:00",
    "date": "2026-09-21",
    "time": "19:25",
@@ -18389,6 +18401,57 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-21T20:06:06+07:00",
+   "date": "2026-09-21",
+   "time": "20:06",
+   "src": "CNBC",
+   "t": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T20:01:40+07:00",
+   "date": "2026-09-21",
+   "time": "20:01",
+   "src": "CNBC",
+   "t": "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+   "g": 1
+  },
+  {
+   "ts": "2026-09-21T20:01:00+07:00",
+   "date": "2026-09-21",
+   "time": "20:01",
+   "src": "Media Indonesia",
+   "t": "Bulog Diminta Gelontorkan 300 Ribu Ton Beras ke Ritel Modern",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/935873/bulog-diminta-gelontorkan-300-ribu-ton-beras-ke-ritel-modern",
+   "t_id": "Bulog Diminta Gelontorkan 300 Ribu Ton Beras ke Ritel Modern"
+  },
+  {
+   "ts": "2026-09-21T20:00:00+07:00",
+   "date": "2026-09-21",
+   "time": "20:00",
+   "src": "Bloomberg Technoz",
+   "t": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122260/bei-turunkan-minimum-harga-saham-jadi-rp1-auto-rejection-berubah",
+   "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
+   "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah"
+  },
+  {
+   "ts": "2026-09-21T19:56:57+07:00",
+   "date": "2026-09-21",
+   "time": "19:56",
+   "src": "CNBC",
+   "t": "Our top 10 things to watch in the stock market Monday",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/our-top-10-things-to-watch-in-the-stock-market-monday.html",
+   "g": 1
+  },
+  {
    "ts": "2026-09-21T19:51:10+07:00",
    "date": "2026-09-21",
    "time": "19:51",
@@ -18475,17 +18538,6 @@
    "t_id": "Pemerintah Didesak Cari 9 Anak yang Disandera KKB di Jila Papua, DPR: Ini Kasus Serius!"
   },
   {
-   "ts": "2026-09-21T19:37:02+07:00",
-   "date": "2026-09-21",
-   "time": "19:37",
-   "src": "Yahoo Finance",
-   "t": "Prediction: Robinhood Will Launch Tokenized Stock Trading in the U.S. Before the End of 2027",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-robinhood-launch-tokenized-stock-123702180.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/b577e5206926ebefe01b84961d42aefa.png"
-  },
-  {
    "ts": "2026-09-21T19:35:02+07:00",
    "date": "2026-09-21",
    "time": "19:35",
@@ -18494,28 +18546,6 @@
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
    "g": 1
-  },
-  {
-   "ts": "2026-09-21T19:34:29+07:00",
-   "date": "2026-09-21",
-   "time": "19:34",
-   "src": "Yahoo Finance",
-   "t": "Can Investing in Marvell Technology Stock Double Your Money?",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/investing-marvell-technology-stock-double-123429591.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/639e8de7e7aab4552829b77f17e4d204.jpg"
-  },
-  {
-   "ts": "2026-09-21T19:33:14+07:00",
-   "date": "2026-09-21",
-   "time": "19:33",
-   "src": "Yahoo Finance",
-   "t": "Tariffs, fuel costs, and rising rates squeeze U.S. manufacturers",
-   "tags": [],
-   "url": "https://finance.yahoo.com/economy/policy/articles/tariffs-fuel-costs-rising-rates-123314726.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/quartz_855/3ffc1a9b4c354b73f168d74482b51fba.jpg"
   },
   {
    "ts": "2026-09-21T19:32:00+07:00",
@@ -18645,6 +18675,16 @@
    "img": "https://media.zenfs.com/en/insidermonkey.com/91955f44d75d88f33e1647c18b0fe457.jpg"
   },
   {
+   "ts": "2026-09-21T19:18:12+07:00",
+   "date": "2026-09-21",
+   "time": "19:18",
+   "src": "CNBC",
+   "t": "U.S. crude oil falls back below $100 per barrel after Trump says he's open to talking to Iran",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+   "g": 1
+  },
+  {
    "ts": "2026-09-21T19:18:00+07:00",
    "date": "2026-09-21",
    "time": "19:18",
@@ -18703,15 +18743,6 @@
    "t_id": "Rangkuman Auto & Transport: Ulasan Pasar"
   },
   {
-   "ts": "2026-09-21T19:10:00+07:00",
-   "date": "2026-09-21",
-   "time": "19:10",
-   "src": "Media Indonesia",
-   "t": "Kalahkan Fauzan Fadel, Andi Ilham Pimpin Kadin Gorontalo",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/935827/kalahkan-fauzan-fadel-andi-ilham-pimpin-kadin-gorontalo"
-  },
-  {
    "ts": "2026-09-21T19:08:48+07:00",
    "date": "2026-09-21",
    "time": "19:08",
@@ -18720,16 +18751,6 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlpr2o349/amran-sebut-kenaikan-harga-beras-tak-seharusnya-terjadi-saat-stok-melimpah",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260904104541-117.png"
-  },
-  {
-   "ts": "2026-09-21T19:06:33+07:00",
-   "date": "2026-09-21",
-   "time": "19:06",
-   "src": "Bloomberg",
-   "t": "How a US Diesel Export Ban Can Impact Prices, Oil Market",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-21/how-a-us-diesel-export-ban-can-impact-prices-oil-market-video",
-   "g": 1
   },
   {
    "ts": "2026-09-21T18:58:39+07:00",
@@ -18783,17 +18804,6 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8672930/mentan-yakin-dalam-seminggu-harga-beras-turun",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/03/30/menteri-pertanian-mentan-andi-amran-sulaiman-1774846718356_169.jpeg?w=360&q=90",
    "t_id": "Mentan Yakin dalam Seminggu Harga Beras Turun!"
-  },
-  {
-   "ts": "2026-09-21T18:34:00+07:00",
-   "date": "2026-09-21",
-   "time": "18:34",
-   "src": "Katadata",
-   "t": "Ajaib Kenalkan Instrumen ETF di Sekolah Pasar Modal BEI Surabaya",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/keuangan/6ab116603baaa/ajaib-kenalkan-instrumen-etf-di-sekolah-pasar-modal-bei-surabaya",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Ajaib_platform_investasi_digital_memperkenalkan_Exchange_Traded-2026_09_21-18_27_00_d2f30433fab63dab53237b562042e1f7_620x413_thumb.jpg",
-   "t_id": "Ajaib Kenalkan Instrumen ETF di Sekolah Pasar Modal BEI Surabaya"
   }
  ],
  "kisi_news": [
@@ -18970,9 +18980,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.961%",
-   "d": -0.74,
-   "ytd": 19.17,
+   "v": "4.965%",
+   "d": -0.66,
+   "ytd": 19.26,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18995,7 +19005,7 @@
    "k": "달러 인덱스 (DXY)",
    "v": "100.27",
    "d": -0.04,
-   "ytd": 2.02,
+   "ytd": 2.03,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19005,9 +19015,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "93.43",
-   "d": -0.57,
-   "ytd": 62.71,
+   "v": "93.55",
+   "d": -0.45,
+   "ytd": 62.92,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19017,9 +19027,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,398.2",
-   "d": 0.05,
-   "ytd": 1.68,
+   "v": "4,392.4",
+   "d": -0.08,
+   "ytd": 1.54,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22625,7 +22635,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-21 18:11",
-  "pc_age_min": 107,
+  "pc_age_min": 120,
   "news_ai_cache": 61,
   "news_ai_hit": 37,
   "on_runner": true,
@@ -22645,17 +22655,17 @@
  "top_day": "2026-09-21",
  "top_news": [
   {
-   "ts": "2026-09-21T17:56:00+07:00",
+   "ts": "2026-09-21T20:00:00+07:00",
    "date": "2026-09-21",
-   "time": "17:56",
-   "src": "Katadata",
-   "t": "BEI Ubah Aturan Auto Rejection, Batas ARB Makin Lebar Jadi 35% mulai 2027",
+   "time": "20:00",
+   "src": "Bloomberg Technoz",
+   "t": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah",
    "tags": [],
-   "url": "https://katadata.co.id/finansial/bursa/6ab10d458e4d5/bei-ubah-aturan-auto-rejection-batas-arb-makin-lebar-jadi-35-mulai-2027",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/21/Ilustrasi_ARA_dan_ARB_Harga_Saham_-_Auto_Rejection-2026_09_21-17_48_28_ee2b1205a1d6ebf0fdc0605517116cfb_620x413_thumb.png",
+   "url": "https://www.bloombergtechnoz.com/detail-news/122260/bei-turunkan-minimum-harga-saham-jadi-rp1-auto-rejection-berubah",
+   "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
+   "t_id": "BEI Turunkan Minimum Harga Saham Jadi Rp1, Auto Rejection Berubah",
    "score": 430.65,
-   "srcs": 8,
-   "t_id": "BEI Ubah Aturan Auto Rejection, Batas ARB Makin Lebar Jadi 35% mulai 2027"
+   "srcs": 5
   },
   {
    "ts": "2026-09-21T19:14:45+07:00",

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 05:03",
+ "updated": "2026-09-23 05:11",
  "delay_min": 15,
- "fx_basis": "13.20 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 04:45 Yahoo",
- "idr_per_krw": 13.1984,
+ "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 04:45 Yahoo",
+ "idr_per_krw": 13.1945,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -104,22 +104,21 @@
    "code": "SUN10Y",
    "label": "SUN 10Y",
    "name": "국채 10년물",
-   "px": 7.146,
-   "prev": 7.143,
-   "pct": 0.4,
+   "px": 7.12,
+   "prev": 7.12,
+   "pct": 0.0,
    "spark": [
-    7.1743,
-    7.1679,
-    7.1696,
-    7.1542,
-    7.1426,
-    7.1462
+    7.141,
+    7.157,
+    7.157,
+    7.12,
+    7.12,
+    7.12
    ],
-   "span": "1M",
+   "span": "1W",
    "inv": true,
-   "unit": "bp",
-   "asof": "PHEI · 09/22",
-   "spark_stale": "PHEI · 09/22"
+   "asof": "investing.com · 09/22",
+   "unit": "bp"
   }
  ],
  "index": {
@@ -17700,6 +17699,42 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T05:10:34.633059+07:00",
+   "date": "2026-09-23",
+   "time": "05:10",
+   "src": "Jawa Pos",
+   "t": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG",
+   "tags": [],
+   "url": "https://www.jawapos.com/energi/2609220555/pertamina-patra-niaga-waspadai-gangguan-pengadaan-minyak-bbm-dan-lpg",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/ilustrasi-spbu-milik-pertamina-patra-niaga-istimewa-2plup.webp",
+   "t_ko": "Pertamina Patra Niaga, 유류·BBM·LPG 조달 차질 대비 태세",
+   "t_id": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG"
+  },
+  {
+   "ts": "2026-09-23T05:03:33+07:00",
+   "date": "2026-09-23",
+   "time": "05:03",
+   "src": "CNBC",
+   "t": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+   "g": 1,
+   "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
+   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
+  },
+  {
+   "ts": "2026-09-23T05:02:20+07:00",
+   "date": "2026-09-23",
+   "time": "05:02",
+   "src": "Bloomberg",
+   "t": "Latest Oil Market News and Analysis for Sept. 23",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/latest-oil-market-news-and-analysis-for-sept-23",
+   "g": 1,
+   "t_ko": "9월 23일 국제유가 동향 및 분석",
+   "t_id": "Berita & Analisis Pasar Minyak Terbaru 23 Sep"
+  },
+  {
    "ts": "2026-09-23T04:44:00+07:00",
    "date": "2026-09-23",
    "time": "04:44",
@@ -17813,18 +17848,6 @@
    "t_ko": "Trump, Iran에 압박과 함께 비밀 협상 창구 개방"
   },
   {
-   "ts": "2026-09-23T04:15:51+07:00",
-   "date": "2026-09-23",
-   "time": "04:15",
-   "src": "CNBC",
-   "t": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-   "g": 1,
-   "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
-   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
-  },
-  {
    "ts": "2026-09-23T04:07:21+07:00",
    "date": "2026-09-23",
    "time": "04:07",
@@ -17886,18 +17909,6 @@
    "g": 1,
    "t_ko": "한국, 재정 부담 속 명절 유류비 인하 유지",
    "t_id": "Korsel Jaga Harga BBM Murah Saat Libur di Tengah Lonjakan Biaya Fiskal"
-  },
-  {
-   "ts": "2026-09-23T03:57:24+07:00",
-   "date": "2026-09-23",
-   "time": "03:57",
-   "src": "Bloomberg",
-   "t": "Oil Traders Bet on Price Drop at Record Pace as Disruptions Ease",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/oil-traders-bet-on-price-drop-at-record-pace-as-disruptions-ease",
-   "g": 1,
-   "t_ko": "원유 공급 차질 완화에 트레이더들 하락 베팅 역대 최대",
-   "t_id": "Trader Minyak Pasang Taruhan Harga Turun di Rekor Tertinggi Seiring Meredanya Gangguan"
   },
   {
    "ts": "2026-09-23T03:32:47+07:00",
@@ -18042,18 +18053,6 @@
    "t_id": "Bitcoin Tembus US$ 87.000, Ini Sederet Pemicunya"
   },
   {
-   "ts": "2026-09-22T22:20:15+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Jawa Pos",
-   "t": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG",
-   "tags": [],
-   "url": "https://www.jawapos.com/energi/2609220555/pertamina-patra-niaga-waspadai-gangguan-pengadaan-minyak-bbm-dan-lpg",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/ilustrasi-spbu-milik-pertamina-patra-niaga-istimewa-2plup.webp",
-   "t_ko": "Pertamina Patra Niaga, 유류·BBM·LPG 조달 차질 대비 태세",
-   "t_id": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG"
-  },
-  {
    "ts": "2026-09-22T22:13:38+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -18074,17 +18073,6 @@
     "pameran",
     "industri percetakan"
    ]
-  },
-  {
-   "ts": "2026-09-22T22:11:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Media Indonesia",
-   "t": "Biaya Logistik Indonesia Terlalu Tinggi, Ganggu Efisiensi Industri",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936425/biaya-logistik-indonesia-terlalu-tinggi-ganggu-efisiensi-industri",
-   "t_ko": "인도네시아 높은 물류비용, 산업 효율성 저해",
-   "t_id": "Biaya Logistik RI Terlalu Tinggi, Ganggu Efisiensi Industri"
   },
   {
    "ts": "2026-09-22T22:00:18+07:00",
@@ -19031,6 +19019,18 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/01/14/AMRAN-14-A-3079546239.jpg",
    "t_ko": "Amran 장관, 바이오에탄올 개발 재원 중 70% 민간 조달 구조 공개",
    "t_id": "Mentan Amran Beberkan Skema Pembiayaan Pengembangan Bioetanol, 70 persen Anggaran dari Swasta"
+  },
+  {
+   "ts": "2026-09-22T15:45:00+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Jawa Pos",
+   "t": "PNM Sulap Lorong Kota Menjadi Sumber Pangan Lewat Program Agro Urban Madani",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220431/pnm-sulap-lorong-kota-menjadi-sumber-pangan-lewat-program-agro-urban-madani",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/dengan-dukungan-pnm-bu-dewi-nasabah-pnm-mekaar-di-sukmajaya-depok-bersama-anggota-kelompoknya-menanam-pakcoy-kangkung-dan-bayam-di-lingkungan-tempat-tinggal-mereka-istimewa-Zm6DW.webp",
+   "t_ko": "PNM은 Agro Urban Madani 프로그램을 통해 도시 복도를 식량 공급원으로 전환합니다.",
+   "t_id": "PNM Sulap Lorong Kota Menjadi Sumber Pangan Lewat Program Agro Urban Madani"
   }
  ],
  "kisi_news": [
@@ -19229,7 +19229,7 @@
    "k": "달러 인덱스 (DXY)",
    "v": "100.53",
    "d": 0.17,
-   "ytd": 2.29,
+   "ytd": 2.28,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19275,15 +19275,15 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,528",
-   "d": 1.07,
-   "ytd": -0.92,
+   "v": "16,576",
+   "d": 1.36,
+   "ytd": -0.63,
    "inv": false,
-   "note": "investing.com · 09/22 마지막 값 · 연초 16,682",
+   "note": "investing.com · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
    "k_id": "Nikel LME (US$/t)",
-   "note_ko": "investing.com · 09/22 마지막 값 · 연초 16,682",
-   "note_id": "investing.com · 09/22 nilai terakhir · Awal tahun 16,682"
+   "note_ko": "investing.com · 연초 16,682",
+   "note_id": "investing.com · Awal tahun 16,682"
   },
   {
    "k": "CPO (MYR/t)",
@@ -19298,68 +19298,7 @@
    "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
   }
  ],
- "curve": {
-  "date": "2026-09-22",
-  "src": "PHEI (IBPA)",
-  "rows": [
-   [
-    0.1,
-    6.5083,
-    6.5853
-   ],
-   [
-    1.0,
-    6.66,
-    6.6774
-   ],
-   [
-    2.0,
-    6.7642,
-    6.7605
-   ],
-   [
-    3.0,
-    6.8471,
-    6.8393
-   ],
-   [
-    5.0,
-    6.9818,
-    6.9765
-   ],
-   [
-    7.0,
-    7.0745,
-    7.071
-   ],
-   [
-    10.0,
-    7.1462,
-    7.1426
-   ],
-   [
-    15.0,
-    7.1786,
-    7.1743
-   ],
-   [
-    20.0,
-    7.183,
-    7.1785
-   ],
-   [
-    25.0,
-    7.1834,
-    7.1789
-   ],
-   [
-    30.0,
-    7.1835,
-    7.179
-   ]
-  ],
-  "n": 41
- },
+ "curve": null,
  "calendar": [
   {
    "date": "2026-09-15",
@@ -24314,7 +24253,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 113,
+  "pc_age_min": 121,
   "news_ai_cache": 41,
   "news_ai_hit": 32,
   "on_runner": true,

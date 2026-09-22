@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 00:04",
+ "updated": "2026-09-23 00:11",
  "delay_min": 15,
  "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,358 · 21:00 Yahoo",
- "idr_per_krw": 13.1674,
+ "idr_per_krw": 13.1681,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16543,11 +16543,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7765.44,
+   "px": 7765.5,
    "prev": 7764.22,
    "pct": 0.02,
    "mst": 0,
-   "asof": "13:00",
+   "asof": "13:05",
    "live": true,
    "spark": [
     7779.14,
@@ -16592,18 +16592,19 @@
     7766.79,
     7765.29,
     7766.17,
-    7765.44
+    7763.91,
+    7765.5
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27210.59,
+   "px": 27217.16,
    "prev": 27122.09,
-   "pct": 0.33,
+   "pct": 0.35,
    "mst": 0,
-   "asof": "13:00",
+   "asof": "13:05",
    "live": true,
    "spark": [
     27223.51,
@@ -16648,18 +16649,19 @@
     27203.41,
     27201.64,
     27205.84,
-    27210.59
+    27208.17,
+    27217.16
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51824.47,
+   "px": 51826.29,
    "prev": 52053.88,
    "pct": -0.44,
    "mst": 0,
-   "asof": "13:00",
+   "asof": "13:05",
    "live": true,
    "spark": [
     52161.89,
@@ -16704,7 +16706,8 @@
     51879.21,
     51857.03,
     51861.4,
-    51824.47
+    51809.53,
+    51826.29
    ]
   },
   {
@@ -17803,7 +17806,7 @@
    "tags": [],
    "url": "https://www.bloomberg.com/news/articles/2026-09-22/fed-s-barkin-warns-inflation-pressures-will-take-time-to-pass",
    "g": 1,
-   "t_ko": "Fed Barkin, 인플레이션 압력 해소에 시간 소요 경고",
+   "t_ko": "연준 Barkin 총재, 인플레이션 압력 해소 장기화 경고",
    "t_id": "Barkin Fed Ingatkan Tekanan Inflasi Butuh Waktu untuk Mereda"
   },
   {
@@ -17816,8 +17819,8 @@
    "url": "https://finance.yahoo.com/economy/policy/articles/feds-barkin-says-economy-may-165255863.html",
    "g": 1,
    "img": "https://media.zenfs.com/en/reuters.com/434aa33478c46b421ae886344169378f.jpg",
-   "t_ko": "Fed Barkin, 경기 호조세 및 에너지·관세 외로 확산된 인플레이션 언급",
-   "t_id": "Barkin Fed Sebut Ekonomi Mungkin Menguat, Inflasi Tak Terbatas pada Energi dan Syok Tarif"
+   "t_ko": "연준 Barkin 총재, 경기 회복세 및 에너지·관세발 인플레이션 경고",
+   "t_id": "Barkin Fed Sebut Ekonomi Menguat, Inflasi Tak Terbatas pada Energi & Syok Tarif"
   },
   {
    "ts": "2026-09-22T23:52:08+07:00",
@@ -17841,8 +17844,8 @@
    "url": "https://finance.yahoo.com/markets/crypto/articles/cme-group-launch-bitcoin-cash-165200159.html",
    "g": 1,
    "img": "https://media.zenfs.com/en/cryptoprowl_304/5e2d0a3b3d5fbbfa16867e01bbc5b5d5.jpg",
-   "t_ko": "CME Group, Bitcoin Cash 및 Uniswap 선물 상장",
-   "t_id": "CME Group Segera Luncurkan Berjangka Bitcoin Cash dan Uniswap"
+   "t_ko": "CME 그룹, 비트코인 캐시·유니스왑 선물 상장",
+   "t_id": "CME Group Luncurkan Berjangka Bitcoin Cash dan Uniswap"
   },
   {
    "ts": "2026-09-22T23:51:00+07:00",
@@ -17854,7 +17857,7 @@
    "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-allow-u-retail-investors-165100177.html",
    "g": 1,
    "img": "https://media.zenfs.com/en/cryptoprowl_304/df3a9d90dda85929bf93162f0c5c802d.jpg",
-   "t_ko": "Coinbase, 미국 개인 투자자의 IPO 주식 매수 허용",
+   "t_ko": "Coinbase, 미국 개인투자자의 IPO 주식 매수 허용",
    "t_id": "Coinbase Izinkan Investor Ritel AS Beli Saham IPO"
   },
   {
@@ -17869,19 +17872,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efbc/live/4e7c88d0-b696-11f1-bc1f-3f186ca4140c.jpg",
    "t_ko": "Davey, 영국 EU 단일시장 복귀 시 수백만 명 감세 공약",
    "t_id": "Davey Janjikan Pemotongan Pajak Jika UK Gabung Kembali Pasar Tunggal EU"
-  },
-  {
-   "ts": "2026-09-22T23:44:54+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Yahoo Finance",
-   "t": "GE Vernova is The AI Energy Bottleneck Player I Won’t Stop Buying",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/ge-vernova-ai-energy-bottleneck-164454194.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/24_7_wall_st__718/04535715a24b6fe5196e871d51ee17b1.jpg",
-   "t_ko": "GE Vernova, 지속 매수할 AI 에너지 병목 수혜주",
-   "t_id": "GE Vernova Jadi Pemain Hambatan Energi AI yang Terus Dibeli"
   },
   {
    "ts": "2026-09-22T23:40:00+07:00",
@@ -18021,6 +18011,18 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc6f1f0c2-4396-4ef4-9bfe-052d3155a7cb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
    "t_ko": "Trump, UN 연설에서 이란 상대로 강경 경고",
    "t_id": "Trump Ancam 'Hancurkan' Iran dalam Pidato PBB yang Agresif"
+  },
+  {
+   "ts": "2026-09-22T23:27:00+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Reuters",
+   "t": "Nasdaq hits intraday record high on tech boost, Mideast negotiation hopes",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
+   "g": 1,
+   "t_ko": "나스닥, 기술주 강세와 중동 협상 기대에 장중 최고가 경신",
+   "t_id": "Nasdaq Cetak Rekor Intraday Berkat Dorongan Teknologi & Harapan Negosiasi Timur Tengah"
   },
   {
    "ts": "2026-09-22T23:00:51+07:00",
@@ -19325,9 +19327,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.976%",
-   "d": 0.26,
-   "ytd": 19.53,
+   "v": "4.968%",
+   "d": 0.1,
+   "ytd": 19.34,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19348,9 +19350,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.64",
-   "d": 0.28,
-   "ytd": 2.4,
+   "v": "100.65",
+   "d": 0.29,
+   "ytd": 2.41,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19360,9 +19362,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.36",
-   "d": -1.73,
-   "ytd": 59.11,
+   "v": "91.44",
+   "d": -1.65,
+   "ytd": 59.25,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19372,9 +19374,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,375.5",
-   "d": -0.08,
-   "ytd": 1.15,
+   "v": "4,373.9",
+   "d": -0.12,
+   "ytd": 1.12,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -21394,34 +21396,6 @@
  ],
  "announcements": [
   {
-   "ts": "2026-09-22T20:31:47+07:00",
-   "date": "2026-09-22",
-   "time": "20:31",
-   "t": "CDIA",
-   "type": "STOCK",
-   "title": "Penyampaian Bukti Iklan Jadwal Pembagian dividen interim",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fa4e4c552f_a6f09afe90.pdf",
-   "title_ko": "중간배당 일정 광고 게재 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Jadwal Dividen Interim",
-   "kind_ko": "자사주·배당",
-   "kind_id": "Buyback/Dividen",
-   "rk": 102
-  },
-  {
-   "ts": "2026-09-22T10:41:21+07:00",
-   "date": "2026-09-22",
-   "time": "10:41",
-   "t": "UNTR",
-   "type": "STOCK",
-   "title": "Transaksi Afiliasi",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d62d8c982_aa9c54996d.pdf",
-   "title_ko": "특수관계자 거래",
-   "title_id": "Transaksi Afiliasi",
-   "kind_ko": "특수관계",
-   "kind_id": "Transaksi Afiliasi",
-   "rk": 102
-  },
-  {
    "ts": "2026-09-22T16:22:10+07:00",
    "date": "2026-09-22",
    "time": "16:22",
@@ -21433,7 +21407,7 @@
    "title_id": "Jadwal Dividen Tunai Interim",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
-   "rk": 98
+   "rk": 102
   },
   {
    "ts": "2026-09-21T23:55:55+07:00",
@@ -21476,20 +21450,6 @@
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
    "rk": 96
-  },
-  {
-   "ts": "2026-09-22T18:18:03+07:00",
-   "date": "2026-09-22",
-   "time": "18:18",
-   "t": "GSMF",
-   "type": "STOCK",
-   "title": "Penyesuaian Rencana Waktu PMTHMETD Tahap II ",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/63cc82f5bc_de79129416.pdf",
-   "title_ko": "제3자배정 유상증자 2단계 일정 변경",
-   "title_id": "Penyesuaian Jadwal PMTHMETD Tahap II",
-   "kind_ko": "유상증자",
-   "kind_id": "Rights Issue",
-   "rk": 90
   },
   {
    "ts": "2026-09-22T15:33:33+07:00",
@@ -21576,20 +21536,6 @@
    "rk": 88
   },
   {
-   "ts": "2026-09-22T18:25:30+07:00",
-   "date": "2026-09-22",
-   "time": "18:25",
-   "t": "MKNT",
-   "type": "STOCK",
-   "title": "Penambahan modal tanpa HMETD - Rencana Pelaksanaan Penambahan Modal Tanpa HMETD ",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/433e20a35b_07be089b7c.pdf",
-   "title_ko": "HMETD 배제 유상증자 — 제3자배정 증자 실시 계획",
-   "title_id": "Penambahan Modal Tanpa HMETD - Rencana Pelaksanaan Penambahan Modal Tanpa HMETD",
-   "kind_ko": "유상증자",
-   "kind_id": "Rights Issue",
-   "rk": 86
-  },
-  {
    "ts": "2026-09-22T13:11:39+07:00",
    "date": "2026-09-22",
    "time": "13:11",
@@ -21674,62 +21620,6 @@
    "rk": 80
   },
   {
-   "ts": "2026-09-22T21:00:50+07:00",
-   "date": "2026-09-22",
-   "time": "21:00",
-   "t": "BTPS",
-   "type": "STOCK",
-   "title": "Penjelasan atas Volatilitas Transaksi",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d11ee4e37e_51c240cd64.pdf",
-   "title_ko": "거래 변동성에 대한 설명",
-   "title_id": "Penjelasan atas Volatilitas Transaksi",
-   "kind_ko": "주가급변",
-   "kind_id": "Volatilitas",
-   "rk": 78
-  },
-  {
-   "ts": "2026-09-22T20:09:43+07:00",
-   "date": "2026-09-22",
-   "time": "20:09",
-   "t": "UVCR",
-   "type": "STOCK",
-   "title": "Penyampaian Bukti Iklan Informasi Penambahan Modal tanpa HMETD",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fef1cb60cb_ce4856181a.pdf",
-   "title_ko": "신주인수권 배제(HMETD 미부여) 증자 정보 공고 게재 증빙 제출",
-   "title_id": "Bukti Iklan Penambahan Modal tanpa HMETD",
-   "kind_ko": "유상증자",
-   "kind_id": "Rights Issue",
-   "rk": 78
-  },
-  {
-   "ts": "2026-09-22T17:09:08+07:00",
-   "date": "2026-09-22",
-   "time": "17:09",
-   "t": "AGII",
-   "type": "STOCK",
-   "title": "Penjelasan atas Volatilitas Transaksi",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/028a8da8ac_c18f1d97fa.pdf",
-   "title_ko": "거래 변동성에 대한 설명",
-   "title_id": "Penjelasan atas Volatilitas Transaksi",
-   "kind_ko": "주가급변",
-   "kind_id": "Volatilitas",
-   "rk": 78
-  },
-  {
-   "ts": "2026-09-22T16:49:40+07:00",
-   "date": "2026-09-22",
-   "time": "16:49",
-   "t": "BJBR",
-   "type": "STOCK",
-   "title": "Penjelasan atas Volatilitas Transaksi",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cfd6933fae_7db317670f.pdf",
-   "title_ko": "거래 변동성에 대한 설명",
-   "title_id": "Penjelasan atas Volatilitas Transaksi",
-   "kind_ko": "주가급변",
-   "kind_id": "Volatilitas",
-   "rk": 78
-  },
-  {
    "ts": "2026-09-22T13:20:03+07:00",
    "date": "2026-09-22",
    "time": "13:20",
@@ -21742,20 +21632,6 @@
    "kind_ko": "주가급변",
    "kind_id": "Volatilitas",
    "rk": 78
-  },
-  {
-   "ts": "2026-09-22T22:04:41+07:00",
-   "date": "2026-09-22",
-   "time": "22:04",
-   "t": "MKNT",
-   "type": "STOCK",
-   "title": "Penambahan modal tanpa HMETD - Rencana Pelaksanaan Penambahan Modal Tanpa HMETD (KOREKSI) ",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/33dd94442e_86bc50d5b4.pdf",
-   "title_ko": "정정 공시 — 제3자배정 유상증자 실시 계획",
-   "title_id": "Private Placement - Rencana Pelaksanaan PMTHMETD (KOREKSI)",
-   "kind_ko": "유상증자",
-   "kind_id": "Rights Issue",
-   "rk": 76
   },
   {
    "ts": "2026-09-22T15:55:18+07:00",
@@ -21798,34 +21674,6 @@
    "kind_id": "Laporan Keuangan",
    "rk": 74,
    "title_id": "Penjelasan Opini Laporan Keuangan Tahunan 2025 PT Capitalinc Investment Tbk"
-  },
-  {
-   "ts": "2026-09-22T19:02:15+07:00",
-   "date": "2026-09-22",
-   "time": "19:02",
-   "t": "SKBM",
-   "type": "STOCK",
-   "title": "Penjelasan atas Permintaan Penjelasan Bursa",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/671e6acfb4_af85e6f287.pdf",
-   "title_ko": "거래소 조회공시 요구에 대한 답변",
-   "title_id": "Penjelasan atas Permintaan Penjelasan Bursa",
-   "kind_ko": "조회공시",
-   "kind_id": "Penjelasan Bursa",
-   "rk": 73
-  },
-  {
-   "ts": "2026-09-22T19:00:47+07:00",
-   "date": "2026-09-22",
-   "time": "19:00",
-   "t": "MKNT",
-   "type": "STOCK",
-   "title": "Penambahan modal tanpa HMETD - Rencana Pelaksanaan Penambahan Modal Tanpa HMETD (KOREKSI) ",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/176c81f95e_e26b86b82c.pdf",
-   "title_ko": "정정 공시 — 제3자배정 유상증자 실시 계획",
-   "title_id": "Private Placement - Rencana Pelaksanaan PMTHMETD (KOREKSI)",
-   "kind_ko": "유상증자",
-   "kind_id": "Rights Issue",
-   "rk": 72
   },
   {
    "ts": "2026-09-21T15:02:20+07:00",
@@ -21952,20 +21800,6 @@
    "rk": 60
   },
   {
-   "ts": "2026-09-22T11:07:39+07:00",
-   "date": "2026-09-22",
-   "time": "11:07",
-   "t": "BBYB",
-   "type": "STOCK",
-   "title": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f7378ecd17_e9af4af860.pdf",
-   "title_ko": "임시주주총회 개최 계획 통지",
-   "title_id": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
-   "kind_ko": "주총계획",
-   "kind_id": "Rencana RUPS",
-   "rk": 58
-  },
-  {
    "ts": "2026-09-20T18:42:48+07:00",
    "date": "2026-09-20",
    "time": "18:42",
@@ -22086,20 +21920,6 @@
    "rk": 50
   },
   {
-   "ts": "2026-09-22T19:56:07+07:00",
-   "date": "2026-09-22",
-   "time": "19:56",
-   "t": "BAFI",
-   "type": "STOCK",
-   "title": "Penyampaian Informasi Tambahan Ringkas Dalam Rangka Penawaran Umum Berkelanjutan Obligasi Berkelanjutan IV Bussan Auto Finance Tahap II Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Bussan Auto Finance Tahap II Tahun 2026",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fe18f57d56_9bbfced863.pdf",
-   "title_id": "Penyampaian Informasi Tambahan Ringkas Dalam Rangka Penawaran Umum Berkelanjutan Obligasi Berkelanjutan IV Bussan Auto Finance Tahap II Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Bussan Auto Finance Tahap II Tahun 2026",
-   "title_ko": "지속가능채권·수쿡 발행 관련 추가 요약 정보 제출 — Bussan Auto Finance",
-   "kind_ko": "공모·자금",
-   "kind_id": "Prospektus",
-   "rk": 48
-  },
-  {
    "ts": "2026-09-22T13:25:52+07:00",
    "date": "2026-09-22",
    "time": "13:25",
@@ -22124,30 +21944,6 @@
    "kind_ko": "주총계획",
    "kind_id": "Rencana RUPS",
    "rk": 48
-  },
-  {
-   "ts": "2026-09-22T18:39:38+07:00",
-   "date": "2026-09-22",
-   "time": "18:39",
-   "t": "DMAS",
-   "type": "STOCK",
-   "title": "RUPSLB DMAS tanggal 22 September 2026 ",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d23adf1924_acd5f39752.pdf",
-   "title_ko": "DMAS, 2026년 9월 22일 임시주주총회 개최",
-   "title_id": "RUPSLB DMAS 22 September 2026",
-   "rk": 46
-  },
-  {
-   "ts": "2026-09-22T17:49:15+07:00",
-   "date": "2026-09-22",
-   "time": "17:49",
-   "t": "TOWR",
-   "type": "STOCK",
-   "title": "Penandatanganan Addendum Ke-20 Perjanjian Fasilitas antara Protelindo, Iforte, BIT, QTR, VTS, IGPU ,IEN,IEB dengan PT Bank Central Asia Tbk",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df81f18e95_a36072bf7d.pdf",
-   "title_id": "Penandatanganan Addendum Ke-20 Perjanjian Fasilitas antara Protelindo, Iforte, BIT, QTR, VTS, IGPU ,IEN,IEB dengan PT Bank Central Asia Tbk",
-   "title_ko": "Protelindo 등 계열사와 Bank Central Asia Tbk 간 여신 약정 제20차 부속합의서 체결",
-   "rk": 46
   },
   {
    "ts": "2026-09-22T16:42:28+07:00",
@@ -22212,6 +22008,18 @@
    "rk": 46
   },
   {
+   "ts": "2026-09-21T11:19:18+07:00",
+   "date": "2026-09-21",
+   "time": "11:19",
+   "t": "BTPS",
+   "type": "STOCK",
+   "title": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c8cebd70e_8b0b842574.pdf",
+   "title_ko": "임시주주총회 소집 통지",
+   "title_id": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
+   "rk": 46
+  },
+  {
    "ts": "2026-09-21T19:08:03+07:00",
    "date": "2026-09-21",
    "time": "19:08",
@@ -22224,32 +22032,6 @@
    "kind_ko": "사채만기",
    "kind_id": "Obligasi",
    "rk": 44
-  },
-  {
-   "ts": "2026-09-21T11:19:18+07:00",
-   "date": "2026-09-21",
-   "time": "11:19",
-   "t": "BTPS",
-   "type": "STOCK",
-   "title": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8c8cebd70e_8b0b842574.pdf",
-   "title_ko": "임시주주총회 소집 통지",
-   "title_id": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
-   "rk": 42
-  },
-  {
-   "ts": "2026-09-22T23:30:38+07:00",
-   "date": "2026-09-22",
-   "time": "23:30",
-   "t": "PACK",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f5be8480d0_b44e1566da.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 40
   },
   {
    "ts": "2026-09-22T10:42:37+07:00",
@@ -22273,6 +22055,20 @@
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4a759b835b_81eeb65f03.pdf",
    "title_ko": "임시주주총회 소집 통지",
    "title_id": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
+   "rk": 40
+  },
+  {
+   "ts": "2026-09-21T19:11:33+07:00",
+   "date": "2026-09-21",
+   "time": "19:11",
+   "t": "PACK",
+   "type": "STOCK",
+   "title": "Pencatatan Saham",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bfad6b2549_43ff2b802c.pdf",
+   "title_ko": "주식 상장",
+   "title_id": "Pencatatan Saham",
+   "kind_ko": "추가상장",
+   "kind_id": "Pencatatan",
    "rk": 40
   },
   {
@@ -22312,44 +22108,18 @@
    "rk": 40
   },
   {
-   "ts": "2026-09-22T23:35:26+07:00",
-   "date": "2026-09-22",
-   "time": "23:35",
+   "ts": "2026-09-21T19:17:38+07:00",
+   "date": "2026-09-21",
+   "time": "19:17",
    "t": "PGEO",
    "type": "STOCK",
    "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/61c0ab0197_3926669810.pdf",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e436e519c1_e52fe4160e.pdf",
    "title_ko": "주식 상장",
    "title_id": "Pencatatan Saham",
    "kind_ko": "추가상장",
    "kind_id": "Pencatatan",
    "rk": 38
-  },
-  {
-   "ts": "2026-09-22T23:36:26+07:00",
-   "date": "2026-09-22",
-   "time": "23:36",
-   "t": "DJPU",
-   "type": "STOCK",
-   "title": "Jatuh Tempo Surat Berharga Negara",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4223a00e2c_9a60dbe1d0.pdf",
-   "title_ko": "국채 만기 도래",
-   "title_id": "Jatuh Tempo Surat Berharga Negara",
-   "rk": 36
-  },
-  {
-   "ts": "2026-09-22T17:00:44+07:00",
-   "date": "2026-09-22",
-   "time": "17:00",
-   "t": "BYAN",
-   "type": "STOCK",
-   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8820-00.pdf-0.pdf",
-   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
-   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "kind_ko": "지분변동",
-   "kind_id": "Kepemilikan",
-   "rk": 36
   },
   {
    "ts": "2026-09-22T16:49:39+07:00",
@@ -22373,30 +22143,6 @@
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e7811dae3c_493ad62214.pdf",
    "title_ko": "쿠폰 정보 공시",
    "title_id": "Informasi Kupon",
-   "rk": 36
-  },
-  {
-   "ts": "2026-09-22T11:40:29+07:00",
-   "date": "2026-09-22",
-   "time": "11:40",
-   "t": "SUPR",
-   "type": "STOCK",
-   "title": "Penyampaian Salinan Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cbb1ba81a9_cf8b60d5c4.pdf",
-   "title_id": "Penyampaian Salinan Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
-   "title_ko": "PT Profesional Telekomunikasi Indonesia의 PT Solusi Tunas Pratama Tbk 주식 자발적 공개매수 청약 기간 2차 연장 안내문 사본 제출",
-   "rk": 36
-  },
-  {
-   "ts": "2026-09-22T11:09:56+07:00",
-   "date": "2026-09-22",
-   "time": "11:09",
-   "t": "PRTL",
-   "type": "STOCK",
-   "title": "Penyampaian Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03f82f6c17_4e956c9f33.pdf",
-   "title_id": "Penyampaian Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
-   "title_ko": "PT Profesional Telekomunikasi Indonesia의 PT Solusi Tunas Pratama Tbk 주식 자발적 공개매수 청약 기간 2차 연장 공시",
    "rk": 36
   },
   {
@@ -22445,20 +22191,6 @@
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Harga Teoretis FORU 260921-No. Peng-00174BEI.POP09-2026.pdf",
    "title_ko": "FORU, 이론주가 산정 안내",
    "title_id": "Harga Teoretis Saham PT Fortune Indonesia Tbk (FORU)",
-   "rk": 36
-  },
-  {
-   "ts": "2026-09-21T19:11:33+07:00",
-   "date": "2026-09-21",
-   "time": "19:11",
-   "t": "PACK",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bfad6b2549_43ff2b802c.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
    "rk": 36
   },
   {
@@ -22540,18 +22272,6 @@
    "rk": 36
   },
   {
-   "ts": "2026-09-22T17:27:48+07:00",
-   "date": "2026-09-22",
-   "time": "17:27",
-   "t": "ELTY",
-   "type": "STOCK",
-   "title": "Penyampaian Laporan Tahunan & Keberlanjutan dan ESG (KOREKSI)",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4050761a9b_b7768602cd.pdf",
-   "title_ko": "연간 사업보고서·지속가능경영 및 ESG 보고서 제출 (정정)",
-   "title_id": "Penyampaian Laporan Tahunan & Keberlanjutan dan ESG (KOREKSI)",
-   "rk": 34
-  },
-  {
    "ts": "2026-09-22T14:06:58+07:00",
    "date": "2026-09-22",
    "time": "14:06",
@@ -22564,48 +22284,6 @@
    "kind_ko": "공모·자금",
    "kind_id": "Prospektus",
    "rk": 34
-  },
-  {
-   "ts": "2026-09-21T19:17:38+07:00",
-   "date": "2026-09-21",
-   "time": "19:17",
-   "t": "PGEO",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/e436e519c1_e52fe4160e.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 34
-  },
-  {
-   "ts": "2026-09-22T23:33:32+07:00",
-   "date": "2026-09-22",
-   "time": "23:33",
-   "t": "INET",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/f756e5187a_62bd852ad0.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 32
-  },
-  {
-   "ts": "2026-09-22T23:32:36+07:00",
-   "date": "2026-09-22",
-   "time": "23:32",
-   "t": "CYBR",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/67dc44c7d2_0e521b5c98.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 32
   },
   {
    "ts": "2026-09-21T22:34:56+07:00",
@@ -22645,6 +22323,34 @@
    "title_id": "Penyampaian Bukti Iklan Pengumuman Rapat Umum Pemegang Obligasi dan Sukuk Mudharabah Berkelanjutan",
    "kind_ko": "사채만기",
    "kind_id": "Obligasi",
+   "rk": 32
+  },
+  {
+   "ts": "2026-09-21T19:16:46+07:00",
+   "date": "2026-09-21",
+   "time": "19:16",
+   "t": "INET",
+   "type": "STOCK",
+   "title": "Pencatatan Saham",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4dfc5ae85b_6f7303d391.pdf",
+   "title_ko": "주식 상장",
+   "title_id": "Pencatatan Saham",
+   "kind_ko": "추가상장",
+   "kind_id": "Pencatatan",
+   "rk": 32
+  },
+  {
+   "ts": "2026-09-21T19:15:32+07:00",
+   "date": "2026-09-21",
+   "time": "19:15",
+   "t": "CYBR",
+   "type": "STOCK",
+   "title": "Pencatatan Saham",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/267525ab20_87bacc6801.pdf",
+   "title_ko": "주식 상장",
+   "title_id": "Pencatatan Saham",
+   "kind_ko": "추가상장",
+   "kind_id": "Pencatatan",
    "rk": 32
   },
   {
@@ -22710,46 +22416,6 @@
    "rk": 32
   },
   {
-   "ts": "2026-09-22T18:15:44+07:00",
-   "date": "2026-09-22",
-   "time": "18:15",
-   "t": "GOTO",
-   "type": "STOCK",
-   "title": "Penyampaian Bukti Iklan Panggilan RUPS",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23e9b87885_a7fa73201a.pdf",
-   "title_ko": "주주총회 소집공고 게재 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Panggilan RUPS",
-   "kind_ko": "주총결과",
-   "kind_id": "Risalah RUPS",
-   "rk": 30
-  },
-  {
-   "ts": "2026-09-22T22:29:24+07:00",
-   "date": "2026-09-22",
-   "time": "22:29",
-   "t": "HALO",
-   "type": "STOCK",
-   "title": "Keterbukaan Informasi Sehubungan Dengan Pengunduran Diri Direktur PT Haloni Jane Tbk",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf4c454e97_f588f172c7.pdf",
-   "title_ko": "Haloni Jane(HALO), 대표이사 사임 관련 수시공시",
-   "title_id": "Keterbukaan Informasi Pengunduran Diri Direktur PT Haloni Jane Tbk",
-   "rk": 28
-  },
-  {
-   "ts": "2026-09-22T19:15:47+07:00",
-   "date": "2026-09-22",
-   "time": "19:15",
-   "t": "SILO",
-   "type": "STOCK",
-   "title": "Penyampaian Bukti Iklan Hasil RUPS",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/40e2f14428_142bc88291.pdf",
-   "title_ko": "주주총회 결과 공고 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Hasil RUPS",
-   "kind_ko": "주총결과",
-   "kind_id": "Risalah RUPS",
-   "rk": 28
-  },
-  {
    "ts": "2026-09-22T16:44:43+07:00",
    "date": "2026-09-22",
    "time": "16:44",
@@ -22802,34 +22468,6 @@
    "rk": 28
   },
   {
-   "ts": "2026-09-21T19:16:46+07:00",
-   "date": "2026-09-21",
-   "time": "19:16",
-   "t": "INET",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4dfc5ae85b_6f7303d391.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 28
-  },
-  {
-   "ts": "2026-09-21T19:15:32+07:00",
-   "date": "2026-09-21",
-   "time": "19:15",
-   "t": "CYBR",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/267525ab20_87bacc6801.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 28
-  },
-  {
    "ts": "2026-09-21T15:55:37+07:00",
    "date": "2026-09-21",
    "time": "15:55",
@@ -22866,20 +22504,6 @@
    "kind_ko": "기업설명회",
    "kind_id": "Public Expose",
    "rk": 26
-  },
-  {
-   "ts": "2026-09-22T19:02:43+07:00",
-   "date": "2026-09-22",
-   "time": "19:02",
-   "t": "SILO",
-   "type": "STOCK",
-   "title": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d2bfbea95f_6413eae595.pdf",
-   "title_ko": "임시주주총회 의사록 요약",
-   "title_id": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa",
-   "kind_ko": "주총결과",
-   "kind_id": "Risalah RUPS",
-   "rk": 24
   },
   {
    "ts": "2026-09-22T16:06:11+07:00",
@@ -22930,90 +22554,6 @@
    "title_ko": "WIKA, 사채권자집회 개최 계획 안내",
    "title_id": "Rencana RUPO PT Wijaya Karya (Persero) Tbk",
    "rk": 24
-  },
-  {
-   "ts": "2026-09-22T23:36:55+07:00",
-   "date": "2026-09-22",
-   "time": "23:36",
-   "t": "PYFA",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1417685145_633a1396df.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 22
-  },
-  {
-   "ts": "2026-09-22T23:35:47+07:00",
-   "date": "2026-09-22",
-   "time": "23:35",
-   "t": "XRDN",
-   "type": "STOCK",
-   "title": "Pengumuman Bursa Pencatatan Tambahan ETF",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/342e2e90ef_deae3f0f00.pdf",
-   "title_ko": "ETF 추가 상장 거래소 공告",
-   "title_id": "Pengumuman Bursa · Pencatatan Tambahan ETF",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 22
-  },
-  {
-   "ts": "2026-09-22T23:34:56+07:00",
-   "date": "2026-09-22",
-   "time": "23:34",
-   "t": "XIPI",
-   "type": "STOCK",
-   "title": "Pengumuman Bursa Pencatatan Tambahan ETF",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b5e2972f83_863b9e0c45.pdf",
-   "title_ko": "ETF 추가 상장 거래소 공告",
-   "title_id": "Pengumuman Bursa · Pencatatan Tambahan ETF",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 22
-  },
-  {
-   "ts": "2026-09-22T23:34:04+07:00",
-   "date": "2026-09-22",
-   "time": "23:34",
-   "t": "XIPB",
-   "type": "STOCK",
-   "title": "Pengumuman Bursa Pencatatan Tambahan ETF",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/344a6ae469_3cf039749e.pdf",
-   "title_ko": "ETF 추가 상장 거래소 공告",
-   "title_id": "Pengumuman Bursa · Pencatatan Tambahan ETF",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 22
-  },
-  {
-   "ts": "2026-09-22T23:32:10+07:00",
-   "date": "2026-09-22",
-   "time": "23:32",
-   "t": "R-ABFII",
-   "type": "STOCK",
-   "title": "Pengumuman Bursa Pencatatan Tambahan ETF",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9f9d378ca3_8288e8704f.pdf",
-   "title_ko": "ETF 추가 상장 거래소 공告",
-   "title_id": "Pengumuman Bursa · Pencatatan Tambahan ETF",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 22
-  },
-  {
-   "ts": "2026-09-22T23:28:29+07:00",
-   "date": "2026-09-22",
-   "time": "23:28",
-   "t": "XPFT",
-   "type": "STOCK",
-   "title": "Pengumuman Bursa Pencatatan Tambahan ETF",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6295d344fe_ffcf34d444.pdf",
-   "title_ko": "ETF 추가 상장 거래소 공告",
-   "title_id": "Pengumuman Bursa · Pencatatan Tambahan ETF",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 22
   },
   {
    "ts": "2026-09-22T14:43:44+07:00",
@@ -23070,6 +22610,20 @@
    "rk": 22
   },
   {
+   "ts": "2026-09-21T19:19:56+07:00",
+   "date": "2026-09-21",
+   "time": "19:19",
+   "t": "PYFA",
+   "type": "STOCK",
+   "title": "Pencatatan Saham",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ee77d08b10_1181e72918.pdf",
+   "title_ko": "주식 상장",
+   "title_id": "Pencatatan Saham",
+   "kind_ko": "추가상장",
+   "kind_id": "Pencatatan",
+   "rk": 22
+  },
+  {
    "ts": "2026-09-21T19:19:05+07:00",
    "date": "2026-09-21",
    "time": "19:19",
@@ -23077,6 +22631,34 @@
    "type": "STOCK",
    "title": "Pengumuman Bursa Pencatatan Tambahan ETF",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/141a6a815e_9866c83c65.pdf",
+   "title_ko": "ETF 추가 상장 거래소 공告",
+   "title_id": "Pengumuman Bursa · Pencatatan Tambahan ETF",
+   "kind_ko": "추가상장",
+   "kind_id": "Pencatatan",
+   "rk": 22
+  },
+  {
+   "ts": "2026-09-21T19:18:13+07:00",
+   "date": "2026-09-21",
+   "time": "19:18",
+   "t": "DJPU",
+   "type": "STOCK",
+   "title": "Pengumuman Bursa Pencatatan Surat Berharga Negara",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ecb9ae1f1d_13f608d02a.pdf",
+   "title_ko": "국채 상장 거래소 공고",
+   "title_id": "Pengumuman Bursa · Pencatatan Surat Berharga Negara",
+   "kind_ko": "추가상장",
+   "kind_id": "Pencatatan",
+   "rk": 22
+  },
+  {
+   "ts": "2026-09-21T19:17:03+07:00",
+   "date": "2026-09-21",
+   "time": "19:17",
+   "t": "R-ABFII",
+   "type": "STOCK",
+   "title": "Pengumuman Bursa Pencatatan Tambahan ETF",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a5c9f475a3_77ee262ed9.pdf",
    "title_ko": "ETF 추가 상장 거래소 공告",
    "title_id": "Pengumuman Bursa · Pencatatan Tambahan ETF",
    "kind_ko": "추가상장",
@@ -23238,62 +22820,6 @@
    "rk": 22
   },
   {
-   "ts": "2026-09-22T21:57:45+07:00",
-   "date": "2026-09-22",
-   "time": "21:57",
-   "t": "AGAR",
-   "type": "STOCK",
-   "title": "Perubahan Komite Audit",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/6dbfc2546d_3b10cad61f.pdf",
-   "title_ko": "감사위원회 구성 변경",
-   "title_id": "Perubahan Komite Audit",
-   "kind_ko": "실무인사",
-   "kind_id": "Sekretaris",
-   "rk": 20
-  },
-  {
-   "ts": "2026-09-22T18:27:15+07:00",
-   "date": "2026-09-22",
-   "time": "18:27",
-   "t": "BIKE",
-   "type": "STOCK",
-   "title": "Rencana Penyelenggaraan Public Expose - Insidentil",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ec0601cc0d_3ec761a437.pdf",
-   "title_ko": "수시 기업설명회 개최 계획",
-   "title_id": "Rencana Penyelenggaraan Public Expose - Insidentil",
-   "kind_ko": "기업설명회",
-   "kind_id": "Public Expose",
-   "rk": 20
-  },
-  {
-   "ts": "2026-09-22T17:59:18+07:00",
-   "date": "2026-09-22",
-   "time": "17:59",
-   "t": "KETR",
-   "type": "STOCK",
-   "title": "Perubahan Komite Audit",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5b3219ef67_682b8496a1.pdf",
-   "title_ko": "감사위원회 구성 변경",
-   "title_id": "Perubahan Komite Audit",
-   "kind_ko": "실무인사",
-   "kind_id": "Sekretaris",
-   "rk": 20
-  },
-  {
-   "ts": "2026-09-22T17:00:35+07:00",
-   "date": "2026-09-22",
-   "time": "17:00",
-   "t": "DLTA",
-   "type": "STOCK",
-   "title": "Perubahan Komite Audit",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/c7c5e06aa7_d234839596.pdf",
-   "title_ko": "감사위원회 구성 변경",
-   "title_id": "Perubahan Komite Audit",
-   "kind_ko": "실무인사",
-   "kind_id": "Sekretaris",
-   "rk": 20
-  },
-  {
    "ts": "2026-09-22T15:56:21+07:00",
    "date": "2026-09-22",
    "time": "15:56",
@@ -23350,17 +22876,17 @@
    "rk": 20
   },
   {
-   "ts": "2026-09-22T23:34:26+07:00",
+   "ts": "2026-09-22T14:53:53+07:00",
    "date": "2026-09-22",
-   "time": "23:34",
-   "t": "DJPU",
+   "time": "14:53",
+   "t": "CYBR",
    "type": "STOCK",
-   "title": "Pengumuman Bursa Pencatatan Surat Berharga Negara",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1fba92d222_88bde5d4b9.pdf",
-   "title_ko": "국채 상장 거래소 공고",
-   "title_id": "Pengumuman Bursa · Pencatatan Surat Berharga Negara",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
+   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6817-00.pdf-0.pdf",
+   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
+   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+   "kind_ko": "지분변동",
+   "kind_id": "Kepemilikan",
    "rk": 18
   },
   {
@@ -23378,7 +22904,7 @@
    "rk": 18
   },
   {
-   "ts": "2026-09-21T19:19:56+07:00",
+   "ts": "2026-09-21T19:19:49+07:00",
    "date": "2026-09-21",
    "time": "19:19",
    "t": "PYFA",
@@ -23387,20 +22913,6 @@
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ee77d08b10_1181e72918.pdf",
    "title_ko": "주식 상장",
    "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 18
-  },
-  {
-   "ts": "2026-09-21T19:17:03+07:00",
-   "date": "2026-09-21",
-   "time": "19:17",
-   "t": "R-ABFII",
-   "type": "STOCK",
-   "title": "Pengumuman Bursa Pencatatan Tambahan ETF",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a5c9f475a3_77ee262ed9.pdf",
-   "title_ko": "ETF 추가 상장 거래소 공告",
-   "title_id": "Pengumuman Bursa · Pencatatan Tambahan ETF",
    "kind_ko": "추가상장",
    "kind_id": "Pencatatan",
    "rk": 18
@@ -23448,74 +22960,18 @@
    "rk": 16
   },
   {
-   "ts": "2026-09-22T23:33:01+07:00",
-   "date": "2026-09-22",
-   "time": "23:33",
-   "t": "ISAP",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/988aeae1cd_0205d63a11.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 14
-  },
-  {
-   "ts": "2026-09-22T23:29:45+07:00",
-   "date": "2026-09-22",
-   "time": "23:29",
-   "t": "PJHB",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/628cd44239_37373e680c.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 14
-  },
-  {
-   "ts": "2026-09-22T23:29:00+07:00",
-   "date": "2026-09-22",
-   "time": "23:29",
-   "t": "KOCI",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d60964d17f_44b0314cb6.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 14
-  },
-  {
-   "ts": "2026-09-22T16:52:08+07:00",
-   "date": "2026-09-22",
-   "time": "16:52",
-   "t": "POST",
-   "type": "STOCK",
-   "title": "Pemberitahuan Hasil RUPSU PT Pos Indonesia (Persero)",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/400c2c7bf4_ab14c25592.pdf",
-   "title_ko": "Pos Indonesia, 수쿡 보유자총회 결과 통지",
-   "title_id": "Hasil RUPSU PT Pos Indonesia (Persero)",
-   "kind_ko": "주총결과",
-   "kind_id": "Risalah RUPS",
-   "rk": 14
-  },
-  {
-   "ts": "2026-09-22T14:53:53+07:00",
-   "date": "2026-09-22",
-   "time": "14:53",
-   "t": "CYBR",
+   "ts": "2026-09-21T11:12:14+07:00",
+   "date": "2026-09-21",
+   "time": "11:12",
+   "t": "KETR",
    "type": "STOCK",
    "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-6817-00.pdf-0.pdf",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7205-00.pdf-0.pdf",
    "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
    "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
    "kind_ko": "지분변동",
    "kind_id": "Kepemilikan",
-   "rk": 14
+   "rk": 16
   },
   {
    "ts": "2026-09-22T11:21:27+07:00",
@@ -23532,20 +22988,6 @@
    "rk": 14
   },
   {
-   "ts": "2026-09-22T11:11:15+07:00",
-   "date": "2026-09-22",
-   "time": "11:11",
-   "t": "PRTL",
-   "type": "STOCK",
-   "title": "Penyampaian Bukti Iklan Informasi Penawaran Tender (Tender Offer)",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2df1438b07_d13ffd3161.pdf",
-   "title_ko": "공개매수 관련 광고 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Tender Offer",
-   "kind_ko": "주총결과",
-   "kind_id": "Risalah RUPS",
-   "rk": 14
-  },
-  {
    "ts": "2026-09-21T19:21:24+07:00",
    "date": "2026-09-21",
    "time": "19:21",
@@ -23553,20 +22995,6 @@
    "type": "STOCK",
    "title": "Pencatatan Saham",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/af80577597_2eb5e091c5.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 14
-  },
-  {
-   "ts": "2026-09-21T19:19:49+07:00",
-   "date": "2026-09-21",
-   "time": "19:19",
-   "t": "PYFA",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ee77d08b10_1181e72918.pdf",
    "title_ko": "주식 상장",
    "title_id": "Pencatatan Saham",
    "kind_ko": "추가상장",
@@ -23588,17 +23016,45 @@
    "rk": 14
   },
   {
-   "ts": "2026-09-21T19:18:13+07:00",
+   "ts": "2026-09-21T19:16:17+07:00",
    "date": "2026-09-21",
-   "time": "19:18",
-   "t": "DJPU",
+   "time": "19:16",
+   "t": "ISAP",
    "type": "STOCK",
-   "title": "Pengumuman Bursa Pencatatan Surat Berharga Negara",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ecb9ae1f1d_13f608d02a.pdf",
-   "title_ko": "국채 상장 거래소 공고",
-   "title_id": "Pengumuman Bursa · Pencatatan Surat Berharga Negara",
+   "title": "Pencatatan Saham",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60993e36df_4b4e03abf5.pdf",
+   "title_ko": "주식 상장",
+   "title_id": "Pencatatan Saham",
    "kind_ko": "추가상장",
    "kind_id": "Pencatatan",
+   "rk": 14
+  },
+  {
+   "ts": "2026-09-21T19:09:55+07:00",
+   "date": "2026-09-21",
+   "time": "19:09",
+   "t": "KOCI",
+   "type": "STOCK",
+   "title": "Pencatatan Saham",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23db8d079b_17072bef31.pdf",
+   "title_ko": "주식 상장",
+   "title_id": "Pencatatan Saham",
+   "kind_ko": "추가상장",
+   "kind_id": "Pencatatan",
+   "rk": 14
+  },
+  {
+   "ts": "2026-09-21T13:58:21+07:00",
+   "date": "2026-09-21",
+   "time": "13:58",
+   "t": "CYBR",
+   "type": "STOCK",
+   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0586-00.pdf-0.pdf",
+   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
+   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+   "kind_ko": "지분변동",
+   "kind_id": "Kepemilikan",
    "rk": 14
   },
   {
@@ -23614,20 +23070,6 @@
    "kind_ko": "지분변동",
    "kind_id": "Kepemilikan",
    "rk": 14
-  },
-  {
-   "ts": "2026-09-22T20:19:43+07:00",
-   "date": "2026-09-22",
-   "time": "20:19",
-   "t": "KKGI",
-   "type": "STOCK",
-   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-9273-00.pdf-0.pdf",
-   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
-   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "kind_ko": "지분변동",
-   "kind_id": "Kepemilikan",
-   "rk": 12
   },
   {
    "ts": "2026-09-21T17:49:18+07:00",
@@ -23672,46 +23114,18 @@
    "rk": 12
   },
   {
-   "ts": "2026-09-21T11:12:14+07:00",
+   "ts": "2026-09-21T11:06:50+07:00",
    "date": "2026-09-21",
-   "time": "11:12",
+   "time": "11:06",
    "t": "KETR",
    "type": "STOCK",
    "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-7205-00.pdf-0.pdf",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-4165-00.pdf-0.pdf",
    "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
    "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
    "kind_ko": "지분변동",
    "kind_id": "Kepemilikan",
    "rk": 12
-  },
-  {
-   "ts": "2026-09-22T21:31:20+07:00",
-   "date": "2026-09-22",
-   "time": "21:31",
-   "t": "KIOS",
-   "type": "STOCK",
-   "title": "Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/00e1f1aabc_015d9fc201.pdf",
-   "title_ko": "주주총회 개최 통지 게재 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "kind_ko": "주총결과",
-   "kind_id": "Risalah RUPS",
-   "rk": 10
-  },
-  {
-   "ts": "2026-09-22T17:22:09+07:00",
-   "date": "2026-09-22",
-   "time": "17:22",
-   "t": "AKKU",
-   "type": "STOCK",
-   "title": "Laporan Hasil Public Expose - Insidentil (KOREKSI)",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb668ff428_c73313662a.pdf",
-   "title_ko": "정정 공시 — 수시 기업설명회 결과 보고서",
-   "title_id": "Laporan Hasil Public Expose Insidentil (KOREKSI)",
-   "kind_ko": "기업설명회",
-   "kind_id": "Public Expose",
-   "rk": 10
   },
   {
    "ts": "2026-09-22T15:31:51+07:00",
@@ -23784,48 +23198,6 @@
    "rk": 10
   },
   {
-   "ts": "2026-09-21T19:16:17+07:00",
-   "date": "2026-09-21",
-   "time": "19:16",
-   "t": "ISAP",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/60993e36df_4b4e03abf5.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 10
-  },
-  {
-   "ts": "2026-09-21T19:09:55+07:00",
-   "date": "2026-09-21",
-   "time": "19:09",
-   "t": "KOCI",
-   "type": "STOCK",
-   "title": "Pencatatan Saham",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/23db8d079b_17072bef31.pdf",
-   "title_ko": "주식 상장",
-   "title_id": "Pencatatan Saham",
-   "kind_ko": "추가상장",
-   "kind_id": "Pencatatan",
-   "rk": 10
-  },
-  {
-   "ts": "2026-09-21T13:58:21+07:00",
-   "date": "2026-09-21",
-   "time": "13:58",
-   "t": "CYBR",
-   "type": "STOCK",
-   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-0586-00.pdf-0.pdf",
-   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
-   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "kind_ko": "지분변동",
-   "kind_id": "Kepemilikan",
-   "rk": 10
-  },
-  {
    "ts": "2026-09-21T13:48:51+07:00",
    "date": "2026-09-21",
    "time": "13:48",
@@ -23868,62 +23240,6 @@
    "rk": 10
   },
   {
-   "ts": "2026-09-22T20:25:21+07:00",
-   "date": "2026-09-22",
-   "time": "20:25",
-   "t": "ASMI",
-   "type": "STOCK",
-   "title": "Perubahan Komite Audit",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bbe840cf38_3f76334177.pdf",
-   "title_ko": "감사위원회 구성 변경",
-   "title_id": "Perubahan Komite Audit",
-   "kind_ko": "실무인사",
-   "kind_id": "Sekretaris",
-   "rk": 8
-  },
-  {
-   "ts": "2026-09-21T11:06:50+07:00",
-   "date": "2026-09-21",
-   "time": "11:06",
-   "t": "KETR",
-   "type": "STOCK",
-   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-21092026-4165-00.pdf-0.pdf",
-   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
-   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "kind_ko": "지분변동",
-   "kind_id": "Kepemilikan",
-   "rk": 8
-  },
-  {
-   "ts": "2026-09-22T20:09:26+07:00",
-   "date": "2026-09-22",
-   "time": "20:09",
-   "t": "UVCR",
-   "type": "STOCK",
-   "title": "Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/48459e01f7_c620d83940.pdf",
-   "title_ko": "주주총회 개최 통지 게재 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "kind_ko": "주총결과",
-   "kind_id": "Risalah RUPS",
-   "rk": 6
-  },
-  {
-   "ts": "2026-09-22T16:59:27+07:00",
-   "date": "2026-09-22",
-   "time": "16:59",
-   "t": "AKKU",
-   "type": "STOCK",
-   "title": "Laporan Hasil Public Expose - Insidentil (KOREKSI)",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2c692441a1_abefbffa5e.pdf",
-   "title_ko": "정정 공시 — 수시 기업설명회 결과 보고서",
-   "title_id": "Laporan Hasil Public Expose Insidentil (KOREKSI)",
-   "kind_ko": "기업설명회",
-   "kind_id": "Public Expose",
-   "rk": 6
-  },
-  {
    "ts": "2026-09-21T16:25:59+07:00",
    "date": "2026-09-21",
    "time": "16:25",
@@ -23950,34 +23266,6 @@
    "kind_ko": "주총결과",
    "kind_id": "Risalah RUPS",
    "rk": 6
-  },
-  {
-   "ts": "2026-09-22T18:22:52+07:00",
-   "date": "2026-09-22",
-   "time": "18:22",
-   "t": "ZONE",
-   "type": "STOCK",
-   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-0390-00.pdf-0.pdf",
-   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
-   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "kind_ko": "지분변동",
-   "kind_id": "Kepemilikan",
-   "rk": 4
-  },
-  {
-   "ts": "2026-09-22T17:07:29+07:00",
-   "date": "2026-09-22",
-   "time": "17:07",
-   "t": "BAPA",
-   "type": "STOCK",
-   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-4712-00.pdf-0.pdf",
-   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
-   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "kind_ko": "지분변동",
-   "kind_id": "Kepemilikan",
-   "rk": 4
   },
   {
    "ts": "2026-09-22T16:46:19+07:00",
@@ -24180,7 +23468,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 336,
+  "pc_age_min": 343,
   "news_ai_cache": 92,
   "news_ai_hit": 33,
   "on_runner": true,
@@ -26851,67 +26139,33 @@
    "ann": [
     {
      "t": "CDIA",
-     "ko": "중간배당 일정 광고 게재 증빙 제출",
-     "id": "Penyampaian Bukti Iklan Jadwal Dividen Interim",
-     "kind_ko": "자사주·배당",
-     "kind_id": "Buyback/Dividen",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fa4e4c552f_a6f09afe90.pdf",
-     "time": "20:31",
-     "q": 100
-    },
-    {
-     "t": "UNTR",
-     "ko": "특수관계자 거래",
-     "id": "Transaksi Afiliasi",
-     "kind_ko": "특수관계",
-     "kind_id": "Transaksi Afiliasi",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/9d62d8c982_aa9c54996d.pdf",
-     "time": "10:41",
-     "q": 100
-    },
-    {
-     "t": "CDIA",
      "ko": "중간 현금배당 일정",
      "id": "Jadwal Dividen Tunai Interim",
      "kind_ko": "자사주·배당",
      "kind_id": "Buyback/Dividen",
      "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7a29f48d58_b6437681b7.pdf",
      "time": "16:22",
-     "q": 98
-    }
-   ]
-  },
-  "2026-09-10": {
-   "ann": [
-    {
-     "t": "BUMI",
-     "ko": "거래소 조회공시 요구에 대한 답변",
-     "id": "Penjelasan atas Permintaan Penjelasan Bursa",
-     "kind_ko": "조회공시",
-     "kind_id": "Penjelasan Bursa",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d22e77149_12e6084dc3.pdf",
-     "time": "19:12",
-     "q": 85
+     "q": 100
     },
     {
-     "t": "MGLV",
-     "ko": "유상증자(HMETD) 추진 기업정보 공시 — 9월10일",
-     "id": "Keterbukaan Informasi Aksi Korporasi - Rencana Penambahan Modal dengan HMETD - 10 Sep 2026",
-     "kind_ko": "유상증자",
-     "kind_id": "Rights Issue",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/881c3a5b7b_ce2450a4f0.pdf",
-     "time": "19:13",
+     "t": "PSSI",
+     "ko": "주식배당 및 무상증자 배당 계획 공고 광고 증빙 제출",
+     "id": "Penyampaian Bukti Iklan Informasi Rencana Pembagian dividen saham / Saham Bonus",
+     "kind_ko": "자사주·배당",
+     "kind_id": "Buyback/Dividen",
+     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83bcbf64e5_5d24c15d6f.pdf",
+     "time": "15:33",
      "q": 90
     },
     {
-     "t": "ELSA",
-     "ko": "Elnusa, 임시주총서 임원 변경 결정 — 지배구조·사업 지속성 강화",
-     "id": "RUPSLB Elnusa Tetapkan Perubahan Pengurus, Tegaskan Komitmen pada Tata Kelola dan  Kesinambungan Bisnis",
-     "kind_ko": "경영권",
-     "kind_id": "Direksi",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2f95f51f0d_ceac20ede8.pdf",
-     "time": "05:34",
-     "q": 88
+     "t": "VICO",
+     "ko": "기말 현금배당 지급 일정 광고 증빙 제출",
+     "id": "Bukti Iklan Jadwal Dividen Tunai Final",
+     "kind_ko": "자사주·배당",
+     "kind_id": "Buyback/Dividen",
+     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d233f0d447_eba0816613.pdf",
+     "time": "15:07",
+     "q": 90
     }
    ]
   }
@@ -45051,56 +44305,6 @@
    "srcs": 3
   },
   {
-   "t": "SILO",
-   "n": "Siloam International Hospitals",
-   "px": 2060.0,
-   "pct": 5.1,
-   "val": 8191935000.0,
-   "mcap": 26792617500000.0,
-   "ratio": 3.7,
-   "ev_ko": "경영진 변동",
-   "ev_id": "Manajemen",
-   "hl": "주주총회 결과 공고 증빙 제출",
-   "hl_id": "Penyampaian Bukti Iklan Hasil RUPS",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/40e2f14428_142bc88291.pdf",
-   "score": 74.8,
-   "s_news": 50,
-   "s_size": 61,
-   "s_surge": 100,
-   "s_move": 100,
-   "s_conc": 100,
-   "s_flow": 57,
-   "alpha": 6.79,
-   "vrank": null,
-   "flow": -5.66,
-   "srcs": 0
-  },
-  {
-   "t": "UVCR",
-   "n": "Trimegah Karya Pratama",
-   "px": 188.0,
-   "pct": 5.62,
-   "val": 24543398100.0,
-   "mcap": 376027229544.0,
-   "ratio": 2.3,
-   "ev_ko": "자본구조",
-   "ev_id": "Aksi korporasi",
-   "hl": "신주인수권 배제(HMETD 미부여) 증자 정보 공고 게재 증빙 제출",
-   "hl_id": "Bukti Iklan Penambahan Modal tanpa HMETD",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fef1cb60cb_ce4856181a.pdf",
-   "score": 70.1,
-   "s_news": 90,
-   "s_size": 14,
-   "s_surge": 65,
-   "s_move": 100,
-   "s_conc": 65,
-   "s_flow": 30,
-   "alpha": 7.31,
-   "vrank": 92,
-   "flow": 2.97,
-   "srcs": 0
-  },
-  {
    "t": "JECX",
    "n": "Nitrasanata Dharma",
    "px": 1450.0,
@@ -45173,6 +44377,31 @@
    "alpha": 3.54,
    "vrank": null,
    "flow": -1.61,
+   "srcs": 0
+  },
+  {
+   "t": "SILO",
+   "n": "Siloam International Hospitals",
+   "px": 2060.0,
+   "pct": 5.1,
+   "val": 8191935000.0,
+   "mcap": 26792617500000.0,
+   "ratio": 3.7,
+   "ev_ko": "가격·수급 이상",
+   "ev_id": "Harga & arus dana",
+   "hl": "시장 대비 +6.79%p · 20일 평균 3.7배 · 외국인 5일 -5.7%",
+   "hl_id": "vs pasar +6.79%p · 3.7x rata 20 hari · asing 5 hari -5.7%",
+   "url": "",
+   "score": 59.8,
+   "s_news": 0,
+   "s_size": 61,
+   "s_surge": 100,
+   "s_move": 100,
+   "s_conc": 100,
+   "s_flow": 57,
+   "alpha": 6.79,
+   "vrank": null,
+   "flow": -5.66,
    "srcs": 0
   },
   {
@@ -45273,6 +44502,31 @@
    "alpha": 4.23,
    "vrank": 68,
    "flow": 15.83,
+   "srcs": 0
+  },
+  {
+   "t": "LPPF",
+   "n": "MDS Retailing",
+   "px": 1580.0,
+   "pct": 3.61,
+   "val": 7354071833.333333,
+   "mcap": 3519101262400.0,
+   "ratio": 2.4,
+   "ev_ko": "가격·수급 이상",
+   "ev_id": "Harga & arus dana",
+   "hl": "시장 대비 +5.30%p · 20일 평균 2.4배 · 외국인 5일 -27.6%",
+   "hl_id": "vs pasar +5.30%p · 2.4x rata 20 hari · asing 5 hari -27.6%",
+   "url": "",
+   "score": 54.8,
+   "s_news": 0,
+   "s_size": 39,
+   "s_surge": 70,
+   "s_move": 100,
+   "s_conc": 70,
+   "s_flow": 100,
+   "alpha": 5.3,
+   "vrank": null,
+   "flow": -27.6,
    "srcs": 0
   }
  ],

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 18:53",
+ "updated": "2026-09-22 19:04",
  "delay_min": 15,
- "fx_basis": "13.17 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,356 · 17:30 Yahoo",
- "idr_per_krw": 13.1734,
+ "fx_basis": "13.18 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,356 · 17:30 Yahoo",
+ "idr_per_krw": 13.1754,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17830,34 +17830,6 @@
    ]
   },
   {
-   "ts": "2026-09-22T13:28:34+07:00",
-   "date": "2026-09-22",
-   "time": "13:28",
-   "src": "Bloomberg Technoz",
-   "t": "Sederet Pemberat IHSG Turun 1% Hingga Sentuh 6.313",
-   "tags": [
-    "AMRT",
-    "BRMS",
-    "BYAN"
-   ],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122329/sederet-pemberat-ihsg-turun-1-hingga-sentuh-6-313",
-   "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105737.jpeg",
-   "t_ko": "IHSG 구성 종목 1% 하락하며 6,313선 기록",
-   "t_id": "Sederet Pemberat IHSG Turun 1% Hingga Sentuh 6.313",
-   "ai_ko": "· IHSG 1.11% 하락, 6,313 기록\n· BYAN·BRMS·AMRT 지수 하락 주도\n· 글로벌 고금리 장기화·지정학 부담",
-   "ai_id": "· IHSG turun 1,11% ke level 6.313\n· Laggards: BYAN, BRMS, AMRT\n· Beban makro eksternal & geopolitik",
-   "ai_tags": [
-    "증시",
-    "지수하락",
-    "금리"
-   ],
-   "ai_tags_id": [
-    "bursa",
-    "IHSG",
-    "suku bunga"
-   ]
-  },
-  {
    "ts": "2026-09-22T11:50:00+07:00",
    "date": "2026-09-22",
    "time": "11:50",
@@ -18279,6 +18251,122 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T19:00:00+07:00",
+   "date": "2026-09-22",
+   "time": "19:00",
+   "src": "Republika",
+   "t": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlrjtg416/bitcoin-tembus-85000-dolar-as-aktivitas-futures-meningkat-di-tengah-sentimen-fed",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/pelaku-bisnis-kripto-nanda-rizal-memantau-grafik-perkembangan-nilai_220312150638-998.jpg",
+   "t_id": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
+   "t_ko": "비트코인 85,000달러 돌파 — 연준 분위기 속 선물 거래 활성화"
+  },
+  {
+   "ts": "2026-09-22T18:58:00+07:00",
+   "date": "2026-09-22",
+   "time": "18:58",
+   "src": "Media Indonesia",
+   "t": "Prabowo Kejar Tuntas IEU-CEPA",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936304/prabowo-kejar-tuntas-ieu-cepa",
+   "t_ko": "Prabowo 대통령, IEU-CEPA 조속 타결 추진"
+  },
+  {
+   "ts": "2026-09-22T18:57:02+07:00",
+   "date": "2026-09-22",
+   "time": "18:57",
+   "src": "Bloomberg",
+   "t": "Record Oil Supertanker Rates Make Waves for the Whole Fleet",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/newsletters/2026-09-22/record-oil-supertanker-rates-make-waves-for-the-whole-fleet",
+   "g": 1,
+   "t_ko": "유조선 운임 급등세에 전체 선대 시황 호조",
+   "t_id": "Tarif Supertanker Minyak Rekor Picu Guncangan di Seluruh Armada"
+  },
+  {
+   "ts": "2026-09-22T18:56:00+07:00",
+   "date": "2026-09-22",
+   "time": "18:56",
+   "src": "WSJ",
+   "t": "Health Care Roundup: Market Talk",
+   "tags": [],
+   "url": "https://www.wsj.com/business/health-care-roundup-market-talk-2f40e335?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-28660363",
+   "t_ko": "헬스케어 부문 동향",
+   "t_id": "Fokus Kesehatan: Market Talk"
+  },
+  {
+   "ts": "2026-09-22T18:55:00+07:00",
+   "date": "2026-09-22",
+   "time": "18:55",
+   "src": "MarketWatch",
+   "t": "How this market-beating fund is constantly shifting to keep up with the AI trade",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-62820570",
+   "t_ko": "시장 초과 수익 펀드의 AI 관련주 기동성 대응 전략",
+   "t_id": "Strategi Reksa Dana Unggulan Selalu Adaptasi Ikuti Tren AI"
+  },
+  {
+   "ts": "2026-09-22T18:55:00+07:00",
+   "date": "2026-09-22",
+   "time": "18:55",
+   "src": "Media Indonesia",
+   "t": "Prabowo Dorong Penguatan Industri Tekstil Nasional",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936301/prabowo-dorong-penguatan-industri-tekstil-nasional",
+   "t_ko": "Prabowo 대통령, 국가 섬유 산업 강화 촉구"
+  },
+  {
+   "ts": "2026-09-22T18:54:16+07:00",
+   "date": "2026-09-22",
+   "time": "18:54",
+   "src": "Bloomberg",
+   "t": "US Borrowing Way Too Much Money: Pickering",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/us-borrowing-way-too-much-money-pickering-video",
+   "g": 1,
+   "t_ko": "Pickering, 미국의 과도한 국채 발행 경고"
+  },
+  {
+   "ts": "2026-09-22T18:53:00+07:00",
+   "date": "2026-09-22",
+   "time": "18:53",
+   "src": "Media Indonesia",
+   "t": "Bahlil Tanggapi Mobil Mewah Gunakan BBM Bersubsidi",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936298/bahlil-tanggapi-mobil-mewah-gunakan-bbm-bersubsidi-",
+   "t_ko": "Bahlil 장관, 고급 승용차 보조금 유류 사용에 입장 표명"
+  },
+  {
+   "ts": "2026-09-22T18:51:00+07:00",
+   "date": "2026-09-22",
+   "time": "18:51",
+   "src": "Medcom",
+   "t": "Gagal Dapat Bansos Karena Salah Desil? Ini Arti Desil dan Cara Mengubahnya",
+   "tags": [],
+   "url": "https://www.medcom.id/ekonomi/bisnis/GKdGBJ4k-gagal-dapat-bansos-karena-salah-desil-ini-arti-desil-dan-cara-mengubahnya",
+   "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843734/kEmVIjFgBP.jpeg?w=720",
+   "t_id": "Gagal Dapat Bansos Karena Salah Desil? Ini Arti Desil dan Cara Mengubahnya",
+   "t_ko": "소득 분위 오류로 지원금 탈락 시 의미와 정정 방법"
+  },
+  {
+   "ts": "2026-09-22T18:50:00+07:00",
+   "date": "2026-09-22",
+   "time": "18:50",
+   "src": "WSJ",
+   "t": "Energy & Utilities Roundup: Market Talk",
+   "tags": [],
+   "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-415ce2e2?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-16844321",
+   "t_ko": "에너지·유틸리티 섹터 마켓 토크",
+   "t_id": "Rangkuman Energi & Utilitas: Pembicaraan Pasar"
+  },
+  {
    "ts": "2026-09-22T18:48:00+07:00",
    "date": "2026-09-22",
    "time": "18:48",
@@ -18328,6 +18416,32 @@
    "t_id": "Arab Saudi Mulai Kembali Operasikan Pipa Minyak Timur-Barat, Kata Sumber"
   },
   {
+   "ts": "2026-09-22T18:41:35+07:00",
+   "date": "2026-09-22",
+   "time": "18:41",
+   "src": "Yahoo Finance",
+   "t": "CarMax layoffs: 145 corporate jobs cut for third time in a year",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/carmax-layoffs-145-corporate-jobs-114135667.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/quartz_855/871bf9290d108f0788a0cc361a13778d.jpg",
+   "t_ko": "CarMax, 올해 세 번째로 본사 인력 145명 감축",
+   "t_id": "PHK CarMax: 145 Pekerja Korporat Dipangkas untuk Ketiga Kalinya dalam Setahun"
+  },
+  {
+   "ts": "2026-09-22T18:39:50+07:00",
+   "date": "2026-09-22",
+   "time": "18:39",
+   "src": "Yahoo Finance",
+   "t": "Oil and gas PE deals tumble as new platform buyouts dry up",
+   "tags": [],
+   "url": "https://finance.yahoo.com/energy/articles/oil-gas-pe-deals-tumble-113950178.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/pitchbook_790/30b621ceec5b47b4535ca0823ad3f1aa.jpg",
+   "t_ko": "신규 플랫폼 인수 감소로 석유·가스 PE 거래 위축",
+   "t_id": "Kesepakatan PE Migas Anjlok Seiring Seretnya Akuisisi Platform Baru"
+  },
+  {
    "ts": "2026-09-22T18:38:00+07:00",
    "date": "2026-09-22",
    "time": "18:38",
@@ -18341,6 +18455,18 @@
    "t_id": "Rangkuman Sektor Material Dasar: Pasar Membahas"
   },
   {
+   "ts": "2026-09-22T18:37:59+07:00",
+   "date": "2026-09-22",
+   "time": "18:37",
+   "src": "Bloomberg",
+   "t": "China Urges EU to Keep Auto Markets Open, Avoid Protectionism",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/china-urges-eu-to-keep-auto-markets-open-avoid-protectionism",
+   "g": 1,
+   "t_ko": "중국, EU에 자동차 시장 개방 및 보호무역주의 자제 촉구",
+   "t_id": "China Desak EU Jaga Keterbukaan Pasar Otomotif, Hindari Proteksionisme"
+  },
+  {
    "ts": "2026-09-22T18:37:50+07:00",
    "date": "2026-09-22",
    "time": "18:37",
@@ -18351,32 +18477,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/oFwNvShi6HMpFilTS8NeN4zVnyanzDadChdTf40a.webp",
    "t_ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
    "t_id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar"
-  },
-  {
-   "ts": "2026-09-22T18:37:34+07:00",
-   "date": "2026-09-22",
-   "time": "18:37",
-   "src": "Yahoo Finance",
-   "t": "GameStop CEO Ryan Cohen buys $26.4 million of GME stock",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-ceo-ryan-cohen-buys-113734989.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/quartz_855/32c71c8c729404d550014b70f8a5108f.jpg",
-   "t_ko": "GameStop CEO Ryan Cohen, GME 주식 2,640만 달러 매수",
-   "t_id": "CEO GameStop Ryan Cohen Beli Saham GME Senilai $26,4 Juta"
-  },
-  {
-   "ts": "2026-09-22T18:37:00+07:00",
-   "date": "2026-09-22",
-   "time": "18:37",
-   "src": "MarketWatch",
-   "t": "How this market-beating fund is constantly shifting to keep up with the AI trade",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-62820570",
-   "t_ko": "시장 초과 수익 펀드의 AI 관련주 기동성 대응 전략",
-   "t_id": "Strategi Reksa Dana Unggulan Selalu Adaptasi Ikuti Tren AI"
   },
   {
    "ts": "2026-09-22T18:35:18+07:00",
@@ -18441,6 +18541,18 @@
    "t_id": "Rangkuman Jasa Keuangan: Sinyal Pasar"
   },
   {
+   "ts": "2026-09-22T18:31:26+07:00",
+   "date": "2026-09-22",
+   "time": "18:31",
+   "src": "Bloomberg",
+   "t": "Tech Rally Loses Steam In Europe as Oil Rises",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/the-opening-trade-9-22-2026-video",
+   "g": 1,
+   "t_ko": "유가 상승 속 유럽 증시 기술주 랠리 약화",
+   "t_id": "Reli Teknologi Eropa Kehilangan Momentum Seiring Kenaikan Harga Minyak"
+  },
+  {
    "ts": "2026-09-22T18:30:52+07:00",
    "date": "2026-09-22",
    "time": "18:30",
@@ -18465,44 +18577,6 @@
    "t_id": "Harga Minyak Turun Usai Laporan Arab Saudi Targetkan Buka Kembali Pipa Kritis Pekan Ini"
   },
   {
-   "ts": "2026-09-22T18:28:11+07:00",
-   "date": "2026-09-22",
-   "time": "18:28",
-   "src": "Yahoo Finance",
-   "t": "12 S&P 500 Stocks Hit Trillion-Dollar Club — What Could Go Wrong?",
-   "tags": [],
-   "url": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stocks-hit-trillion-dollar-club-what-could-go-wrong/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/2a3bb7cf1af2ccf06ea006b87e9a9d21.jpg",
-   "t_ko": "S&P 500 12개사 시총 1조 달러 클럽 가입 — 잠재 리스크 점검",
-   "t_id": "12 Saham S&P 500 Tembus Klub Triliunan Dolar — Apa Risiko di Baliknya?"
-  },
-  {
-   "ts": "2026-09-22T18:26:00+07:00",
-   "date": "2026-09-22",
-   "time": "18:26",
-   "src": "MarketWatch",
-   "t": "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-80366564",
-   "t_ko": "Bank of America, 공급 악화 시 유가 배럴당 150달러 상회 전망",
-   "t_id": "Minyak Bisa Tembus US$ 150 per Barel Jika Pasokan Semakin Ketat, Peringatkan Bank of America"
-  },
-  {
-   "ts": "2026-09-22T18:23:00+07:00",
-   "date": "2026-09-22",
-   "time": "18:23",
-   "src": "WSJ",
-   "t": "Gilt Yields Fall After Oil Prices Drop",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?mod=rss_markets_main",
-   "g": 1,
-   "t_ko": "유가 하락에 국채 금리 하락",
-   "t_id": "Imbal Hasil Gilt Turun Seiring Penurunan Harga Minyak"
-  },
-  {
    "ts": "2026-09-22T18:17:29+07:00",
    "date": "2026-09-22",
    "time": "18:17",
@@ -18515,19 +18589,6 @@
    "t_id": "BEI Usung Pesan Investasi dan Kesehatan Lewat Capital Market Run 2026"
   },
   {
-   "ts": "2026-09-22T18:15:36+07:00",
-   "date": "2026-09-22",
-   "time": "18:15",
-   "src": "Yahoo Finance",
-   "t": "Silver price today, Tuesday, September 22, 2026: Silver prices hit high mark ahead of U.S.- China talks this week",
-   "tags": [],
-   "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-tuesday-september-22-2026-silver-prices-hit-high-mark-ahead-of-us--china-talks-this-week-111536074.html",
-   "g": 1,
-   "img": "https://s.yimg.com/os/creatr-uploaded-images/2026-01/0fb18420-fab2-11f0-abfd-75e516fff7d1",
-   "t_ko": "미·중 회담 앞두고 은 가격 연고점 경신",
-   "t_id": "Harga Perak Hari Ini, Selasa, 22 Sep 2026: Tembus Level Tertinggi Jelang Perundingan AS-Tiongkok"
-  },
-  {
    "ts": "2026-09-22T18:12:00+07:00",
    "date": "2026-09-22",
    "time": "18:12",
@@ -18537,55 +18598,6 @@
    "url": "https://www.medcom.id/properti/arsitektur/xkEdeXrb-6-alasan-rumah-hook-banyak-diminati-bukan-cuma-punya-lahan-samping",
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843740/TBni0tDUVO.jpg?w=720",
    "t_ko": "측면 부지 외에 코너 주택 선호되는 이유 6가지"
-  },
-  {
-   "ts": "2026-09-22T18:11:37+07:00",
-   "date": "2026-09-22",
-   "time": "18:11",
-   "src": "Bloomberg",
-   "t": "Demand Surges at South African Bond Auction Ahead of Rate Call",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/demand-surges-at-south-african-bond-auction-ahead-of-rate-call",
-   "g": 1,
-   "t_ko": "금리 결정 앞두고 남아공 국채 입찰 수요 급증",
-   "t_id": "Permintaan Lelang Obligasi Afrika Selatan Lonjak Jelang Keputusan Suku Bunga"
-  },
-  {
-   "ts": "2026-09-22T18:11:32+07:00",
-   "date": "2026-09-22",
-   "time": "18:11",
-   "src": "CNBC",
-   "t": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dogsled outpost and reopen Cold War base: Report",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
-   "g": 1,
-   "t_ko": "미국, 그린란드 안보 영구 통제권 확보 합의 — 덴마크 기지에 병력 배치 및 냉전기 기지 재가동",
-   "t_id": "AS Caplok Kesepakatan Greenland untuk Kontrol Keamanan Permanen, Kirim Pasukan dan Buka Kembali Pangkalan Perang Dingin",
-   "ai_ko": "· 미국, Greenland 안보 영구 관리권 확보\n· 미국·Denmark·Greenland 3국 협정 서명\n· Narsarsuaq 기지 재가동·Mestersvig 주둔",
-   "ai_id": "· AS dapat kendali permanen keamanan Greenland\n· Perjanjian AS-Denmark-Greenland diteken\n· Pangkalan Narsarsuaq dibuka, ada di Mestersvig",
-   "ai_tags": [
-    "지정학",
-    "안보",
-    "미국"
-   ],
-   "ai_tags_id": [
-    "geopolitik",
-    "keamanan",
-    "AS"
-   ]
-  },
-  {
-   "ts": "2026-09-22T18:10:23+07:00",
-   "date": "2026-09-22",
-   "time": "18:10",
-   "src": "Jawa Pos",
-   "t": "Harga Emas Antam di Pegadaian Turun Tipis Hari Ini, Cek Rincian Lengkapnya",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220176/harga-emas-antam-di-pegadaian-turun-tipis-hari-ini-cek-rincian-lengkapnya",
-   "g": 1,
-   "img": "https://cdn-assets.jawapos.com/images/1/2023/04/02/emas-logam-mulia-3029863929.png",
-   "t_ko": "Pegadaian Antam 금 가격 소폭 하락 — 상세 내역 확인",
-   "t_id": "Harga Emas Antam di Pegadaian Turun Tipis Hari Ini, Cek Rincian Lengkapnya"
   },
   {
    "ts": "2026-09-22T18:08:25+07:00",
@@ -18657,17 +18669,6 @@
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/06/09/2026_06_09-18_26_00_9e84c730-6401-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
    "t_ko": "Prabowo, 관세청장을 대통령궁으로 소집해 현안 논의",
    "t_id": "Prabowo Panggil Dirjen Bea Cukai ke Istana, Apa yang Dibahas?"
-  },
-  {
-   "ts": "2026-09-22T17:44:00+07:00",
-   "date": "2026-09-22",
-   "time": "17:44",
-   "src": "Media Indonesia",
-   "t": "RUPTL Direvisi, Bahlil Dorong 70 Persen Pembangkit Gunakan EBT",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936255/ruptl-direvisi-bahlil-dorong-70-persen-pembangkit-gunakan-ebt",
-   "t_ko": "RUPTL 개정 — Bahlil, 신재생에너지 발전 비중 70% 추진",
-   "t_id": "RUPTL Direvisi, Bahlil Dorong 70 Persen Pembangkit Gunakan EBT"
   },
   {
    "ts": "2026-09-22T17:42:45+07:00",
@@ -19822,54 +19823,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/05/18/ihsg-anjlok-ke-zona-merah-bursa-saham-melemah-tajam-1779098741437_169.jpeg?w=360&q=90",
    "t_ko": "IHSG 1.11% 하락 및 국영 은행주 동반 약세",
    "t_id": "IHSG Turun 1,11%, Saham Bank BUMN Kompak Melemah"
-  },
-  {
-   "ts": "2026-09-22T12:46:26+07:00",
-   "date": "2026-09-22",
-   "time": "12:46",
-   "src": "Republika",
-   "t": "Mentan Pastikan Tiga Anak Pegawai yang Gugur di Papua Dapat Bekerja di Bulog",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlr41e490/mentan-pastikan-tiga-anak-pegawai-yang-gugur-di-papua-dapat-bekerja-di-bulog",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922124219-485.png",
-   "t_ko": "농림장관, 파푸아 순직 직원 자녀 3명 Bulog 채용 보장",
-   "t_id": "Mentan Pastikan Tiga Anak Pegawai yang Gugur di Papua Dapat Bekerja di Bulog"
-  },
-  {
-   "ts": "2026-09-22T12:45:00+07:00",
-   "date": "2026-09-22",
-   "time": "12:45",
-   "src": "IDNFinancials",
-   "t": "JCI down 1.11% in first session, these stocks still bought by foreign",
-   "tags": [],
-   "url": "https://www.idnfinancials.com/news/69227/jci-down-1-11-in-first-session-these-stocks-still-bought-by-foreign",
-   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/IHSG%20DOWN-min.jpg",
-   "t_ko": "IHSG 1부 1.11% 하락 — 외국인 순매수 종목",
-   "t_id": "IHSG Turun 1,11% di Sesi Pertama, Saham-Saham Ini Tetap Diborong Asing"
-  },
-  {
-   "ts": "2026-09-22T12:35:00+07:00",
-   "date": "2026-09-22",
-   "time": "12:35",
-   "src": "Republika",
-   "t": "Amran Targetkan Penanaman Bahan Baku Etanol Dimulai Tahun Depan",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlr2he423/amran-targetkan-penanaman-bahan-baku-etanol-dimulai-tahun-depan",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/095601200-1784305546-830-556.jpg",
-   "t_ko": "Amran, 내년부터 에탄올 원료 재배 착수 목표",
-   "t_id": "Amran Targetkan Tanam Bahan Baku Etanol Mulai Tahun Depan"
-  },
-  {
-   "ts": "2026-09-22T12:21:52+07:00",
-   "date": "2026-09-22",
-   "time": "12:21",
-   "src": "Jawa Pos",
-   "t": "Gagalkan Penyelundupan Beras, Suahasil: Menodai Swasembada Pangan Indonesia",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220219/gagalkan-penyelundupan-beras-suahasil-menodai-swasembada-pangan-indonesia",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
-   "t_ko": "Suahasil, 쌀 밀수 적발에 인도네시아 식량 자급자족 훼손 지적",
-   "t_id": "Gagalkan Penyelundupan Beras, Suahasil: Nodai Swasembada Pangan RI"
   }
  ],
  "kisi_news": [
@@ -20066,9 +20019,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.42",
-   "d": 0.06,
-   "ytd": 2.18,
+   "v": "100.39",
+   "d": 0.03,
+   "ytd": 2.15,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -20090,9 +20043,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,354.4",
-   "d": -0.56,
-   "ytd": 0.67,
+   "v": "4,356.4",
+   "d": -0.52,
+   "ytd": 0.71,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -24184,9 +24137,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 25,
+  "pc_age_min": 36,
   "news_ai_cache": 92,
-  "news_ai_hit": 58,
+  "news_ai_hit": 56,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -26075,18 +26028,18 @@
    ]
   },
   {
-   "ts": "2026-09-22T18:23:00+07:00",
+   "ts": "2026-09-22T16:16:10+07:00",
    "date": "2026-09-22",
-   "time": "18:23",
-   "src": "WSJ",
-   "t": "Gilt Yields Fall After Oil Prices Drop",
+   "time": "16:16",
+   "src": "CNBC",
+   "t": "U.S. Treasury yields ease as investors await fresh jobs data, Fed comments",
    "tags": [],
-   "url": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?mod=rss_markets_main",
+   "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
    "g": 1,
-   "t_ko": "유가 하락에 국채 금리 하락",
-   "t_id": "Imbal Hasil Gilt Turun Seiring Penurunan Harga Minyak",
-   "score": 312.0,
-   "srcs": 4
+   "score": 314.0,
+   "srcs": 4,
+   "t_ko": "미국 국채금리, 고용 지표와 연준 발언 대기하며 하락",
+   "t_id": "Imbal Hasil US Treasury Turun Saat Investor Menanti Data Tenaga Kerja dan Komentar The Fed"
   }
  ],
  "daylog": {

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 22:53",
+ "updated": "2026-09-22 23:04",
  "delay_min": 15,
  "fx_basis": "13.15 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,359 · 21:00 Yahoo",
- "idr_per_krw": 13.1542,
+ "idr_per_krw": 13.1505,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16833,11 +16833,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7758.56,
+   "px": 7759.68,
    "prev": 7764.22,
-   "pct": -0.07,
+   "pct": -0.06,
    "mst": 0,
-   "asof": "11:50",
+   "asof": "12:00",
    "live": true,
    "spark": [
     7779.14,
@@ -16868,18 +16868,20 @@
     7757.68,
     7758.66,
     7760.11,
-    7758.56
+    7758.66,
+    7760.95,
+    7759.68
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27188.81,
+   "px": 27179.43,
    "prev": 27122.09,
-   "pct": 0.25,
+   "pct": 0.21,
    "mst": 0,
-   "asof": "11:50",
+   "asof": "12:00",
    "live": true,
    "spark": [
     27223.51,
@@ -16910,18 +16912,20 @@
     27186.69,
     27188.56,
     27201.04,
-    27188.81
+    27183.11,
+    27192.52,
+    27179.43
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51751.35,
+   "px": 51776.23,
    "prev": 52053.88,
-   "pct": -0.58,
+   "pct": -0.53,
    "mst": 0,
-   "asof": "11:50",
+   "asof": "12:00",
    "live": true,
    "spark": [
     52161.89,
@@ -16952,7 +16956,9 @@
     51743.82,
     51757.1,
     51765.26,
-    51751.35
+    51759.58,
+    51751.68,
+    51776.23
    ]
   },
   {
@@ -17128,8 +17134,8 @@
    "px": 25087.75,
    "prev": 25042.71,
    "pct": 0.18,
-   "mst": 1,
-   "asof": "16:00",
+   "mst": 2,
+   "asof": "09:30",
    "live": false,
    "spark": [
     25105.13,
@@ -17290,6 +17296,246 @@
  },
  "news": [
   {
+   "ts": "2026-09-22T23:03:36.553729+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Amman Mineral (AMMN) Cetak Laba Bersih Rp8,6 Triliun pada Semester I-2026",
+   "tags": [
+    "AMMN"
+   ],
+   "url": "https://www.idxchannel.com/market-news/amman-mineral-ammn-cetak-laba-bersih-rp86-triliun-pada-semester-i-2026",
+   "t_est": true,
+   "t_id": "Amman Mineral (AMMN) Cetak Laba Bersih Rp8,6 Triliun pada Semester I-2026",
+   "t_ko": "AMMN, 2026년 상반기 순이익 Rp8.6조 기록"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.551054+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "IMC Pelita (PSSI) Bagikan Saham Bonus Rp100 per Saham, Rasio 30:1",
+   "tags": [
+    "PSSI"
+   ],
+   "url": "https://www.idxchannel.com/market-news/imc-pelita-pssi-bagikan-saham-bonus-rp100-per-saham-rasio-301",
+   "t_est": true,
+   "t_id": "IMC Pelita (PSSI) Bagikan Saham Bonus Rp100 per Saham, Rasio 30:1",
+   "t_ko": "PSSI, 주당 Rp100·비율 30대 1의 무상증자 실시"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.549596+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Sektor Pelayaran dan Energi hingga Logistik, Ini Struktur Kepemilikan CBRE dan TRUK",
+   "tags": [
+    "CBRE",
+    "TRUK"
+   ],
+   "url": "https://www.idxchannel.com/market-news/sektor-pelayaran-dan-energi-hingga-logistik-ini-struktur-kepemilikan-cbre-dan-truk",
+   "t_est": true,
+   "t_id": "Sektor Pelayaran dan Energi hingga Logistik, Ini Struktur Kepemilikan CBRE dan TRUK",
+   "t_ko": "CBRE·TRUK, 해운·에너지·물류 부문 지분 구조 공개"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.547894+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Baramulti (BSSR) Guyur Dividen Interim Rp1 Triliun, Catat Jadwalnya",
+   "tags": [
+    "BSSR"
+   ],
+   "url": "https://www.idxchannel.com/market-news/baramulti-bssr-guyur-dividen-interim-rp1-triliun-catat-jadwalnya",
+   "t_est": true,
+   "t_id": "Baramulti (BSSR) Guyur Dividen Interim Rp1 Triliun, Catat Jadwalnya",
+   "t_ko": "BSSR, Rp1조 규모 중간배당 실시 — 일정 발표"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.546437+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "AI Boom Pacu Data Center, POWR Bidik Lonjakan Permintaan Listrik",
+   "tags": [
+    "POWR"
+   ],
+   "url": "https://www.idxchannel.com/market-news/ai-boom-pacu-data-center-powr-bidik-lonjakan-permintaan-listrik",
+   "t_est": true,
+   "t_ko": "AI 붐 기반 데이터센터 확대로 POWR, 전력 수요 급증 공략",
+   "t_id": "Boom AI Pacu Data Center, POWR Bidik Lonjakan Permintaan Listrik"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.545009+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Saham TRUK Naik 9,94 Persen, Ini Perubahan Pemegang Sahamnya",
+   "tags": [
+    "TRUK"
+   ],
+   "url": "https://www.idxchannel.com/market-news/saham-truk-naik-994-persen-ini-perubahan-pemegang-sahamnya",
+   "t_est": true,
+   "t_ko": "TRUK 9.94% 상승 — 주요 주주 지분 변동 발생",
+   "t_id": "Saham TRUK Naik 9,94 Persen, Ini Perubahan Pemegang Sahamnya"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.543593+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "10 Saham Top Gainer Perdagangan Selasa 22 September 2026, Ada SAPX hingga AGAR",
+   "tags": [
+    "AGAR",
+    "SAPX"
+   ],
+   "url": "https://www.idxchannel.com/market-news/10-saham-top-gainer-perdagangan-selasa-22-september-2026-ada-sapx-hingga-agar",
+   "t_est": true,
+   "t_ko": "9월 22일 화요일 상장사 주가 상승 상위 10선 — SAPX·AGAR 포함",
+   "t_id": "10 Saham Top Gainer Perdagangan Selasa 22 September 2026, Ada SAPX hingga AGAR"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.540803+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Begini Strategi Sinergi Multi (SMLE) Genjot Pertumbuhan Bisnis di 2026 dan 2027",
+   "tags": [
+    "SMLE"
+   ],
+   "url": "https://www.idxchannel.com/market-news/begini-strategi-sinergi-multi-smle-genjot-pertumbuhan-bisnis-di-2026-dan-2027",
+   "t_est": true,
+   "t_ko": "SMLE, 2026~2027년 사업 성장 가속화 전략 발표",
+   "t_id": "Begini Strategi Sinergi Multi (SMLE) Genjot Pertumbuhan Bisnis di 2026 dan 2027"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.539236+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "CDIA Tebar Dividen Interim USD10 Juta, Kapan Cair?",
+   "tags": [
+    "CDIA"
+   ],
+   "url": "https://www.idxchannel.com/market-news/cdia-tebar-dividen-interim-usd10-juta-kapan-cair",
+   "t_est": true,
+   "t_ko": "CDIA, 중간배당 USD1,000만 집행 결정",
+   "t_id": "CDIA Tebar Dividen Interim USD10 Juta, Kapan Cair"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.536716+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Telkom (TLKM) Siapkan Data Center Dukung Pemanfaatan AI di Sektor BUMN",
+   "tags": [
+    "TLKM"
+   ],
+   "url": "https://www.idxchannel.com/market-news/telkom-tlkm-siapkan-data-center-dukung-pemanfaatan-ai-di-sektor-bumn",
+   "t_est": true,
+   "t_ko": "TLKM, 국영기업 AI 활용 지원할 데이터센터 구축 추진",
+   "t_id": "Telkom (TLKM) Siapkan Data Center Dukung Pemanfaatan AI di Sektor BUMN"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.535214+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Tambah Aset, Dyandra (DYAN) Akuisisi Tanah dan Bangunan Senilai Rp36 Miliar",
+   "tags": [
+    "DYAN"
+   ],
+   "url": "https://www.idxchannel.com/market-news/tambah-aset-dyandra-dyan-akuisisi-tanah-dan-bangunan-senilai-rp36-miliar",
+   "t_est": true,
+   "t_ko": "DYAN, Rp36억 규모 토지 및 건물 자산 인수",
+   "t_id": "Tambah Aset, Dyandra (DYAN) Akuisisi Tanah dan Bangunan Senilai Rp36 Miliar"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.533568+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Paramita (PBSA) Kantongi Restu Pemegang Saham untuk Stock Split 1:2",
+   "tags": [
+    "PBSA"
+   ],
+   "url": "https://www.idxchannel.com/market-news/paramita-pbsa-kantongi-restu-pemegang-saham-untuk-stock-split-12",
+   "t_est": true,
+   "t_ko": "PBSA, 액면분할 1대 2 주주총회 승인 획득",
+   "t_id": "Paramita (PBSA) Kantongi Restu Pemegang Saham untuk Stock Split 1:2"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.532154+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Pengalihan Saham BYAN ke Haji Isam Kantongi Restu Menteri ESDM",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://www.idxchannel.com/market-news/pengalihan-saham-byan-ke-haji-isam-kantongi-restu-menteri-esdm",
+   "t_est": true,
+   "t_ko": "BYAN의 Haji Isam 측 주식 양도, 에너지광물자원부 장관 승인 획득",
+   "t_id": "Pengalihan Saham BYAN ke Haji Isam Kantongi Restu Menteri ESDM"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.530818+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "BYAN Anjlok 9,7 Persen, Direksi Lego Saham Rp2,47 Miliar",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://www.idxchannel.com/market-news/byan-anjlok-97-persen-direksi-lego-saham-rp247-miliar",
+   "t_est": true,
+   "t_ko": "BYAN 9.7% 하락 — 임원진 Rp24.7억 규모 주식 매도",
+   "t_id": "BYAN Anjlok 9,7 Persen, Direksi Lego Saham Rp2,47 Miliar"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.529511+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Deltamas (DMAS) Tunjuk Shinji Yoneda sebagai Wakil Presiden Direktur",
+   "tags": [
+    "DMAS"
+   ],
+   "url": "https://www.idxchannel.com/market-news/deltamas-dmas-tunjuk-shinji-yoneda-sebagai-wakil-presiden-direktur",
+   "t_est": true,
+   "t_ko": "DMAS, Shinji Yoneda 부대표 선임",
+   "t_id": "Deltamas (DMAS) Tunjuk Shinji Yoneda Jadi Wadirut"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.527927+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "RKAB Terbit, Bayan (BYAN) Dapat Tambahan Kuota Produksi hingga 20 Juta Ton",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://www.idxchannel.com/market-news/rkab-terbit-bayan-byan-dapat-tambahan-kuota-produksi-hingga-20-juta-ton",
+   "t_est": true,
+   "t_ko": "BYAN, RKAB 승인으로 생산 쿼터 2,000만 톤 확대",
+   "t_id": "RKAB Terbit, Bayan (BYAN) Kantongi Tambahan Kuota Produksi 20 Juta Ton"
+  },
+  {
+   "ts": "2026-09-22T23:03:36.526192+07:00",
+   "date": "2026-09-22",
+   "time": "23:03",
+   "src": "IDX Channel",
+   "t": "Hexindo (HEXA) Optimistis Jaga Pangsa Pasar Alat Berat di Level 18 Persen pada 2026",
+   "tags": [
+    "HEXA"
+   ],
+   "url": "https://www.idxchannel.com/market-news/hexindo-hexa-optimistis-jaga-pangsa-pasar-alat-berat-di-level-18-persen-pada-2026",
+   "t_est": true,
+   "t_ko": "HEXA, 2026년 중장비 시장점유율 18% 유지 전망",
+   "t_id": "Hexindo (HEXA) Optimistis Jaga Pangsa Pasar Alat Berat di Level 18 Persen pada 2026"
+  },
+  {
    "ts": "2026-09-22T22:30:00+07:00",
    "date": "2026-09-22",
    "time": "22:30",
@@ -17302,20 +17548,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2023/07/30/plta-balambano-di-luwu-timur_169.mpo?w=360&q=90",
    "t_ko": "술라웨시 엘니뇨 여파로 수력 발전 용량 650MW 감소",
    "t_id": "Efek El Nino, Kapasitas PLTA di Sulawesi Berkurang hingga 650 MW"
-  },
-  {
-   "ts": "2026-09-22T22:30:00+07:00",
-   "date": "2026-09-22",
-   "time": "22:30",
-   "src": "IDX Channel",
-   "t": "Hexindo (HEXA) Optimistis Jaga Pangsa Pasar Alat Berat di Level 18 Persen pada 2026",
-   "tags": [
-    "HEXA"
-   ],
-   "url": "https://www.idxchannel.com/market-news/hexindo-hexa-optimistis-jaga-pangsa-pasar-alat-berat-di-level-18-persen-pada-2026",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2024/09/26/hexindo_hexa.jfif",
-   "t_ko": "HEXA, 2026년 중장비 시장점유율 18% 유지 전망",
-   "t_id": "Hexindo (HEXA) Optimistis Jaga Pangsa Pasar Alat Berat di Level 18 Persen pada 2026"
   },
   {
    "ts": "2026-09-22T22:28:00+07:00",
@@ -17345,20 +17577,6 @@
    "t_ko": "CDIA, 2026년 중간배당 지급 예정"
   },
   {
-   "ts": "2026-09-22T20:30:00+07:00",
-   "date": "2026-09-22",
-   "time": "20:30",
-   "src": "IDX Channel",
-   "t": "RKAB Terbit, Bayan (BYAN) Dapat Tambahan Kuota Produksi hingga 20 Juta Ton",
-   "tags": [
-    "BYAN"
-   ],
-   "url": "https://www.idxchannel.com/market-news/rkab-terbit-bayan-byan-dapat-tambahan-kuota-produksi-hingga-20-juta-ton",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2023/11/14/Saham_Batu_Bara_dengan_PBV_Terendah.jpg",
-   "t_ko": "BYAN, RKAB 승인으로 생산 쿼터 2,000만 톤 확대",
-   "t_id": "RKAB Terbit, Bayan (BYAN) Kantongi Tambahan Kuota Produksi 20 Juta Ton"
-  },
-  {
    "ts": "2026-09-22T20:20:00+07:00",
    "date": "2026-09-22",
    "time": "20:20",
@@ -17371,76 +17589,6 @@
    "img": "https://photo2.idnfinancials.com/fly/idn/adhy-2026/EURO-220926.jpg",
    "t_ko": "EURO, 20억 주 유상증자 승인 및 경영진 개편",
    "t_id": "EURO Restui Rights Issue 2 Miliar Saham, Rombak Manajemen"
-  },
-  {
-   "ts": "2026-09-22T19:50:00+07:00",
-   "date": "2026-09-22",
-   "time": "19:50",
-   "src": "IDX Channel",
-   "t": "Deltamas (DMAS) Tunjuk Shinji Yoneda sebagai Wakil Presiden Direktur",
-   "tags": [
-    "DMAS"
-   ],
-   "url": "https://www.idxchannel.com/market-news/deltamas-dmas-tunjuk-shinji-yoneda-sebagai-wakil-presiden-direktur",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2025/09/13/greenland_dmas.jpg",
-   "t_ko": "DMAS, Shinji Yoneda 부대표 선임",
-   "t_id": "Deltamas (DMAS) Tunjuk Shinji Yoneda Jadi Wadirut"
-  },
-  {
-   "ts": "2026-09-22T19:11:00+07:00",
-   "date": "2026-09-22",
-   "time": "19:11",
-   "src": "IDX Channel",
-   "t": "BYAN Anjlok 9,7 Persen, Direksi Lego Saham Rp2,47 Miliar",
-   "tags": [
-    "BYAN"
-   ],
-   "url": "https://www.idxchannel.com/market-news/byan-anjlok-97-persen-direksi-lego-saham-rp247-miliar",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/12/Investor_misterius_-_Saham_-_Freepik_-_12_Mar_26.jpeg",
-   "t_ko": "BYAN 9.7% 하락 — 임원진 Rp24.7억 규모 주식 매도",
-   "t_id": "BYAN Anjlok 9,7 Persen, Direksi Lego Saham Rp2,47 Miliar"
-  },
-  {
-   "ts": "2026-09-22T18:09:00+07:00",
-   "date": "2026-09-22",
-   "time": "18:09",
-   "src": "IDX Channel",
-   "t": "Pengalihan Saham BYAN ke Haji Isam Kantongi Restu Menteri ESDM",
-   "tags": [
-    "BYAN"
-   ],
-   "url": "https://www.idxchannel.com/market-news/pengalihan-saham-byan-ke-haji-isam-kantongi-restu-menteri-esdm",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2023/11/03/Adu_Saham_Batu_Bara_BYAN_vs_ITMG.jpg",
-   "t_ko": "BYAN의 Haji Isam 측 주식 양도, 에너지광물자원부 장관 승인 획득",
-   "t_id": "Pengalihan Saham BYAN ke Haji Isam Kantongi Restu Menteri ESDM"
-  },
-  {
-   "ts": "2026-09-22T17:45:00+07:00",
-   "date": "2026-09-22",
-   "time": "17:45",
-   "src": "IDX Channel",
-   "t": "Paramita (PBSA) Kantongi Restu Pemegang Saham untuk Stock Split 1:2",
-   "tags": [
-    "PBSA"
-   ],
-   "url": "https://www.idxchannel.com/market-news/paramita-pbsa-kantongi-restu-pemegang-saham-untuk-stock-split-12",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/01/21/bei_idx.jpg",
-   "t_ko": "PBSA, 액면분할 1대 2 주주총회 승인 획득",
-   "t_id": "Paramita (PBSA) Kantongi Restu Pemegang Saham untuk Stock Split 1:2"
-  },
-  {
-   "ts": "2026-09-22T17:37:00+07:00",
-   "date": "2026-09-22",
-   "time": "17:37",
-   "src": "IDX Channel",
-   "t": "Tambah Aset, Dyandra (DYAN) Akuisisi Tanah dan Bangunan Senilai Rp36 Miliar",
-   "tags": [
-    "DYAN"
-   ],
-   "url": "https://www.idxchannel.com/market-news/tambah-aset-dyandra-dyan-akuisisi-tanah-dan-bangunan-senilai-rp36-miliar",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2023/08/23/Dyandra.JPG",
-   "t_ko": "DYAN, Rp36억 규모 토지 및 건물 자산 인수",
-   "t_id": "Tambah Aset, Dyandra (DYAN) Akuisisi Tanah dan Bangunan Senilai Rp36 Miliar"
   },
   {
    "ts": "2026-09-22T17:30:00+07:00",
@@ -17473,20 +17621,6 @@
    "t_id": "Investor Asing Ramai Lepas Saham Bank Jumbo BMRI, BBCA, dan BBRI, Apa Pemicunya?"
   },
   {
-   "ts": "2026-09-22T17:25:00+07:00",
-   "date": "2026-09-22",
-   "time": "17:25",
-   "src": "IDX Channel",
-   "t": "Telkom (TLKM) Siapkan Data Center Dukung Pemanfaatan AI di Sektor BUMN",
-   "tags": [
-    "TLKM"
-   ],
-   "url": "https://www.idxchannel.com/market-news/telkom-tlkm-siapkan-data-center-dukung-pemanfaatan-ai-di-sektor-bumn",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/22/seno_telkom_tlkm.jpg",
-   "t_ko": "TLKM, 국영기업 AI 활용 지원할 데이터센터 구축 추진",
-   "t_id": "Telkom (TLKM) Siapkan Data Center Dukung Pemanfaatan AI di Sektor BUMN"
-  },
-  {
    "ts": "2026-09-22T16:50:00+07:00",
    "date": "2026-09-22",
    "time": "16:50",
@@ -17499,20 +17633,6 @@
    "img": "https://images.bloombergtechnoz.com/data/2023/02/image-20230203142216.jpg",
    "t_ko": "KPK, Summarecon Bogor 사무소 압수수색 증거물 목록",
    "t_id": "Daftar Bukti yang Disita KPK dari Kantor Summarecon Bogor"
-  },
-  {
-   "ts": "2026-09-22T16:49:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:49",
-   "src": "IDX Channel",
-   "t": "CDIA Tebar Dividen Interim USD10 Juta, Kapan Cair?",
-   "tags": [
-    "CDIA"
-   ],
-   "url": "https://www.idxchannel.com/market-news/cdia-tebar-dividen-interim-usd10-juta-kapan-cair",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2025/06/19/cdia_tpia.jpg",
-   "t_ko": "CDIA, 중간배당 USD1,000만 집행 결정",
-   "t_id": "CDIA Tebar Dividen Interim USD10 Juta, Kapan Cair"
   },
   {
    "ts": "2026-09-22T16:20:00+07:00",
@@ -18054,6 +18174,16 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T23:00:00+07:00",
+   "date": "2026-09-22",
+   "time": "23:00",
+   "src": "Media Indonesia",
+   "t": "RUU Reforma Agraria Diharapkan Dorong Pemerataan Penguasaan Tanah",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936441/ruu-reforma-agraria-diharapkan-dorong-pemerataan-penguasaan-tanah",
+   "t_ko": "토지개혁법안(RUU), 토지 소유 균등 분배 촉진 기대"
+  },
+  {
    "ts": "2026-09-22T22:48:00+07:00",
    "date": "2026-09-22",
    "time": "22:48",
@@ -18065,6 +18195,30 @@
    "img": "https://images.mktw.net/im-75636714",
    "t_ko": "Sandisk 주가 상승 — AI 수혜로 신고가 도달 전망",
    "t_id": "Saham Sandisk Melesat: Analis Sebut AI Bawa Rekor Baru"
+  },
+  {
+   "ts": "2026-09-22T22:48:00+07:00",
+   "date": "2026-09-22",
+   "time": "22:48",
+   "src": "Media Indonesia",
+   "t": "Program Baznas Microfinance Desa Berhasil Kembangkan Usaha Tempe di Demak",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936436/program-baznas-microfinance-desa-berhasil-kembangkan-usaha-tempe-di-demak",
+   "t_id": "Program Baznas Microfinance Desa Berhasil Kembangkan Usaha Tempe di Demak",
+   "t_ko": "Baznas Microfinance Desa 프로그램, Demak 템페 사업 육성 성공"
+  },
+  {
+   "ts": "2026-09-22T22:46:15+07:00",
+   "date": "2026-09-22",
+   "time": "22:46",
+   "src": "CNA",
+   "t": "Nasdaq sets record high on AI optimism, oil drops below $100",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/nasdaq-sets-record-high-ai-optimism-oil-drops-below-100-6401081",
+   "g": 1,
+   "img": "https://dam.mediacorp.sg/image/upload/s--jNXHPS3x--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T083618Z_1_LYNXMPEM8L0IK_RTROPTP_3_EUROPE-STOCKS.JPG?itok=_cviXLMT",
+   "t_ko": "Nasdaq AI 낙관론에 사상 최고치 경신, 유가 100달러 아래로 하락",
+   "t_id": "Nasdaq Cetak Rekor Tertinggi Ditopang Optimisme AI, Minyak Anjlok di Bawah $100"
   },
   {
    "ts": "2026-09-22T22:44:07+07:00",
@@ -18100,8 +18254,8 @@
    "tags": [],
    "url": "https://www.medcom.id/properti/news-properti/Zke1Ovqk-kek-industropolis-batang-kembangkan-ruang-publik-di-tengah-kawasan-industri",
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843812/RtuHliadMN.jpeg?w=720",
-   "t_id": "KEK Industropolis Batang Kembangkan Ruang Publik di Tengah Kawasan Industri",
-   "t_ko": "Batang 산업특구, 산업단지 내 공공 공간 조성"
+   "t_ko": "Batang 산업특구, 산업단지 내 공공 공간 조성",
+   "t_id": "KEK Industropolis Batang Kembangkan Ruang Publik di Tengah Kawasan Industri"
   },
   {
    "ts": "2026-09-22T22:39:59+07:00",
@@ -18258,12 +18412,12 @@
    "date": "2026-09-22",
    "time": "22:16",
    "src": "CNA",
-   "t": "Trump says US will henceforth call AI 'super intelligence'",
+   "t": "Trump says US Justice Department could rein in AI companies if needed",
    "tags": [],
-   "url": "https://www.channelnewsasia.com/business/trump-says-us-will-henceforth-call-ai-super-intelligence-6402846",
+   "url": "https://www.channelnewsasia.com/business/trump-says-us-justice-department-could-rein-in-ai-companies-if-needed-6402846",
    "g": 1,
-   "t_ko": "Trump, 향후 AI를 'super intelligence'로 지칭하겠다고 발언",
-   "t_id": "Trump Sebut AS Bakal Sebut AI 'Super Intelligence'"
+   "t_ko": "Trump, 필요시 미국 법무부가 AI 기업 통제 가능 시사",
+   "t_id": "Trump Sebut Departemen Kehakiman AS Bisa Batasi Perusahaan AI Jika Perlu"
   },
   {
    "ts": "2026-09-22T22:14:14+07:00",
@@ -18298,18 +18452,6 @@
     "pameran",
     "industri percetakan"
    ]
-  },
-  {
-   "ts": "2026-09-22T22:12:36+07:00",
-   "date": "2026-09-22",
-   "time": "22:12",
-   "src": "Bloomberg",
-   "t": "Abu Dhabi’s XRG Is Said to Eye Stake in Shell-Backed LNG Canada",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/abu-dhabi-s-xrg-is-said-to-eye-stake-in-shell-backed-lng-canada",
-   "g": 1,
-   "t_ko": "아부다비 XRG, Shell 주도 LNG Canada 지분 인수 추진설",
-   "t_id": "XRG Abu Dhabi Dikabarkan Incar Saham LNG Canada Milik Shell"
   },
   {
    "ts": "2026-09-22T22:11:00+07:00",
@@ -18390,16 +18532,6 @@
    "url": "https://mediaindonesia.com/ekonomi/936405/presiden-prabowo-sambut-pelunasan-utang-blbi-rp2183-triliun-ke-bank-indonesia",
    "t_ko": "Prabowo 대통령, Bank Indonesia에 BLBI 부채 Rp218.3조 상환 환영",
    "t_id": "Presiden Prabowo Sambut Pelunasan Utang BLBI Rp218,3 Triliun ke Bank Indonesia"
-  },
-  {
-   "ts": "2026-09-22T21:12:00+07:00",
-   "date": "2026-09-22",
-   "time": "21:12",
-   "src": "Media Indonesia",
-   "t": "Transisi Energi Dorong Perubahan Teknologi Jaringan Listrik",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936404/transisi-energi-dorong-perubahan-teknologi-jaringan-listrik",
-   "t_ko": "에너지 전환에 따른 전력망 기술 변화"
   },
   {
    "ts": "2026-09-22T21:11:04+07:00",
@@ -19097,18 +19229,6 @@
    "t_id": "RUU Perampasan Aset Masih Tahap Awal, DPR Tetap Janjikan Terbit Tahun Ini"
   },
   {
-   "ts": "2026-09-22T16:57:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:57",
-   "src": "IDX Channel",
-   "t": "MNC Sekuritas Fasilitasi Mahasiswa Universitas Pelita Bangsa Pelajari Industri Pasar Modal",
-   "tags": [],
-   "url": "https://www.idxchannel.com/market-news/mnc-sekuritas-fasilitasi-mahasiswa-universitas-pelita-bangsa-pelajari-industri-pasar-modal",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/22/89451.jpg",
-   "t_ko": "MNC Sekuritas, Pelita Bangsa 대학생 대상 자본시장 교육 지원",
-   "t_id": "MNC Sekuritas Fasilitasi Mahasiswa Universitas Pelita Bangsa Pelajari Pasar Modal"
-  },
-  {
    "ts": "2026-09-22T16:52:08+07:00",
    "date": "2026-09-22",
    "time": "16:52",
@@ -19578,9 +19698,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.970%",
-   "d": 0.14,
-   "ytd": 19.39,
+   "v": "4.976%",
+   "d": 0.26,
+   "ytd": 19.53,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19601,9 +19721,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.66",
-   "d": 0.3,
-   "ytd": 2.42,
+   "v": "100.67",
+   "d": 0.31,
+   "ytd": 2.43,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19613,9 +19733,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.74",
-   "d": -1.32,
-   "ytd": 59.77,
+   "v": "91.60",
+   "d": -1.47,
+   "ytd": 59.53,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19625,9 +19745,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,366.3",
-   "d": -0.29,
-   "ytd": 0.94,
+   "v": "4,365.0",
+   "d": -0.32,
+   "ytd": 0.91,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20519,31 +20639,13 @@
    "imp": 2,
    "exp": null,
    "prev": "16.30K",
-   "act": "20.00K",
+   "act": null,
    "src": "investing.com",
    "title_ko": "ADP 주간 고용 변화",
    "title_id": "Perubahan Tenaga Kerja Mingguan ADP AS",
-   "sc": 35,
+   "sc": 55,
    "gs": 72,
    "g": "고용",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "time": "20:55",
-   "kind": "macro",
-   "country": "US",
-   "title": "U.S. President Trump Speaks",
-   "imp": 3,
-   "exp": null,
-   "prev": null,
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "트럼프 미 대통령 연설",
-   "title_id": "Presiden AS Trump Berbicara",
-   "sc": 54,
-   "gs": 40,
-   "g": "연준 발언",
    "sub": 0
   },
   {
@@ -23737,7 +23839,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 265,
+  "pc_age_min": 276,
   "news_ai_cache": 92,
   "news_ai_hit": 34,
   "on_runner": true,
@@ -25606,18 +25708,19 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T22:23:40+07:00",
+   "ts": "2026-09-22T22:46:15+07:00",
    "date": "2026-09-22",
-   "time": "22:23",
-   "src": "CNBC",
-   "t": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
+   "time": "22:46",
+   "src": "CNA",
+   "t": "Nasdaq sets record high on AI optimism, oil drops below $100",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+   "url": "https://www.channelnewsasia.com/business/nasdaq-sets-record-high-ai-optimism-oil-drops-below-100-6401081",
    "g": 1,
-   "t_ko": "Trump, 중간선거 후 Iran이 타협할 것이라 언급 후 유가 보합세",
-   "t_id": "Minyak Tipis Usai Trump Sebut Iran Bakal Sepakat Pasca-Pemilu Midterm",
-   "score": 314.0,
-   "srcs": 4
+   "img": "https://dam.mediacorp.sg/image/upload/s--jNXHPS3x--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T083618Z_1_LYNXMPEM8L0IK_RTROPTP_3_EUROPE-STOCKS.JPG?itok=_cviXLMT",
+   "t_ko": "Nasdaq AI 낙관론에 사상 최고치 경신, 유가 100달러 아래로 하락",
+   "t_id": "Nasdaq Cetak Rekor Tertinggi Ditopang Optimisme AI, Minyak Anjlok di Bawah $100",
+   "score": 315.5,
+   "srcs": 5
   }
  ],
  "daylog": {
@@ -44582,11 +44685,11 @@
    "ratio": 9.2,
    "ev_ko": "실적·배당",
    "ev_id": "Kinerja & dividen",
-   "hl": "BSSR, 6,000만 달러 규모 중간배당 실시 — 주당 Rp406",
-   "hl_id": "BSSR Bagikan Dividen Interim USD 60 Juta, Setara Rp 406 Per Saham",
-   "url": "https://www.idnfinancials.com/news/69197/bssr-to-pay-usd-60-million-interim-dividend-or-idr-406-per-share",
-   "score": 89.5,
-   "s_news": 88,
+   "hl": "BSSR, Rp1조 규모 중간배당 실시 — 일정 발표",
+   "hl_id": "Baramulti (BSSR) Guyur Dividen Interim Rp1 Triliun, Catat Jadwalnya",
+   "url": "https://www.idxchannel.com/market-news/baramulti-bssr-guyur-dividen-interim-rp1-triliun-catat-jadwalnya",
+   "score": 91.6,
+   "s_news": 95,
    "s_size": 54,
    "s_surge": 100,
    "s_move": 100,
@@ -44595,7 +44698,32 @@
    "alpha": 12.97,
    "vrank": 46,
    "flow": 14.61,
-   "srcs": 2
+   "srcs": 3
+  },
+  {
+   "t": "AMMN",
+   "n": "Amman Mineral Internasional",
+   "px": 4710.0,
+   "pct": 1.07,
+   "val": 410473720000.0,
+   "mcap": 341560805159760.0,
+   "ratio": 1.0,
+   "ev_ko": "실적·배당",
+   "ev_id": "Kinerja & dividen",
+   "hl": "AMMN, 2026년 상반기 순이익 Rp8.6조 기록",
+   "hl_id": "Amman Mineral (AMMN) Cetak Laba Bersih Rp8,6 Triliun pada Semester I-2026",
+   "url": "https://www.idxchannel.com/market-news/amman-mineral-ammn-cetak-laba-bersih-rp86-triliun-pada-semester-i-2026",
+   "score": 73.1,
+   "s_news": 70,
+   "s_size": 88,
+   "s_surge": 0,
+   "s_move": 55,
+   "s_conc": 75,
+   "s_flow": 100,
+   "alpha": 2.76,
+   "vrank": 6,
+   "flow": -11.55,
+   "srcs": 1
   },
   {
    "t": "JECX",
@@ -44770,31 +44898,6 @@
    "alpha": 11.49,
    "vrank": 17,
    "flow": -15.59,
-   "srcs": 0
-  },
-  {
-   "t": "HEXA",
-   "n": "Hexindo Adiperkasa",
-   "px": 4040.0,
-   "pct": -0.98,
-   "val": 8083968000.0,
-   "mcap": 3393600000000.0,
-   "ratio": 2.2,
-   "ev_ko": "실적·배당",
-   "ev_id": "Kinerja & dividen",
-   "hl": "현금배당 관련 주요사항보고서",
-   "hl_id": "Keterbukaan Informasi Dividen Tunai - 21092026",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54b224f129_540743fd54.pdf",
-   "score": 55.3,
-   "s_news": 80,
-   "s_size": 38,
-   "s_surge": 60,
-   "s_move": 14,
-   "s_conc": 60,
-   "s_flow": 100,
-   "alpha": 0.71,
-   "vrank": null,
-   "flow": -47.26,
    "srcs": 0
   }
  ],

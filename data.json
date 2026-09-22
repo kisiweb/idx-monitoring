@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 05:11",
+ "updated": "2026-09-23 05:19",
  "delay_min": 15,
  "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 04:45 Yahoo",
- "idr_per_krw": 13.1945,
+ "idr_per_krw": 13.1908,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -104,9 +104,9 @@
    "code": "SUN10Y",
    "label": "SUN 10Y",
    "name": "국채 10년물",
-   "px": 7.12,
-   "prev": 7.12,
-   "pct": 0.0,
+   "px": 7.146,
+   "prev": 7.143,
+   "pct": 0.4,
    "spark": [
     7.141,
     7.157,
@@ -115,10 +115,11 @@
     7.12,
     7.12
    ],
-   "span": "1W",
+   "span": "1M",
    "inv": true,
-   "asof": "investing.com · 09/22",
-   "unit": "bp"
+   "unit": "bp",
+   "asof": "PHEI · 09/22",
+   "spark_stale": "investing.com · 09/22"
   }
  ],
  "index": {
@@ -16932,6 +16933,20 @@
  },
  "news": [
   {
+   "ts": "2026-09-23T05:10:00+07:00",
+   "date": "2026-09-23",
+   "time": "05:10",
+   "src": "IDX Channel",
+   "t": "Rebranding Jadi LANDCROS, HEXA Perluas Portofolio Produk di Luar Hitachi",
+   "tags": [
+    "HEXA"
+   ],
+   "url": "https://www.idxchannel.com/market-news/rebranding-jadi-landcros-hexa-perluas-portofolio-produk-di-luar-hitachi",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2025/09/21/hexindo_hexa.jpeg",
+   "t_id": "Rebranding Jadi LANDCROS, HEXA Perluas Portofolio Produk di Luar Hitachi",
+   "t_ko": "HEXA, LANDCROS로 사명 변경 후 Hitachi 외 제품 포트폴리오 확대"
+  },
+  {
    "ts": "2026-09-23T03:00:00+07:00",
    "date": "2026-09-23",
    "time": "03:00",
@@ -17127,20 +17142,6 @@
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/01/21/bei_idx.jpg",
    "t_ko": "PBSA, 액면분할 1대 2 주주총회 승인 획득",
    "t_id": "Paramita (PBSA) Kantongi Restu Pemegang Saham untuk Stock Split 1:2"
-  },
-  {
-   "ts": "2026-09-22T17:37:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "IDX Channel",
-   "t": "Tambah Aset, Dyandra (DYAN) Akuisisi Tanah dan Bangunan Senilai Rp36 Miliar",
-   "tags": [
-    "DYAN"
-   ],
-   "url": "https://www.idxchannel.com/market-news/tambah-aset-dyandra-dyan-akuisisi-tanah-dan-bangunan-senilai-rp36-miliar",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2023/08/23/Dyandra.JPG",
-   "t_ko": "DYAN, Rp36억 규모 토지 및 건물 자산 인수",
-   "t_id": "Tambah Aset, Dyandra (DYAN) Akuisisi Tanah dan Bangunan Senilai Rp36 Miliar"
   },
   {
    "ts": "2026-09-22T17:30:00+07:00",
@@ -17699,9 +17700,9 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-23T05:10:34.633059+07:00",
+   "ts": "2026-09-23T05:18:07.191247+07:00",
    "date": "2026-09-23",
-   "time": "05:10",
+   "time": "05:18",
    "src": "Jawa Pos",
    "t": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG",
    "tags": [],
@@ -17709,6 +17710,30 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/ilustrasi-spbu-milik-pertamina-patra-niaga-istimewa-2plup.webp",
    "t_ko": "Pertamina Patra Niaga, 유류·BBM·LPG 조달 차질 대비 태세",
    "t_id": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG"
+  },
+  {
+   "ts": "2026-09-23T05:06:05+07:00",
+   "date": "2026-09-23",
+   "time": "05:06",
+   "src": "Bloomberg",
+   "t": "Fort Trump Will Come to Poland, Says President Nawrocki",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/fort-trump-will-come-to-poland-says-nawrocki-video",
+   "g": 1,
+   "t_ko": "Nawrocki 대통령, 폴란드에 포트 트럼프 창설 발표",
+   "t_id": "Fort Trump Akan Hadir di Polandia, Kata Presiden Nawrocki"
+  },
+  {
+   "ts": "2026-09-23T05:03:35+07:00",
+   "date": "2026-09-23",
+   "time": "05:03",
+   "src": "Bloomberg",
+   "t": "CFTC Warns Prediction Markets to Reel in Risky ‘Mention’ Bets",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/cftc-warns-prediction-markets-to-reel-in-risky-mention-bets",
+   "g": 1,
+   "t_ko": "CFTC, 예측 시장의 위험한 언급 베팅에 경고",
+   "t_id": "CFTC Peringatkan Pasar Prediksi untuk Batasi Taruhan Berisiko"
   },
   {
    "ts": "2026-09-23T05:03:33+07:00",
@@ -17884,31 +17909,6 @@
    "img": "https://images.wsj.net/im-41645439",
    "t_ko": "소재 섹터 동향 — 시장 전망",
    "t_id": "Rangkuman Sektor Material Dasar: Pasar Membahas"
-  },
-  {
-   "ts": "2026-09-23T04:02:00+07:00",
-   "date": "2026-09-23",
-   "time": "04:02",
-   "src": "WSJ",
-   "t": "Health Care Roundup: Market Talk",
-   "tags": [],
-   "url": "https://www.wsj.com/business/health-care-roundup-market-talk-2f40e335?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-28660363",
-   "t_ko": "헬스케어 부문 동향",
-   "t_id": "Fokus Kesehatan: Market Talk"
-  },
-  {
-   "ts": "2026-09-23T04:00:00+07:00",
-   "date": "2026-09-23",
-   "time": "04:00",
-   "src": "Bloomberg",
-   "t": "South Korea Keeps Fuel Cheap for Holidays as Fiscal Cost Mounts",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/south-korea-keeps-fuel-cheap-for-holidays-as-fiscal-cost-mounts",
-   "g": 1,
-   "t_ko": "한국, 재정 부담 속 명절 유류비 인하 유지",
-   "t_id": "Korsel Jaga Harga BBM Murah Saat Libur di Tengah Lonjakan Biaya Fiskal"
   },
   {
    "ts": "2026-09-23T03:32:47+07:00",
@@ -19227,9 +19227,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.53",
-   "d": 0.17,
-   "ytd": 2.28,
+   "v": "100.54",
+   "d": 0.18,
+   "ytd": 2.3,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19239,9 +19239,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.85",
-   "d": -3.36,
-   "ytd": 56.48,
+   "v": "89.83",
+   "d": -3.38,
+   "ytd": 56.44,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19251,9 +19251,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,396.2",
-   "d": 0.39,
-   "ytd": 1.63,
+   "v": "4,401.1",
+   "d": 0.5,
+   "ytd": 1.75,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19298,7 +19298,68 @@
    "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
   }
  ],
- "curve": null,
+ "curve": {
+  "date": "2026-09-22",
+  "src": "PHEI (IBPA)",
+  "rows": [
+   [
+    0.1,
+    6.5083,
+    6.5853
+   ],
+   [
+    1.0,
+    6.66,
+    6.6774
+   ],
+   [
+    2.0,
+    6.7642,
+    6.7605
+   ],
+   [
+    3.0,
+    6.8471,
+    6.8393
+   ],
+   [
+    5.0,
+    6.9818,
+    6.9765
+   ],
+   [
+    7.0,
+    7.0745,
+    7.071
+   ],
+   [
+    10.0,
+    7.1462,
+    7.1426
+   ],
+   [
+    15.0,
+    7.1786,
+    7.1743
+   ],
+   [
+    20.0,
+    7.183,
+    7.1785
+   ],
+   [
+    25.0,
+    7.1834,
+    7.1789
+   ],
+   [
+    30.0,
+    7.1835,
+    7.179
+   ]
+  ],
+  "n": 41
+ },
  "calendar": [
   {
    "date": "2026-09-15",
@@ -24253,7 +24314,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 121,
+  "pc_age_min": 129,
   "news_ai_cache": 41,
   "news_ai_hit": 32,
   "on_runner": true,
@@ -27010,6 +27071,40 @@
      "tags": [],
      "sc": 311.0,
      "slot": "global",
+     "q": 85
+    }
+   ]
+  },
+  "2026-09-10": {
+   "ann": [
+    {
+     "t": "BUMI",
+     "ko": "거래소 조회공시 요구에 대한 답변",
+     "id": "Penjelasan atas Permintaan Penjelasan Bursa",
+     "kind_ko": "조회공시",
+     "kind_id": "Penjelasan Bursa",
+     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d22e77149_12e6084dc3.pdf",
+     "time": "19:12",
+     "q": 85
+    },
+    {
+     "t": "MGLV",
+     "ko": "유상증자(HMETD) 추진 기업정보 공시 — 9월10일",
+     "id": "Keterbukaan Informasi Aksi Korporasi - Rencana Penambahan Modal dengan HMETD - 10 Sep 2026",
+     "kind_ko": "유상증자",
+     "kind_id": "Rights Issue",
+     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/881c3a5b7b_ce2450a4f0.pdf",
+     "time": "19:13",
+     "q": 90
+    },
+    {
+     "t": "SMDR",
+     "ko": "거래소 조회공시 요구에 대한 답변",
+     "id": "Penjelasan atas Permintaan Penjelasan Bursa",
+     "kind_ko": "조회공시",
+     "kind_id": "Penjelasan Bursa",
+     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/241bd87170_44053c6d09.pdf",
+     "time": "20:55",
      "q": 85
     }
    ]

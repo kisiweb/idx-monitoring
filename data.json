@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 06:18",
+ "updated": "2026-09-23 06:37",
  "delay_min": 15,
  "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 04:45 Yahoo",
- "idr_per_krw": 13.1927,
+ "idr_per_krw": 13.1909,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -104,9 +104,9 @@
    "code": "SUN10Y",
    "label": "SUN 10Y",
    "name": "국채 10년물",
-   "px": 7.146,
-   "prev": 7.143,
-   "pct": 0.4,
+   "px": 7.12,
+   "prev": 7.12,
+   "pct": 0.0,
    "spark": [
     7.141,
     7.157,
@@ -115,11 +115,10 @@
     7.12,
     7.12
    ],
-   "span": "1M",
+   "span": "1W",
    "inv": true,
-   "unit": "bp",
-   "asof": "PHEI · 09/22",
-   "spark_stale": "PHEI · 09/22"
+   "asof": "investing.com · 09/22",
+   "unit": "bp"
   }
  ],
  "index": {
@@ -129,15 +128,15 @@
   "prev": 6384.73,
   "ytd": -27.4,
   "m1": -3.45,
-  "value_idr": 13126377649433.334,
+  "value_idr": 13126579742133.334,
   "volume": null,
   "value_src": "yahoo",
-  "rank_src": "Yahoo 15분 지연 · 829종목 · 종가 · 외국인·공시 PC 09-23 03:10",
+  "rank_src": "Yahoo 15분 지연 · 830종목 · 종가 · 외국인·공시 PC 09-23 03:10",
   "rank_asof": null,
   "rank_date": "2026-09-22",
   "adv": 148,
   "dec": 556,
-  "unch": 125,
+  "unch": 126,
   "foreign_net_idr": -664231103677.8579,
   "foreign_buy": 3656941427563.906,
   "foreign_sell": 4321172531241.7637,
@@ -11224,6 +11223,23 @@
    "_c": 172086000000.0
   },
   {
+   "t": "BCIP",
+   "n": "Bumi Citra Permai",
+   "px": 59.0,
+   "prev": 59.0,
+   "pct": 0.0,
+   "val": 202092700.0,
+   "vol": 3425300.0,
+   "sh": 1429915525,
+   "mcap": 84365015975.0,
+   "hi": 60.0,
+   "lo": 58.0,
+   "ratio": 0.5,
+   "fnet": -717181.4147665898,
+   "live": 0,
+   "_c": 0.0
+  },
+  {
    "t": "LRNA",
    "n": "Eka Sari Lorena Transport",
    "px": 220.0,
@@ -16401,11 +16417,11 @@
   {
    "name": "부동산",
    "name_id": "Properti",
-   "n": 79,
+   "n": 80,
    "adv": 15,
    "dec": 51,
-   "val": 504417168733.3334,
-   "mcap": 430717777578657.0,
+   "val": 504619261433.3334,
+   "mcap": 430802142594632.0,
    "top": [
     {
      "t": "MPRO",
@@ -16448,8 +16464,8 @@
      "pct": 0.89
     }
    ],
-   "fnet": 21357733187,
-   "pct": -2.01,
+   "fnet": 21357016006,
+   "pct": -2.0,
    "fbuy_top": [
     {
      "t": "PANI",
@@ -16490,11 +16506,11 @@
      "pct": -3.73
     }
    ],
-   "fnet_1w": -67726029159,
+   "fnet_1w": -67726746340,
    "flow_days": 4,
    "flow_from": "2026-09-17",
    "flow_to": "2026-09-22",
-   "fnet_1m": -246783034188,
+   "fnet_1m": -246783751369,
    "flow_days_1m": 21,
    "win_from": "2026-09-17",
    "win_to": "2026-09-23",
@@ -17777,6 +17793,22 @@
  },
  "news": [
   {
+   "ts": "2026-09-23T06:27:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:27",
+   "src": "IDX Channel",
+   "t": "Menakar Prospek INCO, MBMA, NCKL di Tengah Revisi HPM Limonit",
+   "tags": [
+    "INCO",
+    "MBMA",
+    "NCKL"
+   ],
+   "url": "https://www.idxchannel.com/market-news/menakar-prospek-inco-mbma-nckl-di-tengah-revisi-hpm-limonit",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/23/nikel_-_gettty_images_-_22_sept_26.jpg",
+   "t_id": "Menakar Prospek INCO, MBMA, NCKL di Tengah Revisi HPM Limonit",
+   "t_ko": "INCO·MBMA·NCKL, 니켈 광석 기준가격(HPM) 개편에 따른 전망 분석"
+  },
+  {
    "ts": "2026-09-23T06:12:00+07:00",
    "date": "2026-09-23",
    "time": "06:12",
@@ -17790,8 +17822,8 @@
    ],
    "url": "https://katadata.co.id/finansial/bursa/6ab30b4340ea3/ihsg-rawan-terkoreksi-saham-tpia-emas-amrt-dan-isat-jadi-rekomendasi-analis",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/08/14/2026_08_14-19_34_00_a80a53c0-97e5-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
-   "t_id": "IHSG Rawan Terkoreksi, Saham TPIA, EMAS, AMRT, dan ISAT Jadi Rekomendasi Analis",
-   "t_ko": "IHSG 조종 압력 심화 — TPIA·EMAS·AMRT·ISAT 투자의견 제시"
+   "t_ko": "IHSG 조종 압력 심화 — TPIA·EMAS·AMRT·ISAT 투자의견 제시",
+   "t_id": "IHSG Rawan Terkoreksi, Saham TPIA, EMAS, AMRT, dan ISAT Jadi Rekomendasi Analis"
   },
   {
    "ts": "2026-09-23T06:01:24+07:00",
@@ -18003,20 +18035,6 @@
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/12/Investor_misterius_-_Saham_-_Freepik_-_12_Mar_26.jpeg",
    "t_ko": "BYAN 9.7% 하락 — 임원진 Rp24.7억 규모 주식 매도",
    "t_id": "BYAN Anjlok 9,7 Persen, Direksi Lego Saham Rp2,47 Miliar"
-  },
-  {
-   "ts": "2026-09-22T18:09:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "IDX Channel",
-   "t": "Pengalihan Saham BYAN ke Haji Isam Kantongi Restu Menteri ESDM",
-   "tags": [
-    "BYAN"
-   ],
-   "url": "https://www.idxchannel.com/market-news/pengalihan-saham-byan-ke-haji-isam-kantongi-restu-menteri-esdm",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2023/11/03/Adu_Saham_Batu_Bara_BYAN_vs_ITMG.jpg",
-   "t_ko": "BYAN의 Haji Isam 측 주식 양도, 에너지광물자원부 장관 승인 획득",
-   "t_id": "Pengalihan Saham BYAN ke Haji Isam Kantongi Restu Menteri ESDM"
   },
   {
    "ts": "2026-09-22T17:30:00+07:00",
@@ -18549,6 +18567,30 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T06:25:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:25",
+   "src": "Detik",
+   "t": "UU Reforma Agraria Disahkan, Aturan Batas Maksimal Pemilikan Tanah Disiapkan",
+   "tags": [],
+   "url": "https://finance.detik.com/infrastruktur/d-8674670/uu-reforma-agraria-disahkan-aturan-batas-maksimal-pemilikan-tanah-disiapkan",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/08/03/menteri-atrbpn-nusron-wahid-1785735730541_169.jpeg?w=360&q=90",
+   "t_ko": "토지개혁법 통과로 최대 소유 한도 규정 마련"
+  },
+  {
+   "ts": "2026-09-23T06:20:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:20",
+   "src": "Bloomberg Technoz",
+   "t": "Bursa Saham Asia Berpeluang Menguat Mengekor Nasdaq 100",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122372/bursa-saham-asia-berpeluang-menguat-mengekor-nasdaq-100",
+   "g": 1,
+   "img": "https://images.bloombergtechnoz.com/data/2026/04/image-20260403071108.jpg",
+   "t_id": "Bursa Saham Asia Berpeluang Menguat Mengekor Nasdaq 100",
+   "t_ko": "Nasdaq 100 훈풍에 아시아 증시 상승세 전망"
+  },
+  {
    "ts": "2026-09-23T06:03:48+07:00",
    "date": "2026-09-23",
    "time": "06:03",
@@ -18571,8 +18613,8 @@
    "url": "https://katadata.co.id/finansial/bursa/6ab309153b170/wall-street-bergerak-variatif-harga-minyak-turun-di-tengah-kabar-damai-as-iran",
    "g": 1,
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/10/12/Wall_Street-2023_10_12-05_51_11_8074be86ec350e0281213fa81ef24863_620x413_thumb.png",
-   "t_id": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran",
-   "t_ko": "미국·이란 휴전 소식에 유가 하락 속 월가 혼조세"
+   "t_ko": "미국·이란 휴전 소식에 유가 하락 속 월가 혼조세",
+   "t_id": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran"
   },
   {
    "ts": "2026-09-23T06:01:28+07:00",
@@ -18714,12 +18756,12 @@
    "date": "2026-09-23",
    "time": "05:15",
    "src": "Bloomberg",
-   "t": "Asian Stocks Set to Extend Gains as Tech Rallies: Markets Wrap",
+   "t": "Asian Stocks Set to Rise on Tech Rally, Oil Drops: Markets Wrap",
    "tags": [],
    "url": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
    "g": 1,
-   "t_ko": "기술주 강세에 아시아 증시 상승세 연장 전망",
-   "t_id": "Bursa Asia Bersiap Lanjutkan Kenaikan Seiring Reli Saham Teknologi: Pasar Global"
+   "t_ko": "기술주 랠리 및 유가 하락 속 아시아 증시 상승 출발 전망",
+   "t_id": "Bursa Asia Bersiap Naik Didorong Reli Teknologi, Minyak Turun: Markets Wrap"
   },
   {
    "ts": "2026-09-23T05:06:05+07:00",
@@ -18756,18 +18798,6 @@
    "g": 1,
    "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
    "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
-  },
-  {
-   "ts": "2026-09-23T05:02:20+07:00",
-   "date": "2026-09-23",
-   "time": "05:02",
-   "src": "Bloomberg",
-   "t": "Latest Oil Market News and Analysis for Sept. 23",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/latest-oil-market-news-and-analysis-for-sept-23",
-   "g": 1,
-   "t_ko": "9월 23일 국제유가 동향 및 분석",
-   "t_id": "Berita & Analisis Pasar Minyak Terbaru 23 Sep"
   },
   {
    "ts": "2026-09-23T03:32:47+07:00",
@@ -18875,17 +18905,6 @@
    "url": "https://mediaindonesia.com/ekonomi/936441/ruu-reforma-agraria-diharapkan-dorong-pemerataan-penguasaan-tanah",
    "t_ko": "토지개혁법안, 토지 소유 분배 형평성 제고 기대",
    "t_id": "RUU Reforma Agraria Didorong Pacu Pemerataan Lahan"
-  },
-  {
-   "ts": "2026-09-22T22:48:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Media Indonesia",
-   "t": "Program Baznas Microfinance Desa Berhasil Kembangkan Usaha Tempe di Demak",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936436/program-baznas-microfinance-desa-berhasil-kembangkan-usaha-tempe-di-demak",
-   "t_ko": "Baznas Microfinance Desa 프로그램, Demak 템페 사업 육성 성공",
-   "t_id": "Program Baznas Microfinance Desa Berhasil Kembangkan Usaha Tempe di Demak"
   },
   {
    "ts": "2026-09-22T22:40:29+07:00",
@@ -20086,9 +20105,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.71",
-   "d": -3.51,
-   "ytd": 56.23,
+   "v": "89.66",
+   "d": -3.56,
+   "ytd": 56.15,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -20098,9 +20117,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,401.3",
-   "d": 0.51,
-   "ytd": 1.75,
+   "v": "4,403.5",
+   "d": 0.56,
+   "ytd": 1.8,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20145,68 +20164,7 @@
    "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
   }
  ],
- "curve": {
-  "date": "2026-09-22",
-  "src": "PHEI (IBPA)",
-  "rows": [
-   [
-    0.1,
-    6.5083,
-    6.5853
-   ],
-   [
-    1.0,
-    6.66,
-    6.6774
-   ],
-   [
-    2.0,
-    6.7642,
-    6.7605
-   ],
-   [
-    3.0,
-    6.8471,
-    6.8393
-   ],
-   [
-    5.0,
-    6.9818,
-    6.9765
-   ],
-   [
-    7.0,
-    7.0745,
-    7.071
-   ],
-   [
-    10.0,
-    7.1462,
-    7.1426
-   ],
-   [
-    15.0,
-    7.1786,
-    7.1743
-   ],
-   [
-    20.0,
-    7.183,
-    7.1785
-   ],
-   [
-    25.0,
-    7.1834,
-    7.1789
-   ],
-   [
-    30.0,
-    7.1835,
-    7.179
-   ]
-  ],
-  "n": 41
- },
+ "curve": null,
  "calendar": [
   {
    "date": "2026-09-15",
@@ -25161,7 +25119,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 188,
+  "pc_age_min": 207,
   "news_ai_cache": 41,
   "news_ai_hit": 31,
   "on_runner": true,
@@ -26956,9 +26914,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "BYAN 이사 지분 매각 및 대형 은행주(BBRI) 약세 등 전면적인 하락세에 힘입어 IHSG 1.69% 하락 거래 중.",
-   "id": "IHSG diperdagangkan melemah 1,69% ditekan oleh penurunan di seluruh lini, dipimpin oleh aksi pelemahan saham BYAN akibat penjualan saham oleh direksi serta pelemahan saham bank besar (BBRI).",
-   "ts": "2026-09-23T06:18:30.319483+07:00"
+   "ko": "대형주 BYAN(-9.71%)의 급락과 에너지(-3.95%)·금융(-1.00%) 등 전반적인 업종 약세에 힘입어 IHSG 1.69% 하락 거래 중.",
+   "id": "IHSG diperdagangkan melemah 1,69% akibat penurunan tajam saham big cap BYAN (-9,71%) serta pelemahan umum di sektor energi (-3,95%) dan keuangan (-1,00%).",
+   "ts": "2026-09-23T06:37:05.571486+07:00"
   }
  },
  "top_day": "2026-09-23",
@@ -27042,19 +27000,18 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T22:46:15+07:00",
+   "ts": "2026-09-22T23:05:57+07:00",
    "date": "2026-09-22",
    "time": "09/22",
-   "src": "CNA",
-   "t": "Nasdaq sets record high, oil dips on improved crude flows",
+   "src": "CNBC",
+   "t": "Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on",
    "tags": [],
-   "url": "https://www.channelnewsasia.com/business/nasdaq-sets-record-high-oil-dips-improved-crude-flows-6401081",
+   "url": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
    "g": 1,
-   "img": "https://dam.mediacorp.sg/image/upload/s--q7WF2-lv--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T155749Z_1_LYNXMPEM8L1AJ_RTROPTP_3_USA-FED-STOCKS.JPG?itok=wKr1aYdN",
-   "score": 313.5,
-   "srcs": 5,
-   "t_ko": "미국 나스닥 최고가 경신, 원유 공급 개선에 유가 하락",
-   "t_id": "Nasdaq Cetak Rekor Tertinggi, Minyak Tertekan Seiring Pasokan Membaik"
+   "score": 312.0,
+   "srcs": 3,
+   "t_ko": "Wall Street, 유가 향방 불투명 속 만장일치 매수 종목 선정",
+   "t_id": "Sullivan: Wall Street Bingung Arah Minyak, Tapi Sepakat Satu Saham Ini"
   }
  ],
  "daylog": {
@@ -27907,16 +27864,16 @@
      "q": 58
     },
     {
-     "t": "Uang Rupiah Bertanda Tangan Purbaya Diburu Warga",
-     "ko": "Purbaya 서명 루피아화 지폐 수집 열풍",
+     "t": "UU Reforma Agraria Disahkan, Aturan Batas Maksimal Pemilikan Tanah Disiapkan",
+     "ko": "토지개혁법 통과로 최대 소유 한도 규정 마련",
      "id": "",
      "ai_ko": "",
      "ai_id": "",
      "src": "Detik",
-     "url": "https://finance.detik.com/moneter/d-8674635/uang-rupiah-bertanda-tangan-purbaya-diburu-warga",
-     "time": "05:55",
+     "url": "https://finance.detik.com/infrastruktur/d-8674670/uu-reforma-agraria-disahkan-aturan-batas-maksimal-pemilikan-tanah-disiapkan",
+     "time": "06:25",
      "tags": [],
-     "sc": 408.8,
+     "sc": 409.8,
      "slot": "macro",
      "q": 93
     }

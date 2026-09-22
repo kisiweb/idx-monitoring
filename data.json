@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 17:47",
+ "updated": "2026-09-22 17:52",
  "delay_min": 15,
  "fx_basis": "13.19 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,355 · 17:30 Yahoo",
- "idr_per_krw": 13.1856,
+ "idr_per_krw": 13.1886,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17171,6 +17171,20 @@
  },
  "news": [
   {
+   "ts": "2026-09-22T17:45:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:45",
+   "src": "IDX Channel",
+   "t": "Paramita (PBSA) Kantongi Restu Pemegang Saham untuk Stock Split 1:2",
+   "tags": [
+    "PBSA"
+   ],
+   "url": "https://www.idxchannel.com/market-news/paramita-pbsa-kantongi-restu-pemegang-saham-untuk-stock-split-12",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/01/21/bei_idx.jpg",
+   "t_id": "Paramita (PBSA) Kantongi Restu Pemegang Saham untuk Stock Split 1:2",
+   "t_ko": "PBSA, 주식분할 1:2 주주총회 승인 획득"
+  },
+  {
    "ts": "2026-09-22T17:37:00+07:00",
    "date": "2026-09-22",
    "time": "17:37",
@@ -17182,7 +17196,7 @@
    "url": "https://www.idxchannel.com/market-news/tambah-aset-dyandra-dyan-akuisisi-tanah-dan-bangunan-senilai-rp36-miliar",
    "img": "https://img.idxchannel.com/media/439/images/idx/2023/08/23/Dyandra.JPG",
    "t_id": "Tambah Aset, Dyandra (DYAN) Akuisisi Tanah dan Bangunan Senilai Rp36 Miliar",
-   "t_ko": "DYAN, Rp36억 규모 토지 및 건물 자산 인수"
+   "t_ko": "DYAN, Rp36억 규모 토지 및 건물 매입으로 자산 확대"
   },
   {
    "ts": "2026-09-22T17:27:00+07:00",
@@ -17495,32 +17509,6 @@
     "cadangan bijih",
     "tembaga",
     "emas"
-   ]
-  },
-  {
-   "ts": "2026-09-22T14:32:00+07:00",
-   "date": "2026-09-22",
-   "time": "14:32",
-   "src": "IDX Channel",
-   "t": "Kinerja Keuangan Tumbuh Positif, BUMI Lanjutkan Strategi Diversifikasi Usaha",
-   "tags": [
-    "BUMI"
-   ],
-   "url": "https://www.idxchannel.com/market-news/kinerja-keuangan-tumbuh-positif-bumi-lanjutkan-strategi-diversifikasi-usaha",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2025/08/02/bumi_resources_ist.jpg",
-   "t_ko": "BUMI, 순이익 성장 바탕 사업 다각화 전략 지속",
-   "t_id": "Kinerja Positif, BUMI Lanjutkan Strategi Diversifikasi Usaha",
-   "ai_ko": "· 상반기 매출 USD 8.668억, 27.9% 증가\n· Bumi Resources(BUMI), 사업 다각화 추진\n· Fortune Indonesia 100서 56위 기록",
-   "ai_id": "· Pendapatan semester I-2026 naik 27,9%\n· Bumi Resources (BUMI): USD866,8 juta\n· Peringkat 56 Fortune Indonesia 100",
-   "ai_tags": [
-    "실적",
-    "매출",
-    "석탄"
-   ],
-   "ai_tags_id": [
-    "kinerja",
-    "pendapatan",
-    "batu bara"
    ]
   },
   {
@@ -18105,6 +18093,41 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T17:45:58+07:00",
+   "date": "2026-09-22",
+   "time": "17:45",
+   "src": "Bloomberg",
+   "t": "Nvidia’s Valuation Comes Back Down to Earth",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/newsletters/2026-09-22/nvidia-s-valuation-comes-back-down-to-earth",
+   "g": 1,
+   "t_ko": "Nvidia 밸류에이션, 가파른 상승세 진정",
+   "t_id": "Valuasi Nvidia Kembali ke Realitas"
+  },
+  {
+   "ts": "2026-09-22T17:44:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:44",
+   "src": "Katadata",
+   "t": "Prabowo Panggil Dirjen Bea Cukai ke Istana, Apa yang Dibahas?",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/makro/6ab25c291a0a9/prabowo-panggil-dirjen-bea-cukai-ke-istana-apa-yang-dibahas",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/06/09/2026_06_09-18_26_00_9e84c730-6401-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
+   "t_id": "Prabowo Panggil Dirjen Bea Cukai ke Istana, Apa yang Dibahas?",
+   "t_ko": "Prabowo, 관세청장을 대통령궁으로 불러 현안 논의"
+  },
+  {
+   "ts": "2026-09-22T17:44:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:44",
+   "src": "Media Indonesia",
+   "t": "RUPTL Direvisi, Bahlil Dorong 70% Pembangkit Gunakan EBT",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936255/ruptl-direvisi-bahlil-dorong-70-pembangkit-gunakan-ebt",
+   "t_ko": "RUPTL 개정으로 Bahlil, 신재생에너지 발전 비중 70% 추진",
+   "t_id": "RUPTL Direvisi, Bahlil Dorong 70% Pembangkit Pakai EBT"
+  },
+  {
    "ts": "2026-09-22T17:42:45+07:00",
    "date": "2026-09-22",
    "time": "17:42",
@@ -18113,7 +18136,20 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122362/ihsg-melemah-1-69-jelang-pengumuman-bi-rate-besok",
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105619.jpeg",
-   "t_ko": "내일 BI 기준금리 발표 앞두고 IHSG 1.69% 하락"
+   "t_ko": "내일 기준금리 발표 앞두고 IHSG 1.69% 하락",
+   "t_id": "IHSG Melemah 1,69% Jelang Pengumuman BI Rate Besok"
+  },
+  {
+   "ts": "2026-09-22T17:38:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:38",
+   "src": "Katadata",
+   "t": "Impor Emas Cina Cetak Rekor Tembus 1.000 Ton, Bank Sentral Masih Gencar Borong",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/makro/6ab25aa33b7bf/impor-emas-cina-cetak-rekor-tembus-1000-ton-bank-sentral-masih-gencar-borong",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2025/10/03/Harga_Emas_Antam_Hari_ini_3_Oktober_2025-2025_10_03-11_29_02_429ae3724ce65a322dace99845374edd_620x413_thumb.jpeg",
+   "t_ko": "중국 금 수입 1,000톤 돌파 역대 최고 — 중앙은행 매입 지속",
+   "t_id": "Impor Emas Cina Cetak Rekor Tembus 1.000 Ton, Bank Sentral Masih Borong Terus"
   },
   {
    "ts": "2026-09-22T17:35:25+07:00",
@@ -18125,8 +18161,8 @@
    "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
    "g": 1,
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b065/live/d4cf13a0-b66c-11f1-b711-df5e4d50c2fd.jpg",
-   "t_ko": "Ineos, Hull 화학 공장 3곳 가동 중단 결정",
-   "t_id": "Ineos Milik Sir Jim Ratcliffe Akan Tutup Tiga Pabrik Kimia Utama di Hull"
+   "t_ko": "Sir Jim Ratcliffe의 Ineos, Hull 화학 공장 3곳 가동 중단",
+   "t_id": "Ineos Milik Sir Jim Ratcliffe Tutup Tiga Pabrik Kimia Utama di Hull"
   },
   {
    "ts": "2026-09-22T17:30:00+07:00",
@@ -18138,8 +18174,8 @@
    "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-ast-spacemobile-best-performing-103000605.html",
    "g": 1,
    "img": "https://media.zenfs.com/en/motleyfool.com/392c3992fb390d4e4406bf31afc16ce7.jpg",
-   "t_ko": "AST SpaceMobile, 2027년 우주주 중 최고 성과 전망",
-   "t_id": "Prediksi: AST SpaceMobile Bakal Jadi Saham Luar Angkasa Berkinerja Terbaik 2027"
+   "t_ko": "전망: AST SpaceMobile, 2027년 최고 우주 관련주 부상",
+   "t_id": "Prediksi: AST SpaceMobile Bakal Jadi Saham Luar Angkasa Terbaik 2027"
   },
   {
    "ts": "2026-09-22T17:30:00+07:00",
@@ -18221,8 +18257,8 @@
    "tags": [],
    "url": "https://www.bloomberg.com/news/articles/2026-09-22/indonesia-to-form-new-body-to-oversee-land-conflicts-reform",
    "g": 1,
-   "t_ko": "인도네시아, 토지 분쟁 조정 및 개혁 전담 새 기관 신설",
-   "t_id": "Indonesia Bentuk Badan Baru untuk Awasi Konflik dan Reformasi Pertanahan"
+   "t_ko": "인도네시아, 토지 분쟁·개혁 총괄 신설 기구 출범 추진",
+   "t_id": "Indonesia Bentuk Badan Baru untuk Tangani Konflik dan Reformasi Agraria"
   },
   {
    "ts": "2026-09-22T17:20:41+07:00",
@@ -18259,6 +18295,18 @@
    "img": "https://static.republika.co.id/uploads/images/detailnews/016456500-1777015739-830-556.jpg",
    "t_ko": "BI 금융통화위원회 앞두고 루피아화 Rp17,884로 약세 지속",
    "t_id": "Jelang RDG BI, Rupiah Lanjutkan Pelemahan ke Level Rp 17.884"
+  },
+  {
+   "ts": "2026-09-22T17:17:46+07:00",
+   "date": "2026-09-22",
+   "time": "17:17",
+   "src": "Reuters",
+   "t": "Saudi Arabia restarts East-West oil pipeline, to resume exports from Yanbu, sources say",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNmJidHFzNHlscWlnT2hsWFdKc1hNRFMxOWRnTTRQRHVHbV9tRTJySFJoOGFoZXdNdTIwMngxZlczRmY3dWJxWkNiWTRYclVyT0JoWXQyUHJpNThicmpUNDMwWjNqREdrYmw3Ty1peU9oaEtRdC1GWXE1S0o1eGlrWDZONDhqS0FDbWotZXV1LXBvTEhUWHdlT1BzYU5udjNKTTFXdk1hX0wwVk1yczRTdV94R0p4UUQ1bEViTXJ2S2pEaTVLTFlvdw?oc=5",
+   "g": 1,
+   "t_ko": "사우디, 동서 송유관 가동 재개 및 Yanbu 수출 재개 예정",
+   "t_id": "Saudi Arabia Hidupkan Lagi Pipa Minyak Timur-Barat, Ekspor dari Yanbu Segera Pulih"
   },
   {
    "ts": "2026-09-22T17:17:07+07:00",
@@ -18459,19 +18507,6 @@
    "ts": "2026-09-22T17:00:00+07:00",
    "date": "2026-09-22",
    "time": "17:00",
-   "src": "Yahoo Finance",
-   "t": "Mortgage and refinance interest rates today, Tuesday, September 22, 2026: Rates move lower, but 30-year still over 7%",
-   "tags": [],
-   "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-22-2026-rates-move-lower-but-30-year-still-over-7-100000503.html",
-   "g": 1,
-   "img": "https://s.yimg.com/os/creatr-uploaded-images/2024-04/700e25a0-fb43-11ee-be6b-a40c5cf2631a",
-   "t_ko": "미국 주택담보대출·재융자 금리 하락 전환 — 30년물은 여전히 7% 상회",
-   "t_id": "Suku Bunga KPR dan Refinancing Hari Ini, Selasa, 22 Sep 2026: Suku Bunga Turun, Tapi 30-Tahun Masih di Atas 7%"
-  },
-  {
-   "ts": "2026-09-22T17:00:00+07:00",
-   "date": "2026-09-22",
-   "time": "17:00",
    "src": "Katadata",
    "t": "RUU Perampasan Aset Masih Tahap Awal, DPR Tetap Janjikan Terbit Tahun Ini",
    "tags": [],
@@ -18491,18 +18526,6 @@
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/22/89451.jpg",
    "t_ko": "MNC Sekuritas, Pelita Bangsa 대학생 대상 자본시장 교육 지원",
    "t_id": "MNC Sekuritas Fasilitasi Mahasiswa Universitas Pelita Bangsa Pelajari Pasar Modal"
-  },
-  {
-   "ts": "2026-09-22T16:54:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:54",
-   "src": "Media Indonesia",
-   "t": "Trump Bikin TrumpTV usai Diboikot Media",
-   "tags": [],
-   "url": "https://mediaindonesia.com/internasional/936228/trump-bikin-trumptv-usai-diboikot-media",
-   "g": 1,
-   "t_ko": "Trump, 언론 보이콧 이후 TrumpTV 설립",
-   "t_id": "Trump Bikin TrumpTV Usai Diboikot Media"
   },
   {
    "ts": "2026-09-22T16:52:08+07:00",
@@ -18607,7 +18630,7 @@
    "url": "https://www.jawapos.com/ekonomi/2609220333/status-manajer-kopdes-merah-putih-bukan-pegawai-bumn-tapi-biaya-ditanggung-negara",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/04/28/kepala-bp-bumn-dony-oskaria-nurul-fitrianajawaposcom-ZzEDH.webp",
    "t_ko": "Kopdes Merah Putih 매니저, BUMN 직원 아니나 국가 재정 부담",
-   "t_id": "Status Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Tapi Biaya Ditanggung Negara"
+   "t_id": "Status Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Tapi Digaji Negara"
   },
   {
    "ts": "2026-09-22T16:30:00+07:00",
@@ -18703,6 +18726,7 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8674246/suahasil-beberkan-cara-kejar-obligor-blbi",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/menteri-keuangan-suahasil-nazara-firdadetikcom-1790063366394_169.jpeg?w=360&q=90",
    "t_ko": "Suahasil, BLBI 채무 불이행자 자산 추적 방식 설명",
+   "t_id": "Suahasil Beberkan Strategi Kejar Obligor BLBI",
    "ai_ko": "· BLBI 채무자 추심, 재무부 내부 조직으로 전환\n· Suahasil Nazara 재무장관, DJKN 통해 자산 압류 진행\n· 2024년 Satgas BLBI 해산 이후 대상자 명단 확보, 사법당국과 공조",
    "ai_id": "· Penagihan obligor BLBI lewat internal Kemenkeu\n· Menkeu Suahasil: DJKN sita dan tandai aset\n· Satgas BLBI bubar 2024, gandeng aparat hukum",
    "ai_tags": [
@@ -18714,8 +18738,7 @@
     "kebijakan",
     "penagihan",
     "pemerintah"
-   ],
-   "t_id": "Suahasil Beberkan Cara Kejar Obligor BLBI"
+   ]
   },
   {
    "ts": "2026-09-22T16:10:00+07:00",
@@ -18892,7 +18915,8 @@
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8674416/antam-geber-transformasi-pengelolaan-pendanaan-perusahaan",
    "img": "https://akcdn.detik.net.id/community/media/visual/2023/10/31/ilustrasi-anak-cerdas-dirikan-perusahaan-ai_169.jpeg?w=360&q=90",
-   "t_ko": "Antam, 자금 조달 운용 체질 개선 가속"
+   "t_ko": "Antam, 자금 조달 운용 체질 개선 가속",
+   "t_id": "Antam Geber Transformasi Pengelolaan Pendanaan"
   },
   {
    "ts": "2026-09-22T15:50:21+07:00",
@@ -18926,7 +18950,7 @@
    "url": "https://www.medcom.id/nasional/peristiwa/3NOxWqWb-lestari-moerdijat-kerja-perawatan-harus-diakui-dalam-kebijakan-ekonomi",
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843716/kbqOFrzvCG.jpg?w=720",
    "t_ko": "Lestari Moerdijat, 경제정책 속 돌봄 노동 공식 인정 촉구",
-   "t_id": "Lestari Moerdijat: Kerja Perawatan Harus Diakui dalam Kebijakan Ekonomi"
+   "t_id": "Lestari Moerdijat: Kerja Perawatan Harus Masuk Kebijakan Ekonomi"
   },
   {
    "ts": "2026-09-22T15:47:00+07:00",
@@ -19345,30 +19369,6 @@
    ]
   },
   {
-   "ts": "2026-09-22T14:51:00+07:00",
-   "date": "2026-09-22",
-   "time": "14:51",
-   "src": "Katadata",
-   "t": "Profil Howard Buffett Chairman Baru Berkshire Hathaway Pengganti Warren Buffett",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/korporasi/6ab2339b44faa/profil-howard-buffett-chairman-baru-berkshire-hathaway-pengganti-warren-buffett",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/22/Howard_Buffett_Chairman_Berkshire_Hathaway-2026_09_22-14_50_51_358a3f4f5ad5cc85ebff1103a9672344_620x413_thumb.jpg",
-   "t_ko": "Warren Buffett 후임인 Berkshire Hathaway 신임 회장 Howard Buffett 프로필",
-   "t_id": "Profil Howard Buffett, Chairman Baru Berkshire Hathaway Pengganti Warren Buffett",
-   "ai_ko": "· Berkshire Hathaway 회장 교체\n· Howard Buffett, 부친 Warren 승계\n· 9월 18일 발표, 비상근 회장 맡아",
-   "ai_id": "· Berkshire Hathaway ganti chairman\n· Howard Buffett gantikan Warren Buffett\n· Diumumkan 18/9, jadi chairman non eksekutif",
-   "ai_tags": [
-    "경영권승계",
-    "이사회",
-    "투자"
-   ],
-   "ai_tags_id": [
-    "suksesi",
-    "dewan direksi",
-    "investasi"
-   ]
-  },
-  {
    "ts": "2026-09-22T14:50:00+07:00",
    "date": "2026-09-22",
    "time": "14:50",
@@ -19391,18 +19391,6 @@
     "penagihan",
     "fiskal"
    ]
-  },
-  {
-   "ts": "2026-09-22T14:43:30+07:00",
-   "date": "2026-09-22",
-   "time": "14:43",
-   "src": "Medcom",
-   "t": "Perusahaan Makin Selektif Pilih Hunian Ekspatriat",
-   "tags": [],
-   "url": "https://www.medcom.id/properti/news-properti/4KZQrz0k-perusahaan-makin-selektif-pilih-hunian-ekspatriat",
-   "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843688/ykIMl31md0.jpg?w=720",
-   "t_ko": "기업의 외국인 주거지 선정 기준 더욱 까다로워져",
-   "t_id": "Perusahaan Semakin Selektif Pilih Hunian Ekspatriat"
   },
   {
    "ts": "2026-09-22T14:15:38+07:00",
@@ -19679,18 +19667,6 @@
    "t_id": "Bea Cukai Tindak Impor Ilegal Beras dan Garam, Ini Respons Mentan"
   },
   {
-   "ts": "2026-09-22T13:07:35+07:00",
-   "date": "2026-09-22",
-   "time": "13:07",
-   "src": "Bloomberg Technoz",
-   "t": "RI Kaji Sanksi DMO Batu Bara: Stop 60 Hari, Tahan RKAB, Cabut IUP",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122315/ri-kaji-sanksi-dmo-batu-bara-stop-60-hari-tahan-rkab-cabut-iup",
-   "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260922130503.jpg",
-   "t_ko": "인도네시아, 석탄 DMO 제재 검토 — 60일 정지·RKAB 보류·IUP 취소",
-   "t_id": "RI Kaji Sanksi DMO Batu Bara: Hentikan 60 Hari, Tahan RKAB, Cabut IUP"
-  },
-  {
    "ts": "2026-09-22T13:07:23+07:00",
    "date": "2026-09-22",
    "time": "13:07",
@@ -19923,8 +19899,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.18",
-   "d": 2.57,
-   "ytd": 13.47,
+   "d": 2.55,
+   "ytd": 13.45,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19957,9 +19933,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.37",
-   "d": 0.01,
-   "ytd": 2.13,
+   "v": "100.36",
+   "d": 0.0,
+   "ytd": 2.12,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19969,9 +19945,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.78",
-   "d": -3.43,
-   "ytd": 56.36,
+   "v": "89.56",
+   "d": -3.67,
+   "ytd": 55.97,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19981,9 +19957,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,365.6",
-   "d": -0.31,
-   "ytd": 0.92,
+   "v": "4,367.2",
+   "d": -0.27,
+   "ytd": 0.96,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22673,8 +22649,8 @@
    "title": "Pemberitahuan Hasil RUPO PT Pos Indonesia (Persero)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/34c74619bb_1943d587bd.pdf",
    "title_ko": "PT Pos Indonesia (Persero) RUPO 결과 통지",
-   "rk": 42,
-   "title_id": "Hasil RUPO PT Pos Indonesia (Persero) Diumumkan"
+   "title_id": "Hasil RUPO PT Pos Indonesia (Persero)",
+   "rk": 42
   },
   {
    "ts": "2026-09-22T15:41:06+07:00",
@@ -24075,9 +24051,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 17:43",
-  "pc_age_min": 4,
+  "pc_age_min": 9,
   "news_ai_cache": 108,
-  "news_ai_hit": 72,
+  "news_ai_hit": 69,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -25902,33 +25878,6 @@
    "srcs": 4
   },
   {
-   "ts": "2026-09-22T14:59:00+07:00",
-   "date": "2026-09-22",
-   "time": "14:59",
-   "src": "Katadata",
-   "t": "Mentan: Indonesia Tak Lagi Impor Beras, Harga Dunia Jadi Anjlok",
-   "tags": [],
-   "url": "https://katadata.co.id/berita/industri/6ab2355f991ce/mentan-indonesia-tak-lagi-impor-beras-harga-dunia-jadi-anjlok",
-   "g": 1,
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/07/24/Mentan_Andi_Amran_Sulaiman-2026_07_24-14_40_04_d843f7eb565822d72f308e86e7cbe57f_620x413_thumb.jpeg",
-   "score": 416.65,
-   "srcs": 4,
-   "t_ko": "인도네시아 장관: 쌀 수입 중단으로 세계 쌀 가격 급락",
-   "t_id": "Mentan: Indonesia Tak Lagi Impor Beras, Harga Dunia Jadi Anjlok",
-   "ai_ko": "· 태국 쌀값 44.2% 하락, 톤당 USD 368\n· 농업부 장관 Andi Amran Sulaiman 발표\n· 2025년 쌀 수입 중단에 따른 영향",
-   "ai_id": "· Harga beras Thailand turun 44,2% ke US$368\n· Dipaparkan Mentan Andi Amran Sulaiman\n· Dampak setop impor beras sejak 2025",
-   "ai_tags": [
-    "쌀",
-    "수입",
-    "원자재가격"
-   ],
-   "ai_tags_id": [
-    "beras",
-    "impor",
-    "harga komoditas"
-   ]
-  },
-  {
    "ts": "2026-09-22T15:04:53+07:00",
    "date": "2026-09-22",
    "time": "15:04",
@@ -25967,6 +25916,20 @@
    "srcs": 6,
    "t_ko": "유가 상승과 연준 위원 금리 인상 시사에 금값 하락",
    "t_id": "Emas Tergelincir Saat Minyak Menguat dan Pejabat The Fed Beri Sinyal Kenaikan Suku Bunga"
+  },
+  {
+   "ts": "2026-09-22T11:37:50+07:00",
+   "date": "2026-09-22",
+   "time": "11:37",
+   "src": "Jawa Pos",
+   "t": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220201/bea-cukai-gagalkan-impor-ilegal-30-kontainer-garam-beras-dan-pakaian-bekas-senilai-rp-27-miliar",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/oFwNvShi6HMpFilTS8NeN4zVnyanzDadChdTf40a.webp",
+   "score": 412.35,
+   "srcs": 3,
+   "t_ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
+   "t_id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar"
   },
   {
    "ts": "2026-09-22T15:37:04+07:00",
@@ -44961,31 +44924,6 @@
    "srcs": 2
   },
   {
-   "t": "BUMI",
-   "n": "Bumi Resources",
-   "px": 184.0,
-   "pct": -4.17,
-   "val": 717464626666.6666,
-   "mcap": 68325712140512.0,
-   "ratio": 1.1,
-   "ev_ko": "실적·배당",
-   "ev_id": "Kinerja & dividen",
-   "hl": "BUMI, 순이익 성장 바탕 사업 다각화 전략 지속",
-   "hl_id": "Kinerja Positif, BUMI Lanjutkan Strategi Diversifikasi Usaha",
-   "url": "https://www.idxchannel.com/market-news/kinerja-keuangan-tumbuh-positif-bumi-lanjutkan-strategi-diversifikasi-usaha",
-   "score": 70.6,
-   "s_news": 70,
-   "s_size": 71,
-   "s_surge": 5,
-   "s_move": 50,
-   "s_conc": 95,
-   "s_flow": 76,
-   "alpha": -2.48,
-   "vrank": 2,
-   "flow": -7.55,
-   "srcs": 1
-  },
-  {
    "t": "JECX",
    "n": "Nitrasanata Dharma",
    "px": 1500.0,
@@ -45158,6 +45096,31 @@
    "alpha": 3.88,
    "vrank": null,
    "flow": 24.56,
+   "srcs": 0
+  },
+  {
+   "t": "NOBU",
+   "n": "Bank Nationalnobu",
+   "px": 565.0,
+   "pct": 5.61,
+   "val": 7427881666.666666,
+   "mcap": 4183067594900.0,
+   "ratio": 3.4,
+   "ev_ko": "가격·수급 이상",
+   "ev_id": "Harga & arus dana",
+   "hl": "시장 대비 +7.30%p · 20일 평균 3.4배 · 외국인 5일 +4.7%",
+   "hl_id": "vs pasar +7.30%p · 3.4x rata 20 hari · asing 5 hari +4.7%",
+   "url": "",
+   "score": 55.8,
+   "s_news": 0,
+   "s_size": 41,
+   "s_surge": 100,
+   "s_move": 100,
+   "s_conc": 100,
+   "s_flow": 47,
+   "alpha": 7.3,
+   "vrank": null,
+   "flow": 4.67,
    "srcs": 0
   }
  ],

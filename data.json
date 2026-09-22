@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 20:42",
+ "updated": "2026-09-22 20:49",
  "delay_min": 15,
- "fx_basis": "13.16 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,359 · 20:30 Yahoo",
- "idr_per_krw": 13.1574,
+ "fx_basis": "13.18 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,356 · 20:30 Yahoo",
+ "idr_per_krw": 13.1807,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16822,48 +16822,51 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7779.06,
+   "px": 7770.9,
    "prev": 7764.22,
-   "pct": 0.19,
+   "pct": 0.09,
    "mst": 0,
-   "asof": "09:40",
+   "asof": "09:45",
    "live": true,
    "spark": [
     7779.14,
     7781.88,
-    7779.06
+    7777.13,
+    7770.9
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27244.27,
+   "px": 27224.49,
    "prev": 27122.09,
-   "pct": 0.45,
+   "pct": 0.38,
    "mst": 0,
-   "asof": "09:40",
+   "asof": "09:45",
    "live": true,
    "spark": [
     27223.51,
     27247.1,
-    27244.27
+    27236.45,
+    27224.49
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 52141.15,
+   "px": 52034.79,
    "prev": 52053.88,
-   "pct": 0.17,
+   "pct": -0.04,
    "mst": 0,
-   "asof": "09:40",
+   "asof": "09:45",
    "live": true,
    "spark": [
     52161.89,
     52173.29,
-    52141.15
+    52104.6,
+    52034.79
    ]
   },
   {
@@ -17200,6 +17203,20 @@
   }
  },
  "news": [
+  {
+   "ts": "2026-09-22T20:30:00+07:00",
+   "date": "2026-09-22",
+   "time": "20:30",
+   "src": "IDX Channel",
+   "t": "RKAB Terbit, Bayan (BYAN) Dapat Tambahan Kuota Produksi hingga 20 Juta Ton",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://www.idxchannel.com/market-news/rkab-terbit-bayan-byan-dapat-tambahan-kuota-produksi-hingga-20-juta-ton",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2023/11/14/Saham_Batu_Bara_dengan_PBV_Terendah.jpg",
+   "t_ko": "BYAN, RKAB 승인으로 생산 쿼터 2,000만 톤 확대",
+   "t_id": "RKAB Terbit, Bayan (BYAN) Kantongi Tambahan Kuota Produksi 20 Juta Ton"
+  },
   {
    "ts": "2026-09-22T20:20:00+07:00",
    "date": "2026-09-22",
@@ -17736,6 +17753,7 @@
    "url": "https://www.liputan6.com/saham/read/8296032/adhi-teken-mra-dengan-kreditur-restrukturisasi-masuk-babak-baru",
    "img": "https://cdn1-production-images-kly.akamaized.net/1WIR0OxlOOmMn_DG5x7LChXebns=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4195369/original/005012600_1666079144-18_oktober_2022-2a.JPG",
    "t_ko": "ADHI, 채권단과 MRA 체결로 구조조정 국면 전환",
+   "t_id": "ADHI Teken MRA dengan Kreditur, Restrukturisasi Masuki Babak Baru",
    "ai_ko": "· ADHI, 채권 금융기관과 MRA 체결\n· Danantara Aset Manajemen 지원 하에\n· 채무조정 실행 단계 진입, 재무구조 개선",
    "ai_id": "· ADHI teken MRA dengan kreditur\n· Didukung Danantara Aset Manajemen\n· Masuk tahap implementasi restrukturisasi",
    "ai_tags": [
@@ -17747,8 +17765,7 @@
     "restrukturisasi",
     "MRA",
     "konstruksi"
-   ],
-   "t_id": "ADHI Teken MRA dengan Kreditur, Restrukturisasi Masuk Babak Baru"
+   ]
   },
   {
    "ts": "2026-09-21T11:29:37+07:00",
@@ -17936,21 +17953,45 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-22T20:41:07+07:00",
+   "ts": "2026-09-22T20:48:21.209094+07:00",
    "date": "2026-09-22",
-   "time": "20:41",
-   "src": "Republika",
-   "t": "Pertamina Patra Niaga Perkuat Tata Kelola Pengadaan dan Distribusi Energi, Jaga Ketahanan Energi",
+   "time": "20:48",
+   "src": "Jawa Pos",
+   "t": "Tak Sekadar Sisa, Produk Samping Silika Dari Proses Industri Tenyata Bisa Diracik Jadi Bahan Berguna",
    "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlrq0j522/pertamina-patra-niaga-perkuat-tata-kelola-pengadaan-dan-distribusi-energi-jaga-ketahanan-energi",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922204054-487.jpeg",
-   "t_id": "Pertamina Patra Niaga Perkuat Tata Kelola Pengadaan dan Distribusi Energi, Jaga Ketahanan Energi",
-   "t_ko": "Pertamina Patra Niaga, 조달·유통 투명성 강화로 에너지 안보 제고"
+   "url": "https://www.jawapos.com/bisnis/2609220278/tak-sekadar-sisa-produk-samping-silika-dari-proses-industri-tenyata-bisa-diracik-jadi-bahan-berguna",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/pabrik-petrokimia-istimewa-gRZHh.webp",
+   "t_ko": "산업 공정 실리카 부산물, 유용한 자재로 재탄생 가능",
+   "t_id": "Tak Sekadar Sisa, Produk Samping Silika Dari Proses Industri Tenyata Bisa Diracik Jadi Bahan Berguna"
   },
   {
-   "ts": "2026-09-22T20:40:32.362378+07:00",
+   "ts": "2026-09-22T20:48:21.204934+07:00",
    "date": "2026-09-22",
-   "time": "20:40",
+   "time": "20:48",
+   "src": "Jawa Pos",
+   "t": "294 Siswa di Purworejo Keracunan Usai Diduga Makan MBG, Dapur SPPG Langsung Ditutup",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220280/294-siswa-di-purworejo-keracunan-usai-diduga-makan-mbg-dapur-sppg-langsung-ditutup",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/wakil-bupati-purworejo-dion-agasi-setiabudi-menjenguk-langsung-korban-dugaan-kasus-keracunan-radar-jogja-pVxOU.webp",
+   "t_ko": "Purworejo 학생 294명 무상급식 추정 식중독 — SPPG 주방 즉각 폐쇄",
+   "t_id": "294 Siswa di Purworejo Keracunan Usai Diduga Makan MBG, Dapur SPPG Langsung Ditutup"
+  },
+  {
+   "ts": "2026-09-22T20:47:32+07:00",
+   "date": "2026-09-22",
+   "time": "20:47",
+   "src": "Republika",
+   "t": "Investor Pasar Modal Tumbuh 52 Persen, Keandalan Platform Transaksi Jadi Perhatian",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlrqb8522/investor-pasar-modal-tumbuh-52-persen-keandalan-platform-transaksi-jadi-perhatian",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/091077300-1785491430-830-556.jpg",
+   "t_id": "Investor Pasar Modal Tumbuh 52 Persen, Keandalan Platform Transaksi Jadi Perhatian",
+   "t_ko": "자본시장 투자자 52% 증가 — 거래 플랫폼 안정성 대두"
+  },
+  {
+   "ts": "2026-09-22T20:45:53+07:00",
+   "date": "2026-09-22",
+   "time": "20:45",
    "src": "Jawa Pos",
    "t": "Penempatan Manajer KDKMP dan KNMP Bergulir, Pemerintah Jamin Hak dan Kejelasan",
    "tags": [],
@@ -17960,16 +18001,16 @@
    "t_id": "Penempatan Manajer KDKMP dan KNMP Bergulir, Pemerintah Jamin Hak dan Kejelasan"
   },
   {
-   "ts": "2026-09-22T20:40:32.358730+07:00",
+   "ts": "2026-09-22T20:41:07+07:00",
    "date": "2026-09-22",
-   "time": "20:40",
-   "src": "Jawa Pos",
-   "t": "Tak Sekadar Sisa, Produk Samping Silika Dari Proses Industri Tenyata Bisa Diracik Jadi Bahan Berguna",
+   "time": "20:41",
+   "src": "Republika",
+   "t": "Pertamina Patra Niaga Perkuat Tata Kelola Pengadaan dan Distribusi Energi, Jaga Ketahanan Energi",
    "tags": [],
-   "url": "https://www.jawapos.com/bisnis/2609220278/tak-sekadar-sisa-produk-samping-silika-dari-proses-industri-tenyata-bisa-diracik-jadi-bahan-berguna",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/pabrik-petrokimia-istimewa-gRZHh.webp",
-   "t_ko": "산업 공정 실리카 부산물, 유용한 자재로 재탄생 가능",
-   "t_id": "Tak Sekadar Sisa, Produk Samping Silika Dari Proses Industri Tenyata Bisa Diracik Jadi Bahan Berguna"
+   "url": "https://ekonomi.republika.co.id/berita/tlrq0j522/pertamina-patra-niaga-perkuat-tata-kelola-pengadaan-dan-distribusi-energi-jaga-ketahanan-energi",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922204054-487.jpeg",
+   "t_ko": "Pertamina Patra Niaga, 조달·유통 투명성 강화로 에너지 안보 제고",
+   "t_id": "Pertamina Patra Niaga Perkuat Tata Kelola Pengadaan dan Distribusi Energi, Jaga Ketahanan Energi"
   },
   {
    "ts": "2026-09-22T20:40:00+07:00",
@@ -17983,6 +18024,17 @@
    "t_ko": "2026년 말 환율 전망 — USD당 Rp17,600~Rp18,000"
   },
   {
+   "ts": "2026-09-22T20:37:00+07:00",
+   "date": "2026-09-22",
+   "time": "20:37",
+   "src": "Media Indonesia",
+   "t": "Ada 81.171 Lowongan Kerja di Karirhub",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936379/ada-81171-lowongan-kerja-di-karirhub",
+   "t_id": "Ada 81.171 Lowongan Kerja di Karirhub",
+   "t_ko": "Karirhub, 8만 1,171개 일자리 공고 등록"
+  },
+  {
    "ts": "2026-09-22T20:34:36+07:00",
    "date": "2026-09-22",
    "time": "20:34",
@@ -17991,8 +18043,21 @@
    "tags": [],
    "url": "https://www.medcom.id/ekonomi/makro/ObzRw4eb-utang-obligasi-blbi-ke-bi-lunas-debitur-tetep-kena-tagih-gak",
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843798/iOZPsHJtWK.jpg?w=720",
-   "t_id": "Utang Obligasi BLBI ke BI Lunas, Debitur Tetep Kena Tagih Gak?",
-   "t_ko": "BLBI 채권 BI 상환 완료 — 채무자 추징 절차 지속"
+   "t_ko": "BLBI 채권 BI 상환 완료 — 채무자 추징 절차 지속",
+   "t_id": "Utang Obligasi BLBI ke BI Lunas, Debitur Tetep Kena Tagih Gak?"
+  },
+  {
+   "ts": "2026-09-22T20:33:50+07:00",
+   "date": "2026-09-22",
+   "time": "20:33",
+   "src": "Yahoo Finance",
+   "t": "Bridge Green, Hartree sign eight-year lithium agreement",
+   "tags": [],
+   "url": "https://finance.yahoo.com/energy/articles/bridge-green-hartree-sign-eight-133350674.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/mining_technology_700/3c0d9690421bd7924bb177a2c56bf00c.jpg",
+   "t_ko": "Bridge Green·Hartree, 8년 리튬 공급 계약 체결",
+   "t_id": "Bridge Green dan Hartree Teken Perjanjian Litium 8 Tahun"
   },
   {
    "ts": "2026-09-22T20:32:47+07:00",
@@ -18003,8 +18068,8 @@
    "tags": [],
    "url": "https://www.jawapos.com/finance/2609220469/utang-rp-2183-triliun-ke-bi-lunas-menkeu-tegaskan-hak-tagih-obligor-blbi-tetap-berjalan",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
-   "t_id": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan",
-   "t_ko": "재무부, BI에 대한 Rp218.3조 채권 상환 완료 — BLBI 채무자 추징권 유지"
+   "t_ko": "재무부, BI에 대한 Rp218.3조 채권 상환 완료 — BLBI 채무자 추징권 유지",
+   "t_id": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan"
   },
   {
    "ts": "2026-09-22T20:31:44+07:00",
@@ -18041,6 +18106,19 @@
    "g": 1,
    "t_ko": "트럼프, 젤렌스키에 에너지 휴전 압박… 러시아 우크라이나 전쟁으로 유가 통제 상실 언급",
    "t_id": "Trump Bakal Tekan Zelenskyy untuk Gencatan Senjata Energi, Sebut Rusia 'Kehilangan Kendali' Atas Minyak Akibat Perang Ukraina"
+  },
+  {
+   "ts": "2026-09-22T20:30:00+07:00",
+   "date": "2026-09-22",
+   "time": "20:30",
+   "src": "Yahoo Finance",
+   "t": "Goldman Sachs says 'lower happiness' — not the economy — explains why consumer confidence hit its second-lowest level",
+   "tags": [],
+   "url": "https://finance.yahoo.com/economy/articles/goldman-sachs-says-lower-happiness-133000625.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/moneywise_327/e06d3c96c58ca283eadc8d077b4e7adc.jpg",
+   "t_ko": "Goldman Sachs, 소비심리 급락 원인은 경제가 아닌 불행감",
+   "t_id": "Goldman Sachs Sebut \"Kebahagiaan Rendah\" Bukan Ekonomi Jadi Alasan Keyakinan Konsumen Anjlok"
   },
   {
    "ts": "2026-09-22T20:30:00+07:00",
@@ -18111,6 +18189,19 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
    "t_ko": "사우디 동서 송유관 재가동 시사로 유가 98달러로 하락",
    "t_id": "Minyak Turun ke $98 Saat Arab Saudi Isyaratkan Pembukaan Kembali Pipa Timur-Barat"
+  },
+  {
+   "ts": "2026-09-22T20:25:00+07:00",
+   "date": "2026-09-22",
+   "time": "20:25",
+   "src": "Yahoo Finance",
+   "t": "Binance Investigated By U.S. For Potential Sanctions Violations",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/crypto/articles/binance-investigated-u-potential-sanctions-132500534.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/cryptoprowl_304/31d4d9bc2473deef4080404db90313f7.jpg",
+   "t_ko": "미국, 제재 위반 혐의로 Binance 조사",
+   "t_id": "Binance Diselidiki AS Terkait Potensi Pelanggaran Sanksi"
   },
   {
    "ts": "2026-09-22T20:23:00+07:00",
@@ -18353,43 +18444,6 @@
    "t_id": "Imbal Hasil Obligasi 10 Tahun AS Turun di Bawah 5% Menanti Komentar The Fed"
   },
   {
-   "ts": "2026-09-22T19:45:00+07:00",
-   "date": "2026-09-22",
-   "time": "19:45",
-   "src": "Media Indonesia",
-   "t": "Dua Ketakutan Pemimpin Teluk Bertemu Donald Trump, Apa Itu?",
-   "tags": [],
-   "url": "https://mediaindonesia.com/internasional/936346/dua-ketakutan-pemimpin-teluk-bertemu-donald-trump-apa-itu",
-   "g": 1,
-   "t_ko": "걸프 지역 지도자들의 Donald Trump 상대 두려움 — 핵심 쟁점",
-   "t_id": "Dua Ketakutan Pemimpin Teluk Jumpa Donald Trump, Apa Itu?"
-  },
-  {
-   "ts": "2026-09-22T19:44:20+07:00",
-   "date": "2026-09-22",
-   "time": "19:44",
-   "src": "Yahoo Finance",
-   "t": "Apple May Return to Servers With Its Own AI Chips. Nvidia Could Still Get Paid",
-   "tags": [],
-   "url": "https://finance.yahoo.com/technology/ai/articles/apple-may-return-servers-own-124420628.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3.jpg",
-   "t_ko": "Apple, 자체 AI 칩 서버 도입 추진…Nvidia는 계속 수혜 전망",
-   "t_id": "Apple Berpeluang Masuk Pasar Server via Chip AI Sendiri, Nvidia Tetap Diuntungkan"
-  },
-  {
-   "ts": "2026-09-22T19:43:53+07:00",
-   "date": "2026-09-22",
-   "time": "19:43",
-   "src": "CNBC",
-   "t": "Oil prices fall after report Saudi Arabia aims to restart critical pipeline this week",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-   "g": 1,
-   "t_ko": "사우디 송유관 재개 전망 보도에 유가 하락",
-   "t_id": "Harga Minyak Turun Usai Laporan Arab Saudi Targetkan Buka Kembali Pipa Kritis Pekan Ini"
-  },
-  {
    "ts": "2026-09-22T19:43:33+07:00",
    "date": "2026-09-22",
    "time": "19:43",
@@ -18400,17 +18454,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/04/30/pegawai-melayani-wajib-pajak-di-kantor-kpp-pratama-setiabudi-tiga-di-jakarta-rabu-2942026-salman-toyibijawa-pos-uDEtV.webp",
    "t_ko": "대법원 조세 전문 재판부, 납세자에 더 높은 법적 확실성 제공",
    "t_id": "Kamar Khusus Perpajakan di MA Lebih Memberikan Kepastian Hukum Bagi Wajib Pajak"
-  },
-  {
-   "ts": "2026-09-22T19:42:00+07:00",
-   "date": "2026-09-22",
-   "time": "19:42",
-   "src": "Media Indonesia",
-   "t": "Disahkan DPR, Baleg Beberkan 9 Poin Krusial UU Pengaturan Reforma Agraria",
-   "tags": [],
-   "url": "https://mediaindonesia.com/politik-dan-hukum/936342/disahkan-dpr-baleg-beberkan-9-poin-krusial-uu-pengaturan-reforma-agraria",
-   "t_ko": "DPR, 토지개혁법 개정안 9대 핵심 포인트 의결",
-   "t_id": "Disahkan DPR, Baleg Ungkap 9 Poin Krusial UU Reforma Agraria"
   },
   {
    "ts": "2026-09-22T19:40:15+07:00",
@@ -19331,52 +19374,6 @@
     "pangan",
     "kebijakan"
    ]
-  },
-  {
-   "ts": "2026-09-22T15:13:38+07:00",
-   "date": "2026-09-22",
-   "time": "15:13",
-   "src": "Jawa Pos",
-   "t": "Krista Exhibitions Kembali Gelar ALLPrint Indonesia 2026 di JIExpo Kemayoran Jakarta",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220313/krista-exhibitions-kembali-gelar-allprint-indonesia-2026-di-jiexpo-kemayoran-jakarta",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/acara-press-conference-pameran-allprint-indonesia-2026-yang-akan-berlangsung-pada-7-10-oktober-2026-dengan-target-pengunjung-60000-pengunjung-di-jiexpo-kemayoran-jakarta-istimewa-uR8YY.webp",
-   "t_ko": "Krista Exhibitions, 자카르타 JIExpo서 ALLPrint Indonesia 2026 개최",
-   "t_id": "Krista Exhibitions Kembali Gelar ALLPrint Indonesia 2026 di JIExpo Kemayoran Jakarta",
-   "ai_ko": "· ALLPrint Indonesia 2026 개최\n· Krista Exhibitions, JIExpo Kemayoran Jakarta\n· 디지털 인쇄·포장·라벨로 영역 확대",
-   "ai_id": "· ALLPrint Indonesia 2026 digelar\n· Krista Exhibitions di JIExpo Kemayoran\n· Cakup digital printing, kemasan, label",
-   "ai_tags": [
-    "전시회",
-    "인쇄산업"
-   ],
-   "ai_tags_id": [
-    "pameran",
-    "industri percetakan"
-   ]
-  },
-  {
-   "ts": "2026-09-22T15:04:53+07:00",
-   "date": "2026-09-22",
-   "time": "15:04",
-   "src": "Republika",
-   "t": "Menkeu: Pemerintahan Prabowo Lunasi Utang Obligasi BLBI Rp 218,3 Triliun",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlrag5484/menkeu-pemerintahan-prabowo-lunasi-utang-obligasi-blbi-rp-2183-triliun",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922145952-596.png",
-   "t_ko": "재무장관, Prabowo 정부 BLBI 채권 빚 Rp218.3조 상환",
-   "t_id": "Menkeu: Pemerintahan Prabowo Lunasi Utang Obligasi BLBI Rp 218,3 Triliun",
-   "ai_ko": "· BLBI 채권 Rp218.3조 상환 완료\n· 재무부, Bank Indonesia 대상 채무 종결\n· 8월 최종 상환, BI 잉여금 기반 비조세수입 활용",
-   "ai_id": "· Utang obligasi BLBI Rp218,3 triliun lunas\n· Menkeu Suahasil lapor ke Presiden\n· Bayar akhir Agustus 2026 dari PNBP surplus BI",
-   "ai_tags": [
-    "BLBI",
-    "국채",
-    "재정"
-   ],
-   "ai_tags_id": [
-    "BLBI",
-    "obligasi",
-    "fiskal"
-   ]
   }
  ],
  "kisi_news": [
@@ -19538,9 +19535,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "13.15",
-   "d": 2.32,
-   "ytd": 13.2,
+   "v": "13.18",
+   "d": 2.56,
+   "ytd": 13.46,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19550,9 +19547,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.943%",
-   "d": -0.4,
-   "ytd": 18.74,
+   "v": "4.947%",
+   "d": -0.32,
+   "ytd": 18.83,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19573,9 +19570,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.49",
-   "d": 0.13,
-   "ytd": 2.25,
+   "v": "100.47",
+   "d": 0.11,
+   "ytd": 2.23,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19585,9 +19582,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.49",
-   "d": -2.67,
-   "ytd": 57.59,
+   "v": "90.41",
+   "d": -2.75,
+   "ytd": 57.45,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19597,9 +19594,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,367.9",
-   "d": -0.26,
-   "ytd": 0.98,
+   "v": "4,368.5",
+   "d": -0.24,
+   "ytd": 0.99,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20491,11 +20488,11 @@
    "imp": 2,
    "exp": null,
    "prev": "16.30K",
-   "act": null,
+   "act": "20.00K",
    "src": "investing.com",
    "title_ko": "ADP 주간 고용 변화",
    "title_id": "Perubahan Tenaga Kerja Mingguan ADP AS",
-   "sc": 55,
+   "sc": 35,
    "gs": 72,
    "g": "고용",
    "sub": 0
@@ -20514,6 +20511,24 @@
    "title_ko": "Williams 연준 위원 연설",
    "title_id": "Pidato Anggota FOMC Williams AS",
    "sc": 48,
+   "gs": 40,
+   "g": "연준 발언",
+   "sub": 0
+  },
+  {
+   "date": "2026-09-22",
+   "time": "—",
+   "kind": "macro",
+   "country": "US",
+   "title": "U.S. President Trump Speaks",
+   "imp": 3,
+   "exp": null,
+   "prev": null,
+   "act": null,
+   "src": "investing.com",
+   "title_ko": "트럼프 미 대통령 연설",
+   "title_id": "Presiden AS Trump Berbicara",
+   "sc": 54,
    "gs": 40,
    "g": "연준 발언",
    "sub": 0
@@ -23691,9 +23706,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 134,
+  "pc_age_min": 141,
   "news_ai_cache": 92,
-  "news_ai_hit": 44,
+  "news_ai_hit": 41,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -25494,53 +25509,27 @@
  "top_day": "2026-09-22",
  "top_news": [
   {
-   "ts": "2026-09-22T15:04:53+07:00",
+   "ts": "2026-09-22T14:08:09+07:00",
    "date": "2026-09-22",
-   "time": "15:04",
+   "time": "14:08",
    "src": "Republika",
-   "t": "Menkeu: Pemerintahan Prabowo Lunasi Utang Obligasi BLBI Rp 218,3 Triliun",
+   "t": "Uang Rupiah Kertas Bertanda Tangan Purbaya dan Perry Diburu, Ini Respons Bank Indonesia",
    "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlrag5484/menkeu-pemerintahan-prabowo-lunasi-utang-obligasi-blbi-rp-2183-triliun",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922145952-596.png",
-   "t_ko": "재무장관, Prabowo 정부 BLBI 채권 빚 Rp218.3조 상환",
-   "t_id": "Menkeu: Pemerintahan Prabowo Lunasi Utang Obligasi BLBI Rp 218,3 Triliun",
-   "ai_ko": "· BLBI 채권 Rp218.3조 상환 완료\n· 재무부, Bank Indonesia 대상 채무 종결\n· 8월 최종 상환, BI 잉여금 기반 비조세수입 활용",
-   "ai_id": "· Utang obligasi BLBI Rp218,3 triliun lunas\n· Menkeu Suahasil lapor ke Presiden\n· Bayar akhir Agustus 2026 dari PNBP surplus BI",
-   "ai_tags": [
-    "BLBI",
-    "국채",
-    "재정"
-   ],
-   "ai_tags_id": [
-    "BLBI",
-    "obligasi",
-    "fiskal"
-   ],
-   "score": 421.75,
-   "srcs": 4
-  },
-  {
-   "ts": "2026-09-22T15:00:18+07:00",
-   "date": "2026-09-22",
-   "time": "15:00",
-   "src": "Jawa Pos",
-   "t": "Heboh Uang Rupiah Tanda Tangan Purbaya, BI Pastikan Cetakan 2026 Sah Digunakan",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220311/heboh-uang-rupiah-tanda-tangan-purbaya-bi-pastikan-cetakan-2026-sah-digunakan",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/pecahan-rp-100000-tahun-emisi-te-2022-yang-memuat-tanda-tangan-purbaya-dan-perry-warjiyo-sebagai-gubernur-bank-indonesia-bi-threads-at-christopherkeju-fxOBK.webp",
+   "url": "https://ekonomi.republika.co.id/berita/tlr7tl490/uang-rupiah-kertas-bertanda-tangan-purbaya-dan-perry-diburu-ini-respons-bank-indonesia",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/016797200-1789452655-830-556.jpg",
    "score": 412.55,
    "srcs": 3,
-   "t_ko": "Purbaya 서명 루피아화 논란 속 BI, 2026년 발행분 정상 사용 확인",
-   "t_id": "Heboh Uang Rupiah Tanda Tangan Purbaya, BI Pastikan Cetakan 2026 Sah",
-   "ai_ko": "· 2026년 발행권 법정통화로 유효\n· Bank Indonesia 공식 확인\n· Purbaya·Perry Warjiyo 서명 논란 진화",
-   "ai_id": "· Uang cetak 2026 sah sebagai alat bayar\n· Penegasan dari Bank Indonesia\n· Tanda tangan Purbaya dan Perry Warjiyo",
+   "t_ko": "Purbaya·Perry 서명 루피아 지폐 수집 열풍에 인도네시아은행(BI) 입장 표명",
+   "t_id": "Uang Rupiah Kertas Bertanda Tangan Purbaya dan Perry Diburu, Ini Respons Bank Indonesia",
+   "ai_ko": "· Rp10만 지폐 수집 수요 급증, 법정통화 유효\n· Bank Indonesia, Purbaya·Perry 서명 지폐\n· 9월 22일, 두 인사 퇴임으로 화제",
+   "ai_id": "· Uang Rp100.000 diburu kolektor\n· BI: tetap alat pembayaran sah\n· 22/9, viral usai Purbaya lengser",
    "ai_tags": [
     "통화",
-    "Bank Indonesia"
+    "중앙은행"
    ],
    "ai_tags_id": [
     "rupiah",
-    "Bank Indonesia"
+    "bank sentral"
    ]
   },
   {
@@ -25570,6 +25559,20 @@
    "t_id": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
    "score": 411.05,
    "srcs": 1
+  },
+  {
+   "ts": "2026-09-22T08:10:00+07:00",
+   "date": "2026-09-22",
+   "time": "08:10",
+   "src": "IDNFinancials",
+   "t": "BI rate decision to set JCI direction, watch these levels",
+   "tags": [],
+   "url": "https://www.idnfinancials.com/news/69207/bi-rate-decision-to-set-jci-direction-watch-these-levels",
+   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/BIRATE-IHSG-22092026.jpg",
+   "score": 408.15,
+   "srcs": 1,
+   "t_ko": "기준금리 결정에 따른 IHSG 방향성 주목 — 주요 지지선 점검",
+   "t_id": "Keputusan Suku Bunga BI Setir Arah IHSG, Cermati Level Ini"
   },
   {
    "ts": "2026-09-22T20:25:32+07:00",
@@ -44524,9 +44527,9 @@
    "ratio": 3.0,
    "ev_ko": "인허가·생산차질",
    "ev_id": "Izin & produksi",
-   "hl": "ESDM, BYAN RKAB 정정은 Haji Isam 인수와 무관하다고 부인",
-   "hl_id": "ESDM Bantah Revisi RKAB BYAN Terkait Pembelian Haji Isam",
-   "url": "https://www.idnfinancials.com/news/69236/esdm-denies-byan-rkab-revision-linked-to-haji-isam-purchase",
+   "hl": "BYAN, RKAB 승인으로 생산 쿼터 2,000만 톤 확대",
+   "hl_id": "RKAB Terbit, Bayan (BYAN) Kantongi Tambahan Kuota Produksi 20 Juta Ton",
+   "url": "https://www.idxchannel.com/market-news/rkab-terbit-bayan-byan-dapat-tambahan-kuota-produksi-hingga-20-juta-ton",
    "score": 98.5,
    "s_news": 100,
    "s_size": 90,

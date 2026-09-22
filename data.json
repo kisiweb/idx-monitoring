@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 00:18",
+ "updated": "2026-09-23 00:34",
  "delay_min": 15,
  "fx_basis": "13.16 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,359 · 21:00 Yahoo",
- "idr_per_krw": 13.1599,
+ "idr_per_krw": 13.16,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16543,11 +16543,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7762.71,
+   "px": 7763.55,
    "prev": 7764.22,
-   "pct": -0.02,
+   "pct": -0.01,
    "mst": 0,
-   "asof": "13:15",
+   "asof": "13:30",
    "live": true,
    "spark": [
     7779.14,
@@ -16595,18 +16595,21 @@
     7763.91,
     7763.71,
     7763.41,
-    7762.71
+    7762.92,
+    7762.28,
+    7765.39,
+    7763.55
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27210.04,
+   "px": 27203.9,
    "prev": 27122.09,
-   "pct": 0.32,
+   "pct": 0.3,
    "mst": 0,
-   "asof": "13:15",
+   "asof": "13:30",
    "live": true,
    "spark": [
     27223.51,
@@ -16654,18 +16657,21 @@
     27208.17,
     27208.32,
     27213.23,
-    27210.04
+    27213.14,
+    27209.09,
+    27216.04,
+    27203.9
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51802.17,
+   "px": 51819.42,
    "prev": 52053.88,
-   "pct": -0.48,
+   "pct": -0.45,
    "mst": 0,
-   "asof": "13:15",
+   "asof": "13:30",
    "live": true,
    "spark": [
     52161.89,
@@ -16713,7 +16719,10 @@
     51809.53,
     51815.72,
     51815.31,
-    51802.17
+    51805.21,
+    51794.13,
+    51822.07,
+    51819.42
    ]
   },
   {
@@ -17061,8 +17070,8 @@
    ],
    "url": "https://www.idxchannel.com/market-news/mknt-gelar-private-placement-rp102-triliun-libatkan-5-investor-individu",
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/05/18/private_placement.jpg",
-   "t_id": "MKNT Gelar Private Placement Rp1,02 Triliun, Libatkan 5 Investor Individu",
-   "t_ko": "MKNT, 개인투자자 5인 대상 Rp1.02조 규모 제3자배정 유상증자 실시"
+   "t_ko": "MKNT, 개인투자자 5인 대상 Rp1.02조 규모 제3자배정 유상증자 실시",
+   "t_id": "MKNT Gelar Private Placement Rp1,02 Triliun, Libatkan 5 Investor Individu"
   },
   {
    "ts": "2026-09-22T23:30:00+07:00",
@@ -17804,6 +17813,55 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T00:32:47+07:00",
+   "date": "2026-09-23",
+   "time": "00:32",
+   "src": "CNBC",
+   "t": "Trump snaps at CNN at United Nations: 'You should not be here covering me'",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-cnn-un-white-house-media-ban.html",
+   "g": 1,
+   "t_ko": "트럼프, 유엔서 CNN에 '취재 자격 없다'며 날 세워",
+   "t_id": "Trump Semprot CNN di PBB: 'Anda Seharusnya Tidak di Sini Meliput Saya'"
+  },
+  {
+   "ts": "2026-09-23T00:30:27+07:00",
+   "date": "2026-09-23",
+   "time": "00:30",
+   "src": "CNBC",
+   "t": "Altman and Amodei expected to join UN Security Council meeting about AI",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
+   "g": 1,
+   "t_ko": "Altman·Amodei, UN 안보리 AI 회의 참석 예정",
+   "t_id": "Altman dan Amodei Dijadwalkan Hadiri Rapat Dewan Keamanan PBB Bahas AI"
+  },
+  {
+   "ts": "2026-09-23T00:27:02+07:00",
+   "date": "2026-09-23",
+   "time": "00:27",
+   "src": "CNBC",
+   "t": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+   "g": 1,
+   "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
+   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
+  },
+  {
+   "ts": "2026-09-23T00:15:48+07:00",
+   "date": "2026-09-23",
+   "time": "00:15",
+   "src": "FT",
+   "t": "EU to lift sanctions on two Russian oligarchs",
+   "tags": [],
+   "url": "https://www.ft.com/content/760091dd-20be-4152-aa0d-561475a99ee8?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3e07606f-c534-4e98-9b0c-02f92853ebeb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "EU, 러시아 올리고르크 2명 제재 해제",
+   "t_id": "Uni Eropa Cabut Sanksi Dua Oligarki Rusia"
+  },
+  {
    "ts": "2026-09-23T00:14:29+07:00",
    "date": "2026-09-23",
    "time": "00:14",
@@ -17814,18 +17872,6 @@
    "g": 1,
    "t_ko": "프라이빗 크레디트(Private Credit) 부실 지연 문제",
    "t_id": "Kesenjangan Gagal Bayar Kredit Swasta"
-  },
-  {
-   "ts": "2026-09-23T00:10:22+07:00",
-   "date": "2026-09-23",
-   "time": "00:10",
-   "src": "CNBC",
-   "t": "Trump discloses more than 1,100 July trades, including up to $25 million sales of Microsoft and Amazon",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-   "g": 1,
-   "t_ko": "Trump, 7월 마이크로소프트·아마존 등 최대 2,500만 달러 규모 주식 거래 내역 공개",
-   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Juli, Termasuk Penjualan Saham Microsoft dan Amazon Senilai Hingga $25 Juta"
   },
   {
    "ts": "2026-09-23T00:06:12+07:00",
@@ -17990,44 +18036,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/04/28/kepala-bp-bumn-dony-oskaria-nurul-fitrianajawaposcom-ZzEDH.webp",
    "t_ko": "Kopdes Merah Putih 매니저, BUMN 직원 아니나 국가 재정 부담",
    "t_id": "Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Gaji Dibebankan ke Negara"
-  },
-  {
-   "ts": "2026-09-22T23:32:52+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Detik",
-   "t": "Mau Terjun ke Dunia Pasar Modal? Yuk, Siapkan Diri Lewat Pelatihan WPPE",
-   "tags": [],
-   "url": "https://finance.detik.com/bursa-dan-valas/d-8674845/mau-terjun-ke-dunia-pasar-modal-yuk-siapkan-diri-lewat-pelatihan-wppe",
-   "g": 1,
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/bnsp-wakil-perantaran-perdagangan-efek-1790094740378_169.jpeg?w=360&q=90",
-   "t_ko": "자본시장 진출 위한 WPPE 자격증 교육 과정 개시",
-   "t_id": "Mau Terjun ke Dunia Pasar Modal? Yuk, Siapkan Diri Lewat Pelatihan WPPE"
-  },
-  {
-   "ts": "2026-09-22T23:32:11+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "CNBC",
-   "t": "Treasury yields are little changed as traders await Fed comments",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
-   "g": 1,
-   "t_ko": "연준 발언 대기 속 미국 국채 금리 보합세",
-   "t_id": "Imbal Hasil US Treasury Cenderung Mendatar Jelang Komentar The Fed"
-  },
-  {
-   "ts": "2026-09-22T23:32:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "WSJ",
-   "t": "Basic Materials Roundup: Market Talk",
-   "tags": [],
-   "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-8962d0c7?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-41645439",
-   "t_ko": "소재 섹터 동향 — 시장 전망",
-   "t_id": "Rangkuman Sektor Material Dasar: Pasar Membahas"
   },
   {
    "ts": "2026-09-22T23:00:51+07:00",
@@ -18549,18 +18557,6 @@
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/17/2026_09_17-21_10_00_c91a39f4-b2cf-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
    "t_ko": "Bahlil, 연료탱크 개조 고급차 700리터 불법 주유 적발에 입장 표명",
    "t_id": "Bahlil Respons Temuan Mobil Mewah Modifikasi Tangki BBM 700 Liter"
-  },
-  {
-   "ts": "2026-09-22T19:16:34+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Medcom",
-   "t": "4.322 Penerima Bansos di Bengkulu Terindikasi Judi Online, Dinsos Turun Verifikasi",
-   "tags": [],
-   "url": "https://www.medcom.id/ekonomi/bisnis/GNGGQAlN-4-322-penerima-bansos-di-bengkulu-terindikasi-judi-online-dinsos-turun-verifikasi",
-   "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843780/lIKGxcZ4eY.jpg?w=720",
-   "t_ko": "Bengkulu 복지수급자 4,322명 온라인 도굴 연루 의혹 — 사회부 현장 검증",
-   "t_id": "4.322 Penerima Bansos di Bengkulu Terindikasi Judi Online, Dinsos Turun Verifikasi"
   },
   {
    "ts": "2026-09-22T19:01:16+07:00",
@@ -19159,6 +19155,18 @@
     "bea cukai",
     "kebijakan"
    ]
+  },
+  {
+   "ts": "2026-09-22T15:55:36+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Detik",
+   "t": "Antam Geber Transformasi Pengelolaan Pendanaan Perusahaan",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8674416/antam-geber-transformasi-pengelolaan-pendanaan-perusahaan",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2023/10/31/ilustrasi-anak-cerdas-dirikan-perusahaan-ai_169.jpeg?w=360&q=90",
+   "t_ko": "Antam, 자금 조달 운용 체질 개선 가속",
+   "t_id": "Antam Genjot Transformasi Pengelolaan Pendanaan"
   }
  ],
  "kisi_news": [
@@ -19332,9 +19340,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.976%",
-   "d": 0.26,
-   "ytd": 19.53,
+   "v": "4.978%",
+   "d": 0.3,
+   "ytd": 19.58,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19355,9 +19363,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.66",
-   "d": 0.3,
-   "ytd": 2.42,
+   "v": "100.69",
+   "d": 0.33,
+   "ytd": 2.45,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19367,9 +19375,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.20",
-   "d": -1.9,
-   "ytd": 58.83,
+   "v": "91.25",
+   "d": -1.85,
+   "ytd": 58.92,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19379,9 +19387,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,378.1",
-   "d": -0.02,
-   "ytd": 1.21,
+   "v": "4,376.2",
+   "d": -0.07,
+   "ytd": 1.17,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19419,11 +19427,11 @@
    "d": -0.18,
    "ytd": 20.72,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
   }
  ],
  "curve": {
@@ -23473,7 +23481,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 350,
+  "pc_age_min": 366,
   "news_ai_cache": 92,
   "news_ai_hit": 33,
   "on_runner": true,

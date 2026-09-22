@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 02:33",
+ "updated": "2026-09-23 02:49",
  "delay_min": 15,
- "fx_basis": "13.16 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,358 · 02:15 Yahoo",
- "idr_per_krw": 13.1628,
+ "fx_basis": "13.18 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,357 · 02:15 Yahoo",
+ "idr_per_krw": 13.1755,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16541,11 +16541,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7775.57,
+   "px": 7776.05,
    "prev": 7764.22,
    "pct": 0.15,
    "mst": 0,
-   "asof": "15:30",
+   "asof": "15:45",
    "live": true,
    "spark": [
     7779.14,
@@ -16620,18 +16620,21 @@
     7772.64,
     7772.42,
     7773.93,
-    7775.57
+    7778.42,
+    7778.47,
+    7774.63,
+    7776.05
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27273.84,
+   "px": 27272.97,
    "prev": 27122.09,
    "pct": 0.56,
    "mst": 0,
-   "asof": "15:30",
+   "asof": "15:45",
    "live": true,
    "spark": [
     27223.51,
@@ -16706,18 +16709,21 @@
     27257.1,
     27256.46,
     27267.78,
-    27273.84
+    27286.52,
+    27279.23,
+    27268.03,
+    27272.97
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51929.19,
+   "px": 51955.31,
    "prev": 52053.88,
-   "pct": -0.24,
+   "pct": -0.19,
    "mst": 0,
-   "asof": "15:30",
+   "asof": "15:45",
    "live": true,
    "spark": [
     52161.89,
@@ -16792,7 +16798,10 @@
     51920.51,
     51923.38,
     51916.1,
-    51929.19
+    51959.85,
+    51970.94,
+    51947.24,
+    51955.31
    ]
   },
   {
@@ -17896,9 +17905,33 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-23T02:33:03.943846+07:00",
+   "ts": "2026-09-23T02:43:33+07:00",
    "date": "2026-09-23",
-   "time": "02:33",
+   "time": "02:43",
+   "src": "Jawa Pos",
+   "t": "Kamar Khusus Perpajakan di MA Lebih Memberikan Kepastian Hukum Bagi Wajib Pajak",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220417/kamar-khusus-perpajakan-di-ma-lebih-memberikan-kepastian-hukum-bagi-wajib-pajak",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/04/30/pegawai-melayani-wajib-pajak-di-kantor-kpp-pratama-setiabudi-tiga-di-jakarta-rabu-2942026-salman-toyibijawa-pos-uDEtV.webp",
+   "t_ko": "대법원 조세 전문 재판부, 납세자에 더 높은 법적 확실성 제공",
+   "t_id": "Kamar Khusus Perpajakan di MA Lebih Memberikan Kepastian Hukum Bagi Wajib Pajak"
+  },
+  {
+   "ts": "2026-09-23T02:43:21+07:00",
+   "date": "2026-09-23",
+   "time": "02:43",
+   "src": "CNBC",
+   "t": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+   "g": 1,
+   "t_ko": "Anthropic·OpenAI, 속도 조절 요구 이후 첫 저가형 모델 출시",
+   "t_id": "Anthropic dan OpenAI Luncurkan Model Lebih Murah dalam Rilis Perdana Sejak Seruan Perlambatan"
+  },
+  {
+   "ts": "2026-09-23T02:40:15+07:00",
+   "date": "2026-09-23",
+   "time": "02:40",
    "src": "Jawa Pos",
    "t": "Indodana Finance Terima Pendanaan Rp700 Miliar dari HSBC Indonesia",
    "tags": [],
@@ -17906,6 +17939,30 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/direktur-utama-pt-indodana-multi-finance-mira-wibowo-bersama-banking-director-pt-bank-hsbc-indonesia-steve-andoko-seusai-penendatanganan-kerja-sama-pembiayaan-indodana-istimewa-MabbY.webp",
    "t_ko": "Indodana Finance, HSBC Indonesia로부터 Rp7,000억 조달",
    "t_id": "Indodana Finance Terima Pendanaan Rp700 Miliar dari HSBC Indonesia"
+  },
+  {
+   "ts": "2026-09-23T02:40:11+07:00",
+   "date": "2026-09-23",
+   "time": "02:40",
+   "src": "CNBC",
+   "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+   "g": 1,
+   "t_ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
+   "t_id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan"
+  },
+  {
+   "ts": "2026-09-23T02:33:37+07:00",
+   "date": "2026-09-23",
+   "time": "02:33",
+   "src": "CNBC",
+   "t": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+   "g": 1,
+   "t_ko": "Royal Caribbean, Sandals 지분 50% 인수에 30억 달러 규모 계약 임박",
+   "t_id": "Royal Caribbean Dekati Kesepakatan $3 Miliar untuk Kuasai 50% Saham Sandals"
   },
   {
    "ts": "2026-09-23T02:30:03+07:00",
@@ -17918,6 +17975,31 @@
    "g": 1,
    "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
    "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
+  },
+  {
+   "ts": "2026-09-23T02:30:00+07:00",
+   "date": "2026-09-23",
+   "time": "02:30",
+   "src": "MarketWatch",
+   "t": "Trump endorses diesel export ban. A decision is coming ‘fast, one way or the other.’",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/trump-endorses-diesel-export-ban-a-decision-is-coming-fast-one-way-or-the-other-a49055bc?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-67216971",
+   "t_ko": "트럼프, 디젤 수출 금지 지지 — 조만간 최종 결정 전망",
+   "t_id": "Trump Dukung Larangan Ekspor Diesel, Keputusan Segera Keluar"
+  },
+  {
+   "ts": "2026-09-23T02:27:35+07:00",
+   "date": "2026-09-23",
+   "time": "02:27",
+   "src": "Bloomberg",
+   "t": "Trump 'Came Off Looking Desperate' in UN Speech, Says Brett Bruen",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/trump-came-off-looking-desperate-in-un-speech-bruen-video",
+   "g": 1,
+   "t_ko": "Brett Bruen, 트럼프 UN 연설서 절박한 모습 노출됐다고 평가",
+   "t_id": "Trump Terkesan Putus Asa di Sidang PBB, Kata Brett Bruen"
   },
   {
    "ts": "2026-09-23T02:23:13+07:00",
@@ -17979,18 +18061,6 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F383904c5-6bc2-43fe-92b4-35a8c72622df.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
    "t_ko": "트럼프, 미국산 디젤 수출 금지 지지 표명",
    "t_id": "Trump Sebut Akan Dukung Larangan Ekspor Diesel AS"
-  },
-  {
-   "ts": "2026-09-23T02:03:49+07:00",
-   "date": "2026-09-23",
-   "time": "02:03",
-   "src": "CNBC",
-   "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-   "g": 1,
-   "t_ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
-   "t_id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan"
   },
   {
    "ts": "2026-09-23T02:00:39+07:00",
@@ -18076,54 +18146,6 @@
     "keamanan",
     "AS"
    ]
-  },
-  {
-   "ts": "2026-09-23T01:48:56+07:00",
-   "date": "2026-09-23",
-   "time": "01:48",
-   "src": "CNA",
-   "t": "Trump bought and sold shares in Musk's SpaceX in July, financial disclosure shows",
-   "tags": [],
-   "url": "https://www.channelnewsasia.com/business/trump-bought-and-sold-shares-in-musks-spacex-in-july-financial-disclosure-shows-6403201",
-   "g": 1,
-   "t_ko": "재산 공개로 드러난 7월 트럼프의 SpaceX 주식 거래",
-   "t_id": "Trump Beli dan Jual Saham SpaceX Milik Musk pada Jul, Ungkap Laporan Keuangan"
-  },
-  {
-   "ts": "2026-09-23T01:47:55+07:00",
-   "date": "2026-09-23",
-   "time": "01:47",
-   "src": "Bloomberg",
-   "t": "Ireland's McEntee Talks Tariffs, US Relations and China",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/ireland-s-mcentee-talks-tariffs-us-relations-and-china-video",
-   "g": 1,
-   "t_ko": "아일랜드 McEntee 장관, 관세 및 대미·대중 관계 논의",
-   "t_id": "McEntee dari Irlandia Bahas Tarif, Hubungan AS, dan China"
-  },
-  {
-   "ts": "2026-09-23T01:46:34+07:00",
-   "date": "2026-09-23",
-   "time": "01:46",
-   "src": "Bloomberg",
-   "t": "A Tantalizing Answer to Why Rates Are So High",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/newsletters/2026-09-22/a-tantalizing-answer-to-why-rates-are-so-high",
-   "g": 1,
-   "t_ko": "고금리 장기화 배경에 대한 해답",
-   "t_id": "Jawaban Menarik di Balik Suku Bunga yang Begitu Tinggi"
-  },
-  {
-   "ts": "2026-09-23T01:38:13+07:00",
-   "date": "2026-09-23",
-   "time": "01:38",
-   "src": "CNBC",
-   "t": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-   "g": 1,
-   "t_ko": "Trump, 중간선거 후 Iran이 타협할 것이라 언급 후 유가 보합세",
-   "t_id": "Minyak Tipis Usai Trump Sebut Iran Bakal Sepakat Pasca-Pemilu Midterm"
   },
   {
    "ts": "2026-09-23T01:08:25+07:00",
@@ -18597,18 +18619,6 @@
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/07/09/Bahlil_Lahadalia-2026_07_09-16_32_22_77fceb56d2727b95a53848d0d52cf1ed_620x413_thumb.png",
    "t_ko": "Bahlil, 인도네시아 데이터센터 건립 홍보 — 경쟁력 있는 전기요금",
    "t_id": "Bahlil Promosikan Pembangunan Data Center di Indonesia: Harga Listrik Kompetitif"
-  },
-  {
-   "ts": "2026-09-22T19:43:33+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Jawa Pos",
-   "t": "Kamar Khusus Perpajakan di MA Lebih Memberikan Kepastian Hukum Bagi Wajib Pajak",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220417/kamar-khusus-perpajakan-di-ma-lebih-memberikan-kepastian-hukum-bagi-wajib-pajak",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/04/30/pegawai-melayani-wajib-pajak-di-kantor-kpp-pratama-setiabudi-tiga-di-jakarta-rabu-2942026-salman-toyibijawa-pos-uDEtV.webp",
-   "t_ko": "대법원 조세 전문 재판부, 납세자에 더 높은 법적 확실성 제공",
-   "t_id": "Kamar Khusus Perpajakan di MA Lebih Memberikan Kepastian Hukum Bagi Wajib Pajak"
   },
   {
    "ts": "2026-09-22T19:34:37+07:00",
@@ -19416,9 +19426,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "13.15",
-   "d": 2.37,
-   "ytd": 13.26,
+   "v": "13.18",
+   "d": 2.55,
+   "ytd": 13.45,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19451,9 +19461,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.59",
-   "d": 0.23,
-   "ytd": 2.35,
+   "v": "100.50",
+   "d": 0.14,
+   "ytd": 2.26,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19463,9 +19473,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.21",
-   "d": -2.97,
-   "ytd": 57.11,
+   "v": "89.06",
+   "d": -4.21,
+   "ytd": 55.1,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19475,9 +19485,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,395.2",
-   "d": 0.37,
-   "ytd": 1.61,
+   "v": "4,405.5",
+   "d": 0.6,
+   "ytd": 1.85,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -23569,7 +23579,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 486,
+  "pc_age_min": 501,
   "news_ai_cache": 92,
   "news_ai_hit": 34,
   "on_runner": true,
@@ -26273,16 +26283,16 @@
   "2026-09-23": {
    "news": [
     {
-     "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-     "ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
-     "id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan",
+     "t": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+     "ko": "Royal Caribbean, Sandals 지분 50% 인수에 30억 달러 규모 계약 임박",
+     "id": "Royal Caribbean Dekati Kesepakatan $3 Miliar untuk Kuasai 50% Saham Sandals",
      "ai_ko": "",
      "ai_id": "",
      "src": "CNBC",
-     "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-     "time": "02:03",
+     "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+     "time": "02:33",
      "tags": [],
-     "sc": 311.0,
+     "sc": 316.0,
      "slot": "global",
      "q": 85
     },
@@ -26303,16 +26313,16 @@
      "q": 57
     },
     {
-     "t": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
-     "ko": "Trump, 중간선거 후 Iran이 타협할 것이라 언급 후 유가 보합세",
-     "id": "Minyak Tipis Usai Trump Sebut Iran Bakal Sepakat Pasca-Pemilu Midterm",
+     "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+     "ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
+     "id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan",
      "ai_ko": "",
      "ai_id": "",
      "src": "CNBC",
-     "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-     "time": "01:38",
+     "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+     "time": "02:40",
      "tags": [],
-     "sc": 309.0,
+     "sc": 311.0,
      "slot": "global",
      "q": 85
     }

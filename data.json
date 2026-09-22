@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 16:51",
+ "updated": "2026-09-22 17:00",
  "delay_min": 15,
- "fx_basis": "13.18 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,356 · 16:45 Yahoo",
- "idr_per_krw": 13.1759,
+ "fx_basis": "13.19 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,354 · 16:45 Yahoo",
+ "idr_per_krw": 13.1915,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -326,21 +326,21 @@
    "code": "SUN10Y",
    "label": "SUN 10Y",
    "name": "국채 10년물",
-   "px": 7.146,
-   "prev": 7.143,
-   "pct": 0.4,
+   "px": 7.12,
+   "prev": 7.12,
+   "pct": 0.0,
    "spark": [
-    7.1743,
-    7.1679,
-    7.1696,
-    7.1542,
-    7.1426
+    7.156,
+    7.141,
+    7.157,
+    7.157,
+    7.12,
+    7.12
    ],
-   "span": "1M",
+   "span": "1W",
    "inv": true,
-   "unit": "bp",
-   "asof": "PHEI · 09/22",
-   "spark_stale": "PHEI · 09/22"
+   "asof": "investing.com · 09/22",
+   "unit": "bp"
   }
  ],
  "index": {
@@ -354,7 +354,7 @@
   "volume": null,
   "value_src": "yahoo",
   "rank_src": "Yahoo 15분 지연 · 833종목 · 외국인·공시 PC 09-22 16:34",
-  "rank_asof": "16:47",
+  "rank_asof": "16:56",
   "rank_date": "2026-09-22",
   "adv": 151,
   "dec": 556,
@@ -18040,6 +18040,20 @@
  },
  "news": [
   {
+   "ts": "2026-09-22T16:50:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:50",
+   "src": "Bloomberg Technoz",
+   "t": "Daftar Bukti yang Disita KPK dari Kantor Summarecon Bogor",
+   "tags": [
+    "SMRA"
+   ],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122325/daftar-bukti-yang-disita-kpk-dari-kantor-summarecon-bogor",
+   "img": "https://images.bloombergtechnoz.com/data/2023/02/image-20230203142216.jpg",
+   "t_id": "Daftar Bukti yang Disita KPK dari Kantor Summarecon Bogor",
+   "t_ko": "Summarecon Bogor 사무실 압수수증거 목록"
+  },
+  {
    "ts": "2026-09-22T16:37:00+07:00",
    "date": "2026-09-22",
    "time": "16:37",
@@ -18050,8 +18064,8 @@
    ],
    "url": "https://www.idxchannel.com/market-news/begini-strategi-sinergi-multi-smle-genjot-pertumbuhan-bisnis-di-2026-dan-2027",
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/14/saham_freepik.JPG",
-   "t_id": "Begini Strategi Sinergi Multi (SMLE) Genjot Pertumbuhan Bisnis di 2026 dan 2027",
-   "t_ko": "SMLE, 2026~2027년 사업 성장 가속화 전략 발표"
+   "t_ko": "SMLE, 2026~2027년 사업 성장 가속화 전략 발표",
+   "t_id": "Begini Strategi Sinergi Multi (SMLE) Genjot Pertumbuhan Bisnis di 2026 dan 2027"
   },
   {
    "ts": "2026-09-22T16:29:00+07:00",
@@ -18990,6 +19004,115 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T16:59:37.143108+07:00",
+   "date": "2026-09-22",
+   "time": "16:59",
+   "src": "Jawa Pos",
+   "t": "Kinerja Semester I 2026 Tugu Insurance Tumbuh Solid, Laba Naik 76,87 Persen",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220145/kinerja-semester-i-2026-tugu-insurance-tumbuh-solid-laba-naik-7687-persen",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/05/10/anak-usaha-pt-pertamina-persero-tugu-insurance-mencatatkan-laba-bersih-sebesar-rp-26562-miliar-serta-total-aset-senilai-rp-2969-triliun-pada-kuartal-i-tahun-2026-antara-yl54d.webp",
+   "t_ko": "투구인수보험, 20탄 상반기 순이익 76.87% 급증하며 탄탄한 실적",
+   "t_id": "Kinerja Semester I 2026 Tugu Insurance Tumbuh Solid, Laba Naik 76,87 Persen"
+  },
+  {
+   "ts": "2026-09-22T16:54:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:54",
+   "src": "Media Indonesia",
+   "t": "Trump Bikin TrumpTV usai Diboikot Media",
+   "tags": [],
+   "url": "https://mediaindonesia.com/internasional/936228/trump-bikin-trumptv-usai-diboikot-media",
+   "g": 1,
+   "t_ko": "Trump, 언론 보이콧 이후 TrumpTV 설립"
+  },
+  {
+   "ts": "2026-09-22T16:52:46+07:00",
+   "date": "2026-09-22",
+   "time": "16:52",
+   "src": "CNA",
+   "t": "Oil falls 1% after reports suggest Iran could reopen Hormuz within seven days",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/oil-falls-1-after-reports-suggest-iran-could-reopen-hormuz-within-seven-days-6400951",
+   "g": 1,
+   "img": "https://dam.mediacorp.sg/image/upload/s--hEWnD4L5--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T003404Z_1_LYNXMPEM8L00Q_RTROPTP_3_IRAN-CRISIS-IRAN-OIL.JPG?itok=0g2VbS-U",
+   "t_ko": "이란의 호르무즈 해협 7일 내 개방 가능성 보도에 유가 1% 하락",
+   "t_id": "Minyak Turun 1% Usai Laporan Sebut Iran Bisa Buka Kembali Selat Hormuz dalam Tujuh Hari"
+  },
+  {
+   "ts": "2026-09-22T16:52:08+07:00",
+   "date": "2026-09-22",
+   "time": "16:52",
+   "src": "Jawa Pos",
+   "t": "Gaikindo Tetap Kejar Target 850 Ribu Unit Meski Pasar Otomotif Belum Normal",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220344/gaikindo-tetap-kejar-target-850-ribu-unit-meski-pasar-otomotif-belum-normal",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/08/01/menteri-perindustrian-agus-gumiwang-kartasasmita-meninjau-pameran-automotif-gaikindo-indonesia-international-auto-show-giias-2026-di-indonesia-convention-exhibition-ice-bsd-serpong-kabupaten-tangerang-banten-kamis-3072025-salman-toyibijawa-pos-tmKBZ.webp",
+   "t_ko": "Gaikindo, 자동차 시장 비정상 속에서도 85만 대 판매 목표 고수"
+  },
+  {
+   "ts": "2026-09-22T16:51:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:51",
+   "src": "Media Indonesia",
+   "t": "Rupiah Melemah ke Rp17.884, Pelaku Pasar Waspadai Kenaikan Suku Bunga Lanjutan The Fed",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936222/rupiah-melemah-ke-rp17884-pelaku-pasar-waspadai-kenaikan-suku-bunga-lanjutan-the-fed",
+   "g": 1,
+   "t_id": "Rupiah Melemah ke Rp17.884, Pelaku Pasar Waspadai Kenaikan Suku Bunga Lanjutan The Fed",
+   "t_ko": "루피아화 Rp17.884로 약세 — 시장 참가자들 연준 추가 금리 인상 경계"
+  },
+  {
+   "ts": "2026-09-22T16:50:01+07:00",
+   "date": "2026-09-22",
+   "time": "16:50",
+   "src": "Detik",
+   "t": "Bahlil Rayu Investor Bangun Data Center di RI: Pulau Kami Masih Terlalu Banyak",
+   "tags": [],
+   "url": "https://finance.detik.com/energi/d-8674339/bahlil-rayu-investor-bangun-data-center-di-ri-pulau-kami-masih-terlalu-banyak",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/03/05/menteri-esdm-bahlil-lahadalia-1772707662547_169.jpeg?w=360&q=90",
+   "t_id": "Bahlil Rayu Investor Bangun Data Center di RI: Pulau Kami Masih Terlalu Banyak",
+   "t_ko": "Bahlil, 인도네시아 내 데이터센터 투자 유치 — 우리 섬들은 아직 여유가 많다"
+  },
+  {
+   "ts": "2026-09-22T16:48:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:48",
+   "src": "WSJ",
+   "t": "Beware Oil’s Second Strike on Inflation",
+   "tags": [],
+   "url": "https://www.wsj.com/economy/central-banking/beware-oils-second-strike-on-inflation-a07161d3?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-63432078",
+   "t_ko": "유가의 인플레이션 2차 충격 경계",
+   "t_id": "Waspada Pukulan Kedua Minyak terhadap Inflasi"
+  },
+  {
+   "ts": "2026-09-22T16:48:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:48",
+   "src": "WSJ",
+   "t": "AI Stock Rally Loses Steam, Oil Prices Turn Negative",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-oil-prices-turn-negative-e19323a8?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-01227270",
+   "t_ko": "AI 주식 랠리 열기 후퇴 및 유가 하락 전환",
+   "t_id": "Reli Saham AI Kehilangan Tenaga, Harga Minyak Berbalik Negatif"
+  },
+  {
+   "ts": "2026-09-22T16:45:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:45",
+   "src": "Bloomberg",
+   "t": "Trump Crypto Venture World Liberty Made Big Money as Plans Fell Short",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/trump-crypto-venture-world-liberty-made-big-money-as-plans-fell-short",
+   "g": 1,
+   "t_ko": "Trump의 암호화폐 벤처 World Liberty, 계획 차질 속 대규모 수익",
+   "t_id": "Trump Crypto Venture World Liberty Raup Untung Besar Saat Rencana Meleset"
+  },
+  {
    "ts": "2026-09-22T16:45:00+07:00",
    "date": "2026-09-22",
    "time": "16:45",
@@ -18997,8 +19120,8 @@
    "t": "Pulau-Pulau di Indonesia Ditawarkan Bahlil untuk Jadi Pusat Data Center",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/936221/pulau-pulau-di-indonesia-ditawarkan-bahlil-untuk-jadi-pusat-data-center",
-   "t_id": "Pulau-Pulau di Indonesia Ditawarkan Bahlil untuk Jadi Pusat Data Center",
-   "t_ko": "Bahlil, 데이터센터 부지로 인도네시아 섬 개발 제안"
+   "t_ko": "Bahlil, 데이터센터 부지로 인도네시아 섬 개발 제안",
+   "t_id": "Pulau-Pulau di Indonesia Ditawarkan Bahlil untuk Jadi Pusat Data Center"
   },
   {
    "ts": "2026-09-22T16:42:15+07:00",
@@ -19030,8 +19153,8 @@
    "t": "Pemerintah Kejar Para Obligor dan Debitur BLBI",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/936217/pemerintah-kejar-para-obligor-dan-debitur-blbi",
-   "t_id": "Pemerintah Kejar Para Obligor dan Debitur BLBI",
-   "t_ko": "정부, BLBI 채무자 및 차주 대상 자금 회수 가속"
+   "t_ko": "정부, BLBI 채무자 및 차주 대상 자금 회수 가속",
+   "t_id": "Pemerintah Kejar Para Obligor dan Debitur BLBI"
   },
   {
    "ts": "2026-09-22T16:39:29+07:00",
@@ -19068,19 +19191,6 @@
    "g": 1,
    "t_ko": "미국, 후티 반군의 해상 압박 속 이란 항공사 운항 금지 경고",
    "t_id": "AS Ancam 'Tutup' Maskapai Iran Seiring Tekanan Houthi di Jalur Minyak"
-  },
-  {
-   "ts": "2026-09-22T16:36:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:36",
-   "src": "Yahoo Finance",
-   "t": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History.",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-stock-market-crash-coming-093600343.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/dd603e33562da5c09ecffe1595d3d477.jpg",
-   "t_ko": "증시 폭락 경고 — 70년 역사 데이터 기반 투자 전략",
-   "t_id": "Prediksi: Pasar Saham Bakal Crash, Ini Panduan Investor Berdasarkan Sejarah 70 Tahun"
   },
   {
    "ts": "2026-09-22T16:36:00+07:00",
@@ -19148,8 +19258,8 @@
    "tags": [],
    "url": "https://mediaindonesia.com/internasional/936211/presiden-iran-tegaskan-pertahankan-sikap-teheran-di-pbb",
    "g": 1,
-   "t_id": "Presiden Iran Tegaskan Pertahankan Sikap Teheran di PBB",
-   "t_ko": "이란 대통령, 유엔에서 테헤란 입장 고수 천명"
+   "t_ko": "이란 대통령, 유엔에서 테헤란 입장 고수 천명",
+   "t_id": "Presiden Iran Tegaskan Pertahankan Sikap Teheran di PBB"
   },
   {
    "ts": "2026-09-22T16:30:24+07:00",
@@ -19414,67 +19524,6 @@
    ]
   },
   {
-   "ts": "2026-09-22T16:14:30+07:00",
-   "date": "2026-09-22",
-   "time": "16:14",
-   "src": "Detik",
-   "t": "Harga Minyak Mendidih, Mendag Waswas Neraca Dagang Tekor",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8674256/harga-minyak-mendidih-mendag-waswas-neraca-dagang-tekor",
-   "g": 1,
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/menteri-perdagangan-mendag-budi-santoso-1790064694064_169.jpeg?w=360&q=90",
-   "t_ko": "유가 급등에 무역수지 적자 우려 커진 인도네시아 무역부",
-   "ai_ko": "· Brent 유가 USD 104.68 돌파, WTI USD 101.06\n· Budi Santoso 무역장관, 무역수지 적자 전환 우려 표명\n· Houthi의 Riyadh 공습으로 급등, 7월 무역흑자 USD 1.2억",
-   "ai_id": "· Minyak Brent tembus US$104,68 per barel\n· Mendag Budi Santoso waswas neraca dagang\n· Surplus Juli US$120 juta, dipicu serangan Houthi",
-   "ai_tags": [
-    "유가",
-    "무역수지",
-    "지정학"
-   ],
-   "ai_tags_id": [
-    "harga minyak",
-    "neraca dagang",
-    "geopolitik"
-   ]
-  },
-  {
-   "ts": "2026-09-22T16:13:59+07:00",
-   "date": "2026-09-22",
-   "time": "16:13",
-   "src": "Bloomberg",
-   "t": "NSE Pays 20 Banks 1.86 Billion Rupees in Fees for India IPO",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/nse-pays-20-banks-1-86-billion-rupees-in-fees-for-india-ipo",
-   "g": 1,
-   "t_ko": "NSE, 인도 IPO 수수료로 20개 은행에 18.6억 루피 지급",
-   "t_id": "NSE Bayar Fee 1,86 Miliar Rupee ke 20 Bank untuk IPO di India"
-  },
-  {
-   "ts": "2026-09-22T16:11:48+07:00",
-   "date": "2026-09-22",
-   "time": "16:11",
-   "src": "BBC",
-   "t": "Spain battles climate change on several fronts",
-   "tags": [],
-   "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
-   "g": 1,
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg",
-   "t_ko": "스페인, 다각도로 기후변화 대응 추진",
-   "t_id": "Spanyol Hadapi Perubahan Iklim di Berbagai Lini",
-   "ai_ko": "· 올해 스페인 산불 피해 30만ha\n· EU 전체 피해의 약 절반 차지\n· 7월 Gredos 대형화재 8만ha 소실",
-   "ai_id": "· Kebakaran hutan Spanyol 300.000 ha\n· Sekitar separuh total EU tahun ini\n· Api Juli di Gredos bakar 80.000 ha",
-   "ai_tags": [
-    "기후변화",
-    "산불",
-    "유럽"
-   ],
-   "ai_tags_id": [
-    "perubahan iklim",
-    "kebakaran hutan",
-    "Eropa"
-   ]
-  },
-  {
    "ts": "2026-09-22T16:10:08+07:00",
    "date": "2026-09-22",
    "time": "16:10",
@@ -19592,18 +19641,6 @@
    ]
   },
   {
-   "ts": "2026-09-22T16:06:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:06",
-   "src": "WSJ",
-   "t": "U.S. Treasury Curve Flattening Suggests Stronger Fed Credibility",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?mod=rss_markets_main",
-   "g": 1,
-   "t_ko": "미 국채 수익률 곡선 평탄화, 연준 신뢰도 강화 시사",
-   "t_id": "Kurva Treasury AS Mendatar, Kredibilitas The Fed Menguat"
-  },
-  {
    "ts": "2026-09-22T16:04:57+07:00",
    "date": "2026-09-22",
    "time": "16:04",
@@ -19664,40 +19701,6 @@
    ]
   },
   {
-   "ts": "2026-09-22T16:02:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:02",
-   "src": "MarketWatch",
-   "t": "Amanda Seyfried splits with husband Thomas Sadoski, weeks after listing L.A. home for $3.2 million",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/amanda-seyfried-splits-with-husband-thomas-sadoski-weeks-after-listing-l-a-home-for-3-2-million-2ed9b8ab?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-65935512",
-   "t_ko": "Amanda Seyfried, LA 저택 매물 내놓은 지 몇 주 만에 Thomas Sadoski와 결별",
-   "t_id": "Amanda Seyfried Berpisah dengan Suami Thomas Sadoski, Beberapa Pekan Usai Jual Rumah L.A. Seharga USD3,2 Juta"
-  },
-  {
-   "ts": "2026-09-22T16:02:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:02",
-   "src": "Media Indonesia",
-   "t": "DPR Desak Tindakan Tegas terkait Penculikan 9 Anak oleh KKB di Papua",
-   "tags": [],
-   "url": "https://mediaindonesia.com/politik-dan-hukum/936189/dpr-desak-tindakan-tegas-terkait-penculikan-9-anak-oleh-kkb-di-papua",
-   "t_ko": "의회, 파푸아주 KKB의 아동 9명 납치 사건에 강력 대응 촉구",
-   "t_id": "DPR Desak Tindakan Tegas terkait Penculikan 9 Anak oleh KKB di Papua",
-   "ai_ko": "· 소녀 9명 중 7명 아직 미발견\n· DPR 제13위원회 부위원장 Andreas Hugo Pareira\n· 8월 17일 Papua Tengah Mimika서 납치",
-   "ai_id": "· Tujuh dari sembilan anak belum ditemukan\n· Wakil Ketua Komisi XIII Andreas Hugo Pareira\n· Diculik di Mimika sejak 17 Agustus",
-   "ai_tags": [
-    "치안",
-    "정치"
-   ],
-   "ai_tags_id": [
-    "keamanan",
-    "politik"
-   ]
-  },
-  {
    "ts": "2026-09-22T16:01:24+07:00",
    "date": "2026-09-22",
    "time": "16:01",
@@ -19730,29 +19733,6 @@
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843720/3LIOKv9gTc.jpg?w=720",
    "t_ko": "좁은 현관 테라스 인테리어 아이디어 5선",
    "t_id": "Teras Rumah Sempit Tetap Nyaman, Coba 5 Ide Ini"
-  },
-  {
-   "ts": "2026-09-22T15:56:00+07:00",
-   "date": "2026-09-22",
-   "time": "15:56",
-   "src": "Media Indonesia",
-   "t": "BPS Optimalisasi DTSEN untuk Ketepatan Sasaran Bantuan Sosial",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936183/bps-optimalisasi-dtsen-untuk-ketepatan-sasaran-bantuan-sosial",
-   "t_ko": "BPS, 사회보장 지원 정확도 제고 위해 DTSEN 최적화",
-   "t_id": "BPS Optimalisasi DTSEN untuk Ketepatan Sasaran Bantuan Sosial",
-   "ai_ko": "· DTSEN 분기 1회 데이터 동기화\n· BPS Budi Setiawan 복지통계국장\n· 복지 지원 대상 선정 정확도 제고",
-   "ai_id": "· Sinkronisasi DTSEN tiap tiga bulan\n· Direktur BPS Budi Setiawan\n· Agar bansos tepat sasaran",
-   "ai_tags": [
-    "정책",
-    "복지",
-    "통계"
-   ],
-   "ai_tags_id": [
-    "kebijakan",
-    "bansos",
-    "statistik"
-   ]
   },
   {
    "ts": "2026-09-22T15:50:21+07:00",
@@ -20296,18 +20276,6 @@
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843680/kg7DestATK.jpg?w=720",
    "t_ko": "방글라데시, 중동 갈등 여파로 연료유 가격 17.4% 인상",
    "t_id": "Bangladesh Naikkan Harga BBM hingga 17,4 Persen, Imbas Konflik Timur Tengah"
-  },
-  {
-   "ts": "2026-09-22T14:20:00+07:00",
-   "date": "2026-09-22",
-   "time": "14:20",
-   "src": "Medcom",
-   "t": "Status Gunung Anak Krakatau Turun Jadi Waspada, tapi Radius 2 Kilometer Masih Terlarang",
-   "tags": [],
-   "url": "https://www.medcom.id/nasional/peristiwa/ObzRwMdb-status-gunung-anak-krakatau-turun-jadi-waspada-tapi-radius-2-kilometer-masih-terlarang",
-   "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843654/np2hQoYeWa.jpg?w=720",
-   "t_ko": "Gunung Anak Krakatau 경보 단계 하향, 2km 반경 출입 금지 유지",
-   "t_id": "Status Gunung Anak Krakatau Turun Jadi Waspada, tapi Radius 2 Kilometer Masih Terlarang"
   },
   {
    "ts": "2026-09-22T14:18:00+07:00",
@@ -21157,9 +21125,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "13.17",
-   "d": 2.48,
-   "ytd": 13.37,
+   "v": "13.18",
+   "d": 2.6,
+   "ytd": 13.51,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -21192,9 +21160,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.44",
-   "d": 0.08,
-   "ytd": 2.19,
+   "v": "100.39",
+   "d": 0.03,
+   "ytd": 2.15,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -21204,9 +21172,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.94",
-   "d": -2.18,
-   "ytd": 58.38,
+   "v": "90.74",
+   "d": -2.4,
+   "ytd": 58.03,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -21216,9 +21184,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,351.8",
-   "d": -0.62,
-   "ytd": 0.61,
+   "v": "4,356.7",
+   "d": -0.51,
+   "ytd": 0.72,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -21263,68 +21231,7 @@
    "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
   }
  ],
- "curve": {
-  "date": "2026-09-22",
-  "src": "PHEI (IBPA)",
-  "rows": [
-   [
-    0.1,
-    6.5083,
-    6.5853
-   ],
-   [
-    1.0,
-    6.66,
-    6.6774
-   ],
-   [
-    2.0,
-    6.7642,
-    6.7605
-   ],
-   [
-    3.0,
-    6.8471,
-    6.8393
-   ],
-   [
-    5.0,
-    6.9818,
-    6.9765
-   ],
-   [
-    7.0,
-    7.0745,
-    7.071
-   ],
-   [
-    10.0,
-    7.1462,
-    7.1426
-   ],
-   [
-    15.0,
-    7.1786,
-    7.1743
-   ],
-   [
-    20.0,
-    7.183,
-    7.1785
-   ],
-   [
-    25.0,
-    7.1834,
-    7.1789
-   ],
-   [
-    30.0,
-    7.1835,
-    7.179
-   ]
-  ],
-  "n": 41
- },
+ "curve": null,
  "calendar": [
   {
    "date": "2026-09-12",
@@ -22402,7 +22309,7 @@
    "country": "US",
    "title": "API Weekly Crude Oil Stock",
    "imp": 2,
-   "exp": null,
+   "exp": "-0.500M",
    "prev": "7.140M",
    "act": null,
    "src": "investing.com",
@@ -22492,7 +22399,7 @@
    "country": "US",
    "title": "S&P Global Manufacturing PMI  (Sep)",
    "imp": 3,
-   "exp": "53.4",
+   "exp": "53.6",
    "prev": "53.9",
    "act": null,
    "src": "investing.com",
@@ -22510,7 +22417,7 @@
    "country": "US",
    "title": "S&P Global Composite PMI  (Sep)",
    "imp": 2,
-   "exp": "56.0",
+   "exp": "55.8",
    "prev": "56.0",
    "act": null,
    "src": "investing.com",
@@ -22546,7 +22453,7 @@
    "country": "US",
    "title": "Crude Oil Inventories",
    "imp": 3,
-   "exp": null,
+   "exp": "-0.600M",
    "prev": "-0.640M",
    "act": null,
    "src": "investing.com",
@@ -25450,9 +25357,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 16:34",
-  "pc_age_min": 17,
+  "pc_age_min": 26,
   "news_ai_cache": 150,
-  "news_ai_hit": 97,
+  "news_ai_hit": 93,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -27245,9 +27152,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "BYAN(-9.71%)과 BBRI(-3.64%) 등 대형주 약세 및 에너지 업종(-3.94%) 급락에 힘입어 IHSG 1.69% 하락 마감.",
-   "id": "IHSG ditutup melemah 1,69% ditekan oleh pelemahan saham berkapitalisasi besar seperti BYAN (-9,71%) dan BBRI (-3,64%) serta kejatuhan sektor energi (-3,94%).",
-   "ts": "2026-09-22T16:51:21.409629+07:00"
+   "ko": "루피아 환율 약세와 BBRI 및 BYAN 등 대형주 부진, 에너지·금융 등 전 업종 하락세에 힘입어 IHSG 1.69% 하락 마감.",
+   "id": "IHSG ditutup merosot 1,69% di tengah pelemahan nilai tukar rupiah, tekanan pada saham berkapitalisasi besar seperti BBRI dan BYAN, serta penurunan di seluruh sektor termasuk energi dan keuangan.",
+   "ts": "2026-09-22T17:00:45.858951+07:00"
   }
  },
  "top_day": "2026-09-22",
@@ -27354,18 +27261,19 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T05:18:13+07:00",
+   "ts": "2026-09-22T16:52:46+07:00",
    "date": "2026-09-22",
-   "time": "05:18",
-   "src": "Bloomberg",
-   "t": "Stocks Hold Tech Gains as Brent Drops Below $100: Markets Wrap",
+   "time": "16:52",
+   "src": "CNA",
+   "t": "Oil falls 1% after reports suggest Iran could reopen Hormuz within seven days",
    "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates",
+   "url": "https://www.channelnewsasia.com/business/oil-falls-1-after-reports-suggest-iran-could-reopen-hormuz-within-seven-days-6400951",
    "g": 1,
-   "score": 315.0,
-   "srcs": 4,
-   "t_ko": "브렌트유 100달러 하회 속 기술주 중심 증시 상승",
-   "t_id": "Saham Pertahankan Kenaikan Teknologi saat Brent Turun di Bawah $100: Rangkuman Pasar"
+   "img": "https://dam.mediacorp.sg/image/upload/s--hEWnD4L5--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T003404Z_1_LYNXMPEM8L00Q_RTROPTP_3_IRAN-CRISIS-IRAN-OIL.JPG?itok=0g2VbS-U",
+   "t_ko": "이란의 호르무즈 해협 7일 내 개방 가능성 보도에 유가 1% 하락",
+   "t_id": "Minyak Turun 1% Usai Laporan Sebut Iran Bisa Buka Kembali Selat Hormuz dalam Tujuh Hari",
+   "score": 316.5,
+   "srcs": 6
   }
  ],
  "daylog": {

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 03:20",
+ "updated": "2026-09-23 03:33",
  "delay_min": 15,
- "fx_basis": "13.20 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 03:00 Yahoo",
- "idr_per_krw": 13.1964,
+ "fx_basis": "13.21 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,354 · 03:00 Yahoo",
+ "idr_per_krw": 13.206,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17697,6 +17697,56 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T03:32:47+07:00",
+   "date": "2026-09-23",
+   "time": "03:32",
+   "src": "Jawa Pos",
+   "t": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan",
+   "tags": [],
+   "url": "https://www.jawapos.com/finance/2609220469/utang-rp-2183-triliun-ke-bi-lunas-menkeu-tegaskan-hak-tagih-obligor-blbi-tetap-berjalan",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
+   "t_ko": "재무부, BI에 대한 Rp218.3조 채권 상환 완료 — BLBI 채무자 추징권 유지",
+   "t_id": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan"
+  },
+  {
+   "ts": "2026-09-23T03:31:19+07:00",
+   "date": "2026-09-23",
+   "time": "03:31",
+   "src": "CNBC",
+   "t": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
+   "g": 1,
+   "t_ko": "Berkshire, Lennar 지분 10% 가까이 매입하며 주가 급등",
+   "t_id": "Saham Lennar Melonjak Saat Berkshire Ambil Porsi Hampir 10% di Pengembang yang Tertekan"
+  },
+  {
+   "ts": "2026-09-23T03:23:00+07:00",
+   "date": "2026-09-23",
+   "time": "03:23",
+   "src": "WSJ",
+   "t": "U.S. Stocks Mixed as AI Buzz Stokes Tech Gains",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-ai-buzz-stokes-tech-gains-7d1bf50b?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-76377399",
+   "t_ko": "뉴욕증시, AI 열풍 속 기술주 강세로 혼조세 마감",
+   "t_id": "Bursa US Mixed Ditopang Demam AI Dorong Sektor Teknologi"
+  },
+  {
+   "ts": "2026-09-23T03:12:01+07:00",
+   "date": "2026-09-23",
+   "time": "03:12",
+   "src": "FT",
+   "t": "Trump says he would back US diesel export ban",
+   "tags": [],
+   "url": "https://www.ft.com/content/22d1154b-8bea-4f8d-bfc4-5db7761d3612?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F383904c5-6bc2-43fe-92b4-35a8c72622df.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "트럼프, 미국산 디젤 수출 금지 지지 표명",
+   "t_id": "Trump Sebut Akan Dukung Larangan Ekspor Diesel AS"
+  },
+  {
    "ts": "2026-09-23T03:06:00+07:00",
    "date": "2026-09-23",
    "time": "03:06",
@@ -17843,18 +17893,6 @@
    "t_id": "Trump Terkesan Putus Asa di Sidang PBB, Kata Brett Bruen"
   },
   {
-   "ts": "2026-09-23T02:23:13+07:00",
-   "date": "2026-09-23",
-   "time": "02:23",
-   "src": "CNBC",
-   "t": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
-   "g": 1,
-   "t_ko": "Berkshire, Lennar 지분 10% 가까이 매입하며 주가 급등",
-   "t_id": "Saham Lennar Melonjak Saat Berkshire Ambil Porsi Hampir 10% di Pengembang yang Tertekan"
-  },
-  {
    "ts": "2026-09-23T02:21:40+07:00",
    "date": "2026-09-23",
    "time": "02:21",
@@ -17890,31 +17928,6 @@
    "g": 1,
    "t_ko": "트럼프 행정부, 사기 혐의로 오바마케어 가입자 76만 명 직권 해지",
    "t_id": "Pemerintahan Trump Hapus Sekitar 760.000 Pendaftaran Obamacare atas Dugaan Penipuan"
-  },
-  {
-   "ts": "2026-09-23T02:15:06+07:00",
-   "date": "2026-09-23",
-   "time": "02:15",
-   "src": "FT",
-   "t": "Trump says he would back US diesel export ban",
-   "tags": [],
-   "url": "https://www.ft.com/content/22d1154b-8bea-4f8d-bfc4-5db7761d3612?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F383904c5-6bc2-43fe-92b4-35a8c72622df.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "트럼프, 미국산 디젤 수출 금지 지지 표명",
-   "t_id": "Trump Sebut Akan Dukung Larangan Ekspor Diesel AS"
-  },
-  {
-   "ts": "2026-09-23T02:00:39+07:00",
-   "date": "2026-09-23",
-   "time": "02:00",
-   "src": "Bloomberg",
-   "t": "Canada’s Transport Overhaul Aims to Boost Trade With Europe, Asia",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/canada-s-transport-overhaul-aims-to-boost-trade-with-europe-asia",
-   "g": 1,
-   "t_ko": "캐나다 교통망 개편, 유럽·아시아 교역 확대 추진",
-   "t_id": "Rombak Sektor Transportasi Kanada Bidik Dongkrak Perdagangan dengan Eropa dan Asia"
   },
   {
    "ts": "2026-09-23T02:00:00+07:00",
@@ -18268,18 +18281,6 @@
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843798/iOZPsHJtWK.jpg?w=720",
    "t_ko": "BLBI 채권 BI 상환 완료 — 채무자 추징 절차 지속",
    "t_id": "Utang Obligasi BLBI ke BI Lunas, Debitur Tetep Kena Tagih Gak?"
-  },
-  {
-   "ts": "2026-09-22T20:32:47+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Jawa Pos",
-   "t": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan",
-   "tags": [],
-   "url": "https://www.jawapos.com/finance/2609220469/utang-rp-2183-triliun-ke-bi-lunas-menkeu-tegaskan-hak-tagih-obligor-blbi-tetap-berjalan",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
-   "t_ko": "재무부, BI에 대한 Rp218.3조 채권 상환 완료 — BLBI 채무자 추징권 유지",
-   "t_id": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan"
   },
   {
    "ts": "2026-09-22T20:30:00+07:00",
@@ -19186,8 +19187,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.19",
-   "d": 2.65,
-   "ytd": 13.56,
+   "d": 2.68,
+   "ytd": 13.59,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19220,9 +19221,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.52",
-   "d": 0.16,
-   "ytd": 2.28,
+   "v": "100.55",
+   "d": 0.19,
+   "ytd": 2.31,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19232,9 +19233,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.74",
-   "d": -3.47,
-   "ytd": 56.29,
+   "v": "89.86",
+   "d": -3.35,
+   "ytd": 56.5,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19244,9 +19245,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,400.9",
-   "d": 0.5,
-   "ytd": 1.74,
+   "v": "4,397.4",
+   "d": 0.42,
+   "ytd": 1.66,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -22220,8 +22221,8 @@
    "type": "STOCK",
    "title": "Penyampaian Informasi Tambahan Ringkas Dalam Rangka Penawaran Umum Berkelanjutan Obligasi Berkelanjutan IV Bussan Auto Finance Tahap II Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Bussan Auto Finance Tahap II Tahun 2026",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fe18f57d56_9bbfced863.pdf",
-   "title_id": "Penyampaian Informasi Tambahan Ringkas Dalam Rangka Penawaran Umum Berkelanjutan Obligasi Berkelanjutan IV Bussan Auto Finance Tahap II Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Bussan Auto Finance Tahap II Tahun 2026",
    "title_ko": "Bussan Auto Finance, 제4차 지속가능 채권 및 제2차 지속가능 수쿡 무다라바 발행 추가 요약 정보",
+   "title_id": "Penyampaian Informasi Tambahan Ringkas Dalam Rangka Penawaran Umum Berkelanjutan Obligasi Berkelanjutan IV Bussan Auto Finance Tahap II Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Bussan Auto Finance Tahap II Tahun 2026",
    "kind_ko": "공모·자금",
    "kind_id": "Prospektus",
    "rk": 48
@@ -22272,8 +22273,8 @@
    "type": "STOCK",
    "title": "Penandatanganan Addendum Ke-20 Perjanjian Fasilitas antara Protelindo, Iforte, BIT, QTR, VTS, IGPU ,IEN,IEB dengan PT Bank Central Asia Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df81f18e95_a36072bf7d.pdf",
-   "title_id": "Penandatanganan Addendum Ke-20 Perjanjian Fasilitas antara Protelindo, Iforte, BIT, QTR, VTS, IGPU ,IEN,IEB dengan PT Bank Central Asia Tbk",
    "title_ko": "Protelindo 외 7개사, PT Bank Central Asia Tbk와 대출 약정 제20차 부속합의서 체결",
+   "title_id": "Penandatanganan Addendum Ke-20 Perjanjian Fasilitas antara Protelindo, Iforte, BIT, QTR, VTS, IGPU ,IEN,IEB dengan PT Bank Central Asia Tbk",
    "rk": 46
   },
   {
@@ -22524,8 +22525,8 @@
    "type": "STOCK",
    "title": "Penyampaian Salinan Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cbb1ba81a9_cf8b60d5c4.pdf",
-   "title_id": "Penyampaian Salinan Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
    "title_ko": "PT Profesional Telekomunikasi Indonesia, PT Solusi Tunas Pratama Tbk 주식 자발적 공개매수 청약 기간 2차 연장 공시",
+   "title_id": "Penyampaian Salinan Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
    "rk": 36
   },
   {
@@ -22536,8 +22537,8 @@
    "type": "STOCK",
    "title": "Penyampaian Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03f82f6c17_4e956c9f33.pdf",
-   "title_id": "Penyampaian Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
    "title_ko": "PT Profesional Telekomunikasi Indonesia, PT Solusi Tunas Pratama Tbk 주식 자발적 공개매수 청약 기간 2차 연장",
+   "title_id": "Penyampaian Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
    "rk": 36
   },
   {
@@ -24307,7 +24308,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 10,
+  "pc_age_min": 23,
   "news_ai_cache": 41,
   "news_ai_hit": 32,
   "on_runner": true,

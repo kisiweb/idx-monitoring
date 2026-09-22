@@ -1350,7 +1350,8 @@ function renderFFlow(){const box=$('fflow');if(!box||!DATA)return;
     days:(fwin==='1m'?x.flow_days_1m:x.flow_days)||0,
     from:(fwin==='1m'?(x.win_from_1m||x.flow_from_1m):(x.win_from||x.flow_from))||'',to:(x.win_to||(fwin==='1m'?x.flow_to_1m:x.flow_to))||''}));
   const meta=$('fflowmeta');
-  if(meta){const dd=(secs[0]||{}).days||0,md=v=>(v||'').slice(5).replace('-','/'),fr=md((secs[0]||{}).from),to=md((secs[0]||{}).to);
+  /* mmdd() 가 이미 앞 5글자를 떼므로 여기서 또 떼면 빈 문자열이 된다 (2026-09-22 수정) */
+  if(meta){const dd=(secs[0]||{}).days||0,fr=(secs[0]||{}).from,to=(secs[0]||{}).to;
     meta.textContent=(fwin==='1w'||fwin==='1m')?(fr?(mmdd(fr)+'~'+mmdd(to)+(dd?' · '+dd+T('fwD'):'')):T('ffFill')):((DATA.index&&DATA.index.foreign_date)||'');}
   if(!secs.filter(x=>x.v).length){box.innerHTML=`<div class="empty">${(fwin==='1w'||fwin==='1m')?T('ffNone1w'):T('ffNone')}</div>`;return;}
   secs.sort((a,b)=>b.v-a.v);

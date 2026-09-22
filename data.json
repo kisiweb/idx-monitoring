@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 04:10",
+ "updated": "2026-09-23 04:20",
  "delay_min": 15,
  "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 03:00 Yahoo",
- "idr_per_krw": 13.193,
+ "idr_per_krw": 13.191,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17697,6 +17697,18 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T04:15:51+07:00",
+   "date": "2026-09-23",
+   "time": "04:15",
+   "src": "CNBC",
+   "t": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+   "g": 1,
+   "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
+   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
+  },
+  {
    "ts": "2026-09-23T04:07:21+07:00",
    "date": "2026-09-23",
    "time": "04:07",
@@ -17832,8 +17844,8 @@
    "tags": [],
    "url": "https://mediaindonesia.com/internasional/936459/sengketa-kepulauan-chagos-dan-falkland-pm-inggris-andy-burnham-siap-hadapi-sikap-keras-trump",
    "g": 1,
-   "t_id": "Sengketa Kepulauan Chagos dan Falkland, PM Inggris Andy Burnham Siap Hadapi Sikap Keras Trump",
-   "t_ko": "Chagos·Falkland 분쟁 속 영국 총리 Andy Burnham, Trump 강경 대응 대비"
+   "t_ko": "Chagos·Falkland 분쟁 속 영국 총리 Andy Burnham, Trump 강경 대응 대비",
+   "t_id": "Sengketa Kepulauan Chagos dan Falkland, PM Inggris Andy Burnham Siap Hadapi Sikap Keras Trump"
   },
   {
    "ts": "2026-09-23T03:49:25+07:00",
@@ -17884,19 +17896,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c38/live/f49ca2e0-b6c3-11f1-8a9f-c7141bd7738d.jpg",
    "t_ko": "Trump, 디젤 수출 금지 지지 표명",
    "t_id": "Trump Sebut Akan Dukung Larangan Ekspor Diesel"
-  },
-  {
-   "ts": "2026-09-23T03:40:00+07:00",
-   "date": "2026-09-23",
-   "time": "03:40",
-   "src": "WSJ",
-   "t": "Oil Prices Tumble Again",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/stocks/oil-prices-tumble-again-c1af7222?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-42711109",
-   "t_ko": "유가 재차 하락",
-   "t_id": "Harga Minyak Kembali Anjlok"
   },
   {
    "ts": "2026-09-23T03:32:47+07:00",
@@ -18480,18 +18479,6 @@
    "t_id": "Sempat Putus Banjir Bandang, Jalur Padang-Solok Bisa Dilalui"
   },
   {
-   "ts": "2026-09-22T19:30:04+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Medcom",
-   "t": "LippoLand Perluas Akses Kepemilikan Hunian Terjangkau di Purwakarta",
-   "tags": [],
-   "url": "https://www.medcom.id/properti/news-properti/ybJdYr8K-lippoland-perluas-akses-kepemilikan-hunian-terjangkau-di-purwakarta",
-   "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843782/q5uKCarYge.jpeg?w=720",
-   "t_ko": "LippoLand, Purwakarta에서 합리적 주택 소유 접근성 확대",
-   "t_id": "LippoLand Perluas Akses Kepemilikan Hunian Terjangkau di Purwakarta"
-  },
-  {
    "ts": "2026-09-22T19:27:32+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -19030,6 +19017,18 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2023/10/31/ilustrasi-anak-cerdas-dirikan-perusahaan-ai_169.jpeg?w=360&q=90",
    "t_ko": "Antam, 자금 조달 운용 체질 개선 가속",
    "t_id": "Antam Genjot Transformasi Pengelolaan Pendanaan"
+  },
+  {
+   "ts": "2026-09-22T15:50:21+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Jawa Pos",
+   "t": "Mentan Amran Beberkan Skema Pembiayaan Pengembangan Bioetanol, 70 persen Anggaran dari Swasta",
+   "tags": [],
+   "url": "https://www.jawapos.com/energi/2609220113/mentan-amran-beberkan-skema-pembiayaan-pengembangan-bioetanol-70-persen-anggaran-dari-swasta",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/01/14/AMRAN-14-A-3079546239.jpg",
+   "t_ko": "Amran 장관, 바이오에탄올 개발 재원 중 70% 민간 조달 구조 공개",
+   "t_id": "Mentan Amran Beberkan Skema Pembiayaan Pengembangan Bioetanol, 70 persen Anggaran dari Swasta"
   }
  ],
  "kisi_news": [
@@ -19226,9 +19225,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.55",
-   "d": 0.19,
-   "ytd": 2.31,
+   "v": "100.54",
+   "d": 0.18,
+   "ytd": 2.29,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19238,9 +19237,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.92",
-   "d": -3.28,
-   "ytd": 56.6,
+   "v": "89.85",
+   "d": -3.36,
+   "ytd": 56.48,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19250,9 +19249,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,393.9",
-   "d": 0.34,
-   "ytd": 1.58,
+   "v": "4,396.2",
+   "d": 0.39,
+   "ytd": 1.63,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20453,7 +20452,7 @@
    "imp": 2,
    "exp": "-0.500M",
    "prev": "7.140M",
-   "act": "1.786M",
+   "act": null,
    "src": "investing.com",
    "title_ko": "API 주간 원유 재고",
    "title_id": "Stok Minyak Mentah Mingguan API",
@@ -24313,7 +24312,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 60,
+  "pc_age_min": 70,
   "news_ai_cache": 41,
   "news_ai_hit": 32,
   "on_runner": true,
@@ -26198,15 +26197,15 @@
    "date": "2026-09-22",
    "time": "09/22",
    "src": "CNA",
-   "t": "Nasdaq sets record high on AI optimism, oil drops below $100",
+   "t": "Nasdaq sets record high, oil dips on improved crude flows",
    "tags": [],
-   "url": "https://www.channelnewsasia.com/business/nasdaq-sets-record-high-ai-optimism-oil-drops-below-100-6401081",
+   "url": "https://www.channelnewsasia.com/business/nasdaq-sets-record-high-oil-dips-improved-crude-flows-6401081",
    "g": 1,
    "img": "https://dam.mediacorp.sg/image/upload/s--q7WF2-lv--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T155749Z_1_LYNXMPEM8L1AJ_RTROPTP_3_USA-FED-STOCKS.JPG?itok=wKr1aYdN",
-   "score": 315.5,
+   "score": 313.5,
    "srcs": 4,
-   "t_ko": "AI 낙관론에 나스닥 최고가 경신 및 유가 100달러 하회",
-   "t_id": "Nasdaq Cetak Rekor Tertinggi Ditopang Optimisme AI, Minyak Anjlok di Bawah $100"
+   "t_ko": "미국 나스닥 최고가 경신, 원유 공급 개선에 유가 하락",
+   "t_id": "Nasdaq Cetak Rekor Tertinggi, Minyak Tertekan Seiring Pasokan Membaik"
   }
  ],
  "daylog": {

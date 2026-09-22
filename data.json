@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 06:37",
+ "updated": "2026-09-23 06:49",
  "delay_min": 15,
- "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 04:45 Yahoo",
- "idr_per_krw": 13.1909,
+ "fx_basis": "13.21 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,353 · 04:45 Yahoo",
+ "idr_per_krw": 13.215,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -104,9 +104,9 @@
    "code": "SUN10Y",
    "label": "SUN 10Y",
    "name": "국채 10년물",
-   "px": 7.12,
-   "prev": 7.12,
-   "pct": 0.0,
+   "px": 7.146,
+   "prev": 7.143,
+   "pct": 0.4,
    "spark": [
     7.141,
     7.157,
@@ -115,10 +115,11 @@
     7.12,
     7.12
    ],
-   "span": "1W",
+   "span": "1M",
    "inv": true,
-   "asof": "investing.com · 09/22",
-   "unit": "bp"
+   "unit": "bp",
+   "asof": "PHEI · 09/22",
+   "spark_stale": "investing.com · 09/22"
   }
  ],
  "index": {
@@ -17805,8 +17806,8 @@
    ],
    "url": "https://www.idxchannel.com/market-news/menakar-prospek-inco-mbma-nckl-di-tengah-revisi-hpm-limonit",
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/23/nikel_-_gettty_images_-_22_sept_26.jpg",
-   "t_id": "Menakar Prospek INCO, MBMA, NCKL di Tengah Revisi HPM Limonit",
-   "t_ko": "INCO·MBMA·NCKL, 니켈 광석 기준가격(HPM) 개편에 따른 전망 분석"
+   "t_ko": "INCO·MBMA·NCKL, 니켈 광석 기준가격(HPM) 개편에 따른 전망 분석",
+   "t_id": "Menakar Prospek INCO, MBMA, NCKL di Tengah Revisi HPM Limonit"
   },
   {
    "ts": "2026-09-23T06:12:00+07:00",
@@ -18023,20 +18024,6 @@
    "t_id": "Deltamas (DMAS) Tunjuk Shinji Yoneda Jadi Wadirut"
   },
   {
-   "ts": "2026-09-22T19:11:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "IDX Channel",
-   "t": "BYAN Anjlok 9,7 Persen, Direksi Lego Saham Rp2,47 Miliar",
-   "tags": [
-    "BYAN"
-   ],
-   "url": "https://www.idxchannel.com/market-news/byan-anjlok-97-persen-direksi-lego-saham-rp247-miliar",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/12/Investor_misterius_-_Saham_-_Freepik_-_12_Mar_26.jpeg",
-   "t_ko": "BYAN 9.7% 하락 — 임원진 Rp24.7억 규모 주식 매도",
-   "t_id": "BYAN Anjlok 9,7 Persen, Direksi Lego Saham Rp2,47 Miliar"
-  },
-  {
    "ts": "2026-09-22T17:30:00+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -18049,22 +18036,6 @@
    "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/GOTO-22092026.jpg",
    "t_ko": "GOTO, 핵심 안건 2건 심의 위해 임시주주총회 참석 인원 80명 제한",
    "t_id": "GOTO Batasi Kehadiran RUPSLB di Angka 80 untuk Dua Agenda Utama"
-  },
-  {
-   "ts": "2026-09-22T17:27:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Katadata",
-   "t": "Investor Asing Ramai Lepas Saham Bank Jumbo BMRI, BBCA, dan BBRI, Apa Pemicunya?",
-   "tags": [
-    "BBCA",
-    "BBRI",
-    "BMRI"
-   ],
-   "url": "https://katadata.co.id/finansial/bursa/6ab258022f1d8/investor-asing-ramai-lepas-saham-bank-jumbo-bmri-bbca-dan-bbri-apa-pemicunya",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/06/08/IHSG_kembali_ditutup_melemah_ke_level_5342_Foto_KatadataFauza_Sy-2026_06_08-17_48_01_7a52cca2efab744648edec05cc36728f_620x413_thumb.jpg",
-   "t_ko": "외국인, BMRI·BBCA·BBRI 등 대형 은행주 동반 순매도 배경",
-   "t_id": "Investor Asing Ramai Lepas Saham Bank Jumbo BMRI, BBCA, dan BBRI, Apa Pemicunya?"
   },
   {
    "ts": "2026-09-22T16:50:00+07:00",
@@ -18567,6 +18538,42 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T06:43:48+07:00",
+   "date": "2026-09-23",
+   "time": "06:43",
+   "src": "CNBC",
+   "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+   "g": 1,
+   "t_ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
+   "t_id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan"
+  },
+  {
+   "ts": "2026-09-23T06:37:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:37",
+   "src": "IDX Channel",
+   "t": "Harga Emas Tertekan, Pasar Antisipasi The Fed Kerek Bunga Lagi",
+   "tags": [],
+   "url": "https://www.idxchannel.com/market-news/harga-emas-tertekan-pasar-antisipasi-the-fed-kerek-bunga-lagi",
+   "g": 1,
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/17/emas_-_freepik_-_17_Mar_26.jpeg",
+   "t_ko": "금값 하락세 속 연준 추가 금리 인상 경계감 유입"
+  },
+  {
+   "ts": "2026-09-23T06:35:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:35",
+   "src": "Katadata",
+   "t": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/bursa/6ab310b01550b/apa-itu-batas-bawah-harga-saham-rp-1-berlaku-28-september-bagaimana-aturannya",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/09/15/Apa_Itu_Investasi_Saham-2023_09_15-10_45_16_d6703d677a21df7dba8bd2301ba2b797_620x413_thumb.png",
+   "t_id": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
+   "t_ko": "9월 28일 도입 주가 하한선 Rp 1 규정의 주요 내용"
+  },
+  {
    "ts": "2026-09-23T06:25:00+07:00",
    "date": "2026-09-23",
    "time": "06:25",
@@ -18587,8 +18594,8 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122372/bursa-saham-asia-berpeluang-menguat-mengekor-nasdaq-100",
    "g": 1,
    "img": "https://images.bloombergtechnoz.com/data/2026/04/image-20260403071108.jpg",
-   "t_id": "Bursa Saham Asia Berpeluang Menguat Mengekor Nasdaq 100",
-   "t_ko": "Nasdaq 100 훈풍에 아시아 증시 상승세 전망"
+   "t_ko": "Nasdaq 100 훈풍에 아시아 증시 상승세 전망",
+   "t_id": "Bursa Saham Asia Berpeluang Menguat Mengekor Nasdaq 100"
   },
   {
    "ts": "2026-09-23T06:03:48+07:00",
@@ -18680,6 +18687,17 @@
    "t_id": "Pemerintah Trump Berencana Terima 17.500 Pengungsi Kulit Putih Afrika Selatan pada Tahun Fiskal 2027"
   },
   {
+   "ts": "2026-09-23T05:59:00+07:00",
+   "date": "2026-09-23",
+   "time": "05:59",
+   "src": "Media Indonesia",
+   "t": "Worcas Group Bidik Pasar Global Lewat Diversifikasi Sektor Bisnis",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936492/worcas-group-bidik-pasar-global-lewat-diversifikasi-sektor-bisnis",
+   "g": 1,
+   "t_ko": "Worcas Group, 사업 다각화로 글로벌 시장 공략 추진"
+  },
+  {
    "ts": "2026-09-23T05:55:00+07:00",
    "date": "2026-09-23",
    "time": "05:55",
@@ -18762,42 +18780,6 @@
    "g": 1,
    "t_ko": "기술주 랠리 및 유가 하락 속 아시아 증시 상승 출발 전망",
    "t_id": "Bursa Asia Bersiap Naik Didorong Reli Teknologi, Minyak Turun: Markets Wrap"
-  },
-  {
-   "ts": "2026-09-23T05:06:05+07:00",
-   "date": "2026-09-23",
-   "time": "05:06",
-   "src": "Bloomberg",
-   "t": "Fort Trump Will Come to Poland, Says President Nawrocki",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/fort-trump-will-come-to-poland-says-nawrocki-video",
-   "g": 1,
-   "t_ko": "Nawrocki 대통령, 폴란드에 포트 트럼프 창설 발표",
-   "t_id": "Fort Trump Akan Hadir di Polandia, Kata Presiden Nawrocki"
-  },
-  {
-   "ts": "2026-09-23T05:03:35+07:00",
-   "date": "2026-09-23",
-   "time": "05:03",
-   "src": "Bloomberg",
-   "t": "CFTC Warns Prediction Markets to Reel in Risky ‘Mention’ Bets",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/cftc-warns-prediction-markets-to-reel-in-risky-mention-bets",
-   "g": 1,
-   "t_ko": "CFTC, 예측 시장의 위험한 언급 베팅에 경고",
-   "t_id": "CFTC Peringatkan Pasar Prediksi untuk Batasi Taruhan Berisiko"
-  },
-  {
-   "ts": "2026-09-23T05:03:33+07:00",
-   "date": "2026-09-23",
-   "time": "05:03",
-   "src": "CNBC",
-   "t": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-   "g": 1,
-   "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
-   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
   },
   {
    "ts": "2026-09-23T03:32:47+07:00",
@@ -19885,18 +19867,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/01/14/AMRAN-14-A-3079546239.jpg",
    "t_ko": "Amran 장관, 바이오에탄올 개발 재원 중 70% 민간 조달 구조 공개",
    "t_id": "Mentan Amran Beberkan Skema Pembiayaan Pengembangan Bioetanol, 70 persen Anggaran dari Swasta"
-  },
-  {
-   "ts": "2026-09-22T15:45:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Jawa Pos",
-   "t": "PNM Sulap Lorong Kota Menjadi Sumber Pangan Lewat Program Agro Urban Madani",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220431/pnm-sulap-lorong-kota-menjadi-sumber-pangan-lewat-program-agro-urban-madani",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/dengan-dukungan-pnm-bu-dewi-nasabah-pnm-mekaar-di-sukmajaya-depok-bersama-anggota-kelompoknya-menanam-pakcoy-kangkung-dan-bayam-di-lingkungan-tempat-tinggal-mereka-istimewa-Zm6DW.webp",
-   "t_ko": "PNM은 Agro Urban Madani 프로그램을 통해 도시 복도를 식량 공급원으로 전환합니다.",
-   "t_id": "PNM Sulap Lorong Kota Menjadi Sumber Pangan Lewat Program Agro Urban Madani"
   }
  ],
  "kisi_news": [
@@ -20093,9 +20063,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.54",
-   "d": 0.18,
-   "ytd": 2.3,
+   "v": "100.56",
+   "d": 0.2,
+   "ytd": 2.32,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -20117,9 +20087,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,403.5",
-   "d": 0.56,
-   "ytd": 1.8,
+   "v": "4,401.5",
+   "d": 0.51,
+   "ytd": 1.75,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20141,15 +20111,15 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,528",
-   "d": 1.07,
-   "ytd": -0.92,
+   "v": "16,576",
+   "d": 1.36,
+   "ytd": -0.63,
    "inv": false,
-   "note": "investing.com · 09/22 마지막 값 · 연초 16,682",
+   "note": "investing.com · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
    "k_id": "Nikel LME (US$/t)",
-   "note_ko": "investing.com · 09/22 마지막 값 · 연초 16,682",
-   "note_id": "investing.com · 09/22 nilai terakhir · Awal tahun 16,682"
+   "note_ko": "investing.com · 연초 16,682",
+   "note_id": "investing.com · Awal tahun 16,682"
   },
   {
    "k": "CPO (MYR/t)",
@@ -20164,7 +20134,68 @@
    "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
   }
  ],
- "curve": null,
+ "curve": {
+  "date": "2026-09-22",
+  "src": "PHEI (IBPA)",
+  "rows": [
+   [
+    0.1,
+    6.5083,
+    6.5853
+   ],
+   [
+    1.0,
+    6.66,
+    6.6774
+   ],
+   [
+    2.0,
+    6.7642,
+    6.7605
+   ],
+   [
+    3.0,
+    6.8471,
+    6.8393
+   ],
+   [
+    5.0,
+    6.9818,
+    6.9765
+   ],
+   [
+    7.0,
+    7.0745,
+    7.071
+   ],
+   [
+    10.0,
+    7.1462,
+    7.1426
+   ],
+   [
+    15.0,
+    7.1786,
+    7.1743
+   ],
+   [
+    20.0,
+    7.183,
+    7.1785
+   ],
+   [
+    25.0,
+    7.1834,
+    7.1789
+   ],
+   [
+    30.0,
+    7.1835,
+    7.179
+   ]
+  ],
+  "n": 41
+ },
  "calendar": [
   {
    "date": "2026-09-15",
@@ -21259,7 +21290,7 @@
    "imp": 2,
    "exp": "-0.500M",
    "prev": "7.140M",
-   "act": null,
+   "act": "1.786M",
    "src": "investing.com",
    "title_ko": "API 주간 원유 재고",
    "title_id": "Stok Minyak Mentah Mingguan API",
@@ -25119,7 +25150,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 207,
+  "pc_age_min": 219,
   "news_ai_cache": 41,
   "news_ai_hit": 31,
   "on_runner": true,
@@ -26914,9 +26945,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "대형주 BYAN(-9.71%)의 급락과 에너지(-3.95%)·금융(-1.00%) 등 전반적인 업종 약세에 힘입어 IHSG 1.69% 하락 거래 중.",
-   "id": "IHSG diperdagangkan melemah 1,69% akibat penurunan tajam saham big cap BYAN (-9,71%) serta pelemahan umum di sektor energi (-3,95%) dan keuangan (-1,00%).",
-   "ts": "2026-09-23T06:37:05.571486+07:00"
+   "ko": "에너지 및 금융 대형주 약세와 자본 유출 여파로 IHSG 1.69% 하락 거래 중.",
+   "id": "IHSG diperdagangkan melemah 1,69% akibat tekanan pada saham unggulan energi dan keuangan serta dampak arus keluar modal.",
+   "ts": "2026-09-23T06:49:11.157932+07:00"
   }
  },
  "top_day": "2026-09-23",
@@ -26986,32 +27017,32 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T20:09:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Republika",
-   "t": "Ada Wacana Peralihan Payroll ASN dari BPD ke Himbara, Begini Sikap OJK",
+   "ts": "2026-09-23T06:35:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:35",
+   "src": "Katadata",
+   "t": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
    "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlrm02349/ada-wacana-peralihan-payroll-asn-dari-bpd-ke-himbara-begini-sikap-ojk",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260908220239-141.png",
-   "t_ko": "지방은행에서 Himbara로 공무원 급여 이체 추진 — OJK 입장",
-   "t_id": "Ada Wacana Peralihan Payroll ASN dari BPD ke Himbara, Begini Sikap OJK",
-   "score": 408.95,
-   "srcs": 1
+   "url": "https://katadata.co.id/finansial/bursa/6ab310b01550b/apa-itu-batas-bawah-harga-saham-rp-1-berlaku-28-september-bagaimana-aturannya",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/09/15/Apa_Itu_Investasi_Saham-2023_09_15-10_45_16_d6703d677a21df7dba8bd2301ba2b797_620x413_thumb.png",
+   "t_id": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
+   "t_ko": "9월 28일 도입 주가 하한선 Rp 1 규정의 주요 내용",
+   "score": 409.95,
+   "srcs": 2
   },
   {
-   "ts": "2026-09-22T23:05:57+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
+   "ts": "2026-09-23T06:43:48+07:00",
+   "date": "2026-09-23",
+   "time": "06:43",
    "src": "CNBC",
-   "t": "Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on",
+   "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
+   "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
    "g": 1,
-   "score": 312.0,
-   "srcs": 3,
-   "t_ko": "Wall Street, 유가 향방 불투명 속 만장일치 매수 종목 선정",
-   "t_id": "Sullivan: Wall Street Bingung Arah Minyak, Tapi Sepakat Satu Saham Ini"
+   "t_ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
+   "t_id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan",
+   "score": 313.0,
+   "srcs": 3
   }
  ],
  "daylog": {
@@ -27752,50 +27783,50 @@
   "2026-09-22": {
    "news": [
     {
-     "t": "Harga Minyak Stabil di US$ 100, Pasar Nantikan Potensi Pertemuan Trump-Iran",
-     "ko": "유가 USD 100 안정 — 시장은 Trump-Iran 회동 가능성 주시",
-     "id": "Harga Minyak Stabil di US$ 100, Pasar Nantikan Potensi Pertemuan Trump-Iran",
-     "ai_ko": "· Brent USD 100.37, WTI USD 95.95로 안정\n· 직전 4거래일 8% 급락, 연초 대비로는 60% 넘게 상승\n· Saudi 수출 재개로 중동 공급 우려 완화",
-     "ai_id": "· Brent stabil USD100,37, WTI USD95,95\n· Empat sesi sebelumnya merosot hampir 8%\n· Ekspor Saudi pulih, kekhawatiran pasokan mereda",
-     "src": "Katadata",
-     "url": "https://katadata.co.id/berita/energi/6ab1eb43c751b/harga-minyak-stabil-di-us-100-pasar-nantikan-potensi-pertemuan-trump-iran",
-     "time": "09:43",
-     "tags": [],
-     "sc": 318.5,
-     "slot": "global",
-     "q": 86
-    },
-    {
-     "t": "AMMN Catat Laba US$ 497,9 Juta, BYAN Dapat Tambahan Kuota Batu Bara",
-     "ko": "AMMN 순이익 US$ 497.9백만 기록, BYAN 석탄 쿼터 추가 확보",
-     "id": "AMMN Catat Laba US$ 497,9 Juta, BYAN Dapat Tambahan Kuota Batu Bara",
-     "ai_ko": "· AMMN 상반기 순이익 USD 4.979억\n· 매출 USD 20.5억, 전년비 1,024% 증가\n· 금 생산 목표 34% 상향 775koz",
-     "ai_id": "· AMMN laba bersih US$497,93 juta\n· Penjualan US$2,05 miliar, naik 1.024%\n· Guidance emas naik 34% jadi 775 koz",
-     "src": "Detik",
-     "url": "https://finance.detik.com/bursa-dan-valas/d-8673373/ammn-catat-laba-us-497-9-juta-byan-dapat-tambahan-kuota-batu-bara",
-     "time": "08:31",
+     "t": "SMMA raises stake in Summit Oto Finance to 15% after capital injection",
+     "ko": "SMMA, 증자 참여로 Summit Oto Finance 지분 15%로 확대",
+     "id": "SMMA Tambah Kepemilikan di Summit Oto Finance Jadi 15% Usai Suntik Modal",
+     "ai_ko": "· Summit Oto Finance 지분 15%로 확대\n· Sinar Mas Multiartha(SMMA), Rp99.3억 출자\n· POJK 47/2020 내국인 지분 요건 충족",
+     "ai_id": "· Kepemilikan di SOF naik jadi 15%\n· SMMA suntik modal Rp9,93 miliar\n· Penuhi POJK 47/2020 saham lokal",
+     "src": "IDNFinancials",
+     "url": "https://www.idnfinancials.com/news/69233/smma-raises-stake-in-summit-oto-finance-to-15-after-capital-injection",
+     "time": "09/22",
      "tags": [
-      "AMMN",
-      "BYAN",
-      "IFII"
+      "SMMA"
      ],
      "sc": 217.8,
      "slot": "stock",
      "q": 82
     },
     {
-     "t": "Video: BEI Siap Turunkan Batas Terendah Harga Saham Jadi Rp1",
-     "ko": "BEI, 주식 최저가 하한 Rp1로 인하 추진",
-     "id": "Video: BEI Siap Turunkan Batas Terendah Harga Saham Jadi Rp1",
-     "ai_ko": "· 주식 최저 호가 Rp50→Rp1 인하\n· BEI, 정규시장·현금시장 적용\n· 9월 22일 방송서 공개",
-     "ai_id": "· Batas harga saham Rp50 jadi Rp1\n· BEI, pasar reguler dan tunai\n· Dipaparkan Selasa (22/9/2026)",
-     "src": "CNBC Indonesia",
-     "url": "https://www.cnbcindonesia.com/market/20260922083423-19-769739/video-bei-siap-turunkan-batas-terendah-harga-saham-jadi-rp1",
-     "time": "10:31",
+     "t": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
+     "ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
+     "id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
+     "ai_ko": "· 불법 수입 컨테이너 30개 적발, Rp270억 규모\n· 소금·쌀·중고 의류 대상, Bea Cukai 단속\n· 9월 22일 Jakarta 본부 기자회견서 발표",
+     "ai_id": "· Bea Cukai gagalkan 30 kontainer ilegal\n· Garam, beras, pakaian bekas Rp27 miliar\n· Konpers di Jakarta, Selasa 22 September",
+     "src": "Jawa Pos",
+     "url": "https://www.jawapos.com/ekonomi/2609220201/bea-cukai-gagalkan-impor-ilegal-30-kontainer-garam-beras-dan-pakaian-bekas-senilai-rp-27-miliar",
+     "time": "09/22",
      "tags": [],
-     "sc": 419.8,
+     "sc": 414.8,
      "slot": "macro",
-     "q": 94
+     "q": 93
+    },
+    {
+     "t": "EURO greenlit for 2 billion-share rights issue, reshuffles management",
+     "ko": "EURO, 20억 주 유상증자 승인 및 경영진 개편",
+     "id": "EURO Restui Rights Issue 2 Miliar Saham, Rombak Manajemen",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "IDNFinancials",
+     "url": "https://www.idnfinancials.com/news/69238/euro-greenlit-for-2-billion-share-rights-issue-reshuffles-management",
+     "time": "09/22",
+     "tags": [
+      "EURO"
+     ],
+     "sc": 414.8,
+     "slot": "macro",
+     "q": 93
     }
    ],
    "ann": [
@@ -27834,16 +27865,16 @@
   "2026-09-23": {
    "news": [
     {
-     "t": "Harga Minyak Susut Menyusul Optimisme Perundingan AS & Iran",
-     "ko": "미국·이란 협상 기대감 확산에 유가 하락",
-     "id": "",
+     "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+     "ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
+     "id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Bloomberg Technoz",
-     "url": "https://www.bloombergtechnoz.com/detail-news/122370/harga-minyak-susut-menyusul-optimisme-perundingan-as-iran",
-     "time": "05:30",
+     "src": "CNBC",
+     "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+     "time": "06:43",
      "tags": [],
-     "sc": 309.0,
+     "sc": 313.0,
      "slot": "global",
      "q": 85
     },
@@ -27864,16 +27895,16 @@
      "q": 58
     },
     {
-     "t": "UU Reforma Agraria Disahkan, Aturan Batas Maksimal Pemilikan Tanah Disiapkan",
-     "ko": "토지개혁법 통과로 최대 소유 한도 규정 마련",
-     "id": "",
+     "t": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
+     "ko": "9월 28일 도입 주가 하한선 Rp 1 규정의 주요 내용",
+     "id": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Detik",
-     "url": "https://finance.detik.com/infrastruktur/d-8674670/uu-reforma-agraria-disahkan-aturan-batas-maksimal-pemilikan-tanah-disiapkan",
-     "time": "06:25",
+     "src": "Katadata",
+     "url": "https://katadata.co.id/finansial/bursa/6ab310b01550b/apa-itu-batas-bawah-harga-saham-rp-1-berlaku-28-september-bagaimana-aturannya",
+     "time": "06:35",
      "tags": [],
-     "sc": 409.8,
+     "sc": 413.8,
      "slot": "macro",
      "q": 93
     }

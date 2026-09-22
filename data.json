@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 05:19",
+ "updated": "2026-09-23 05:34",
  "delay_min": 15,
  "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 04:45 Yahoo",
- "idr_per_krw": 13.1908,
+ "idr_per_krw": 13.1903,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -119,7 +119,7 @@
    "inv": true,
    "unit": "bp",
    "asof": "PHEI · 09/22",
-   "spark_stale": "investing.com · 09/22"
+   "spark_stale": "PHEI · 09/22"
   }
  ],
  "index": {
@@ -16943,8 +16943,8 @@
    ],
    "url": "https://www.idxchannel.com/market-news/rebranding-jadi-landcros-hexa-perluas-portofolio-produk-di-luar-hitachi",
    "img": "https://img.idxchannel.com/media/439/images/idx/2025/09/21/hexindo_hexa.jpeg",
-   "t_id": "Rebranding Jadi LANDCROS, HEXA Perluas Portofolio Produk di Luar Hitachi",
-   "t_ko": "HEXA, LANDCROS로 사명 변경 후 Hitachi 외 제품 포트폴리오 확대"
+   "t_ko": "HEXA, LANDCROS로 사명 변경 후 Hitachi 외 제품 포트폴리오 확대",
+   "t_id": "Rebranding Jadi LANDCROS, HEXA Perluas Portofolio Produk di Luar Hitachi"
   },
   {
    "ts": "2026-09-23T03:00:00+07:00",
@@ -17700,9 +17700,21 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-23T05:18:07.191247+07:00",
+   "ts": "2026-09-23T05:30:22+07:00",
    "date": "2026-09-23",
-   "time": "05:18",
+   "time": "05:30",
+   "src": "Bloomberg Technoz",
+   "t": "Harga Minyak Susut Menyusul Optimisme Perundingan AS & Iran",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122370/harga-minyak-susut-menyusul-optimisme-perundingan-as-iran",
+   "g": 1,
+   "img": "https://images.bloombergtechnoz.com/data/2026/07/image-20260709124934.jpg",
+   "t_ko": "미국·이란 협상 기대감 확산에 유가 하락"
+  },
+  {
+   "ts": "2026-09-23T05:20:15+07:00",
+   "date": "2026-09-23",
+   "time": "05:20",
    "src": "Jawa Pos",
    "t": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG",
    "tags": [],
@@ -17710,6 +17722,18 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/ilustrasi-spbu-milik-pertamina-patra-niaga-istimewa-2plup.webp",
    "t_ko": "Pertamina Patra Niaga, 유류·BBM·LPG 조달 차질 대비 태세",
    "t_id": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG"
+  },
+  {
+   "ts": "2026-09-23T05:15:07+07:00",
+   "date": "2026-09-23",
+   "time": "05:15",
+   "src": "Bloomberg",
+   "t": "Asian Stocks Set to Extend Gains as Tech Rallies: Markets Wrap",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
+   "g": 1,
+   "t_ko": "기술주 강세에 아시아 증시 상승세 연장 전망",
+   "t_id": "Bursa Asia Bersiap Lanjutkan Kenaikan Seiring Reli Saham Teknologi: Pasar Global"
   },
   {
    "ts": "2026-09-23T05:06:05+07:00",
@@ -17758,6 +17782,18 @@
    "g": 1,
    "t_ko": "9월 23일 국제유가 동향 및 분석",
    "t_id": "Berita & Analisis Pasar Minyak Terbaru 23 Sep"
+  },
+  {
+   "ts": "2026-09-23T04:52:39+07:00",
+   "date": "2026-09-23",
+   "time": "04:52",
+   "src": "Bloomberg",
+   "t": "Anthony Scaramucci's \"All the Wrong Moves\"",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/anthony-scaramucci-s-all-the-wrong-moves-video",
+   "g": 1,
+   "t_ko": "Anthony Scaramucci의 잘못된 투자 행보 진단",
+   "t_id": "Semua Langkah Keliru Anthony Scaramucci"
   },
   {
    "ts": "2026-09-23T04:44:00+07:00",
@@ -17871,44 +17907,6 @@
    "url": "https://mediaindonesia.com/internasional/936461/trump-lempar-gertakan-sekaligus-buka-perundingan-rahasia-dengan-iran",
    "g": 1,
    "t_ko": "Trump, Iran에 압박과 함께 비밀 협상 창구 개방"
-  },
-  {
-   "ts": "2026-09-23T04:07:21+07:00",
-   "date": "2026-09-23",
-   "time": "04:07",
-   "src": "CNBC",
-   "t": "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
-   "g": 1,
-   "t_ko": "트럼프 행정부, 사기 혐의로 오바마케어 가입자 76만 명 직권 해지",
-   "t_id": "Pemerintahan Trump Hapus Sekitar 760.000 Pendaftaran Obamacare atas Dugaan Penipuan"
-  },
-  {
-   "ts": "2026-09-23T04:06:00+07:00",
-   "date": "2026-09-23",
-   "time": "04:06",
-   "src": "WSJ",
-   "t": "U.S. Stocks Mixed as AI Buzz Stokes Tech Gains",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-ai-buzz-stokes-tech-gains-7d1bf50b?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-76377399",
-   "t_ko": "뉴욕증시, AI 열풍 속 기술주 강세로 혼조세 마감",
-   "t_id": "Bursa US Mixed Ditopang Demam AI Dorong Sektor Teknologi"
-  },
-  {
-   "ts": "2026-09-23T04:02:00+07:00",
-   "date": "2026-09-23",
-   "time": "04:02",
-   "src": "WSJ",
-   "t": "Basic Materials Roundup: Market Talk",
-   "tags": [],
-   "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-8962d0c7?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-41645439",
-   "t_ko": "소재 섹터 동향 — 시장 전망",
-   "t_id": "Rangkuman Sektor Material Dasar: Pasar Membahas"
   },
   {
    "ts": "2026-09-23T03:32:47+07:00",
@@ -19239,9 +19237,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.83",
-   "d": -3.38,
-   "ytd": 56.44,
+   "v": "89.66",
+   "d": -3.56,
+   "ytd": 56.15,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19275,15 +19273,15 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,576",
-   "d": 1.36,
-   "ytd": -0.63,
+   "v": "16,528",
+   "d": 1.07,
+   "ytd": -0.92,
    "inv": false,
-   "note": "investing.com · 연초 16,682",
+   "note": "investing.com · 09/22 마지막 값 · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
    "k_id": "Nikel LME (US$/t)",
-   "note_ko": "investing.com · 연초 16,682",
-   "note_id": "investing.com · Awal tahun 16,682"
+   "note_ko": "investing.com · 09/22 마지막 값 · 연초 16,682",
+   "note_id": "investing.com · 09/22 nilai terakhir · Awal tahun 16,682"
   },
   {
    "k": "CPO (MYR/t)",
@@ -24314,7 +24312,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 129,
+  "pc_age_min": 144,
   "news_ai_cache": 41,
   "news_ai_hit": 32,
   "on_runner": true,
@@ -27071,40 +27069,6 @@
      "tags": [],
      "sc": 311.0,
      "slot": "global",
-     "q": 85
-    }
-   ]
-  },
-  "2026-09-10": {
-   "ann": [
-    {
-     "t": "BUMI",
-     "ko": "거래소 조회공시 요구에 대한 답변",
-     "id": "Penjelasan atas Permintaan Penjelasan Bursa",
-     "kind_ko": "조회공시",
-     "kind_id": "Penjelasan Bursa",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d22e77149_12e6084dc3.pdf",
-     "time": "19:12",
-     "q": 85
-    },
-    {
-     "t": "MGLV",
-     "ko": "유상증자(HMETD) 추진 기업정보 공시 — 9월10일",
-     "id": "Keterbukaan Informasi Aksi Korporasi - Rencana Penambahan Modal dengan HMETD - 10 Sep 2026",
-     "kind_ko": "유상증자",
-     "kind_id": "Rights Issue",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/881c3a5b7b_ce2450a4f0.pdf",
-     "time": "19:13",
-     "q": 90
-    },
-    {
-     "t": "SMDR",
-     "ko": "거래소 조회공시 요구에 대한 답변",
-     "id": "Penjelasan atas Permintaan Penjelasan Bursa",
-     "kind_ko": "조회공시",
-     "kind_id": "Penjelasan Bursa",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/241bd87170_44053c6d09.pdf",
-     "time": "20:55",
      "q": 85
     }
    ]

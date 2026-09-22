@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 00:11",
+ "updated": "2026-09-23 00:18",
  "delay_min": 15,
- "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,358 · 21:00 Yahoo",
- "idr_per_krw": 13.1681,
+ "fx_basis": "13.16 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,359 · 21:00 Yahoo",
+ "idr_per_krw": 13.1599,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16543,11 +16543,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7765.5,
+   "px": 7762.71,
    "prev": 7764.22,
-   "pct": 0.02,
+   "pct": -0.02,
    "mst": 0,
-   "asof": "13:05",
+   "asof": "13:15",
    "live": true,
    "spark": [
     7779.14,
@@ -16593,18 +16593,20 @@
     7765.29,
     7766.17,
     7763.91,
-    7765.5
+    7763.71,
+    7763.41,
+    7762.71
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27217.16,
+   "px": 27210.04,
    "prev": 27122.09,
-   "pct": 0.35,
+   "pct": 0.32,
    "mst": 0,
-   "asof": "13:05",
+   "asof": "13:15",
    "live": true,
    "spark": [
     27223.51,
@@ -16650,18 +16652,20 @@
     27201.64,
     27205.84,
     27208.17,
-    27217.16
+    27208.32,
+    27213.23,
+    27210.04
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51826.29,
+   "px": 51802.17,
    "prev": 52053.88,
-   "pct": -0.44,
+   "pct": -0.48,
    "mst": 0,
-   "asof": "13:05",
+   "asof": "13:15",
    "live": true,
    "spark": [
     52161.89,
@@ -16707,7 +16711,9 @@
     51857.03,
     51861.4,
     51809.53,
-    51826.29
+    51815.72,
+    51815.31,
+    51802.17
    ]
   },
   {
@@ -17045,6 +17051,20 @@
  },
  "news": [
   {
+   "ts": "2026-09-23T00:05:00+07:00",
+   "date": "2026-09-23",
+   "time": "00:05",
+   "src": "IDX Channel",
+   "t": "MKNT Gelar Private Placement Rp1,02 Triliun, Libatkan 5 Investor Individu",
+   "tags": [
+    "MKNT"
+   ],
+   "url": "https://www.idxchannel.com/market-news/mknt-gelar-private-placement-rp102-triliun-libatkan-5-investor-individu",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/05/18/private_placement.jpg",
+   "t_id": "MKNT Gelar Private Placement Rp1,02 Triliun, Libatkan 5 Investor Individu",
+   "t_ko": "MKNT, 개인투자자 5인 대상 Rp1.02조 규모 제3자배정 유상증자 실시"
+  },
+  {
    "ts": "2026-09-22T23:30:00+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -17270,20 +17290,6 @@
    "img": "https://images.bloombergtechnoz.com/data/2023/02/image-20230203142216.jpg",
    "t_ko": "KPK, Summarecon Bogor 사무소 압수수색 증거물 목록",
    "t_id": "Daftar Bukti yang Disita KPK dari Kantor Summarecon Bogor"
-  },
-  {
-   "ts": "2026-09-22T16:49:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "IDX Channel",
-   "t": "CDIA Tebar Dividen Interim USD10 Juta, Kapan Cair?",
-   "tags": [
-    "CDIA"
-   ],
-   "url": "https://www.idxchannel.com/market-news/cdia-tebar-dividen-interim-usd10-juta-kapan-cair",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2025/06/19/cdia_tpia.jpg",
-   "t_ko": "CDIA, 중간배당 USD1,000만 집행 결정",
-   "t_id": "CDIA Tebar Dividen Interim USD10 Juta, Kapan Cair"
   },
   {
    "ts": "2026-09-22T16:20:00+07:00",
@@ -17798,6 +17804,80 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T00:14:29+07:00",
+   "date": "2026-09-23",
+   "time": "00:14",
+   "src": "Bloomberg",
+   "t": "Private Credit's Default Disconnect",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/private-credit-s-default-disconnect-video",
+   "g": 1,
+   "t_ko": "프라이빗 크레디트(Private Credit) 부실 지연 문제",
+   "t_id": "Kesenjangan Gagal Bayar Kredit Swasta"
+  },
+  {
+   "ts": "2026-09-23T00:10:22+07:00",
+   "date": "2026-09-23",
+   "time": "00:10",
+   "src": "CNBC",
+   "t": "Trump discloses more than 1,100 July trades, including up to $25 million sales of Microsoft and Amazon",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+   "g": 1,
+   "t_ko": "Trump, 7월 마이크로소프트·아마존 등 최대 2,500만 달러 규모 주식 거래 내역 공개",
+   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Juli, Termasuk Penjualan Saham Microsoft dan Amazon Senilai Hingga $25 Juta"
+  },
+  {
+   "ts": "2026-09-23T00:06:12+07:00",
+   "date": "2026-09-23",
+   "time": "00:06",
+   "src": "FT",
+   "t": "Trump threatens to ‘annihilate’ Iran in combative UN speech",
+   "tags": [],
+   "url": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc6f1f0c2-4396-4ef4-9bfe-052d3155a7cb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "Trump, UN 연설에서 이란 상대로 강경 경고",
+   "t_id": "Trump Ancam 'Hancurkan' Iran dalam Pidato PBB yang Agresif"
+  },
+  {
+   "ts": "2026-09-23T00:05:29+07:00",
+   "date": "2026-09-23",
+   "time": "00:05",
+   "src": "Bloomberg",
+   "t": "Broader Growth Can Drive Stocks Higher: UBS's Hoffmann",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/broader-growth-can-drive-stocks-higher-ubs-s-hoffmann-video",
+   "g": 1,
+   "t_ko": "UBS Hoffmann, 경제 성장세 확대로 증시 상승 전망",
+   "t_id": "Pertumbuhan Lebih Luas Dapat Dorong Saham Lebih Tinggi: Hoffmann UBS"
+  },
+  {
+   "ts": "2026-09-22T23:58:28+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "CNBC",
+   "t": "Nvidia options are doing something unusual ahead of two catalysts. Here's how one trader is playing it",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/nvidia-options-are-doing-something-unusual-ahead-of-two-catalysts-heres-how-one-trader-is-playing-it.html",
+   "g": 1,
+   "t_ko": "Nvidia 양대 이벤트 앞두고 옵션 시장 이례적 움직임 — 트레이더 대응 전략",
+   "t_id": "Opsi Nvidia Tunjukkan Pergerakan Tidak Biasa Jelang Dua Katalis, Ini Strategi Trader"
+  },
+  {
+   "ts": "2026-09-22T23:57:28+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Yahoo Finance",
+   "t": "Rocket Lab Stock Breaks Above Key Trendline",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-breaks-above-165728910.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/schaeffers_investment_research_24/a6b425d88c902b4ad4cc5dfd3b4442c0.png",
+   "t_ko": "Rocket Lab, 핵심 추세선 상향 돌파",
+   "t_id": "Saham Rocket Lab Tembus Garis Tren Utama"
+  },
+  {
    "ts": "2026-09-22T23:53:09+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -17818,7 +17898,7 @@
    "tags": [],
    "url": "https://finance.yahoo.com/economy/policy/articles/feds-barkin-says-economy-may-165255863.html",
    "g": 1,
-   "img": "https://media.zenfs.com/en/reuters.com/434aa33478c46b421ae886344169378f.jpg",
+   "img": "https://media.zenfs.com/en/reuters.com/cf77de6a7eded2d58000fd487327b7c5.jpg",
    "t_ko": "연준 Barkin 총재, 경기 회복세 및 에너지·관세발 인플레이션 경고",
    "t_id": "Barkin Fed Sebut Ekonomi Menguat, Inflasi Tak Terbatas pada Energi & Syok Tarif"
   },
@@ -17948,81 +18028,6 @@
    "img": "https://images.wsj.net/im-41645439",
    "t_ko": "소재 섹터 동향 — 시장 전망",
    "t_id": "Rangkuman Sektor Material Dasar: Pasar Membahas"
-  },
-  {
-   "ts": "2026-09-22T23:31:20+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Yahoo Finance",
-   "t": "Why Shopify Stock, Twilio Are Rising On Meta's Muse Rollout",
-   "tags": [],
-   "url": "https://www.investors.com/news/technology/shopify-stock-shop-twilio-stock-twlo-meta-muse/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/7fe5ebb21207ca65215acde825437990.jpg",
-   "t_ko": "Shopify·Twilio, Meta의 Muse 출시 호재에 동반 상승",
-   "t_id": "Alasan Saham Shopify dan Twilio Naik Berkat Peluncuran Muse Meta"
-  },
-  {
-   "ts": "2026-09-22T23:30:14+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Bloomberg",
-   "t": "S&P Trades Near Record Highs as Oil Prices Ease",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/s-p-trades-near-record-highs-as-oil-prices-ease",
-   "g": 1,
-   "t_ko": "유가 하락 속 S&P 사상 최고가 부근 거래",
-   "t_id": "S&P Bergerak Mendekati Rekor Tertinggi Seiring Pelonggaran Harga Minyak"
-  },
-  {
-   "ts": "2026-09-22T23:30:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "WSJ",
-   "t": "Financial Services Roundup: Market Talk",
-   "tags": [],
-   "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f25d3281?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-03838137",
-   "t_ko": "금융권 동향 — 시장 전망",
-   "t_id": "Rangkuman Jasa Keuangan: Sinyal Pasar"
-  },
-  {
-   "ts": "2026-09-22T23:28:21+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "CNBC",
-   "t": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-   "g": 1,
-   "t_ko": "Trump, 중간선거 후 Iran이 타협할 것이라 언급 후 유가 보합세",
-   "t_id": "Minyak Tipis Usai Trump Sebut Iran Bakal Sepakat Pasca-Pemilu Midterm"
-  },
-  {
-   "ts": "2026-09-22T23:27:59+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "FT",
-   "t": "Trump threatens to ‘annihilate’ Iran in combative UN speech",
-   "tags": [],
-   "url": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc6f1f0c2-4396-4ef4-9bfe-052d3155a7cb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "Trump, UN 연설에서 이란 상대로 강경 경고",
-   "t_id": "Trump Ancam 'Hancurkan' Iran dalam Pidato PBB yang Agresif"
-  },
-  {
-   "ts": "2026-09-22T23:27:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Reuters",
-   "t": "Nasdaq hits intraday record high on tech boost, Mideast negotiation hopes",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
-   "g": 1,
-   "t_ko": "나스닥, 기술주 강세와 중동 협상 기대에 장중 최고가 경신",
-   "t_id": "Nasdaq Cetak Rekor Intraday Berkat Dorongan Teknologi & Harapan Negosiasi Timur Tengah"
   },
   {
    "ts": "2026-09-22T23:00:51+07:00",
@@ -19327,9 +19332,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.968%",
-   "d": 0.1,
-   "ytd": 19.34,
+   "v": "4.976%",
+   "d": 0.26,
+   "ytd": 19.53,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19350,9 +19355,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.65",
-   "d": 0.29,
-   "ytd": 2.41,
+   "v": "100.66",
+   "d": 0.3,
+   "ytd": 2.42,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19362,9 +19367,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.44",
-   "d": -1.65,
-   "ytd": 59.25,
+   "v": "91.20",
+   "d": -1.9,
+   "ytd": 58.83,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19374,9 +19379,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,373.9",
-   "d": -0.12,
-   "ytd": 1.12,
+   "v": "4,378.1",
+   "d": -0.02,
+   "ytd": 1.21,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19414,11 +19419,11 @@
    "d": -0.18,
    "ytd": 20.72,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
   }
  ],
  "curve": {
@@ -23468,7 +23473,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 343,
+  "pc_age_min": 350,
   "news_ai_cache": 92,
   "news_ai_hit": 33,
   "on_runner": true,
@@ -25347,7 +25352,7 @@
    "g": 1,
    "img": "https://dam.mediacorp.sg/image/upload/s--q7WF2-lv--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T155749Z_1_LYNXMPEM8L1AJ_RTROPTP_3_USA-FED-STOCKS.JPG?itok=wKr1aYdN",
    "score": 315.5,
-   "srcs": 6,
+   "srcs": 5,
    "t_ko": "AI 낙관론에 나스닥 최고가 경신 및 유가 100달러 하회",
    "t_id": "Nasdaq Cetak Rekor Tertinggi Ditopang Optimisme AI, Minyak Anjlok di Bawah $100"
   }
@@ -26166,6 +26171,40 @@
      "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d233f0d447_eba0816613.pdf",
      "time": "15:07",
      "q": 90
+    }
+   ]
+  },
+  "2026-09-23": {
+   "news": [
+    {
+     "t": "Private Credit's Default Disconnect",
+     "ko": "프라이빗 크레디트(Private Credit) 부실 지연 문제",
+     "id": "Kesenjangan Gagal Bayar Kredit Swasta",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-22/private-credit-s-default-disconnect-video",
+     "time": "00:14",
+     "tags": [],
+     "sc": 111.0,
+     "slot": "global",
+     "q": 11
+    },
+    {
+     "t": "MKNT Gelar Private Placement Rp1,02 Triliun, Libatkan 5 Investor Individu",
+     "ko": "MKNT, 개인투자자 5인 대상 Rp1.02조 규모 제3자배정 유상증자 실시",
+     "id": "MKNT Gelar Private Placement Rp1,02 Triliun, Libatkan 5 Investor Individu",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "IDX Channel",
+     "url": "https://www.idxchannel.com/market-news/mknt-gelar-private-placement-rp102-triliun-libatkan-5-investor-individu",
+     "time": "00:05",
+     "tags": [
+      "MKNT"
+     ],
+     "sc": 216.8,
+     "slot": "stock",
+     "q": 57
     }
    ]
   }

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 03:04",
+ "updated": "2026-09-23 03:11",
  "delay_min": 15,
- "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,356 · 03:00 Yahoo",
- "idr_per_krw": 13.187,
+ "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 03:00 Yahoo",
+ "idr_per_krw": 13.1908,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -101,22 +101,21 @@
    "code": "SUN10Y",
    "label": "SUN 10Y",
    "name": "국채 10년물",
-   "px": 7.146,
-   "prev": 7.143,
-   "pct": 0.4,
+   "px": 7.12,
+   "prev": 7.12,
+   "pct": 0.0,
    "spark": [
-    7.1743,
-    7.1679,
-    7.1696,
-    7.1542,
-    7.1426,
-    7.1462
+    7.095,
+    7.096,
+    7.156,
+    7.156,
+    7.156,
+    7.12
    ],
-   "span": "1M",
+   "span": "1W",
    "inv": true,
-   "unit": "bp",
-   "asof": "PHEI · 09/22",
-   "spark_stale": "PHEI · 09/22"
+   "asof": "investing.com · 09/15",
+   "unit": "bp"
   }
  ],
  "index": {
@@ -17144,6 +17143,20 @@
  },
  "news": [
   {
+   "ts": "2026-09-23T03:00:00+07:00",
+   "date": "2026-09-23",
+   "time": "03:00",
+   "src": "IDX Channel",
+   "t": "Gandeng Pertamina, Jababeka (KIJA) Hadirkan Energi Hijau untuk Kawasan Industri",
+   "tags": [
+    "KIJA"
+   ],
+   "url": "https://www.idxchannel.com/market-news/gandeng-pertamina-jababeka-kija-hadirkan-energi-hijau-untuk-kawasan-industri",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/22/kija_pertamina.jpg",
+   "t_id": "Gandeng Pertamina, Jababeka (KIJA) Hadirkan Energi Hijau untuk Kawasan Industri",
+   "t_ko": "KIJA, Pertamina 손잡고 산업단지 친환경 에너지 공급 추진"
+  },
+  {
    "ts": "2026-09-23T01:00:00+07:00",
    "date": "2026-09-23",
    "time": "01:00",
@@ -17368,20 +17381,6 @@
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/06/08/IHSG_kembali_ditutup_melemah_ke_level_5342_Foto_KatadataFauza_Sy-2026_06_08-17_48_01_7a52cca2efab744648edec05cc36728f_620x413_thumb.jpg",
    "t_ko": "외국인, BMRI·BBCA·BBRI 등 대형 은행주 동반 순매도 배경",
    "t_id": "Investor Asing Ramai Lepas Saham Bank Jumbo BMRI, BBCA, dan BBRI, Apa Pemicunya?"
-  },
-  {
-   "ts": "2026-09-22T17:25:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "IDX Channel",
-   "t": "Telkom (TLKM) Siapkan Data Center Dukung Pemanfaatan AI di Sektor BUMN",
-   "tags": [
-    "TLKM"
-   ],
-   "url": "https://www.idxchannel.com/market-news/telkom-tlkm-siapkan-data-center-dukung-pemanfaatan-ai-di-sektor-bumn",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/22/seno_telkom_tlkm.jpg",
-   "t_ko": "TLKM, 국영기업 AI 활용 지원할 데이터센터 구축 추진",
-   "t_id": "Telkom (TLKM) Siapkan Data Center Dukung Pemanfaatan AI di Sektor BUMN"
   },
   {
    "ts": "2026-09-22T16:50:00+07:00",
@@ -17910,6 +17909,30 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T03:06:00+07:00",
+   "date": "2026-09-23",
+   "time": "03:06",
+   "src": "WSJ",
+   "t": "Treasury Yields Little Changed",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?mod=rss_markets_main",
+   "g": 1,
+   "t_ko": "미 국채 수익률 보합세 기록",
+   "t_id": "Imbal Hasil US Treasury Cenderung Mendatar"
+  },
+  {
+   "ts": "2026-09-23T03:01:29+07:00",
+   "date": "2026-09-23",
+   "time": "03:01",
+   "src": "Reuters",
+   "t": "Nasdaq reaches record high close, AI stocks rally",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
+   "g": 1,
+   "t_ko": "Nasdaq, AI 관련주 랠리에 힘입어 최고가 마감",
+   "t_id": "Nasdaq Cetak Rekor Penutupan Tertinggi, Saham AI Menguat"
+  },
+  {
    "ts": "2026-09-23T02:59:05+07:00",
    "date": "2026-09-23",
    "time": "02:59",
@@ -18004,7 +18027,7 @@
    "url": "https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7",
    "g": 1,
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ee8d153-f861-445a-9582-74c7448286c0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "Macron, 러시아·우크라이ナ에 에너지 인프라 공격 중단 촉구",
+   "t_ko": "Macron, 러시아와 우크라이나에 에너지 인프라 타격 중단 촉구",
    "t_id": "Macron Desak Rusia dan Ukraina Hentikan Serangan Infrastruktur Energi"
   },
   {
@@ -18108,19 +18131,6 @@
    "ts": "2026-09-23T02:00:00+07:00",
    "date": "2026-09-23",
    "time": "02:00",
-   "src": "MarketWatch",
-   "t": "The bond market is flashing a warning for stocks. These sectors are already wobbling.",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/the-bond-market-is-flashing-a-warning-for-stocks-these-sectors-are-already-wobbling-015dc707?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-56782998",
-   "t_ko": "채권시장, 주식시장에 경고등 — 이미 흔들리는 관련 섹터",
-   "t_id": "Pasar Obligasi Beri Sinyal Peringatan bagi Saham, Sektor Ini Mulai Goyah"
-  },
-  {
-   "ts": "2026-09-23T02:00:00+07:00",
-   "date": "2026-09-23",
-   "time": "02:00",
    "src": "Katadata",
    "t": "Sebanyak 409 Penerbangan Terdampak Karhutla Kalimantan pada 14-20 September",
    "tags": [],
@@ -18128,18 +18138,6 @@
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/12/2026_09_12-20_50_00_967c1ff2-aec0-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
    "t_ko": "칼리만탄 산불로 9월 14~20일 항공편 409편 차질",
    "t_id": "Sebanyak 409 Penerbangan Terdampak Karhutla Kalimantan pada 14-20 September"
-  },
-  {
-   "ts": "2026-09-23T01:53:33+07:00",
-   "date": "2026-09-23",
-   "time": "01:53",
-   "src": "Bloomberg",
-   "t": "Derailed IPO Plans Rattle US Market Ahead of Anthropic Debut",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/derailed-ipo-plans-rattle-us-market-ahead-of-anthropic-debut",
-   "g": 1,
-   "t_ko": "Anthropic 상장 앞두고 IPO 철회 계획으로 흔들리는 미국 증시",
-   "t_id": "Rencana IPO yang Gagal Guncang Pasar AS Menjelang Debut Anthropic"
   },
   {
    "ts": "2026-09-23T01:08:25+07:00",
@@ -19420,9 +19418,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "13.18",
-   "d": 2.55,
-   "ytd": 13.45,
+   "v": "13.19",
+   "d": 2.62,
+   "ytd": 13.53,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19455,9 +19453,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.52",
-   "d": 0.16,
-   "ytd": 2.28,
+   "v": "100.54",
+   "d": 0.18,
+   "ytd": 2.29,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19467,9 +19465,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.47",
-   "d": -3.76,
-   "ytd": 55.82,
+   "v": "89.68",
+   "d": -3.54,
+   "ytd": 56.18,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19479,9 +19477,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,406.7",
-   "d": 0.63,
-   "ytd": 1.87,
+   "v": "4,404.7",
+   "d": 0.58,
+   "ytd": 1.83,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19519,184 +19517,15 @@
    "d": -0.18,
    "ytd": 20.72,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
   }
  ],
- "curve": {
-  "date": "2026-09-22",
-  "src": "PHEI (IBPA)",
-  "rows": [
-   [
-    0.1,
-    6.5083,
-    6.5853
-   ],
-   [
-    1.0,
-    6.66,
-    6.6774
-   ],
-   [
-    2.0,
-    6.7642,
-    6.7605
-   ],
-   [
-    3.0,
-    6.8471,
-    6.8393
-   ],
-   [
-    5.0,
-    6.9818,
-    6.9765
-   ],
-   [
-    7.0,
-    7.0745,
-    7.071
-   ],
-   [
-    10.0,
-    7.1462,
-    7.1426
-   ],
-   [
-    15.0,
-    7.1786,
-    7.1743
-   ],
-   [
-    20.0,
-    7.183,
-    7.1785
-   ],
-   [
-    25.0,
-    7.1834,
-    7.1789
-   ],
-   [
-    30.0,
-    7.1835,
-    7.179
-   ]
-  ],
-  "n": 41
- },
+ "curve": null,
  "calendar": [
-  {
-   "date": "2026-09-12",
-   "time": "00:00",
-   "kind": "macro",
-   "country": "US",
-   "title": "U.S. Baker Hughes Oil Rig Count",
-   "imp": 2,
-   "exp": null,
-   "prev": "449",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "미국 Baker Hughes 원유 시추기 수",
-   "title_id": "Jumlah Rig Minyak Baker Hughes AS",
-   "sc": 16,
-   "gs": 16,
-   "g": "입찰·재고",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-12",
-   "time": "01:00",
-   "kind": "macro",
-   "country": "US",
-   "title": "Federal Budget Balance  (Aug)",
-   "imp": 2,
-   "exp": "-221.1B",
-   "prev": "-432.0B",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "8월 연방 재정수지",
-   "title_id": "Neraca Anggaran Federal AS (Agu)",
-   "sc": 54,
-   "gs": 54,
-   "g": "대외·재정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-12",
-   "time": "02:30",
-   "kind": "macro",
-   "country": "US",
-   "title": "CFTC Crude Oil speculative net positions",
-   "imp": 2,
-   "exp": null,
-   "prev": "129.9K",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "CFTC 원유 투기적 순포지션",
-   "title_id": "Posisi Bersih Spekulatif Minyak Mentah CFTC",
-   "sc": 16,
-   "gs": 16,
-   "g": "입찰·재고",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-12",
-   "time": "02:30",
-   "kind": "macro",
-   "country": "US",
-   "title": "CFTC Gold speculative net positions",
-   "imp": 2,
-   "exp": null,
-   "prev": "228.1K",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "CFTC 금 투기적 순포지션",
-   "title_id": "Posisi Bersih Spekulatif Emas CFTC",
-   "sc": 16,
-   "gs": 16,
-   "g": "입찰·재고",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-12",
-   "time": "02:30",
-   "kind": "macro",
-   "country": "US",
-   "title": "CFTC Nasdaq 100 speculative net positions",
-   "imp": 2,
-   "exp": null,
-   "prev": "25.9K",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "CFTC 나스닥100 투기적 순포지션",
-   "title_id": "Posisi Bersih Spekulatif CFTC Nasdaq 100",
-   "sc": 16,
-   "gs": 16,
-   "g": "입찰·재고",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-12",
-   "time": "02:30",
-   "kind": "macro",
-   "country": "US",
-   "title": "CFTC S&P 500 speculative net positions",
-   "imp": 2,
-   "exp": null,
-   "prev": "-75.9K",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "CFTC S&P500 투기적 순포지션",
-   "title_id": "Posisi Bersih Spekulatif CFTC S&P 500",
-   "sc": 16,
-   "gs": 16,
-   "g": "입찰·재고",
-   "sub": 0
-  },
   {
    "date": "2026-09-15",
    "time": "19:15",
@@ -20373,13 +20202,31 @@
    "imp": 2,
    "exp": null,
    "prev": "16.30K",
-   "act": null,
+   "act": "20.00K",
    "src": "investing.com",
    "title_ko": "ADP 주간 고용 변화",
    "title_id": "Perubahan Tenaga Kerja Mingguan ADP AS",
-   "sc": 47,
+   "sc": 27,
    "gs": 72,
    "g": "고용",
+   "sub": 0
+  },
+  {
+   "date": "2026-09-22",
+   "time": "20:55",
+   "kind": "macro",
+   "country": "US",
+   "title": "U.S. President Trump Speaks",
+   "imp": 3,
+   "exp": null,
+   "prev": null,
+   "act": null,
+   "src": "investing.com",
+   "title_ko": "트럼프 미 대통령 연설",
+   "title_id": "Presiden AS Trump Berbicara",
+   "sc": 46,
+   "gs": 40,
+   "g": "연준 발언",
    "sub": 0
   },
   {
@@ -20409,11 +20256,11 @@
    "imp": 2,
    "exp": null,
    "prev": "4.315%",
-   "act": null,
+   "act": "4.787%",
    "src": "investing.com",
    "title_ko": "미국 2년물 국채 입찰",
    "title_id": "Lelang Surat Utang 2 Tahun AS",
-   "sc": 24,
+   "sc": 4,
    "gs": 16,
    "g": "입찰·재고",
    "sub": 0
@@ -23573,7 +23420,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 516,
+  "pc_age_min": 523,
   "news_ai_cache": 92,
   "news_ai_hit": 33,
   "on_runner": true,

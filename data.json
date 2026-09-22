@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 02:49",
+ "updated": "2026-09-23 03:04",
  "delay_min": 15,
- "fx_basis": "13.18 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,357 · 02:15 Yahoo",
- "idr_per_krw": 13.1755,
+ "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,356 · 03:00 Yahoo",
+ "idr_per_krw": 13.187,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -65,8 +65,6 @@
     17808.0,
     17808.0,
     17808.0,
-    17808.0,
-    17808.0,
     17875.0,
     17870.0,
     17870.0,
@@ -90,10 +88,11 @@
     17878.0,
     17850.0,
     17878.0,
+    17878.0,
     17878.0
    ],
    "inv": true,
-   "asof": "02:15",
+   "asof": "03:00",
    "high": 17878.0,
    "low": 17808.0,
    "src": "yahoo"
@@ -16541,11 +16540,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7776.05,
-   "prev": 7764.22,
-   "pct": 0.15,
-   "mst": 0,
-   "asof": "15:45",
+   "px": 7764.27,
+   "prev": 7764.7,
+   "pct": -0.01,
+   "mst": 1,
+   "asof": "16:00",
    "live": true,
    "spark": [
     7779.14,
@@ -16623,18 +16622,20 @@
     7778.42,
     7778.47,
     7774.63,
-    7776.05
+    7777.36,
+    7773.56,
+    7764.27
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27272.97,
+   "px": 27241.53,
    "prev": 27122.09,
-   "pct": 0.56,
-   "mst": 0,
-   "asof": "15:45",
+   "pct": 0.44,
+   "mst": 1,
+   "asof": "16:00",
    "live": true,
    "spark": [
     27223.51,
@@ -16712,18 +16713,20 @@
     27286.52,
     27279.23,
     27268.03,
-    27272.97
+    27282.23,
+    27264.36,
+    27241.53
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51955.31,
-   "prev": 52053.88,
-   "pct": -0.19,
-   "mst": 0,
-   "asof": "15:45",
+   "px": 51866.37,
+   "prev": 52048.83,
+   "pct": -0.35,
+   "mst": 1,
+   "asof": "16:00",
    "live": true,
    "spark": [
     52161.89,
@@ -16801,7 +16804,9 @@
     51959.85,
     51970.94,
     51947.24,
-    51955.31
+    51958.3,
+    51939.03,
+    51866.37
    ]
   },
   {
@@ -17905,6 +17910,30 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T02:59:05+07:00",
+   "date": "2026-09-23",
+   "time": "02:59",
+   "src": "CNBC",
+   "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+   "g": 1,
+   "t_ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
+   "t_id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan"
+  },
+  {
+   "ts": "2026-09-23T02:51:13+07:00",
+   "date": "2026-09-23",
+   "time": "02:51",
+   "src": "CNBC",
+   "t": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+   "g": 1,
+   "t_ko": "Royal Caribbean, Sandals 지분 50% 인수에 30억 달러 규모 계약 임박",
+   "t_id": "Royal Caribbean Dekati Kesepakatan $3 Miliar untuk Kuasai 50% Saham Sandals"
+  },
+  {
    "ts": "2026-09-23T02:43:33+07:00",
    "date": "2026-09-23",
    "time": "02:43",
@@ -17941,30 +17970,6 @@
    "t_id": "Indodana Finance Terima Pendanaan Rp700 Miliar dari HSBC Indonesia"
   },
   {
-   "ts": "2026-09-23T02:40:11+07:00",
-   "date": "2026-09-23",
-   "time": "02:40",
-   "src": "CNBC",
-   "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-   "g": 1,
-   "t_ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
-   "t_id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan"
-  },
-  {
-   "ts": "2026-09-23T02:33:37+07:00",
-   "date": "2026-09-23",
-   "time": "02:33",
-   "src": "CNBC",
-   "t": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
-   "g": 1,
-   "t_ko": "Royal Caribbean, Sandals 지분 50% 인수에 30억 달러 규모 계약 임박",
-   "t_id": "Royal Caribbean Dekati Kesepakatan $3 Miliar untuk Kuasai 50% Saham Sandals"
-  },
-  {
    "ts": "2026-09-23T02:30:03+07:00",
    "date": "2026-09-23",
    "time": "02:30",
@@ -17988,6 +17993,19 @@
    "img": "https://images.mktw.net/im-67216971",
    "t_ko": "트럼프, 디젤 수출 금지 지지 — 조만간 최종 결정 전망",
    "t_id": "Trump Dukung Larangan Ekspor Diesel, Keputusan Segera Keluar"
+  },
+  {
+   "ts": "2026-09-23T02:27:56+07:00",
+   "date": "2026-09-23",
+   "time": "02:27",
+   "src": "FT",
+   "t": "Macron calls on Russia and Ukraine to halt strikes on energy infrastructure",
+   "tags": [],
+   "url": "https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ee8d153-f861-445a-9582-74c7448286c0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "Macron, 러시아·우크라이ナ에 에너지 인프라 공격 중단 촉구",
+   "t_id": "Macron Desak Rusia dan Ukraina Hentikan Serangan Infrastruktur Energi"
   },
   {
    "ts": "2026-09-23T02:27:35+07:00",
@@ -18122,30 +18140,6 @@
    "g": 1,
    "t_ko": "Anthropic 상장 앞두고 IPO 철회 계획으로 흔들리는 미국 증시",
    "t_id": "Rencana IPO yang Gagal Guncang Pasar AS Menjelang Debut Anthropic"
-  },
-  {
-   "ts": "2026-09-23T01:51:44+07:00",
-   "date": "2026-09-23",
-   "time": "01:51",
-   "src": "CNBC",
-   "t": "U.S. strikes Greenland deal at UN to expand military presence at Arctic outposts",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
-   "g": 1,
-   "t_ko": "미국, 유엔서 그린란드 협정 체결해 북극 군사 주둔 확대",
-   "t_id": "AS Capai Kesepakatan Greenland di PBB untuk Perluas Kehadiran Militer di Kutub Utara",
-   "ai_ko": "· 미국, Greenland 안보 영구 관리권 확보\n· 미국·Denmark·Greenland 3국 협정 서명\n· Narsarsuaq 기지 재가동·Mestersvig 주둔",
-   "ai_id": "· AS dapat kendali permanen keamanan Greenland\n· Perjanjian AS-Denmark-Greenland diteken\n· Pangkalan Narsarsuaq dibuka, ada di Mestersvig",
-   "ai_tags": [
-    "지정학",
-    "안보",
-    "미국"
-   ],
-   "ai_tags_id": [
-    "geopolitik",
-    "keamanan",
-    "AS"
-   ]
   },
   {
    "ts": "2026-09-23T01:08:25+07:00",
@@ -19461,9 +19455,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.50",
-   "d": 0.14,
-   "ytd": 2.26,
+   "v": "100.52",
+   "d": 0.16,
+   "ytd": 2.28,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19473,9 +19467,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.06",
-   "d": -4.21,
-   "ytd": 55.1,
+   "v": "89.47",
+   "d": -3.76,
+   "ytd": 55.82,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19485,9 +19479,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,405.5",
-   "d": 0.6,
-   "ytd": 1.85,
+   "v": "4,406.7",
+   "d": 0.63,
+   "ytd": 1.87,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -23579,9 +23573,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 501,
+  "pc_age_min": 516,
   "news_ai_cache": 92,
-  "news_ai_hit": 34,
+  "news_ai_hit": 33,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -26290,7 +26284,7 @@
      "ai_id": "",
      "src": "CNBC",
      "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
-     "time": "02:33",
+     "time": "02:51",
      "tags": [],
      "sc": 316.0,
      "slot": "global",
@@ -26320,7 +26314,7 @@
      "ai_id": "",
      "src": "CNBC",
      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-     "time": "02:40",
+     "time": "02:59",
      "tags": [],
      "sc": 311.0,
      "slot": "global",

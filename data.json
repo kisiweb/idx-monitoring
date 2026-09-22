@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 16:45",
+ "updated": "2026-09-22 16:51",
  "delay_min": 15,
- "fx_basis": "13.16 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,357 · 16:15 Yahoo",
- "idr_per_krw": 13.1644,
+ "fx_basis": "13.18 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,356 · 16:45 Yahoo",
+ "idr_per_krw": 13.1759,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -286,7 +286,6 @@
     17830.0,
     17830.0,
     17830.0,
-    17830.0,
     17808.0,
     17808.0,
     17808.0,
@@ -314,10 +313,11 @@
     17865.0,
     17865.0,
     17865.0,
+    17865.0,
     17865.0
    ],
    "inv": true,
-   "asof": "16:15",
+   "asof": "16:45",
    "high": 17875.0,
    "low": 17808.0,
    "src": "yahoo"
@@ -340,7 +340,7 @@
    "inv": true,
    "unit": "bp",
    "asof": "PHEI · 09/22",
-   "spark_stale": "PHEI · 09/21"
+   "spark_stale": "PHEI · 09/22"
   }
  ],
  "index": {
@@ -354,7 +354,7 @@
   "volume": null,
   "value_src": "yahoo",
   "rank_src": "Yahoo 15분 지연 · 833종목 · 외국인·공시 PC 09-22 16:34",
-  "rank_asof": "16:42",
+  "rank_asof": "16:47",
   "rank_date": "2026-09-22",
   "adv": 151,
   "dec": 556,
@@ -18051,7 +18051,7 @@
    "url": "https://www.idxchannel.com/market-news/begini-strategi-sinergi-multi-smle-genjot-pertumbuhan-bisnis-di-2026-dan-2027",
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/14/saham_freepik.JPG",
    "t_id": "Begini Strategi Sinergi Multi (SMLE) Genjot Pertumbuhan Bisnis di 2026 dan 2027",
-   "t_ko": "SMLE, 2026~2027년 사업 성장 가속화 시너지 전략 발표"
+   "t_ko": "SMLE, 2026~2027년 사업 성장 가속화 전략 발표"
   },
   {
    "ts": "2026-09-22T16:29:00+07:00",
@@ -18066,8 +18066,8 @@
    ],
    "url": "https://katadata.co.id/finansial/bursa/6ab24a903a9da/ihsg-ditutup-merosot-1-69-saham-penghuni-lq45-bbri-bumi-dan-aadi-turun-dalam",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/07/27/IHSG_ditutup_turun_017_atau_1065_poin_ke_level_6185_Foto_Katadat-2026_07_27-17_15_06_d167f2e3a605f9c0b0ffc5e8a4d8dfb8_620x413_thumb.jpg",
-   "t_id": "IHSG Ditutup Merosot 1,69%, Saham Penghuni LQ45 BBRI, BUMI dan AADI Turun Dalam",
-   "t_ko": "IHSG 1.69% 급락 마감 — LQ45 편입 BBRI·BUMI·AADI 낙폭 확대"
+   "t_ko": "IHSG 1.69% 하락 마감 — BBRI·BUMI·AADI 등 LQ45 낙폭 상위",
+   "t_id": "IHSG Ditutup Merosot 1,69%, Saham Penghuni LQ45 BBRI, BUMI dan AADI Turun Dalam"
   },
   {
    "ts": "2026-09-22T16:25:00+07:00",
@@ -18382,34 +18382,6 @@
     "batu bara",
     "regulasi",
     "akuisisi saham"
-   ]
-  },
-  {
-   "ts": "2026-09-22T13:54:00+07:00",
-   "date": "2026-09-22",
-   "time": "13:54",
-   "src": "Katadata",
-   "t": "Emiten Properti BSDE, CTRA, PWON Tersengat Risiko Reforma Agraria, Apa Sebabnya?",
-   "tags": [
-    "BSDE",
-    "CTRA",
-    "PWON"
-   ],
-   "url": "https://katadata.co.id/finansial/bursa/6ab22637836d3/emiten-properti-bsde-ctra-pwon-tersengat-risiko-reforma-agraria-apa-sebabnya",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/13/2026_09_13-18_07_00_d6e8276e-af71-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
-   "t_ko": "BSDE·CTRA·PWON, 토지개혁 리스크 영향 — 배경 점검",
-   "t_id": "Emiten Properti BSDE, CTRA, PWON Tersengat Risiko Reforma Agraria, Apa Sebabnya",
-   "ai_ko": "· 토지개혁법 통과, 대형 지주 신규 리스크\n· BSDE·CTRA·SMRA·PWON 등 대규모 토지 보유 상장사\n· 9월 22일 DPR 본회의 의결, CGS International 분석",
-   "ai_id": "· RUU reforma agraria disahkan DPR\n· Risiko bagi BSDE, CTRA, SMRA, PWON\n· Rapat paripurna 22/9, analisis CGS",
-   "ai_tags": [
-    "규제",
-    "부동산",
-    "토지개혁"
-   ],
-   "ai_tags_id": [
-    "regulasi",
-    "properti",
-    "reforma agraria"
    ]
   },
   {
@@ -19018,6 +18990,50 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T16:45:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:45",
+   "src": "Media Indonesia",
+   "t": "Pulau-Pulau di Indonesia Ditawarkan Bahlil untuk Jadi Pusat Data Center",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936221/pulau-pulau-di-indonesia-ditawarkan-bahlil-untuk-jadi-pusat-data-center",
+   "t_id": "Pulau-Pulau di Indonesia Ditawarkan Bahlil untuk Jadi Pusat Data Center",
+   "t_ko": "Bahlil, 데이터센터 부지로 인도네시아 섬 개발 제안"
+  },
+  {
+   "ts": "2026-09-22T16:42:15+07:00",
+   "date": "2026-09-22",
+   "time": "16:42",
+   "src": "Detik",
+   "t": "Pemerintah Siapkan Rp 3,29 T buat Tuntaskan 3 Proyek Tol",
+   "tags": [],
+   "url": "https://finance.detik.com/infrastruktur/d-8674314/pemerintah-siapkan-rp-3-29-t-buat-tuntaskan-3-proyek-tol",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2019/06/18/050ff4f1-b046-42ec-9c7d-f7cc933db6f2_169.jpeg?w=360&q=90",
+   "t_ko": "정부, 유료도로 3개 사업 완공에 Rp3.29조 투입",
+   "t_id": "Pemerintah Siapkan Rp 3,29 T Tuntaskan 3 Proyek Tol"
+  },
+  {
+   "ts": "2026-09-22T16:41:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:41",
+   "src": "Media Indonesia",
+   "t": "Menteri ESDM Sederhanakan Aturan Tender PLTS",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936218/menteri-esdm-sederhanakan-aturan-tender-plts",
+   "t_ko": "에너지광물자원부, 태양광 발전 입찰 규정 간소화"
+  },
+  {
+   "ts": "2026-09-22T16:41:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:41",
+   "src": "Media Indonesia",
+   "t": "Pemerintah Kejar Para Obligor dan Debitur BLBI",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936217/pemerintah-kejar-para-obligor-dan-debitur-blbi",
+   "t_id": "Pemerintah Kejar Para Obligor dan Debitur BLBI",
+   "t_ko": "정부, BLBI 채무자 및 차주 대상 자금 회수 가속"
+  },
+  {
    "ts": "2026-09-22T16:39:29+07:00",
    "date": "2026-09-22",
    "time": "16:39",
@@ -19057,11 +19073,24 @@
    "ts": "2026-09-22T16:36:00+07:00",
    "date": "2026-09-22",
    "time": "16:36",
+   "src": "Yahoo Finance",
+   "t": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 70 Years' Worth of History.",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-stock-market-crash-coming-093600343.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/dd603e33562da5c09ecffe1595d3d477.jpg",
+   "t_ko": "증시 폭락 경고 — 70년 역사 데이터 기반 투자 전략",
+   "t_id": "Prediksi: Pasar Saham Bakal Crash, Ini Panduan Investor Berdasarkan Sejarah 70 Tahun"
+  },
+  {
+   "ts": "2026-09-22T16:36:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:36",
    "src": "Media Indonesia",
    "t": "Komisi II DPR Targetkan Panja RUU Pemilu Terbentuk Sebelum Reses Oktober",
    "tags": [],
    "url": "https://mediaindonesia.com/politik-dan-hukum/936212/komisi-ii-dpr-targetkan-panja-ruu-pemilu-terbentuk-sebelum-reses-oktober",
-   "t_ko": "하원 제2위원회, 10월 휴회 전 선거법 개정안 소위원회 구성 목표"
+   "t_ko": "DPR 제2위원회, 10월 휴회 전 선거법 개정안 소위원회 구성 목표"
   },
   {
    "ts": "2026-09-22T16:35:51+07:00",
@@ -19072,8 +19101,8 @@
    "tags": [],
    "url": "https://www.bloomberg.com/news/videos/2026-09-22/oil-drops-as-traders-track-hormuz-diplomacy-prospects-video",
    "g": 1,
-   "t_ko": "호르무즈 외교 기대감 속 유가 하락",
-   "t_id": "Harga Minyak Anjlok di Tengah Prospek Diplomasi Selat Hormuz"
+   "t_ko": "호르무즈 외교 기대감에 유가 하락",
+   "t_id": "Minyak Anjlok saat Trader Pantau Prospek Diplomasi Selat Hormuz"
   },
   {
    "ts": "2026-09-22T16:35:42+07:00",
@@ -19084,8 +19113,8 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlreni423/kemendag-perkuat-tata-kelola-perdagangan-digital-dan-perlindungan-konsumen",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260922162228-907.png",
-   "t_id": "Kemendag Perkuat Tata Kelola Perdagangan Digital dan Perlindungan Konsumen",
-   "t_ko": "무역부, 디지털 무역 거버넌스 및 소비자 보호 강화"
+   "t_ko": "무역부, 디지털 무역 생태계 정비 및 소비자 보호 강화",
+   "t_id": "Kemendag Perkuat Tata Kelola Perdagangan Digital dan Perlindungan Konsumen"
   },
   {
    "ts": "2026-09-22T16:35:00+07:00",
@@ -19096,8 +19125,8 @@
    "tags": [],
    "url": "https://katadata.co.id/berita/nasional/6ab24bd394be2/ruu-reforma-agraria-disahkan-prabowo-akan-batasi-kepemilikan-tanah",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2024/08/23/2024_08_23-13_10_01_c7c18f56-6116-11ef-9f0e-0242ac120006_620x413_thumb.jpg",
-   "t_id": "RUU Reforma Agraria Disahkan, Prabowo Akan Batasi Kepemilikan Tanah",
-   "t_ko": "토지개혁법안 통과 — Prabowo, 토지 소유 상한 설정"
+   "t_ko": "토지개혁법안 통과로 프라보소 대통령 토지 소유 제한 추진",
+   "t_id": "RUU Reforma Agraria Disahkan, Prabowo Akan Batasi Kepemilikan Tanah"
   },
   {
    "ts": "2026-09-22T16:34:48+07:00",
@@ -19108,8 +19137,7 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609220333/status-manajer-kopdes-merah-putih-bukan-pegawai-bumn-tapi-biaya-ditanggung-negara",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/04/28/kepala-bp-bumn-dony-oskaria-nurul-fitrianajawaposcom-ZzEDH.webp",
-   "t_ko": "Kopdes Merah Putih 관리자, 국영기업 직원이 아니나 국가 예산으로 비용 부담",
-   "t_id": "Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Namun Biaya Ditanggung Negara"
+   "t_ko": "Kopdes Merah Putih 매니저, BUMN 직원 아니나 국가 재정 부담"
   },
   {
    "ts": "2026-09-22T16:32:00+07:00",
@@ -19121,7 +19149,7 @@
    "url": "https://mediaindonesia.com/internasional/936211/presiden-iran-tegaskan-pertahankan-sikap-teheran-di-pbb",
    "g": 1,
    "t_id": "Presiden Iran Tegaskan Pertahankan Sikap Teheran di PBB",
-   "t_ko": "이란 대통령, UN서 테헤란 입장 고수 천명"
+   "t_ko": "이란 대통령, 유엔에서 테헤란 입장 고수 천명"
   },
   {
    "ts": "2026-09-22T16:30:24+07:00",
@@ -19156,8 +19184,8 @@
    "tags": [],
    "url": "https://finance.detik.com/foto-bisnis/d-8674153/potret-warga-berburu-lowongan-kerja-dari-puluhan-perusahaan-di-cengkareng",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/potret-warga-berburu-lowongan-kerja-dari-puluhan-perusahaan-di-cengkareng-1790066353857_169.jpeg?w=360&q=90",
-   "t_id": "Potret Warga Berburu Lowongan Kerja dari Puluhan Perusahaan di Cengkareng",
-   "t_ko": "Cengkareng 채용박람회에 몰린 구직자들"
+   "t_ko": "Cengkareng 구직 박람회에 몰린 수많은 인파",
+   "t_id": "Potret Warga Berburu Lowongan Kerja dari Puluhan Perusahaan di Cengkareng"
   },
   {
    "ts": "2026-09-22T16:28:40+07:00",
@@ -19169,7 +19197,6 @@
    "url": "https://ekonomi.republika.co.id/berita/tlrebs490/kepala-bp-bumn-ungkap-status-manajer-kopdes-bukan-pegawai-bumn",
    "img": "https://static.republika.co.id/uploads/images/detailnews/kepala-bp-bumn-sekaligus-chief-operating-officer-coo-danantara_260723175851-993.jpeg",
    "t_ko": "BP BUMN 수장, Kopdes 매니저 지위는 국영기업 직원이 아님을 밝힘",
-   "t_id": "Kepala BP BUMN Pastikan Manajer Kopdes Bukan Pegawai BUMN",
    "ai_ko": "· 마을협동조합 매니저 2년간 파견 근무\n· Donny Oskaria BP BUMN 청장, 국영기업 직원 아니라고 밝혀\n· Agrinas Pangan Nusantara 산하 배치, 비용은 정부 부담",
    "ai_id": "· Manajer kopdes ditugaskan selama 2 tahun\n· Donny Oskaria: bukan pegawai BUMN\n· Ditempatkan di Agrinas Pangan, biaya pemerintah",
    "ai_tags": [
@@ -19184,6 +19211,18 @@
    ]
   },
   {
+   "ts": "2026-09-22T16:28:02+07:00",
+   "date": "2026-09-22",
+   "time": "16:28",
+   "src": "Bloomberg",
+   "t": "Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/nvidia-s-stock-is-flashing-a-warning-sign-as-valuation-falls",
+   "g": 1,
+   "t_ko": "밸류에이션 하락 속 Nvidia 주가 경고등 점등",
+   "t_id": "Saham Nvidia Beri Sinyal Peringatan Seiring Valuasi Turun"
+  },
+  {
    "ts": "2026-09-22T16:27:00+07:00",
    "date": "2026-09-22",
    "time": "16:27",
@@ -19191,21 +19230,8 @@
    "t": "Electricity Connect 2026: Dorong Inovasi 100 GW dan Transisi Energi Nasional",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/936208/electricity-connect-2026-dorong-inovasi-100-gw-dan-transisi-energi-nasional",
-   "t_id": "Electricity Connect 2026: Dorong Inovasi 100 GW dan Transisi Energi Nasional",
-   "t_ko": "Electricity Connect 2026 — 100GW 혁신 및 국가 에너지 전환 추진"
-  },
-  {
-   "ts": "2026-09-22T16:26:01+07:00",
-   "date": "2026-09-22",
-   "time": "16:26",
-   "src": "Yahoo Finance",
-   "t": "IonQ, Rigetti Computing, D-Wave Quantum, and Quantum Computing Inc. Are Sending Shockwaves Through Wall Street With This $895 Million Warning",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-rigetti-computing-d-wave-092601051.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/a055f477dbc30f84049d00e4121f29e0.jpg",
-   "t_ko": "IonQ·Rigetti·D-Wave·Quantum Computing, 8억 9,500만 달러 경고로 월가 요동",
-   "t_id": "IonQ, Rigetti Computing, D-Wave Quantum, dan Quantum Computing Inc. Guncang Wall Street Lewat Peringatan $895 Juta"
+   "t_ko": "Electricity Connect 2026: 100GW 혁신 및 국가 에너지 전환 추진",
+   "t_id": "Electricity Connect 2026: Dorong Inovasi 100 GW dan Transisi Energi Nasional"
   },
   {
    "ts": "2026-09-22T16:26:00+07:00",
@@ -19289,7 +19315,7 @@
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/936199/tingkatkan-kesejahteraan-pekerja-migran-perempuan-dengan-optimalisasi-remitansi",
    "t_ko": "송금 최적화 통한 여성 이주노동자 복지 증진",
-   "t_id": "Dongkrak Kesejahteraan Pekerja Migran Perempuan Lewat Optimalisasi Remitansi",
+   "t_id": "Tingkatkan Kesejahteraan Pekerja Migran Perempuan lewat Optimalisasi Remitansi",
    "ai_ko": "· 2025년 이주노동자 송금 USD 172억\n· Bank Indonesia 집계, 여성 비중 63.13%\n· Women's World Banking·KP2MI 지수 개발 협약",
    "ai_id": "· Remitansi PMI 2025 capai US$ 17,2 miliar\n· Data BI, 63,13% calon PMI perempuan\n· Women's World Banking dan KP2MI susun IRDI",
    "ai_tags": [
@@ -19409,8 +19435,7 @@
     "harga minyak",
     "neraca dagang",
     "geopolitik"
-   ],
-   "t_id": "Harga Minyak Mendidih, Mendag Waswas Neraca Dagang Tekor"
+   ]
   },
   {
    "ts": "2026-09-22T16:13:59+07:00",
@@ -19459,7 +19484,6 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8674246/suahasil-beberkan-cara-kejar-obligor-blbi",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/menteri-keuangan-suahasil-nazara-firdadetikcom-1790063366394_169.jpeg?w=360&q=90",
    "t_ko": "Suahasil, BLBI 채무 불이행자 자산 추적 방식 설명",
-   "t_id": "Suahasil Beberkan Strategi Kejar Obligor BLBI",
    "ai_ko": "· BLBI 채무자 추심, 재무부 내부 조직으로 전환\n· Suahasil Nazara 재무장관, DJKN 통해 자산 압류 진행\n· 2024년 Satgas BLBI 해산 이후 대상자 명단 확보, 사법당국과 공조",
    "ai_id": "· Penagihan obligor BLBI lewat internal Kemenkeu\n· Menkeu Suahasil: DJKN sita dan tandai aset\n· Satgas BLBI bubar 2024, gandeng aparat hukum",
    "ai_tags": [
@@ -19541,8 +19565,7 @@
     "CSR",
     "energi surya",
     "pasar modal"
-   ],
-   "t_id": "Nelayan Rua Ternate Terima Bantuan Solar-Powered Cold Storage"
+   ]
   },
   {
    "ts": "2026-09-22T16:08:00+07:00",
@@ -19709,30 +19732,6 @@
    "t_id": "Teras Rumah Sempit Tetap Nyaman, Coba 5 Ide Ini"
   },
   {
-   "ts": "2026-09-22T15:57:24+07:00",
-   "date": "2026-09-22",
-   "time": "15:57",
-   "src": "CNBC",
-   "t": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html",
-   "g": 1,
-   "t_ko": "트럼프, 젤렌스키에 에너지 휴전 압박… 러시아 우크라이나 전쟁으로 유가 통제 상실 언급",
-   "t_id": "Trump Bakal Tekan Zelenskyy untuk Gencatan Senjata Energi, Sebut Rusia 'Kehilangan Kendali' Atas Minyak Akibat Perang Ukraina",
-   "ai_ko": "· 러시아 디젤 정제 다수 가동 중단\n· Trump, Zelenskyy에 에너지 휴전 압박\n· 22일 뉴욕 UN 총회 계기 회담",
-   "ai_id": "· Banyak kilang diesel Rusia lumpuh\n· Trump tekan Zelenskyy soal gencatan\n· Pertemuan di sela Sidang Umum PBB",
-   "ai_tags": [
-    "유가",
-    "지정학",
-    "에너지"
-   ],
-   "ai_tags_id": [
-    "harga minyak",
-    "geopolitik",
-    "energi"
-   ]
-  },
-  {
    "ts": "2026-09-22T15:56:00+07:00",
    "date": "2026-09-22",
    "time": "15:56",
@@ -19786,8 +19785,7 @@
    "tags": [],
    "url": "https://www.medcom.id/nasional/peristiwa/3NOxWqWb-lestari-moerdijat-kerja-perawatan-harus-diakui-dalam-kebijakan-ekonomi",
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843716/kbqOFrzvCG.jpg?w=720",
-   "t_ko": "Lestari Moerdijat, 경제정책 속 돌봄 노동 공식 인정 촉구",
-   "t_id": "Lestari Moerdijat: Kerja Perawatan Wajib Masuk Kebijakan Ekonomi"
+   "t_ko": "Lestari Moerdijat, 경제정책 속 돌봄 노동 공식 인정 촉구"
   },
   {
    "ts": "2026-09-22T15:47:00+07:00",
@@ -20749,7 +20747,19 @@
    "url": "https://www.jawapos.com/ekonomi/2609220267/mentan-amran-minta-pelaku-penyelundupan-beras-ilegal-dihukum-20-tahun-penjara",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/03/mentan-andi-amran-sulaiman-istimewa-1c8BU.webp",
    "t_ko": "Mentan Amran, 쌀 밀수업자에게 징역 20년 구형 촉구",
-   "t_id": "Mentan Amran Minta Penyelundup Beras Ilegal Dihukum 20 Tahun Penjara"
+   "t_id": "Mentan Amran Minta Penyelundup Beras Ilegal Dihukum 20 Tahun Penjara",
+   "ai_ko": "· 쌀 밀수 피의자 최고 20년형 요구\n· Amran 농업장관, 관세청 본부서 발표\n· 관세법 102B조 적용, 대통령 지시 근거",
+   "ai_id": "· Tuntut hukuman maksimal 20 tahun\n· Mentan Amran di Kantor Bea Cukai Pusat\n· Pasal 102B UU Kepabeanan, perintah Presiden",
+   "ai_tags": [
+    "규제",
+    "쌀",
+    "밀수"
+   ],
+   "ai_tags_id": [
+    "regulasi",
+    "beras",
+    "penyelundupan"
+   ]
   },
   {
    "ts": "2026-09-22T13:18:31+07:00",
@@ -20761,7 +20771,19 @@
    "url": "https://www.liputan6.com/saham/read/8296818/bei-gelar-rupslb-28-oktober-2026-apa-agendanya",
    "img": "https://cdn0-production-images-kly.akamaized.net/YYSwg5n1VLwVqp5Z9oEsL4Qbjy4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/6384504/original/070523100_1779259803-Direktur_Utama_KPEI_Iding_Pardi-20_Mei_2026a.jpeg",
    "t_ko": "BEI, 2026년 10월 28일 임시주주총회 개최 예정",
-   "t_id": "BEI Gelar RUPSLB 28 Oktober 2026, Apa Agendanya"
+   "t_id": "BEI Gelar RUPSLB 28 Oktober 2026, Apa Agendanya",
+   "ai_ko": "· 임시주주총회 10월 28일 개최\n· 인도네시아거래소(BEI), 신규 주주 구조 미정\n· 지분 5% 초과 시 OJK 승인 필요",
+   "ai_id": "· RUPSLB digelar 28 Oktober 2026\n· BEI, struktur pemegang saham baru diproses\n· Kepemilikan di atas 5% perlu izin OJK",
+   "ai_tags": [
+    "거래소",
+    "주주총회",
+    "규제"
+   ],
+   "ai_tags_id": [
+    "bursa",
+    "RUPSLB",
+    "demutualisasi"
+   ]
   },
   {
    "ts": "2026-09-22T13:12:06+07:00",
@@ -20773,7 +20795,19 @@
    "url": "https://ekonomi.republika.co.id/berita/tlr586490/bea-cukai-tindak-impor-ilegal-beras-dan-garam-ini-respons-mentan",
    "img": "https://static.republika.co.id/uploads/images/detailnews/033009500-1790052228-830-556.jpg",
    "t_ko": "세관, 불법 쌀·소금 수입 단속 — 농림장관 입장",
-   "t_id": "Bea Cukai Tindak Impor Ilegal Beras dan Garam, Ini Respons Mentan"
+   "t_id": "Bea Cukai Tindak Impor Ilegal Beras dan Garam, Ini Respons Mentan",
+   "ai_ko": "· 쌀·소금 밀수 컨테이너 30개 적발, Rp273.4억\n· Bea Cukai 단속, Andi Amran Sulaiman 농업장관 환영\n· 8~9월 Tanjung Perak 등 4건, 인도산 허위신고",
+   "ai_id": "· 30 kontainer beras dan garam ditindak\n· Nilai barang capai Rp27,34 miliar\n· Bea Cukai gerebek 4 lokasi Agustus-September",
+   "ai_tags": [
+    "밀수단속",
+    "쌀",
+    "규제"
+   ],
+   "ai_tags_id": [
+    "penyelundupan",
+    "beras",
+    "regulasi"
+   ]
   },
   {
    "ts": "2026-09-22T13:07:35+07:00",
@@ -20785,7 +20819,19 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122315/ri-kaji-sanksi-dmo-batu-bara-stop-60-hari-tahan-rkab-cabut-iup",
    "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260922130503.jpg",
    "t_ko": "인도네시아, 석탄 DMO 제재 검토 — 60일 정지·RKAB 보류·IUP 취소",
-   "t_id": "RI Kaji Sanksi DMO Batu Bara: Hentikan 60 Hari, Tahan RKAB, Cabut IUP"
+   "t_id": "RI Kaji Sanksi DMO Batu Bara: Hentikan 60 Hari, Tahan RKAB, Cabut IUP",
+   "ai_ko": "· DMO 미달 시 조업정지 60일·IUP 취소 검토\n· ESDM, 석탄 광산업체 RKAB 승인 보류 방침\n· 내수 공급의무 미이행 제재 강화, 9/22 보도",
+   "ai_id": "· DMO gagal: setop 60 hari, cabut IUP\n· ESDM juga tahan persetujuan RKAB\n· Diungkap ke Argus Media, Selasa (22/9)",
+   "ai_tags": [
+    "석탄",
+    "규제",
+    "수출"
+   ],
+   "ai_tags_id": [
+    "batu bara",
+    "regulasi",
+    "ekspor"
+   ]
   },
   {
    "ts": "2026-09-22T13:07:23+07:00",
@@ -20797,7 +20843,19 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673799/suahasil-sebut-baju-bekas-impor-ilegal-bikin-tukang-jahit-industri-babak-belur",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/bea-cukai-ungkap-impor-beras-garam-hingga-baju-bekas-senilai-rp27-m-1790050976490_169.jpeg?w=360&q=90",
    "t_ko": "Suahasil, 불법 수입 중고 의류가 재단사·산업계 타격 언급",
-   "t_id": "Suahasil Sebut Baju Bekas Impor Ilegal Bikin Tukang Jahit dan Industri Babak Belur"
+   "t_id": "Suahasil Sebut Baju Bekas Impor Ilegal Bikin Tukang Jahit dan Industri Babak Belur",
+   "ai_ko": "· 8~9월 밀수 적발 Rp273억, 중고의류 Rp114억\n· Bea Cukai 적발, Suahasil Nazara 재무장관 발표\n· 봉제·섬유산업 잠식 지적, 9/22 기자회견",
+   "ai_id": "· Balpres Rp11.4 miliar dari Rp27.3 miliar\n· Menkeu Suahasil Nazara di Bea Cukai\n· Tukang jahit-industri tekstil rugi, 22/9",
+   "ai_tags": [
+    "밀수",
+    "섬유",
+    "규제"
+   ],
+   "ai_tags_id": [
+    "penyelundupan",
+    "tekstil",
+    "regulasi"
+   ]
   },
   {
    "ts": "2026-09-22T13:06:08+07:00",
@@ -20809,7 +20867,19 @@
    "url": "https://www.jawapos.com/ekonomi/2609220256/menkeu-suahasil-minta-bea-cukai-perkuat-3-elemen-ini-untuk-bendah-impor-ilegal",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/17/1fYKFUeniGOc5z25Ayl9ddfRAK50eT6NEE67JGST.webp",
    "t_ko": "Suahasil 차관, 불법 수입품 통제를 위해 관세청에 3대 요소 강화 주문",
-   "t_id": "Menkeu Suahasil Minta Bea Cukai Perkuat 3 Elemen Ini untuk Bendah Impor Ilegal"
+   "t_id": "Menkeu Suahasil Minta Bea Cukai Perkuat 3 Elemen Ini untuk Bendah Impor Ilegal",
+   "ai_ko": "· 밀수 차단 위해 3대 요소 강화 주문\n· Suahasil Nazara 재무장관, Bea Cukai에 요구\n· BI·OJK 수장과 DPD 본회의 동석, 9/16",
+   "ai_id": "· Perkuat 3 elemen tekan impor ilegal\n· Permintaan Menkeu Suahasil ke Bea Cukai\n· Hadiri Sidang Paripurna DPD, 16/9",
+   "ai_tags": [
+    "밀수",
+    "규제",
+    "관세"
+   ],
+   "ai_tags_id": [
+    "penyelundupan",
+    "regulasi",
+    "bea cukai"
+   ]
   },
   {
    "ts": "2026-09-22T12:46:28+07:00",
@@ -20821,7 +20891,17 @@
    "url": "https://finance.detik.com/bursa-dan-valas/d-8673761/ihsg-turun-1-11-saham-bank-bumn-kompak-melemah",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/05/18/ihsg-anjlok-ke-zona-merah-bursa-saham-melemah-tajam-1779098741437_169.jpeg?w=360&q=90",
    "t_ko": "IHSG 1.11% 하락 및 국영 은행주 동반 약세",
-   "t_id": "IHSG Turun 1,11%, Saham Bank BUMN Kompak Melemah"
+   "t_id": "IHSG Turun 1,11%, Saham Bank BUMN Kompak Melemah",
+   "ai_ko": "· IHSG 1.11% 하락한 6,313.56, LQ45 0.73% 약세\n· 국영은행 BBRI -1.82%, BBNI -1.38%, BMRI -0.24%\n· 장중 고점 6,423.83서 반락, 513개 종목 하락",
+   "ai_id": "· IHSG melemah 1,11% ke 6.313,56, LQ45 -0,73%\n· Bank BUMN kompak turun: BBRI, BBNI, BMRI\n· Berbalik dari level tertinggi 6.423,83 pagi tadi",
+   "ai_tags": [
+    "증시",
+    "은행"
+   ],
+   "ai_tags_id": [
+    "IHSG",
+    "bank"
+   ]
   },
   {
    "ts": "2026-09-22T12:46:26+07:00",
@@ -20833,7 +20913,17 @@
    "url": "https://ekonomi.republika.co.id/berita/tlr41e490/mentan-pastikan-tiga-anak-pegawai-yang-gugur-di-papua-dapat-bekerja-di-bulog",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260922124219-485.png",
    "t_ko": "농림장관, 파푸아 순직 직원 자녀 3명 Bulog 채용 보장",
-   "t_id": "Mentan Pastikan Tiga Anak Pegawai yang Gugur di Papua Dapat Bekerja di Bulog"
+   "t_id": "Mentan Pastikan Tiga Anak Pegawai yang Gugur di Papua Dapat Bekerja di Bulog",
+   "ai_ko": "· 유족에 총 Rp3억 지원, 장학금 1인당 Rp5,000만\n· 농업부 Andi Amran Sulaiman 장관, Bulog 채용 확정\n· Papua Pegunungan 식량 배송 중 피격 사망 직원 유족 지원",
+   "ai_id": "· Bantuan total Rp300 juta, beasiswa Rp50 juta per anak\n· Mentan Amran pastikan tiga anak korban kerja di Bulog\n· Pegawai gugur ditembak saat antar pangan di Jayawijaya",
+   "ai_tags": [
+    "정책",
+    "식량"
+   ],
+   "ai_tags_id": [
+    "kebijakan",
+    "pangan"
+   ]
   },
   {
    "ts": "2026-09-22T12:45:00+07:00",
@@ -20845,7 +20935,19 @@
    "url": "https://www.idnfinancials.com/news/69227/jci-down-1-11-in-first-session-these-stocks-still-bought-by-foreign",
    "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/IHSG%20DOWN-min.jpg",
    "t_ko": "IHSG 1부 1.11% 하락 — 외국인 순매수 종목",
-   "t_id": "IHSG Turun 1,11% di Sesi Pertama, Saham-Saham Ini Tetap Diborong Asing"
+   "t_id": "IHSG Turun 1,11% di Sesi Pertama, Saham-Saham Ini Tetap Diborong Asing",
+   "ai_ko": "· 외국인 Rp3,511억 순매도, IHSG 1.11% 하락\n· 순매수 상위 AMMN(Rp548.5억)·ISAT·MDKA·CPIN·VKTR, 순매도 상위 BBRI(Rp1,296억)·TINS·TPIA·BMRI·BBCA\n· 은행주 중심 매도, 광물·통신주는 매수 지속",
+   "ai_id": "· Asing net sell Rp351,12 miliar di sesi I\n· Net buy: AMMN, ISAT, MDKA, CPIN, VKTR; net sell: BBRI, TINS, TPIA, BMRI, BBCA\n· Bank dijual, tambang-telko diakumulasi",
+   "ai_tags": [
+    "외국인",
+    "순매도",
+    "증시"
+   ],
+   "ai_tags_id": [
+    "asing",
+    "net sell",
+    "IHSG"
+   ]
   },
   {
    "ts": "2026-09-22T12:35:00+07:00",
@@ -20857,7 +20959,19 @@
    "url": "https://ekonomi.republika.co.id/berita/tlr2he423/amran-targetkan-penanaman-bahan-baku-etanol-dimulai-tahun-depan",
    "img": "https://static.republika.co.id/uploads/images/detailnews/095601200-1784305546-830-556.jpg",
    "t_ko": "Amran, 내년부터 에탄올 원료 재배 착수 목표",
-   "t_id": "Amran Targetkan Tanam Bahan Baku Etanol Mulai Tahun Depan"
+   "t_id": "Amran Targetkan Tanam Bahan Baku Etanol Mulai Tahun Depan",
+   "ai_ko": "· 에탄올 원료작물 내년 식재 착수 목표\n· Amran 농업장관, 군수 44명 참여\n· Prabowo 지시, 군별 옥수수 1,000ha 시범",
+   "ai_id": "· Tanam bahan baku etanol tahun depan\n· Mentan Amran, didukung 44 bupati\n· Arahan Prabowo, uji jagung 1.000 ha",
+   "ai_tags": [
+    "에탄올",
+    "농업",
+    "정책"
+   ],
+   "ai_tags_id": [
+    "etanol",
+    "pertanian",
+    "kebijakan"
+   ]
   },
   {
    "ts": "2026-09-22T12:26:39+07:00",
@@ -20869,55 +20983,19 @@
    "url": "https://ekonomi.republika.co.id/berita/tlr34f490/beras-impor-disamarkan-jadi-bahan-kimia-bea-cukai-bongkar-modusnya",
    "img": "https://static.republika.co.id/uploads/images/detailnews/038824000-1790052252-830-556.jpg",
    "t_ko": "화학물질로 위장한 수입 쌀, 관세청 밀수 적발",
-   "t_id": "Beras Impor Disamarkan Jadi Bahan Kimia, Bea Cukai Bongkar Modusnya"
-  },
-  {
-   "ts": "2026-09-22T12:21:52+07:00",
-   "date": "2026-09-22",
-   "time": "12:21",
-   "src": "Jawa Pos",
-   "t": "Gagalkan Penyelundupan Beras, Suahasil: Menodai Swasembada Pangan Indonesia",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220219/gagalkan-penyelundupan-beras-suahasil-menodai-swasembada-pangan-indonesia",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
-   "t_ko": "Suahasil, 쌀 밀수 적발에 인도네시아 식량 자급자족 훼손 지적",
-   "t_id": "Gagalkan Penyelundupan Beras, Suahasil: Nodai Swasembada Pangan RI"
-  },
-  {
-   "ts": "2026-09-22T12:15:24+07:00",
-   "date": "2026-09-22",
-   "time": "12:15",
-   "src": "Detik",
-   "t": "Rasio Elektrifikasi RI 99%, Tapi 10.000 Desa Masih Gelap Gulita",
-   "tags": [],
-   "url": "https://finance.detik.com/energi/d-8673815/rasio-elektrifikasi-ri-99-tapi-10-000-desa-masih-gelap-gulita",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/menteri-esdm-bahlil-lahadalia-1790052927263_169.jpeg?w=360&q=90",
-   "t_ko": "인도네시아 전력화율 99%, 그러나 1만 개 마을 전력 공급 미비",
-   "t_id": "Rasio Elektrifikasi RI 99%, 10.000 Desa Masih Gelap Gulita"
-  },
-  {
-   "ts": "2026-09-22T12:07:00+07:00",
-   "date": "2026-09-22",
-   "time": "12:07",
-   "src": "Republika",
-   "t": "RUU Ketenagakerjaan Perlu Jaga Kepastian Berusaha",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlqr6i522/ruu-ketenagakerjaan-perlu-jaga-kepastian-berusaha",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/puluhan-penyandang-disabilitas-tuli-menghadiri-bursa-kerja-yang-diselenggarakan_260917164114-912.jpeg",
-   "t_ko": "근로기준법 개정안, 기업 경영 확실성 보장 필요",
-   "t_id": "RUU Ketenagakerjaan Perlu Jaga Kepastian Usaha"
-  },
-  {
-   "ts": "2026-09-22T12:06:14+07:00",
-   "date": "2026-09-22",
-   "time": "12:06",
-   "src": "Republika",
-   "t": "Discovery Commerce Buka Peluang Baru bagi UMKM di Era Digital",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlr26e423/discovery-commerce-buka-peluang-baru-bagi-umkm-di-era-digital",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922120436-866.png",
-   "t_ko": "Discovery Commerce, 디지털 시대 중소기업 새 판로 열어",
-   "t_id": "Discovery Commerce Buka Peluang Baru bagi UMKM di Era Digital"
+   "t_id": "Beras Impor Disamarkan Jadi Bahan Kimia, Bea Cukai Bongkar Modusnya",
+   "ai_ko": "· 쌀 202.45톤·소금 211톤 밀수 적발\n· 관세청, Tanjung Perak항서 컨테이너 15개 압수\n· 화학품 위장 수입, 8~9월 4건 Rp273.39억",
+   "ai_id": "· Sitaan 202,45 ton beras, 211 ton garam\n· Bea Cukai bongkar 15 kontainer di Tanjung Perak\n· Modus samar bahan kimia, total Rp27,339 miliar",
+   "ai_tags": [
+    "밀수",
+    "규제",
+    "곡물"
+   ],
+   "ai_tags_id": [
+    "penyelundupan",
+    "regulasi",
+    "beras"
+   ]
   }
  ],
  "kisi_news": [
@@ -21079,9 +21157,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "13.16",
-   "d": 2.42,
-   "ytd": 13.31,
+   "v": "13.17",
+   "d": 2.48,
+   "ytd": 13.37,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -21116,7 +21194,7 @@
    "k": "달러 인덱스 (DXY)",
    "v": "100.44",
    "d": 0.08,
-   "ytd": 2.2,
+   "ytd": 2.19,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -21126,9 +21204,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.23",
-   "d": -1.87,
-   "ytd": 58.88,
+   "v": "90.94",
+   "d": -2.18,
+   "ytd": 58.38,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -21138,9 +21216,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,351.1",
-   "d": -0.64,
-   "ytd": 0.59,
+   "v": "4,351.8",
+   "d": -0.62,
+   "ytd": 0.61,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -23411,7 +23489,9 @@
    "title_id": "Penyampaian Laporan Keuangan Interim Auditan",
    "kind_ko": "실적",
    "kind_id": "Laporan Keuangan",
-   "rk": 98
+   "rk": 98,
+   "ai_ko": "· MEDC 2026년 상반기 감사보고서 제출\n· 2026년 6월 30일 기준 경영실적 공시\n· 에너지 부문 실적 점검 계기",
+   "ai_id": "· Laporan Keuangan MEDC Juni 2026\n· Periode 6 bulan berakhir 30 Juni 2026\n· Referensi kinerja sektor energi"
   },
   {
    "ts": "2026-09-21T11:57:55+07:00",
@@ -23425,7 +23505,9 @@
    "title_id": "Penyampaian Laporan Keuangan Interim Auditan",
    "kind_ko": "실적",
    "kind_id": "Laporan Keuangan",
-   "rk": 98
+   "rk": 98,
+   "ai_ko": "· 2026년 상반기 감사보고서 제출 완료\n· 자산 규모 12,138,675천 USD 계상\n· 자회사 실적 및 재무 구조 점검",
+   "ai_id": "· Penyampaian laporan keuangan audit 2026\n· Total aset 12.138.675 ribu USD tercatat\n· Tinjauan kinerja dan struktur keuangan"
   },
   {
    "ts": "2026-09-22T15:33:33+07:00",
@@ -23439,7 +23521,9 @@
    "title_id": "Penyampaian Bukti Iklan Informasi Rencana Pembagian dividen saham / Saham Bonus",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
-   "rk": 96
+   "rk": 96,
+   "ai_ko": "· 주식 배당 및 보너스 주식 계획 공시 광고 제출\n· 주당 배당금 미기재, 총액 미기재, 배당락일 미기재, 지급일 미기재\n· 주주 가치 제고를 위한 주식 배당 추진",
+   "ai_id": "· Penyampaian iklan dividen saham/bonus\n· DPS tidak disebutkan, total tidak disebutkan\n· Peningkatan nilai bagi pemegang saham"
   },
   {
    "ts": "2026-09-22T15:07:39+07:00",
@@ -25366,9 +25450,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 16:34",
-  "pc_age_min": 11,
+  "pc_age_min": 17,
   "news_ai_cache": 150,
-  "news_ai_hit": 99,
+  "news_ai_hit": 97,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -27161,9 +27245,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "루피아 환율 약세와 BYAN 및 BBRI 등 대형주 부진, 에너지·금융업종 하락세에 영향받아 IHSG 1.69% 하락 마감.",
-   "id": "IHSG ditutup melemah 1,69% dipengaruhi oleh pelemahan nilai tukar rupiah, pelemahan saham berkapitalisasi besar seperti BYAN dan BBRI, serta penurunan di sektor energi dan keuangan.",
-   "ts": "2026-09-22T16:45:16.210524+07:00"
+   "ko": "BYAN(-9.71%)과 BBRI(-3.64%) 등 대형주 약세 및 에너지 업종(-3.94%) 급락에 힘입어 IHSG 1.69% 하락 마감.",
+   "id": "IHSG ditutup melemah 1,69% ditekan oleh pelemahan saham berkapitalisasi besar seperti BYAN (-9,71%) dan BBRI (-3,64%) serta kejatuhan sektor energi (-3,94%).",
+   "ts": "2026-09-22T16:51:21.409629+07:00"
   }
  },
  "top_day": "2026-09-22",
@@ -27190,33 +27274,7 @@
     "regulasi"
    ],
    "score": 417.95,
-   "srcs": 5
-  },
-  {
-   "ts": "2026-09-22T15:04:53+07:00",
-   "date": "2026-09-22",
-   "time": "15:04",
-   "src": "Republika",
-   "t": "Menkeu: Pemerintahan Prabowo Lunasi Utang Obligasi BLBI Rp 218,3 Triliun",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlrag5484/menkeu-pemerintahan-prabowo-lunasi-utang-obligasi-blbi-rp-2183-triliun",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922145952-596.png",
-   "t_ko": "재무장관, Prabowo 정부 BLBI 채권 빚 Rp218.3조 상환",
-   "t_id": "Menkeu: Pemerintahan Prabowo Lunasi Utang Obligasi BLBI Rp 218,3 Triliun",
-   "ai_ko": "· BLBI 채권 Rp218.3조 상환 완료\n· 재무부, Bank Indonesia 대상 채무 종결\n· 8월 최종 상환, BI 잉여금 기반 비조세수입 활용",
-   "ai_id": "· Utang obligasi BLBI Rp218,3 triliun lunas\n· Menkeu Suahasil lapor ke Presiden\n· Bayar akhir Agustus 2026 dari PNBP surplus BI",
-   "ai_tags": [
-    "BLBI",
-    "국채",
-    "재정"
-   ],
-   "ai_tags_id": [
-    "BLBI",
-    "obligasi",
-    "fiskal"
-   ],
-   "score": 417.35,
-   "srcs": 2
+   "srcs": 4
   },
   {
    "ts": "2026-09-22T14:59:00+07:00",
@@ -27244,6 +27302,32 @@
     "impor",
     "harga komoditas"
    ]
+  },
+  {
+   "ts": "2026-09-22T15:04:53+07:00",
+   "date": "2026-09-22",
+   "time": "15:04",
+   "src": "Republika",
+   "t": "Menkeu: Pemerintahan Prabowo Lunasi Utang Obligasi BLBI Rp 218,3 Triliun",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlrag5484/menkeu-pemerintahan-prabowo-lunasi-utang-obligasi-blbi-rp-2183-triliun",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922145952-596.png",
+   "t_ko": "재무장관, Prabowo 정부 BLBI 채권 빚 Rp218.3조 상환",
+   "t_id": "Menkeu: Pemerintahan Prabowo Lunasi Utang Obligasi BLBI Rp 218,3 Triliun",
+   "ai_ko": "· BLBI 채권 Rp218.3조 상환 완료\n· 재무부, Bank Indonesia 대상 채무 종결\n· 8월 최종 상환, BI 잉여금 기반 비조세수입 활용",
+   "ai_id": "· Utang obligasi BLBI Rp218,3 triliun lunas\n· Menkeu Suahasil lapor ke Presiden\n· Bayar akhir Agustus 2026 dari PNBP surplus BI",
+   "ai_tags": [
+    "BLBI",
+    "국채",
+    "재정"
+   ],
+   "ai_tags_id": [
+    "BLBI",
+    "obligasi",
+    "fiskal"
+   ],
+   "score": 415.15,
+   "srcs": 1
   },
   {
    "ts": "2026-09-22T13:29:30+07:00",
@@ -27280,7 +27364,7 @@
    "g": 1,
    "score": 315.0,
    "srcs": 4,
-   "t_ko": "브렌트유 100달러 하회 속 기술주 중심 증시 강세 유지",
+   "t_ko": "브렌트유 100달러 하회 속 기술주 중심 증시 상승",
    "t_id": "Saham Pertahankan Kenaikan Teknologi saat Brent Turun di Bawah $100: Rangkuman Pasar"
   }
  ],

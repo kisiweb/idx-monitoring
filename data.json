@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 23:19",
+ "updated": "2026-09-22 23:32",
  "delay_min": 15,
  "fx_basis": "13.15 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,359 · 21:00 Yahoo",
- "idr_per_krw": 13.1533,
+ "idr_per_krw": 13.1538,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16833,11 +16833,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7762.64,
+   "px": 7759.63,
    "prev": 7764.22,
-   "pct": -0.02,
+   "pct": -0.06,
    "mst": 0,
-   "asof": "12:15",
+   "asof": "12:30",
    "live": true,
    "spark": [
     7779.14,
@@ -16873,18 +16873,21 @@
     7761.15,
     7763.23,
     7763.89,
-    7762.64
+    7761.44,
+    7758.27,
+    7759.63,
+    7759.63
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27191.39,
+   "px": 27171.55,
    "prev": 27122.09,
-   "pct": 0.26,
+   "pct": 0.18,
    "mst": 0,
-   "asof": "12:15",
+   "asof": "12:30",
    "live": true,
    "spark": [
     27223.51,
@@ -16920,18 +16923,21 @@
     27189.7,
     27194.61,
     27190.55,
-    27191.39
+    27187.59,
+    27177.09,
+    27171.4,
+    27171.55
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51806.73,
+   "px": 51807.92,
    "prev": 52053.88,
    "pct": -0.47,
    "mst": 0,
-   "asof": "12:15",
+   "asof": "12:30",
    "live": true,
    "spark": [
     52161.89,
@@ -16967,7 +16973,10 @@
     51780.34,
     51794.27,
     51822.92,
-    51806.73
+    51791.72,
+    51774.54,
+    51807.17,
+    51807.92
    ]
   },
   {
@@ -17304,6 +17313,21 @@
   }
  },
  "news": [
+  {
+   "ts": "2026-09-22T23:30:00+07:00",
+   "date": "2026-09-22",
+   "time": "23:30",
+   "src": "IDNFinancials",
+   "t": "Foreign outflow of IDR 671.63 billion, BBRI leads sell-off",
+   "tags": [
+    "BBRI",
+    "TAPG"
+   ],
+   "url": "https://www.idnfinancials.com/news/69252/foreign-outflow-of-idr-671-63-billion-bbri-leads-sell-off",
+   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/NET%20FOREIGN%20IMAGE%20%28ARIF%29/NET%20FOREIGN%2014.jpeg",
+   "t_ko": "외국인 Rp6,716억 순매도 — BBRI 매도세 주도",
+   "t_id": "Capital Outflow Rp671,63 Miliar, BBRI Pimpin Aksi Jual"
+  },
   {
    "ts": "2026-09-22T22:30:00+07:00",
    "date": "2026-09-22",
@@ -17755,33 +17779,6 @@
    ]
   },
   {
-   "ts": "2026-09-22T08:00:00+07:00",
-   "date": "2026-09-22",
-   "time": "08:00",
-   "src": "IDNFinancials",
-   "t": "Dato Tahir divested 37 million MPRO, holding 10.49%",
-   "tags": [
-    "MPRO",
-    "NSSS"
-   ],
-   "url": "https://www.idnfinancials.com/news/69181/dato-tahir-divested-37-million-mpro-holding-10-49",
-   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/DATO-SRI-TAHIR-MPRO%2014102025.jpg",
-   "t_ko": "Dato Tahir, MPRO 지분 3,700만 주 처분해 지분율 10.49%로 축소",
-   "t_id": "Dato Tahir Lepas 37 Juta Saham MPRO, Genggam Kepemilikan 10,49%",
-   "ai_ko": "· Dato Tahir, MPRO 3,700만주 매도\n· 지분율 10.86%→10.49%로 축소\n· Samuel Tumbuh Bersama는 NSSS 36.75%로 확대",
-   "ai_id": "· Dato Tahir lepas 37 juta saham MPRO\n· Kepemilikan turun 10,86% ke 10,49%\n· Samuel Tumbuh Bersama NSSS jadi 36,75%",
-   "ai_tags": [
-    "지분변동",
-    "자사주매입",
-    "대주주"
-   ],
-   "ai_tags_id": [
-    "perubahan kepemilika",
-    "buyback",
-    "pemegang saham"
-   ]
-  },
-  {
    "ts": "2026-09-22T06:30:40+07:00",
    "date": "2026-09-22",
    "time": "06:30",
@@ -18069,6 +18066,67 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T23:30:27.916332+07:00",
+   "date": "2026-09-22",
+   "time": "23:30",
+   "src": "Jawa Pos",
+   "t": "Status Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Tapi Biaya Ditanggung Negara",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220333/status-manajer-kopdes-merah-putih-bukan-pegawai-bumn-tapi-biaya-ditanggung-negara",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/04/28/kepala-bp-bumn-dony-oskaria-nurul-fitrianajawaposcom-ZzEDH.webp",
+   "t_ko": "Kopdes Merah Putih 매니저, BUMN 직원 아니나 국가 재정 부담",
+   "t_id": "Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Gaji Dibebankan ke Negara"
+  },
+  {
+   "ts": "2026-09-22T23:29:20+07:00",
+   "date": "2026-09-22",
+   "time": "23:29",
+   "src": "CNBC",
+   "t": "Treasury yields are little changed as traders await Fed comments",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
+   "g": 1,
+   "t_ko": "연준 발언 대기 속 미국 국채 금리 보합세",
+   "t_id": "Imbal Hasil US Treasury Cenderung Mendatar Jelang Komentar The Fed"
+  },
+  {
+   "ts": "2026-09-22T23:28:21+07:00",
+   "date": "2026-09-22",
+   "time": "23:28",
+   "src": "CNBC",
+   "t": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+   "g": 1,
+   "t_ko": "Trump, 중간선거 후 Iran이 타협할 것이라 언급 후 유가 보합세",
+   "t_id": "Minyak Tipis Usai Trump Sebut Iran Bakal Sepakat Pasca-Pemilu Midterm"
+  },
+  {
+   "ts": "2026-09-22T23:26:00+07:00",
+   "date": "2026-09-22",
+   "time": "23:26",
+   "src": "WSJ",
+   "t": "Auto & Transport Roundup: Market Talk",
+   "tags": [],
+   "url": "https://www.wsj.com/business/auto-transport-roundup-market-talk-83121414?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-96905171",
+   "t_ko": "자동차·운송 섹터 동향 정리",
+   "t_id": "Rangkuman Auto & Transport: Ulasan Pasar"
+  },
+  {
+   "ts": "2026-09-22T23:19:07+07:00",
+   "date": "2026-09-22",
+   "time": "23:19",
+   "src": "Bloomberg",
+   "t": "BlackRock, Vanguard Muni ETFs See Record Inflows After Bond Rout",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/blackrock-vanguard-muni-etfs-see-record-inflows-after-bond-rout",
+   "g": 1,
+   "t_ko": "BlackRock·Vanguard 지방채 ETF, 채권 급락 속 사상 최대 유입",
+   "t_id": "ETF Muni BlackRock dan Vanguard Catat Rekor Masuknya Dana Usai Kejatuhan Obligasi"
+  },
+  {
    "ts": "2026-09-22T23:14:00+07:00",
    "date": "2026-09-22",
    "time": "23:14",
@@ -18093,16 +18151,17 @@
    "t_id": "Trump Semprot CNN di PBB: 'Anda Seharusnya Tidak di Sini Meliput Saya'"
   },
   {
-   "ts": "2026-09-22T23:10:53+07:00",
+   "ts": "2026-09-22T23:09:17+07:00",
    "date": "2026-09-22",
-   "time": "23:10",
-   "src": "CNBC",
-   "t": "Treasury yields are little changed as traders await Fed comments",
+   "time": "23:09",
+   "src": "BBC",
+   "t": "Davey promises tax cuts for millions if UK rejoins EU single market",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
+   "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
    "g": 1,
-   "t_ko": "연준 발언 대기 속 미국 국채 금리 보합세",
-   "t_id": "Imbal Hasil US Treasury Cenderung Mendatar Jelang Komentar The Fed"
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efbc/live/4e7c88d0-b696-11f1-bc1f-3f186ca4140c.jpg",
+   "t_ko": "Davey, UK의 EU 단일시장 복귀 시 수백만 명 감세 공약",
+   "t_id": "Davey Janjikan Pemotongan Pajak Jutaan Warga Jika UK Gabung Lagi Pasar Tunggal EU"
   },
   {
    "ts": "2026-09-22T23:05:57+07:00",
@@ -18115,6 +18174,31 @@
    "g": 1,
    "t_ko": "Wall Street, 유가 향방 불투명 속 만장일치 매수 종목 선정",
    "t_id": "Sullivan: Wall Street Bingung Arah Minyak, Tapi Sepakat Satu Saham Ini"
+  },
+  {
+   "ts": "2026-09-22T23:05:51+07:00",
+   "date": "2026-09-22",
+   "time": "23:05",
+   "src": "Bloomberg",
+   "t": "Corn Eases With China in Focus as US Harvest Set to Accelerate",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/corn-eases-with-china-in-focus-as-us-harvest-set-to-accelerate",
+   "g": 1,
+   "t_ko": "미국 수확기 가속 속 중국 주시하며 옥수수 가격 하락",
+   "t_id": "Jagung Melemah Kala Fokus ke China Seiring Panen AS Siap Melaju"
+  },
+  {
+   "ts": "2026-09-22T23:05:01+07:00",
+   "date": "2026-09-22",
+   "time": "23:05",
+   "src": "Yahoo Finance",
+   "t": "Exxon Just Set a Bold 2030 Target for LNG Sales. Here's What 50 Million Tons Actually Means.",
+   "tags": [],
+   "url": "https://finance.yahoo.com/energy/articles/exxon-just-set-bold-2030-160501222.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/597b41199abe8e072586fea13085f8df.png",
+   "t_ko": "Exxon, 2030년 LNG 판매 5,000만 톤 목표 제시",
+   "t_id": "Exxon Tetapkan Target Berani 2030 untuk Penjualan LNG, Ini Arti 50 Juta Ton Sebenarnya"
   },
   {
    "ts": "2026-09-22T23:04:39+07:00",
@@ -18149,8 +18233,8 @@
    "tags": [],
    "url": "https://finance.detik.com/foto-bisnis/d-8674008/permintaan-tabung-oksigen-naik-di-tengah-kabut-asap-palangka-raya",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/permintaan-tabung-oksigen-di-palangka-raya-meningkat-1790061890912.jpeg?w=360&q=90",
-   "t_id": "Permintaan Tabung Oksigen Naik di Tengah Kabut Asap Palangka Raya",
-   "t_ko": "Palangka Raya 스모그 속 산소통 수요 증가"
+   "t_ko": "Palangka Raya 스모그 속 산소통 수요 증가",
+   "t_id": "Permintaan Tabung Oksigen Naik di Tengah Kabut Asap Palangka Raya"
   },
   {
    "ts": "2026-09-22T23:00:00+07:00",
@@ -18161,6 +18245,31 @@
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/936441/ruu-reforma-agraria-diharapkan-dorong-pemerataan-penguasaan-tanah",
    "t_ko": "토지개혁법안, 토지 소유 분배 형평성 제고 기대"
+  },
+  {
+   "ts": "2026-09-22T22:57:55+07:00",
+   "date": "2026-09-22",
+   "time": "22:57",
+   "src": "Yahoo Finance",
+   "t": "As Amazon Stock Prospers, Traders Might Consider This Option Play",
+   "tags": [],
+   "url": "https://www.investors.com/research/options/amazon-amzn-stock-bull-put-spread-options/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/3d5183f3473c20f2be82caadb8b34de3.jpg",
+   "t_ko": "Amazon 주가 상승세 속 옵션 투자 전략 부각",
+   "t_id": "Saat Saham Amazon Berjaya, Trader Bisa Lirik Opsi Ini"
+  },
+  {
+   "ts": "2026-09-22T22:57:54+07:00",
+   "date": "2026-09-22",
+   "time": "22:57",
+   "src": "CNBC",
+   "t": "Altman and Amodei expected to join UN Security Council meeting about AI",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
+   "g": 1,
+   "t_ko": "Altman·Amodei, AI 주제 UN 안보리 회의 참석 전망",
+   "t_id": "Altman dan Amodei Diharapkan Hadiri Rapat Dewan Keamanan PBB soal AI"
   },
   {
    "ts": "2026-09-22T22:48:12+07:00",
@@ -18199,32 +18308,6 @@
    "t_id": "Program Baznas Microfinance Desa Berhasil Kembangkan Usaha Tempe di Demak"
   },
   {
-   "ts": "2026-09-22T22:46:15+07:00",
-   "date": "2026-09-22",
-   "time": "22:46",
-   "src": "CNA",
-   "t": "Nasdaq sets record high on AI optimism, oil drops below $100",
-   "tags": [],
-   "url": "https://www.channelnewsasia.com/business/nasdaq-sets-record-high-ai-optimism-oil-drops-below-100-6401081",
-   "g": 1,
-   "img": "https://dam.mediacorp.sg/image/upload/s--q7WF2-lv--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T155749Z_1_LYNXMPEM8L1AJ_RTROPTP_3_USA-FED-STOCKS.JPG?itok=wKr1aYdN",
-   "t_ko": "AI 낙관론에 나스닥 최고가 경신 및 유가 100달러 하회",
-   "t_id": "Nasdaq Cetak Rekor Tertinggi Ditopang Optimisme AI, Minyak Anjlok di Bawah $100"
-  },
-  {
-   "ts": "2026-09-22T22:43:14+07:00",
-   "date": "2026-09-22",
-   "time": "22:43",
-   "src": "BBC",
-   "t": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-   "tags": [],
-   "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-   "g": 1,
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e040/live/3904a2b0-b675-11f1-b711-df5e4d50c2fd.jpg",
-   "t_ko": "Sir Jim Ratcliffe, 고가스 가격을 이유로 영국 주요 공장 가동 중단",
-   "t_id": "Sir Jim Ratcliffe Hentikan Produksi di Pabrik Utama Inggris Akibat Harga Gas Tinggi"
-  },
-  {
    "ts": "2026-09-22T22:40:29+07:00",
    "date": "2026-09-22",
    "time": "22:40",
@@ -18237,44 +18320,6 @@
    "t_id": "KEK Industropolis Batang Kembangkan Ruang Publik di Tengah Kawasan Industri"
   },
   {
-   "ts": "2026-09-22T22:39:59+07:00",
-   "date": "2026-09-22",
-   "time": "22:39",
-   "src": "Bloomberg",
-   "t": "Paramount’s $49 Billion Debt Sale to Kick Off After Lawsuits End",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/paramount-s-49-billion-debt-sale-to-kick-off-after-lawsuits-end",
-   "g": 1,
-   "t_ko": "소송 종결 앞둔 Paramount, $490억 규모 채권 발행 개시",
-   "t_id": "Penjualan Utang Paramount $49 Miliar Dimulai Usai Gugatan Selesai"
-  },
-  {
-   "ts": "2026-09-22T22:39:00+07:00",
-   "date": "2026-09-22",
-   "time": "22:39",
-   "src": "MarketWatch",
-   "t": "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-30557006",
-   "t_ko": "비과세 채권 금리 매력 부각… 지금이 투자 적기",
-   "t_id": "Imbal Hasil Obligasi Bebas Pajak di Posisi Ideal, Masuk Sebelum Terlambat"
-  },
-  {
-   "ts": "2026-09-22T22:38:53+07:00",
-   "date": "2026-09-22",
-   "time": "22:38",
-   "src": "FT",
-   "t": "EU to lift sanctions on two Russian oligarchs",
-   "tags": [],
-   "url": "https://www.ft.com/content/760091dd-20be-4152-aa0d-561475a99ee8?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3e07606f-c534-4e98-9b0c-02f92853ebeb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "EU, 러시아 올리고르크 2명 제재 해제",
-   "t_id": "Uni Eropa Cabut Sanksi Dua Oligarki Rusia"
-  },
-  {
    "ts": "2026-09-22T22:35:26+07:00",
    "date": "2026-09-22",
    "time": "22:35",
@@ -18285,44 +18330,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/07/20/mulai-investasi-di-exchange-crypto-2026-simak-tipsnya-untuk-pemula-1784542058111_169.png?w=360&q=90",
    "t_ko": "비트코인 USD 87,000 돌파 배경과 주요 촉매",
    "t_id": "Bitcoin Tembus US$ 87.000, Ini Sederet Pemicunya"
-  },
-  {
-   "ts": "2026-09-22T22:30:00+07:00",
-   "date": "2026-09-22",
-   "time": "22:30",
-   "src": "Yahoo Finance",
-   "t": "Obama says AI flipped from 90% human-taught to 50/50 in under a year — the six-figure jobs he says go first",
-   "tags": [],
-   "url": "https://finance.yahoo.com/technology/ai/articles/obama-says-ai-flipped-90-153000409.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/moneywise_327/99529ee2c745480b2429508254b13077.jpg",
-   "t_ko": "Obama, AI 학습 방식 1년 만에 역전 — 고액 연봉 일자리 타격 경고",
-   "t_id": "Obama Sebut AI Bergeser Cepat, Ungkap Pekerjaan Bergaji Tinggi yang Terdampak"
-  },
-  {
-   "ts": "2026-09-22T22:26:27+07:00",
-   "date": "2026-09-22",
-   "time": "22:26",
-   "src": "Yahoo Finance",
-   "t": "Circle Stock Spikes As Binance Takes $100 Million Slice",
-   "tags": [],
-   "url": "https://www.investors.com/news/circle-stock-spikes-as-binance-takes-100-million-slice/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/6bf9ad4ebb5bdfc492c53b0a33acc347.jpg",
-   "t_ko": "Binance의 $1억 지분 인수 소식에 Circle 주가 급등",
-   "t_id": "Saham Circle Meroket Usai Binance Masuk $100 Juta"
-  },
-  {
-   "ts": "2026-09-22T22:23:40+07:00",
-   "date": "2026-09-22",
-   "time": "22:23",
-   "src": "CNBC",
-   "t": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-   "g": 1,
-   "t_ko": "Trump, 중간선거 후 Iran이 타협할 것이라 언급 후 유가 보합세",
-   "t_id": "Minyak Tipis Usai Trump Sebut Iran Bakal Sepakat Pasca-Pemilu Midterm"
   },
   {
    "ts": "2026-09-22T22:20:15+07:00",
@@ -19183,18 +19190,6 @@
    "t_id": "Kemendag Perkuat Tata Kelola Perdagangan Digital dan Perlindungan Konsumen"
   },
   {
-   "ts": "2026-09-22T16:34:48+07:00",
-   "date": "2026-09-22",
-   "time": "16:34",
-   "src": "Jawa Pos",
-   "t": "Status Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Tapi Biaya Ditanggung Negara",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220333/status-manajer-kopdes-merah-putih-bukan-pegawai-bumn-tapi-biaya-ditanggung-negara",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/04/28/kepala-bp-bumn-dony-oskaria-nurul-fitrianajawaposcom-ZzEDH.webp",
-   "t_ko": "Kopdes Merah Putih 매니저, BUMN 직원 아니나 국가 재정 부담",
-   "t_id": "Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Gaji Dibebankan ke Negara"
-  },
-  {
    "ts": "2026-09-22T16:30:00+07:00",
    "date": "2026-09-22",
    "time": "16:30",
@@ -19615,9 +19610,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.69",
-   "d": 0.33,
-   "ytd": 2.45,
+   "v": "100.68",
+   "d": 0.31,
+   "ytd": 2.44,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19627,9 +19622,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.99",
-   "d": -1.05,
-   "ytd": 60.21,
+   "v": "91.65",
+   "d": -1.42,
+   "ytd": 59.61,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19639,8 +19634,8 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,363.5",
-   "d": -0.36,
+   "v": "4,363.7",
+   "d": -0.35,
    "ytd": 0.88,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
@@ -23733,9 +23728,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 291,
+  "pc_age_min": 304,
   "news_ai_cache": 92,
-  "news_ai_hit": 34,
+  "news_ai_hit": 33,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -25574,18 +25569,18 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T18:37:50+07:00",
+   "ts": "2026-09-22T23:30:27.916332+07:00",
    "date": "2026-09-22",
-   "time": "18:37",
+   "time": "23:30",
    "src": "Jawa Pos",
-   "t": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
+   "t": "Status Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Tapi Biaya Ditanggung Negara",
    "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220201/bea-cukai-gagalkan-impor-ilegal-30-kontainer-garam-beras-dan-pakaian-bekas-senilai-rp-27-miliar",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/oFwNvShi6HMpFilTS8NeN4zVnyanzDadChdTf40a.webp",
-   "t_ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
-   "t_id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
-   "score": 409.95,
-   "srcs": 1
+   "url": "https://www.jawapos.com/ekonomi/2609220333/status-manajer-kopdes-merah-putih-bukan-pegawai-bumn-tapi-biaya-ditanggung-negara",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/04/28/kepala-bp-bumn-dony-oskaria-nurul-fitrianajawaposcom-ZzEDH.webp",
+   "t_ko": "Kopdes Merah Putih 매니저, BUMN 직원 아니나 국가 재정 부담",
+   "t_id": "Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Gaji Dibebankan ke Negara",
+   "score": 410.05,
+   "srcs": 3
   },
   {
    "ts": "2026-09-22T20:09:00+07:00",
@@ -25602,18 +25597,18 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T23:05:57+07:00",
+   "ts": "2026-09-22T23:28:21+07:00",
    "date": "2026-09-22",
-   "time": "23:05",
+   "time": "23:28",
    "src": "CNBC",
-   "t": "Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on",
+   "t": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
+   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
    "g": 1,
-   "t_ko": "Wall Street, 유가 향방 불투명 속 만장일치 매수 종목 선정",
-   "t_id": "Sullivan: Wall Street Bingung Arah Minyak, Tapi Sepakat Satu Saham Ini",
+   "t_ko": "Trump, 중간선거 후 Iran이 타협할 것이라 언급 후 유가 보합세",
+   "t_id": "Minyak Tipis Usai Trump Sebut Iran Bakal Sepakat Pasca-Pemilu Midterm",
    "score": 314.0,
-   "srcs": 5
+   "srcs": 6
   }
  ],
  "daylog": {

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 06:04",
+ "updated": "2026-09-23 06:08",
  "delay_min": 15,
  "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 04:45 Yahoo",
- "idr_per_krw": 13.193,
+ "idr_per_krw": 13.194,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17784,18 +17784,23 @@
    "pay": "2026-10-15",
    "yld": "14.85%",
    "name": "Resource Alam Indonesia Tbk"
-  },
-  "IFII": {
-   "dps": 5.0,
-   "type": "",
-   "ex": null,
-   "pay": null,
-   "yld": null,
-   "src": "Liputan6",
-   "url": "https://www.liputan6.com/saham/read/8294758/emiten-ifii-tebar-dividen-interim-rp-5-per-saham"
   }
  },
  "news": [
+  {
+   "ts": "2026-09-23T06:01:24+07:00",
+   "date": "2026-09-23",
+   "time": "06:01",
+   "src": "Liputan6",
+   "t": "Direktur Bayan Resources Lepas 185.200 Saham BYAN",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://www.liputan6.com/saham/read/8297468/direktur-bayan-resources-lepas-185200-saham-byan",
+   "img": "https://cdn1-production-images-kly.akamaized.net/gXHwvjdxqNEKrN1reOfK2rsnCVM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3953141/original/057037400_1646466239-Mining.jpg",
+   "t_id": "Direktur Bayan Resources Lepas 185.200 Saham BYAN",
+   "t_ko": "Bayan Resources(BYAN) 이사, BYAN 주식 18만5,200주 매도"
+  },
   {
    "ts": "2026-09-23T06:00:00+07:00",
    "date": "2026-09-23",
@@ -17808,7 +17813,7 @@
    "url": "https://www.idxchannel.com/market-news/saham-bakrie-plantations-unsp-keluar-dari-papan-fca",
    "img": "https://img.idxchannel.com/media/439/images/idx/2024/11/29/bei_idx.jpg",
    "t_id": "Saham Bakrie Plantations (UNSP) Keluar dari Papan FCA",
-   "t_ko": "Bakrie Plantations(UNSP), FCA 증권부에서 탈피"
+   "t_ko": "UNSP, FCA 명단에서 제외"
   },
   {
    "ts": "2026-09-23T05:10:00+07:00",
@@ -18534,35 +18539,47 @@
     "rumah sakit",
     "beban sewa"
    ]
-  },
-  {
-   "ts": "2026-09-18T19:56:37+07:00",
-   "date": "2026-09-18",
-   "time": "09/18",
-   "src": "Liputan6",
-   "t": "Emiten IFII Tebar Dividen Interim Rp 5 per Saham",
-   "tags": [
-    "IFII"
-   ],
-   "url": "https://www.liputan6.com/saham/read/8294758/emiten-ifii-tebar-dividen-interim-rp-5-per-saham",
-   "img": "https://cdn0-production-images-kly.akamaized.net/zs2x0mbvI5Gq_HhHXLUKVzmzC7s=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5344976/original/094862600_1757498720-4.jpg",
-   "t_ko": "IFII, 주당 Rp 5 중간배당 실시",
-   "t_id": "Emiten IFII Tebar Dividen Interim Rp 5 per Saham",
-   "ai_ko": "· IFII, 주당 Rp5 중간배당 결정\n· 2026년 상반기 순이익 Rp781.2억 기준\n· 미처분이익잉여금 Rp4,537.2억 보유",
-   "ai_id": "· IFII bagikan dividen interim Rp5\n· Laba semester I 2026 Rp78,12 miliar\n· Saldo laba ditahan Rp453,72 miliar",
-   "ai_tags": [
-    "배당",
-    "중간배당",
-    "실적"
-   ],
-   "ai_tags_id": [
-    "dividen",
-    "dividen interim",
-    "kinerja"
-   ]
   }
  ],
  "market_news": [
+  {
+   "ts": "2026-09-23T06:03:48+07:00",
+   "date": "2026-09-23",
+   "time": "06:03",
+   "src": "BBC",
+   "t": "Will a switch to light speed cut power use at data centres?",
+   "tags": [],
+   "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+   "g": 1,
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f83/live/bddd95b0-a12a-11f1-aed2-8d6da8d75094.jpg",
+   "t_ko": "빛의 속도로의 전환이 데이터센터 전력 소비 절감할까",
+   "t_id": "Transisi ke Kecepatan Cahaya Pangkas Konsumsi Daya Pusat Data?"
+  },
+  {
+   "ts": "2026-09-23T06:01:28+07:00",
+   "date": "2026-09-23",
+   "time": "06:01",
+   "src": "BBC",
+   "t": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
+   "tags": [],
+   "url": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+   "g": 1,
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e08/live/faec7d00-b6be-11f1-9432-8739e6adbfdf.jpg",
+   "t_ko": "IMF, 차입 비용 상승 속 선진국에 국가채무 감축 촉구",
+   "t_id": "IMF Minta Negara Maju 'Turunkan Utang' di Tengah Kenaikan Biaya Pinjaman"
+  },
+  {
+   "ts": "2026-09-23T06:00:49+07:00",
+   "date": "2026-09-23",
+   "time": "06:00",
+   "src": "Bloomberg",
+   "t": "India's Dixon Tech Eyes Growth Beyond SmartphonesQ",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
+   "g": 1,
+   "t_ko": "인도 Dixon Tech, 스마트폰 넘어 성장 동력 다각화 추진",
+   "t_id": "Dixon Tech Incar Pertumbuhan di Luar Ponsel Pintar"
+  },
   {
    "ts": "2026-09-23T06:00:00+07:00",
    "date": "2026-09-23",
@@ -18574,7 +18591,7 @@
    "g": 1,
    "img": "https://images.bloombergtechnoz.com/data/2023/02/image-20230201170657.jpg",
    "t_id": "AI Dorong Saham Teknologi Naik, Nasdaq Dekati Rekor Sejak Juni",
-   "t_ko": "AI 열풍에 기술주 상승, 나스닥 6월 이후 최고가 경근"
+   "t_ko": "AI 수혜에 기술주 상승 — Nasdaq 6월 이후 최고치 경신 임박"
   },
   {
    "ts": "2026-09-23T06:00:00+07:00",
@@ -18586,8 +18603,20 @@
    "url": "https://www.idnfinancials.com/news/69253/trump-xi-from-trade-war-to-tariff-truce",
    "g": 1,
    "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/TRUMP-XI-19052026.jpg",
-   "t_ko": "미·중: 무역전쟁에서 관세 휴전으로",
+   "t_ko": "트럼프와 시진핑 — 무역전쟁에서 관세 휴전으로",
    "t_id": "Trump-Xi: Dari Perang Dagang Menuju Gencatan Tarif"
+  },
+  {
+   "ts": "2026-09-23T06:00:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:00",
+   "src": "Media Indonesia",
+   "t": "Pemerintah Trump Berencana Terima 17.500 Pengungsi Kulit Putih Afrika Selatan pada Tahun Fiskal 2027",
+   "tags": [],
+   "url": "https://mediaindonesia.com/internasional/936479/pemerintah-trump-berencana-terima-17500-pengungsi-kulit-putih-afrika-selatan-pada-tahun-fiskal-2027",
+   "g": 1,
+   "t_id": "Pemerintah Trump Berencana Terima 17.500 Pengungsi Kulit Putih Afrika Selatan pada Tahun Fiskal 2027",
+   "t_ko": "트럼프 행정부, 2027 회계연도에 남아프리카공화국 백인 난민 1만7,500명 수용 계획"
   },
   {
    "ts": "2026-09-23T05:55:00+07:00",
@@ -18598,7 +18627,7 @@
    "tags": [],
    "url": "https://finance.detik.com/moneter/d-8674635/uang-rupiah-bertanda-tangan-purbaya-diburu-warga",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/ilustrasi-rupiah-1790057101049_169.jpeg?w=360&q=90",
-   "t_ko": "Purbaya 서명 루피아화 품귀 현상으로 시민들 매입 경쟁"
+   "t_ko": "Purbaya 서명 루피아화 지폐 수집 열풍"
   },
   {
    "ts": "2026-09-23T05:51:00+07:00",
@@ -18610,8 +18639,8 @@
    "url": "https://www.wsj.com/finance/currencies/5-billion-flurry-of-nearly-identical-kalshi-trades-draws-scrutiny-fa53289d?mod=rss_markets_main",
    "g": 1,
    "img": "https://images.wsj.net/im-71277077",
-   "t_ko": "50억 달러 규모 칼시 동일 거래 집중으로 당국 조사 착수",
-   "t_id": "Transaksi Kalshi Hampir Identik Senilai $5 Miliar Picu Sorotan"
+   "t_ko": "Kalshi 내 동일한 규모의 50억 달러 거래 러시로 규제 당국 주목",
+   "t_id": "Lonjakan Perdagangan Kalshi Senilai $5 Miliar yang Nyaris Identik Picu Sorotan"
   },
   {
    "ts": "2026-09-23T05:35:50+07:00",
@@ -18733,57 +18762,6 @@
    "img": "https://images.mktw.net/im-49923360",
    "t_ko": "Nasdaq 최고가 경신에 조정 대기 대신 매수 시그널 확산",
    "t_id": "Lonjakan Cepat Nasdaq ke Rekor Tertinggi Kirim Pesan ke Investor: Jangan Tunggu Koreksi untuk Beli"
-  },
-  {
-   "ts": "2026-09-23T04:44:00+07:00",
-   "date": "2026-09-23",
-   "time": "04:44",
-   "src": "WSJ",
-   "t": "Trump Threatens Iran’s ‘Annihilation’ in U.N. Speech",
-   "tags": [],
-   "url": "https://www.wsj.com/politics/policy/trump-threatens-irans-annihilation-in-u-n-speech-08b4921d?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-60954566",
-   "t_ko": "트럼프, UN 연설서 이란에 '궤멸' 경고",
-   "t_id": "Trump Ancam \"Pemusnahan\" Iran dalam Pidato PBB"
-  },
-  {
-   "ts": "2026-09-23T04:30:00+07:00",
-   "date": "2026-09-23",
-   "time": "04:30",
-   "src": "MarketWatch",
-   "t": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-75636714",
-   "t_ko": "Sandisk 주가 상승 — AI 수혜로 신고가 도달 전망",
-   "t_id": "Saham Sandisk Melesat: Analis Sebut AI Bawa Rekor Baru"
-  },
-  {
-   "ts": "2026-09-23T04:27:52+07:00",
-   "date": "2026-09-23",
-   "time": "04:27",
-   "src": "Reuters",
-   "t": "Fed's Williams says rate-control toolkit is working well",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW9XZUd5U3BmaXhkR2F4NEgwNk1FMWtuZEd0UVVFcWgxMUZkOXRDZHJqSzI5X1U2Y01BbXY0OG04c0hmOEpqMHpERWd1WUQyVElTeUdrTmJYNFBHYTFRek1XNkZRb3FEQWxJQUZpZFhkUms0MWl5LXByUDd1Y2tIbHRtVzRzUU1zbXdZQUVwMGRCR1BnZkpnMGFUc0RmNUtvcTl2bFZ1WmE1ejk1?oc=5",
-   "g": 1,
-   "t_ko": "Williams 연은 총재, 금리 통제 도구 정상 작동 중 언급",
-   "t_id": "Williams The Fed Sebut Perangkat Pengendalian Suku Bunga Berjalan Baik"
-  },
-  {
-   "ts": "2026-09-23T04:27:00+07:00",
-   "date": "2026-09-23",
-   "time": "04:27",
-   "src": "MarketWatch",
-   "t": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-19305643",
-   "t_ko": "고배타 고위험 주식 투자, 10월 중순까지 대기 권고",
-   "t_id": "Ingin Masuk Saham High-Beta Berisiko? Ini Alasan Tunggu Pertengahan Oktober"
   },
   {
    "ts": "2026-09-23T03:32:47+07:00",
@@ -20102,9 +20080,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.63",
-   "d": -3.59,
-   "ytd": 56.1,
+   "v": "89.65",
+   "d": -3.57,
+   "ytd": 56.13,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -20114,7 +20092,7 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,400.4",
+   "v": "4,400.6",
    "d": 0.49,
    "ytd": 1.73,
    "inv": false,
@@ -25177,9 +25155,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 174,
+  "pc_age_min": 178,
   "news_ai_cache": 41,
-  "news_ai_hit": 32,
+  "news_ai_hit": 31,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -26972,9 +26950,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "BYAN 주식 매각 및 대형 은행주(BBRI 등) 외국인 이탈에 따른 에너지 및 금융주 약세로 IHSG 1.69% 하락.",
-   "id": "IHSG melemah 1,69% akibat pelemahan saham energi dan perbankan di tengah penjualan saham BYAN serta keluarnya dana asing dari saham big banks seperti BBRI.",
-   "ts": "2026-09-23T06:04:25.307288+07:00"
+   "ko": "BYAN 주식 매각 소식과 대형 은행주(BBRI) 약세 속 에너지 및 금융주 중심의 매도세 출회로 IHSG 1.69% 하락 거래 중.",
+   "id": "IHSG diperdagangkan melemah 1,69% di tengah aksi jual saham energi dan keuangan, dipicu oleh kabar penjualan saham BYAN dan pelemahan saham bank besar (BBRI).",
+   "ts": "2026-09-23T06:08:20.544632+07:00"
   }
  },
  "top_day": "2026-09-23",
@@ -27893,48 +27871,48 @@
   "2026-09-23": {
    "news": [
     {
-     "t": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-     "ko": "Royal Caribbean, Sandals 지분 50% 인수 USD 30억 거래 임박",
-     "id": "Royal Caribbean Mendekati Kesepakatan US$3 Miliar Ambil 50% Saham Sandals",
+     "t": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
+     "ko": "Nasdaq 최고가 경신에 조정 대기 대신 매수 시그널 확산",
+     "id": "Lonjakan Cepat Nasdaq ke Rekor Tertinggi Kirim Pesan ke Investor: Jangan Tunggu Koreksi untuk Beli",
      "ai_ko": "",
      "ai_id": "",
-     "src": "CNBC",
-     "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
-     "time": "02:51",
+     "src": "MarketWatch",
+     "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
+     "time": "04:44",
      "tags": [],
-     "sc": 316.0,
+     "sc": 309.0,
      "slot": "global",
      "q": 85
     },
     {
-     "t": "Perkuat Infrastruktur Digital, Telkom (TLKM) Jalin Kerja Sama dengan China Unicom",
-     "ko": "TLKM, 디지털 인프라 강화를 위해 China Unicom과 협력 체결",
-     "id": "Perkuat Infrastruktur Digital, Telkom (TLKM) Jalin Kerja Sama dengan China Unicom",
+     "t": "Direktur Bayan Resources Lepas 185.200 Saham BYAN",
+     "ko": "Bayan Resources(BYAN) 이사, BYAN 주식 18만5,200주 매도",
+     "id": "Direktur Bayan Resources Lepas 185.200 Saham BYAN",
      "ai_ko": "",
      "ai_id": "",
-     "src": "IDX Channel",
-     "url": "https://www.idxchannel.com/market-news/perkuat-infrastruktur-digital-telkom-tlkm-jalin-kerja-sama-dengan-china-unicom",
-     "time": "01:00",
+     "src": "Liputan6",
+     "url": "https://www.liputan6.com/saham/read/8297468/direktur-bayan-resources-lepas-185200-saham-byan",
+     "time": "06:01",
      "tags": [
-      "TLKM"
+      "BYAN"
      ],
-     "sc": 209.8,
+     "sc": 212.8,
      "slot": "stock",
-     "q": 57
+     "q": 58
     },
     {
-     "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-     "ko": "Trump 행정부, 경유 수출 금지 가능성 검토 — 재무장관 밝혀",
-     "id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Solar, Kata Menteri Keuangan AS",
+     "t": "Uang Rupiah Bertanda Tangan Purbaya Diburu Warga",
+     "ko": "Purbaya 서명 루피아화 지폐 수집 열풍",
+     "id": "",
      "ai_ko": "",
      "ai_id": "",
-     "src": "CNBC",
-     "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-     "time": "02:59",
+     "src": "Detik",
+     "url": "https://finance.detik.com/moneter/d-8674635/uang-rupiah-bertanda-tangan-purbaya-diburu-warga",
+     "time": "05:55",
      "tags": [],
-     "sc": 311.0,
-     "slot": "global",
-     "q": 85
+     "sc": 408.8,
+     "slot": "macro",
+     "q": 93
     }
    ]
   }
@@ -46124,31 +46102,6 @@
    "srcs": 0
   },
   {
-   "t": "IFII",
-   "n": "Indonesia Fibreboard Industry",
-   "px": 220.0,
-   "pct": 3.77,
-   "val": 999871200.0,
-   "mcap": 2070640000000.0,
-   "ratio": 2.4,
-   "ev_ko": "실적·배당",
-   "ev_id": "Kinerja & dividen",
-   "hl": "IFII, 주당 Rp 5 중간배당 실시",
-   "hl_id": "Emiten IFII Tebar Dividen Interim Rp 5 per Saham",
-   "url": "https://www.liputan6.com/saham/read/8294758/emiten-ifii-tebar-dividen-interim-rp-5-per-saham",
-   "score": 65.8,
-   "s_news": 70,
-   "s_size": 33,
-   "s_surge": 70,
-   "s_move": 100,
-   "s_conc": 70,
-   "s_flow": 9,
-   "alpha": 5.46,
-   "vrank": null,
-   "flow": -0.89,
-   "srcs": 1
-  },
-  {
    "t": "UVCR",
    "n": "Trimegah Karya Pratama",
    "px": 172.0,
@@ -46296,6 +46249,31 @@
    "alpha": 3.88,
    "vrank": null,
    "flow": 54.34,
+   "srcs": 0
+  },
+  {
+   "t": "PACK",
+   "n": "Abadi Nusantara Hijau Investama",
+   "px": 560.0,
+   "pct": 9.8,
+   "val": 160010565000.0,
+   "mcap": 19104080783760.0,
+   "ratio": 2.2,
+   "ev_ko": "가격·수급 이상",
+   "ev_id": "Harga & arus dana",
+   "hl": "시장 대비 +11.49%p · 거래대금 17위 · 20일 평균 2.2배 · 외국인 5일 -15.6%",
+   "hl_id": "vs pasar +11.49%p · nilai transaksi #17 · 2.2x rata 20 hari · asing 5 hari -15.6%",
+   "url": "",
+   "score": 55.6,
+   "s_news": 0,
+   "s_size": 57,
+   "s_surge": 60,
+   "s_move": 100,
+   "s_conc": 60,
+   "s_flow": 100,
+   "alpha": 11.49,
+   "vrank": 17,
+   "flow": -15.59,
    "srcs": 0
   }
  ],

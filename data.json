@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 03:16",
+ "updated": "2026-09-23 03:20",
  "delay_min": 15,
  "fx_basis": "13.20 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 03:00 Yahoo",
- "idr_per_krw": 13.1963,
+ "idr_per_krw": 13.1964,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -105,18 +105,18 @@
    "prev": 7.143,
    "pct": 0.4,
    "spark": [
-    7.095,
-    7.096,
-    7.156,
-    7.156,
-    7.156,
-    7.12
+    7.1743,
+    7.1679,
+    7.1696,
+    7.1542,
+    7.1426,
+    7.1462
    ],
    "span": "1M",
    "inv": true,
    "unit": "bp",
    "asof": "PHEI · 09/22",
-   "spark_stale": "investing.com · 09/15"
+   "spark_stale": "PHEI · 09/22"
   }
  ],
  "index": {
@@ -201,8 +201,7 @@
    "nrv": 2290125,
    "nrq": 370,
    "nrf": 6,
-   "nrper": 381688,
-   "nonreg": 14
+   "nrper": 381688
   },
   {
    "t": "BMRI",
@@ -543,12 +542,7 @@
    "lo": 725.0,
    "ratio": 4.0,
    "fnet": -100928522.94615768,
-   "live": 0,
-   "nrv": 15000000000,
-   "nrq": 20000000,
-   "nrf": 1,
-   "nrper": 15000000000,
-   "nonreg": 80
+   "live": 0
   },
   {
    "t": "TRIN",
@@ -564,12 +558,7 @@
    "lo": 342.0,
    "ratio": 1.8,
    "fnet": -4227911744.119993,
-   "live": 0,
-   "nrv": 8000000000,
-   "nrq": 20000000,
-   "nrf": 2,
-   "nrper": 4000000000,
-   "nonreg": 11
+   "live": 0
   },
   {
    "t": "GDST",
@@ -601,11 +590,7 @@
    "lo": 78.0,
    "ratio": 23.9,
    "fnet": 1457969672.324613,
-   "live": 0,
-   "nrv": 15414000,
-   "nrq": 179600,
-   "nrf": 3,
-   "nrper": 5138000
+   "live": 0
   },
   {
    "t": "COCO",
@@ -771,11 +756,7 @@
    "lo": 78.0,
    "ratio": 23.9,
    "fnet": 1457969672.324613,
-   "live": 0,
-   "nrv": 15414000,
-   "nrq": 179600,
-   "nrf": 3,
-   "nrper": 5138000
+   "live": 0
   },
   {
    "t": "PAMG",
@@ -1094,8 +1075,7 @@
    "nrv": 2290125,
    "nrq": 370,
    "nrf": 6,
-   "nrper": 381688,
-   "nonreg": 14
+   "nrper": 381688
   },
   {
    "t": "BMRI",
@@ -1323,8 +1303,7 @@
    "nrv": 61800000,
    "nrq": 40000,
    "nrf": 1,
-   "nrper": 61800000,
-   "nonreg": 1
+   "nrper": 61800000
   },
   {
    "t": "DEWA",
@@ -1361,11 +1340,7 @@
    "lo": 78.0,
    "ratio": 23.9,
    "fnet": 1457969672.324613,
-   "live": 0,
-   "nrv": 15414000,
-   "nrq": 179600,
-   "nrf": 3,
-   "nrper": 5138000
+   "live": 0
   },
   {
    "t": "PACK",
@@ -1763,8 +1738,7 @@
    "nrv": 70348500,
    "nrq": 521100,
    "nrf": 2,
-   "nrper": 35174250,
-   "nonreg": 1
+   "nrper": 35174250
   },
   {
    "t": "ENRG",
@@ -1817,11 +1791,7 @@
    "lo": 220.0,
    "ratio": 11.1,
    "fnet": -1254451600.3307035,
-   "live": 0,
-   "nrv": 95000000,
-   "nrq": 475000,
-   "nrf": 1,
-   "nrper": 95000000
+   "live": 0
   },
   {
    "t": "AMRT",
@@ -1853,12 +1823,7 @@
    "lo": 2010.0,
    "ratio": 1.2,
    "fnet": 37164179196.36884,
-   "live": 0,
-   "nrv": 22973780400,
-   "nrq": 10576200,
-   "nrf": 2,
-   "nrper": 11486890200,
-   "nonreg": 40
+   "live": 0
   },
   {
    "t": "MGLV",
@@ -1890,12 +1855,7 @@
    "lo": 2990.0,
    "ratio": 0.4,
    "fnet": 2524021326.3601465,
-   "live": 0,
-   "nrv": 365547000,
-   "nrq": 118300,
-   "nrf": 1,
-   "nrper": 365547000,
-   "nonreg": 1
+   "live": 0
   },
   {
    "t": "BAIK",
@@ -1959,12 +1919,7 @@
    "lo": 4670.0,
    "ratio": 0.8,
    "fnet": 3798765097.738534,
-   "live": 0,
-   "nrv": 702313323897,
-   "nrq": 146896742,
-   "nrf": 2,
-   "nrper": 351156661948,
-   "nonreg": 94
+   "live": 0
   },
   {
    "t": "INDY",
@@ -2086,11 +2041,7 @@
    "lo": 3170.0,
    "ratio": 0.6,
    "fnet": -2390383852.2014117,
-   "live": 0,
-   "nrv": 534924000,
-   "nrq": 152400,
-   "nrf": 1,
-   "nrper": 534924000
+   "live": 0
   },
   {
    "t": "TEBE",
@@ -2158,12 +2109,7 @@
    "lo": 585.0,
    "ratio": 0.6,
    "fnet": -3039993362.745456,
-   "live": 0,
-   "nrv": 863270000,
-   "nrq": 1247500,
-   "nrf": 1,
-   "nrper": 863270000,
-   "nonreg": 3
+   "live": 0
   },
   {
    "t": "DOOH",
@@ -2378,11 +2324,7 @@
    "lo": 6650.0,
    "ratio": 0.9,
    "fnet": -1135725397.0031734,
-   "live": 0,
-   "nrv": 476100,
-   "nrq": 69,
-   "nrf": 1,
-   "nrper": 476100
+   "live": 0
   },
   {
    "t": "RAJA",
@@ -2460,11 +2402,7 @@
    "lo": 570.0,
    "ratio": 2.0,
    "fnet": -3987970428.6364794,
-   "live": 0,
-   "nrv": 92940,
-   "nrq": 152,
-   "nrf": 2,
-   "nrper": 46470
+   "live": 0
   },
   {
    "t": "ARCI",
@@ -2544,12 +2482,7 @@
    "lo": 342.0,
    "ratio": 1.8,
    "fnet": -4227911744.119993,
-   "live": 0,
-   "nrv": 8000000000,
-   "nrq": 20000000,
-   "nrf": 2,
-   "nrper": 4000000000,
-   "nonreg": 11
+   "live": 0
   },
   {
    "t": "DMAS",
@@ -2823,12 +2756,7 @@
    "lo": 4060.0,
    "ratio": 0.6,
    "fnet": -4953198259.883205,
-   "live": 0,
-   "nrv": 3307418400,
-   "nrq": 717600,
-   "nrf": 2,
-   "nrper": 1653709200,
-   "nonreg": 22
+   "live": 0
   },
   {
    "t": "KIJA",
@@ -2933,12 +2861,7 @@
    "lo": 57.0,
    "ratio": 0.8,
    "fnet": 291526285.776628,
-   "live": 0,
-   "nrv": 2722701600,
-   "nrq": 33613600,
-   "nrf": 1,
-   "nrper": 2722701600,
-   "nonreg": 16
+   "live": 0
   },
   {
    "t": "KPIG",
@@ -2954,12 +2877,7 @@
    "lo": 63.0,
    "ratio": 0.5,
    "fnet": 2356801474.460804,
-   "live": 0,
-   "nrv": 220320000,
-   "nrq": 2720000,
-   "nrf": 1,
-   "nrper": 220320000,
-   "nonreg": 1
+   "live": 0
   },
   {
    "t": "EMTK",
@@ -3141,11 +3059,7 @@
    "lo": 2380.0,
    "ratio": 1.1,
    "fnet": -6925738668.79948,
-   "live": 0,
-   "nrv": 225000,
-   "nrq": 90,
-   "nrf": 1,
-   "nrper": 225000
+   "live": 0
   },
   {
    "t": "BBTN",
@@ -3250,11 +3164,7 @@
    "lo": 1485.0,
    "ratio": 0.6,
    "fnet": -5614550809.304889,
-   "live": 0,
-   "nrv": 10535,
-   "nrq": 7,
-   "nrf": 1,
-   "nrper": 10535
+   "live": 0
   },
   {
    "t": "BELL",
@@ -3286,12 +3196,7 @@
    "lo": 163.0,
    "ratio": 1.6,
    "fnet": -231819517.1434212,
-   "live": 0,
-   "nrv": 3560000000,
-   "nrq": 20000000,
-   "nrf": 1,
-   "nrper": 3560000000,
-   "nonreg": 13
+   "live": 0
   },
   {
    "t": "HOPE",
@@ -3371,12 +3276,7 @@
    "lo": 180.0,
    "ratio": 2.0,
    "fnet": 1164425460.2431734,
-   "live": 0,
-   "nrv": 4141000000,
-   "nrq": 26200000,
-   "nrf": 3,
-   "nrper": 1380333333,
-   "nonreg": 29
+   "live": 0
   },
   {
    "t": "PAMG",
@@ -3493,12 +3393,7 @@
    "lo": 910.0,
    "ratio": 0.3,
    "fnet": -618820675.4893025,
-   "live": 0,
-   "nrv": 407412460950,
-   "nrq": 438077915,
-   "nrf": 1,
-   "nrper": 407412460950,
-   "nonreg": 95
+   "live": 0
   },
   {
    "t": "MMIX",
@@ -3551,12 +3446,7 @@
    "lo": 1510.0,
    "ratio": 1.5,
    "fnet": -552195048.627451,
-   "live": 0,
-   "nrv": 8533132100,
-   "nrq": 5033900,
-   "nrf": 34,
-   "nrper": 250974474,
-   "nonreg": 46
+   "live": 0
   },
   {
    "t": "AYLS",
@@ -3588,11 +3478,7 @@
    "lo": 402.0,
    "ratio": 0.4,
    "fnet": -4507160140.979624,
-   "live": 0,
-   "nrv": 17556,
-   "nrq": 42,
-   "nrf": 1,
-   "nrper": 17556
+   "live": 0
   },
   {
    "t": "HMSP",
@@ -4414,12 +4300,7 @@
    "lo": 725.0,
    "ratio": 4.0,
    "fnet": -100928522.94615768,
-   "live": 0,
-   "nrv": 15000000000,
-   "nrq": 20000000,
-   "nrf": 1,
-   "nrper": 15000000000,
-   "nonreg": 80
+   "live": 0
   },
   {
    "t": "GSMF",
@@ -4531,12 +4412,7 @@
    "lo": 1380.0,
    "ratio": 0.5,
    "fnet": -802385152.4426134,
-   "live": 0,
-   "nrv": 800000000,
-   "nrq": 80000000,
-   "nrf": 1,
-   "nrper": 800000000,
-   "nonreg": 7
+   "live": 0
   },
   {
    "t": "FOLK",
@@ -4721,12 +4597,7 @@
    "lo": 218.0,
    "ratio": 1.0,
    "fnet": 112246026.2680575,
-   "live": 0,
-   "nrv": 495600000,
-   "nrq": 2360000,
-   "nrf": 1,
-   "nrper": 495600000,
-   "nonreg": 6
+   "live": 0
   },
   {
    "t": "GMFI",
@@ -5067,12 +4938,7 @@
    "lo": 352.0,
    "ratio": 0.6,
    "fnet": -1850534802.6272304,
-   "live": 0,
-   "nrv": 2366865000,
-   "nrq": 6705000,
-   "nrf": 2,
-   "nrper": 1183432500,
-   "nonreg": 11
+   "live": 0
   },
   {
    "t": "MIKA",
@@ -5258,11 +5124,7 @@
    "lo": 5150.0,
    "ratio": 0.6,
    "fnet": 569557753.3599709,
-   "live": 0,
-   "nrv": 358800,
-   "nrq": 69,
-   "nrf": 1,
-   "nrper": 358800
+   "live": 0
   },
   {
    "t": "LPPF",
@@ -5518,11 +5380,7 @@
    "lo": 61.0,
    "ratio": 0.4,
    "fnet": 17369049.864496745,
-   "live": 0,
-   "nrv": 2400,
-   "nrq": 60,
-   "nrf": 1,
-   "nrper": 2400
+   "live": 0
   },
   {
    "t": "NRCA",
@@ -5666,11 +5524,7 @@
    "lo": 396.0,
    "ratio": 1.2,
    "fnet": -208102924.7597254,
-   "live": 0,
-   "nrv": 3276000,
-   "nrq": 9100,
-   "nrf": 1,
-   "nrper": 3276000
+   "live": 0
   },
   {
    "t": "MGRO",
@@ -6208,11 +6062,7 @@
    "lo": 124.0,
    "ratio": 0.2,
    "fnet": 0.0,
-   "live": 0,
-   "nrv": 3000000,
-   "nrq": 25000,
-   "nrf": 1,
-   "nrper": 3000000
+   "live": 0
   },
   {
    "t": "ELTY",
@@ -6281,12 +6131,7 @@
    "lo": 101.0,
    "ratio": 0.7,
    "fnet": -65165341.10749678,
-   "live": 0,
-   "nrv": 19683027000,
-   "nrq": 187457400,
-   "nrf": 1,
-   "nrper": 19683027000,
-   "nonreg": 92
+   "live": 0
   },
   {
    "t": "HATM",
@@ -7213,12 +7058,7 @@
    "lo": 37.0,
    "ratio": 1.1,
    "fnet": 179312312.7192527,
-   "live": 0,
-   "nrv": 2409241500,
-   "nrq": 53538700,
-   "nrf": 1,
-   "nrper": 2409241500,
-   "nonreg": 84
+   "live": 0
   },
   {
    "t": "IPCC",
@@ -8166,12 +8006,7 @@
    "lo": 350.0,
    "ratio": 0.6,
    "fnet": 3183490.9558728933,
-   "live": 0,
-   "nrv": 9219000000,
-   "nrq": 21950000,
-   "nrf": 1,
-   "nrper": 9219000000,
-   "nonreg": 91
+   "live": 0
   },
   {
    "t": "BIKE",
@@ -8347,12 +8182,7 @@
    "lo": 77.0,
    "ratio": 0.3,
    "fnet": -153593635.9949009,
-   "live": 0,
-   "nrv": 249600000,
-   "nrq": 3200000,
-   "nrf": 3,
-   "nrper": 83200000,
-   "nonreg": 18
+   "live": 0
   },
   {
    "t": "MMLP",
@@ -8645,12 +8475,7 @@
    "lo": 14.0,
    "ratio": 1.0,
    "fnet": -112000000.0,
-   "live": 0,
-   "nrv": 135000000,
-   "nrq": 9000000,
-   "nrf": 1,
-   "nrper": 135000000,
-   "nonreg": 27
+   "live": 0
   },
   {
    "t": "SMGA",
@@ -9159,11 +8984,7 @@
    "lo": 1400.0,
    "ratio": 0.6,
    "fnet": 202715215.24663678,
-   "live": 0,
-   "nrv": 27930,
-   "nrq": 19,
-   "nrf": 1,
-   "nrper": 27930
+   "live": 0
   },
   {
    "t": "HADE",
@@ -11895,12 +11716,7 @@
    "lo": 65.0,
    "ratio": 0.4,
    "fnet": 0.0,
-   "live": 0,
-   "nrv": 470487500,
-   "nrq": 2688500,
-   "nrf": 53,
-   "nrper": 8877123,
-   "nonreg": 83
+   "live": 0
   },
   {
    "t": "PZZA",
@@ -13130,12 +12946,7 @@
    "lo": 50.0,
    "ratio": 0.2,
    "fnet": 0.0,
-   "live": 0,
-   "nrv": 43600000,
-   "nrq": 1090000,
-   "nrf": 1,
-   "nrper": 43600000,
-   "nonreg": 55
+   "live": 0
   },
   {
    "t": "BTPN",
@@ -13721,12 +13532,7 @@
    "lo": 158.0,
    "ratio": 0.2,
    "fnet": 0.0,
-   "live": 0,
-   "nrv": 221625600,
-   "nrq": 1629600,
-   "nrf": 1,
-   "nrper": 221625600,
-   "nonreg": 59
+   "live": 0
   },
   {
    "t": "IFSH",
@@ -14019,12 +13825,7 @@
    "lo": 264.0,
    "ratio": 0.4,
    "fnet": -27198.854961832065,
-   "live": 0,
-   "nrv": 728733600,
-   "nrq": 2739600,
-   "nrf": 1,
-   "nrper": 728733600,
-   "nonreg": 95
+   "live": 0
   },
   {
    "t": "POLI",
@@ -14381,12 +14182,7 @@
    "lo": 1550.0,
    "ratio": 0.3,
    "fnet": 0.0,
-   "live": 0,
-   "nrv": 18488950000,
-   "nrq": 11890000,
-   "nrf": 1,
-   "nrper": 18488950000,
-   "nonreg": 100
+   "live": 0
   },
   {
    "t": "ASRM",
@@ -14583,12 +14379,7 @@
    "lo": 510.0,
    "ratio": 0.8,
    "fnet": 0.0,
-   "live": 0,
-   "nrv": 20160000000,
-   "nrq": 32000000,
-   "nrf": 1,
-   "nrper": 20160000000,
-   "nonreg": 100
+   "live": 0
   },
   {
    "t": "WMUU",
@@ -14902,12 +14693,7 @@
    "lo": 50.0,
    "ratio": 0.1,
    "fnet": 0.0,
-   "live": 0,
-   "nrv": 48454200,
-   "nrq": 1727200,
-   "nrf": 4,
-   "nrper": 12113550,
-   "nonreg": 72
+   "live": 0
   },
   {
    "t": "DUTI",
@@ -17168,7 +16954,8 @@
    ],
    "url": "https://www.idxchannel.com/market-news/perkuat-infrastruktur-digital-telkom-tlkm-jalin-kerja-sama-dengan-china-unicom",
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/22/telkom_tlkm_china_unicom.jpg",
-   "t_ko": "TLKM, 디지털 인프라 강화를 위해 China Unicom과 협력 체결"
+   "t_ko": "TLKM, 디지털 인프라 강화를 위해 China Unicom과 협력 체결",
+   "t_id": "Perkuat Infrastruktur Digital, Telkom (TLKM) Jalin Kerja Sama dengan China Unicom"
   },
   {
    "ts": "2026-09-23T00:05:00+07:00",
@@ -18077,7 +17864,8 @@
    "url": "https://www.jawapos.com/ekonomi/2609220411/asean-sedp-elevate-buka-peluang-wirausaha-sosial-asia-tenggara-mengglobal",
    "g": 1,
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/asean-sedp-elevate-buka-peluang-wirausaha-sosial-asia-tenggara-istimewa-MFvIP.webp",
-   "t_ko": "ASEAN SEDP Elevate, 동남아 사회적 기업의 글로벌 진출 기회 확대"
+   "t_ko": "ASEAN SEDP Elevate, 동남아 사회적 기업의 글로벌 진출 기회 확대",
+   "t_id": "ASEAN SEDP Elevate Buka Peluang Wirausaha Sosial Asia Tenggara Mengglobal"
   },
   {
    "ts": "2026-09-23T02:21:11+07:00",
@@ -19043,19 +18831,7 @@
    "url": "https://www.jawapos.com/ekonomi/2609220145/kinerja-semester-i-2026-tugu-insurance-tumbuh-solid-laba-naik-7687-persen",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/05/10/anak-usaha-pt-pertamina-persero-tugu-insurance-mencatatkan-laba-bersih-sebesar-rp-26562-miliar-serta-total-aset-senilai-rp-2969-triliun-pada-kuartal-i-tahun-2026-antara-yl54d.webp",
    "t_ko": "투구인수보험, 20탄 상반기 순이익 76.87% 급증하며 탄탄한 실적",
-   "t_id": "Kinerja Semester I 2026 Tugu Insurance Tumbuh Solid, Laba Naik 76,87 Persen",
-   "ai_ko": "· Tugu Insurance 상반기 순이익 76.87% 증가\n· 2026년 Bisnis Indonesia Awards 보험 부문 수상\n· Media Asuransi 일반보험 합작사 선두 선정",
-   "ai_id": "· Laba Tugu Insurance naik 76,87%\n· Raih BIA 2026 Emiten Unggul Asuransi\n· Market Leaders Asuransi Umum Joint Venture",
-   "ai_tags": [
-    "실적",
-    "보험",
-    "수상"
-   ],
-   "ai_tags_id": [
-    "kinerja",
-    "asuransi",
-    "penghargaan"
-   ]
+   "t_id": "Kinerja Semester I 2026 Tugu Insurance Tumbuh Solid, Laba Naik 76,87 Persen"
   },
   {
    "ts": "2026-09-22T17:00:00+07:00",
@@ -19127,19 +18903,7 @@
    "url": "https://ekonomi.republika.co.id/berita/tlrebs490/kepala-bp-bumn-ungkap-status-manajer-kopdes-bukan-pegawai-bumn",
    "img": "https://static.republika.co.id/uploads/images/detailnews/kepala-bp-bumn-sekaligus-chief-operating-officer-coo-danantara_260723175851-993.jpeg",
    "t_ko": "BP BUMN 수장, Kopdes 매니저 지위는 국영기업 직원이 아님을 밝힘",
-   "t_id": "Kepala BP BUMN Pastikan Manajer Kopdes Bukan Pegawai BUMN",
-   "ai_ko": "· 마을협동조합 매니저 2년간 파견 근무\n· Donny Oskaria BP BUMN 청장, 국영기업 직원 아니라고 밝혀\n· Agrinas Pangan Nusantara 산하 배치, 비용은 정부 부담",
-   "ai_id": "· Manajer kopdes ditugaskan selama 2 tahun\n· Donny Oskaria: bukan pegawai BUMN\n· Ditempatkan di Agrinas Pangan, biaya pemerintah",
-   "ai_tags": [
-    "정책",
-    "국영기업",
-    "고용"
-   ],
-   "ai_tags_id": [
-    "kebijakan",
-    "BUMN",
-    "ketenagakerjaan"
-   ]
+   "t_id": "Kepala BP BUMN Pastikan Manajer Kopdes Bukan Pegawai BUMN"
   },
   {
    "ts": "2026-09-22T16:28:15+07:00",
@@ -19163,19 +18927,7 @@
    "url": "https://finance.detik.com/bursa-dan-valas/d-8674270/ihsg-ditutup-melemah-ke-level-6-277-turun-1-69",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/05/22/ihsg-anjlok-ke-level-5000-sentuh-titik-terburuk-sejak-era-covid-19-1779437111616_169.jpeg?w=360&q=90",
    "t_ko": "IHSG 1.69% 하락한 6,277 마감",
-   "t_id": "IHSG Ditutup Melemah ke Level 6.277, Turun 1,69%",
-   "ai_ko": "· IHSG 1.69% 내린 6,277 마감\n· 거래대금 Rp14.41조, 하락 533종목\n· 월간 -3.45%, 연초 이후 -27.41%",
-   "ai_id": "· IHSG ditutup 6.277, minus 1,69%\n· Nilai transaksi Rp 14,41 triliun, 533 saham turun\n· Bulanan -3,45%, year to date -27,41%",
-   "ai_tags": [
-    "증시",
-    "지수",
-    "수익률"
-   ],
-   "ai_tags_id": [
-    "IHSG",
-    "indeks",
-    "return"
-   ]
+   "t_id": "IHSG Ditutup Melemah ke Level 6.277, Turun 1,69%"
   },
   {
    "ts": "2026-09-22T16:19:45+07:00",
@@ -19199,19 +18951,7 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8674246/suahasil-beberkan-cara-kejar-obligor-blbi",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/menteri-keuangan-suahasil-nazara-firdadetikcom-1790063366394_169.jpeg?w=360&q=90",
    "t_ko": "Suahasil, BLBI 채무 불이행자 자산 추적 방식 설명",
-   "t_id": "Suahasil Beberkan Strategi Kejar Obligor BLBI",
-   "ai_ko": "· BLBI 채무자 추심, 재무부 내부 조직으로 전환\n· Suahasil Nazara 재무장관, DJKN 통해 자산 압류 진행\n· 2024년 Satgas BLBI 해산 이후 대상자 명단 확보, 사법당국과 공조",
-   "ai_id": "· Penagihan obligor BLBI lewat internal Kemenkeu\n· Menkeu Suahasil: DJKN sita dan tandai aset\n· Satgas BLBI bubar 2024, gandeng aparat hukum",
-   "ai_tags": [
-    "정책",
-    "채권회수",
-    "정부"
-   ],
-   "ai_tags_id": [
-    "kebijakan",
-    "penagihan",
-    "pemerintah"
-   ]
+   "t_id": "Suahasil Beberkan Strategi Kejar Obligor BLBI"
   },
   {
    "ts": "2026-09-22T16:10:00+07:00",
@@ -19223,19 +18963,7 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122344/suahasil-beber-cara-kejar-aset-debitur-blbi-manfaatkan-pupn",
    "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260914154212.jpg",
    "t_ko": "Suahasil, PUPN 활용한 BLBI 채무자 자산 환수 방안 공개",
-   "t_id": "Suahasil Beberkan Cara Kejar Aset Debitur BLBI: Manfaatkan PUPN",
-   "ai_ko": "· BLBI 채무자 자산 추심 강화 방침\n· 재무부 DJKN이 압류·자산 표시 진행\n· 1997~1998년 금융위기 지원금 회수",
-   "ai_id": "· Penagihan aset debitur BLBI digencarkan\n· Kemenkeu lewat DJKN sita dan tandai aset\n· Warisan krisis perbankan 1997-1998",
-   "ai_tags": [
-    "규제",
-    "재정",
-    "자산압류"
-   ],
-   "ai_tags_id": [
-    "regulasi",
-    "fiskal",
-    "penyitaan aset"
-   ]
+   "t_id": "Suahasil Beberkan Cara Kejar Aset Debitur BLBI: Manfaatkan PUPN"
   },
   {
    "ts": "2026-09-22T16:09:31+07:00",
@@ -19247,19 +18975,7 @@
    "url": "https://www.liputan6.com/saham/read/8297048/pertama-kali-kapitalisasi-pasar-saham-amd-sentuh-rp-17890-triliun",
    "img": "https://cdn1-production-images-kly.akamaized.net/aEuSooj_97QmqM6VsFFPhds14o0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5094518/original/036425100_1736854256-AMD_Ryzen_AI.jpg",
    "t_ko": "AMD 시가총액, 사상 최초 Rp17,890조 돌파",
-   "t_id": "Pertama Kali, Kapitalisasi Pasar Saham AMD Sentuh Rp 17.890 Triliun",
-   "ai_ko": "· AMD 시총 첫 USD 1조 돌파, 주가 9% 상승\n· 미국 Santa Clara 기반, Nvidia 경쟁사\n· 9월 21일 AI 수요 기대에 사상 최고가",
-   "ai_id": "· Kapitalisasi AMD tembus US$1 triliun, saham +9%\n· Berbasis Santa Clara, pesaing Nvidia\n· 21 September, rekor tertinggi berkat AI",
-   "ai_tags": [
-    "반도체",
-    "AI",
-    "시가총액"
-   ],
-   "ai_tags_id": [
-    "semikonduktor",
-    "AI",
-    "kapitalisasi pasar"
-   ]
+   "t_id": "Pertama Kali, Kapitalisasi Pasar Saham AMD Sentuh Rp 17.890 Triliun"
   },
   {
    "ts": "2026-09-22T16:04:57+07:00",
@@ -19271,19 +18987,7 @@
    "url": "https://finance.detik.com/energi/d-8674232/pangkas-tender-plts-bahlil-mau-perusahaan-kompeten-bisa-langsung-ditunjuk",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/07/09/bahlil-lahadalia-1783585268296_169.jpeg?w=360&q=90",
    "t_ko": "Bahlil, 태양광 발전 입찰 축소 및 역량 갖춘 기업 수의계약 추진",
-   "t_id": "Pangkas Tender PLTS, Bahlil Ingin Perusahaan Kompeten Ditunjuk Langsung",
-   "ai_ko": "· 태양광 100GW 3년 내 목표, 1차 5.5GW 착수\n· 에너지광물자원부 장관 Bahlil Lahadalia\n· 25~30GW 입찰 앞두고 절차 간소화",
-   "ai_id": "· Target PLTS 100 GW dalam tiga tahun\n· Menteri ESDM Bahlil Lahadalia\n· Tender 25-30 GW, birokrasi dipangkas",
-   "ai_tags": [
-    "태양광",
-    "입찰",
-    "정책"
-   ],
-   "ai_tags_id": [
-    "PLTS",
-    "tender",
-    "kebijakan"
-   ]
+   "t_id": "Pangkas Tender PLTS, Bahlil Ingin Perusahaan Kompeten Ditunjuk Langsung"
   },
   {
    "ts": "2026-09-22T16:02:15+07:00",
@@ -19295,19 +18999,7 @@
    "url": "https://ekonomi.republika.co.id/berita/tlrd3r423/mendag-dorong-umkm-perkuat-sertifikasi-halal-dan-legalitas-usaha",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260922120240-962.png",
    "t_ko": "무역부, 중소기업 할랄 인증 및 사업 적법성 강화 촉구",
-   "t_id": "Mendag Dorong UMKM Perkuat Sertifikasi Halal dan Legalitas Usaha",
-   "ai_ko": "· 할랄 인증·NIB 확보 중요성 강조\n· Budi Santoso 무역장관, Solo 행사\n· 21일 Tokopedia·TikTok Shop 협업 행사",
-   "ai_id": "· Sertifikasi halal dan NIB jadi kunci\n· Mendag Budi Santoso di Solo\n· Acara bareng Tokopedia-TikTok Shop",
-   "ai_tags": [
-    "규제",
-    "전자상거래",
-    "중소기업"
-   ],
-   "ai_tags_id": [
-    "regulasi",
-    "e-commerce",
-    "UMKM"
-   ]
+   "t_id": "Mendag Dorong UMKM Perkuat Sertifikasi Halal dan Legalitas Usaha"
   },
   {
    "ts": "2026-09-22T16:01:24+07:00",
@@ -19319,17 +19011,7 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8674200/dirjen-bea-cukai-merapat-ke-istana",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/direktur-jenderal-bea-dan-cukai-kementerian-keuangan-djaka-budhi-utama-1790067626026_169.jpeg?w=360&q=90",
    "t_ko": "관세청장, 대통령궁 방문",
-   "t_id": "Dirjen Bea Cukai Merapat ke Istana",
-   "ai_ko": "· 관세청장 대통령궁 호출, 오후 3시 40분 도착\n· Bea Cukai 청장 Djaka Budhi Utama\n· 같은 날 오전 불법 수입 단속 발표",
-   "ai_id": "· Dirjen Bea Cukai tiba di Istana pukul 15.40\n· Djaka Budhi Utama dipanggil ke Istana\n· Pagi harinya umumkan sitaan impor ilegal",
-   "ai_tags": [
-    "관세",
-    "정책"
-   ],
-   "ai_tags_id": [
-    "bea cukai",
-    "kebijakan"
-   ]
+   "t_id": "Dirjen Bea Cukai Merapat ke Istana"
   },
   {
    "ts": "2026-09-22T15:55:36+07:00",
@@ -19504,8 +19186,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.19",
-   "d": 2.64,
-   "ytd": 13.55,
+   "d": 2.65,
+   "ytd": 13.56,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19538,9 +19220,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.53",
-   "d": 0.17,
-   "ytd": 2.29,
+   "v": "100.52",
+   "d": 0.16,
+   "ytd": 2.28,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19562,9 +19244,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,400.4",
-   "d": 0.49,
-   "ytd": 1.73,
+   "v": "4,400.9",
+   "d": 0.5,
+   "ytd": 1.74,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19586,15 +19268,15 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,576",
-   "d": 1.36,
-   "ytd": -0.63,
+   "v": "16,528",
+   "d": 1.07,
+   "ytd": -0.92,
    "inv": false,
-   "note": "investing.com · 연초 16,682",
+   "note": "investing.com · 09/22 마지막 값 · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
    "k_id": "Nikel LME (US$/t)",
-   "note_ko": "investing.com · 연초 16,682",
-   "note_id": "investing.com · Awal tahun 16,682"
+   "note_ko": "investing.com · 09/22 마지막 값 · 연초 16,682",
+   "note_id": "investing.com · 09/22 nilai terakhir · Awal tahun 16,682"
   },
   {
    "k": "CPO (MYR/t)",
@@ -19672,114 +19354,6 @@
   "n": 41
  },
  "calendar": [
-  {
-   "date": "2026-09-12",
-   "time": "00:00",
-   "kind": "macro",
-   "country": "US",
-   "title": "U.S. Baker Hughes Oil Rig Count",
-   "imp": 2,
-   "exp": null,
-   "prev": "449",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "미국 Baker Hughes 원유 시추기 수",
-   "title_id": "Jumlah Rig Minyak Baker Hughes AS",
-   "sc": 16,
-   "gs": 16,
-   "g": "입찰·재고",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-12",
-   "time": "01:00",
-   "kind": "macro",
-   "country": "US",
-   "title": "Federal Budget Balance  (Aug)",
-   "imp": 2,
-   "exp": "-221.1B",
-   "prev": "-432.0B",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "8월 연방 재정수지",
-   "title_id": "Neraca Anggaran Federal AS (Agu)",
-   "sc": 54,
-   "gs": 54,
-   "g": "대외·재정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-12",
-   "time": "02:30",
-   "kind": "macro",
-   "country": "US",
-   "title": "CFTC Crude Oil speculative net positions",
-   "imp": 2,
-   "exp": null,
-   "prev": "129.9K",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "CFTC 원유 투기적 순포지션",
-   "title_id": "Posisi Bersih Spekulatif Minyak Mentah CFTC",
-   "sc": 16,
-   "gs": 16,
-   "g": "입찰·재고",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-12",
-   "time": "02:30",
-   "kind": "macro",
-   "country": "US",
-   "title": "CFTC Gold speculative net positions",
-   "imp": 2,
-   "exp": null,
-   "prev": "228.1K",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "CFTC 금 투기적 순포지션",
-   "title_id": "Posisi Bersih Spekulatif Emas CFTC",
-   "sc": 16,
-   "gs": 16,
-   "g": "입찰·재고",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-12",
-   "time": "02:30",
-   "kind": "macro",
-   "country": "US",
-   "title": "CFTC Nasdaq 100 speculative net positions",
-   "imp": 2,
-   "exp": null,
-   "prev": "25.9K",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "CFTC 나스닥100 투기적 순포지션",
-   "title_id": "Posisi Bersih Spekulatif CFTC Nasdaq 100",
-   "sc": 16,
-   "gs": 16,
-   "g": "입찰·재고",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-12",
-   "time": "02:30",
-   "kind": "macro",
-   "country": "US",
-   "title": "CFTC S&P 500 speculative net positions",
-   "imp": 2,
-   "exp": null,
-   "prev": "-75.9K",
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "CFTC S&P500 투기적 순포지션",
-   "title_id": "Posisi Bersih Spekulatif CFTC S&P 500",
-   "sc": 16,
-   "gs": 16,
-   "g": "입찰·재고",
-   "sub": 0
-  },
   {
    "date": "2026-09-15",
    "time": "19:15",
@@ -20576,13 +20150,31 @@
    "imp": 2,
    "exp": null,
    "prev": "16.30K",
-   "act": null,
+   "act": "20.00K",
    "src": "investing.com",
    "title_ko": "ADP 주간 고용 변화",
    "title_id": "Perubahan Tenaga Kerja Mingguan ADP AS",
-   "sc": 47,
+   "sc": 27,
    "gs": 72,
    "g": "고용",
+   "sub": 0
+  },
+  {
+   "date": "2026-09-22",
+   "time": "20:55",
+   "kind": "macro",
+   "country": "US",
+   "title": "U.S. President Trump Speaks",
+   "imp": 3,
+   "exp": null,
+   "prev": null,
+   "act": null,
+   "src": "investing.com",
+   "title_ko": "트럼프 미 대통령 연설",
+   "title_id": "Presiden AS Trump Berbicara",
+   "sc": 46,
+   "gs": 40,
+   "g": "연준 발언",
    "sub": 0
   },
   {
@@ -20837,11 +20429,11 @@
    "imp": 2,
    "exp": null,
    "prev": "4.315%",
-   "act": null,
+   "act": "4.787%",
    "src": "investing.com",
    "title_ko": "미국 2년물 국채 입찰",
    "title_id": "Lelang Surat Utang 2 Tahun AS",
-   "sc": 24,
+   "sc": 4,
    "gs": 16,
    "g": "입찰·재고",
    "sub": 0
@@ -21936,8 +21528,8 @@
    "type": "STOCK",
    "title": "Penyampaian Bukti Iklan Jadwal Pembagian dividen interim",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fa4e4c552f_a6f09afe90.pdf",
-   "title_ko": "중간배당 일정 광고 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Jadwal Pembagian Dividen Interim",
+   "title_ko": "중간배당 일정 광고 게재 증빙 제출",
+   "title_id": "Penyampaian Bukti Iklan Jadwal Dividen Interim",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
    "rk": 102
@@ -22020,8 +21612,8 @@
    "type": "STOCK",
    "title": "Penyesuaian Rencana Waktu PMTHMETD Tahap II ",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/63cc82f5bc_de79129416.pdf",
-   "title_ko": "제3자배정 유상증자 2단계 일정 조정",
-   "title_id": "Penyesuaian Rencana Waktu PMTHMETD Tahap II",
+   "title_ko": "제2차 유상증자 일정 변경",
+   "title_id": "Penyesuaian Jadwal PMTHMETD Tahap II",
    "kind_ko": "유상증자",
    "kind_id": "Rights Issue",
    "rk": 90
@@ -22034,7 +21626,7 @@
    "type": "STOCK",
    "title": "Penyampaian Bukti Iklan Informasi Rencana Pembagian dividen saham / Saham Bonus",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/83bcbf64e5_5d24c15d6f.pdf",
-   "title_ko": "배당·무상주 지급 계획 안내 광고 제출",
+   "title_ko": "주식배당 및 무상증자 배당 계획 공고 광고 증빙 제출",
    "title_id": "Penyampaian Bukti Iklan Informasi Rencana Pembagian dividen saham / Saham Bonus",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
@@ -22048,8 +21640,8 @@
    "type": "STOCK",
    "title": "Penyampaian Bukti Iklan Jadwal Pembagian Dividen tunai final",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d233f0d447_eba0816613.pdf",
-   "title_ko": "현금배당 일정 공고 광고 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Jadwal Pembagian Dividen Tunai Final",
+   "title_ko": "기말 현금배당 지급 일정 광고 증빙 제출",
+   "title_id": "Bukti Iklan Jadwal Dividen Tunai Final",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
    "rk": 90
@@ -22062,8 +21654,8 @@
    "type": "STOCK",
    "title": "Keterbukaan Informasi terkait Aksi Korporasi - Dividen Tunai - 21092026",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/54b224f129_540743fd54.pdf",
-   "title_ko": "기업공시 — 현금배당 — 09/21",
-   "title_id": "Keterbukaan Informasi terkait Aksi Korporasi - Dividen Tunai - 21092026",
+   "title_ko": "현금배당 관련 주요사항보고서",
+   "title_id": "Keterbukaan Informasi Dividen Tunai - 21092026",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
    "rk": 90
@@ -22090,8 +21682,8 @@
    "type": "STOCK",
    "title": "Perubahan Anggota Direksi Perseroan (Informasi Pengangkatan Efektif Anggota Direksi Perseroan)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7f277c8ed8_b73873130a.pdf",
-   "title_ko": "이사진 변경 — 신임 이사 선임 효력 발생 공시",
-   "title_id": "Perubahan Anggota Direksi Perseroan (Informasi Pengangkatan Efektif Anggota Direksi Perseroan)",
+   "title_ko": "이사 선임 공시 — 이사 효력 발생 안내",
+   "title_id": "Perubahan Direksi Perseroan",
    "kind_ko": "경영권",
    "kind_id": "Direksi",
    "rk": 88
@@ -22132,8 +21724,8 @@
    "type": "STOCK",
    "title": "Keterbukaan Informasi terkait Aksi Korporasi - Dividen Tunai - 22092026",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0a48d83eb1_5cf5c693f9.pdf",
-   "title_ko": "배당 관련 기업행동 공시 — 현금배당(2026년 9월 22일)",
-   "title_id": "Keterbukaan Informasi Aksi Korporasi - Dividen Tunai - 22 Sep 2026",
+   "title_ko": "기업 공시 — 현금 배당(2026년 9월 22일)",
+   "title_id": "Keterbukaan Informasi Aksi Korporasi: Dividen Tunai - 22092026",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
    "rk": 86
@@ -22146,24 +21738,10 @@
    "type": "STOCK",
    "title": "Jadwal Dividen Tunai Interim (KOREKSI)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/adfdc9243d_d5fa78dfb3.pdf",
-   "title_ko": "중간배당 일정 (정정)",
+   "title_ko": "중간현금배당 일정 정정",
    "title_id": "Jadwal Dividen Tunai Interim (Koreksi)",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
-   "rk": 86
-  },
-  {
-   "ts": "2026-09-21T16:43:01+07:00",
-   "date": "2026-09-21",
-   "time": "16:43",
-   "t": "PPGL",
-   "type": "STOCK",
-   "title": "Perubahan dan/atau Tambahan Informasi atas Rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b217cbc52_5cce030f7a.pdf",
-   "title_ko": "주주배정 없는 유상증자 계획 변경·추가 정보 공시",
-   "title_id": "Perubahan dan/atau Tambahan Informasi atas Rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu",
-   "kind_ko": "유상증자",
-   "kind_id": "Rights Issue",
    "rk": 86
   },
   {
@@ -22174,8 +21752,8 @@
    "type": "STOCK",
    "title": "Keterbukaan Informasi terkait Aksi Korporasi - Dividen Tunai (KOREKSI) - 21092026",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b5b9f336b5_bd4fa78425.pdf",
-   "title_ko": "기업공시 — 현금배당(정정) — 09/21",
-   "title_id": "Keterbukaan Informasi terkait Aksi Korporasi - Dividen Tunai (KOREKSI) - 21092026",
+   "title_ko": "현금배당 관련 주요사항보고서 정정",
+   "title_id": "Keterbukaan Informasi Dividen Tunai (KOREKSI) - 21092026",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
    "rk": 84
@@ -22207,6 +21785,20 @@
    "kind_ko": "조회공시",
    "kind_id": "Penjelasan Bursa",
    "rk": 81
+  },
+  {
+   "ts": "2026-09-21T16:43:01+07:00",
+   "date": "2026-09-21",
+   "time": "16:43",
+   "t": "PPGL",
+   "type": "STOCK",
+   "title": "Perubahan dan/atau Tambahan Informasi atas Rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b217cbc52_5cce030f7a.pdf",
+   "title_ko": "제3자배정 유상증자 계획 정정·추가 공시",
+   "title_id": "Perubahan dan/atau Tambahan Informasi atas Rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu",
+   "kind_ko": "유상증자",
+   "kind_id": "Rights Issue",
+   "rk": 80
   },
   {
    "ts": "2026-09-22T21:00:50+07:00",
@@ -22286,8 +21878,8 @@
    "type": "STOCK",
    "title": "Penambahan modal tanpa HMETD - Rencana Pelaksanaan Penambahan Modal Tanpa HMETD (KOREKSI) ",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/33dd94442e_86bc50d5b4.pdf",
-   "title_ko": "정정 — 제3자배정 유상증자 실시 계획",
-   "title_id": "Penambahan Modal Tanpa HMETD - Rencana Pelaksanaan Penambahan Modal Tanpa HMETD (KOREKSI)",
+   "title_ko": "제3자 배정 유상증자 실행 계획 정정 공시",
+   "title_id": "Rencana Pelaksanaan PMTHMETD - KOREKSI",
    "kind_ko": "유상증자",
    "kind_id": "Rights Issue",
    "rk": 76
@@ -22314,8 +21906,8 @@
    "type": "STOCK",
    "title": "Keterbukaan Informasi terkait Aksi Korporasi - Dividen Tunai (KOREKSI) - 22092026",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3fb840a99c_e0a15a5315.pdf",
-   "title_ko": "기업행동 정보공개 — 현금배당(정정) — 22092026",
-   "title_id": "Keterbukaan Informasi terkait Aksi Korporasi - Dividen Tunai (KOREKSI) - 22 Sep 2026",
+   "title_ko": "정정 공시 — 현금배당 관련 기업행사 — 2026년 9월 22일",
+   "title_id": "Keterbukaan Informasi Aksi Korporasi - Dividen Tunai (KOREKSI) - 22092026",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
    "rk": 76
@@ -22328,11 +21920,11 @@
    "type": "STOCK",
    "title": "Penjelasan Opini Laporan Keuangan Tahunan 2025 PT Capitalinc Investment Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/be7c1ab721_bb816ae05e.pdf",
-   "title_ko": "PT Capitalinc Investment Tbk, 2025년 연간 재무제표 감사의견 설명",
-   "title_id": "Penjelasan Opini Laporan Keuangan Tahunan 2025 PT Capitalinc Investment Tbk",
+   "title_ko": "Capitalinc Investment(MTFN), 2025년 연차보고서 감사의견 설명",
    "kind_ko": "실적",
    "kind_id": "Laporan Keuangan",
-   "rk": 74
+   "rk": 74,
+   "title_id": "Penjelasan Opini Laporan Keuangan Tahunan 2025 PT Capitalinc Investment Tbk"
   },
   {
    "ts": "2026-09-22T19:02:15+07:00",
@@ -22356,8 +21948,8 @@
    "type": "STOCK",
    "title": "Penambahan modal tanpa HMETD - Rencana Pelaksanaan Penambahan Modal Tanpa HMETD (KOREKSI) ",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/176c81f95e_e26b86b82c.pdf",
-   "title_ko": "정정 — 제3자배정 유상증자 실시 계획",
-   "title_id": "Penambahan Modal Tanpa HMETD - Rencana Pelaksanaan Penambahan Modal Tanpa HMETD (KOREKSI)",
+   "title_ko": "제3자 배정 유상증자 실행 계획 정정 공시",
+   "title_id": "Rencana Pelaksanaan PMTHMETD - KOREKSI",
    "kind_ko": "유상증자",
    "kind_id": "Rights Issue",
    "rk": 72
@@ -22384,7 +21976,7 @@
    "type": "STOCK",
    "title": "Laporan Informasi atau Fakta Material terkait Penunjukan Akuntan Publik dan Kantor Akuntan Publik (AP dan KAP) Dalam Rangka Pelaksanaan Kegiatan Audit Laporan Keuangan Tahun 2026 PT. Selaras Citra Nusantara Perkasa Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7d7ab44f03_b6804d53cf.pdf",
-   "title_ko": "Selaras Citra Nusantara Perkasa, 2026년 연간 재무제표 감사 회계법인 선임 공시",
+   "title_ko": "SCNP, 2026년 재무제표 감사 위한 외부감사인 선임 공시",
    "title_id": "Laporan Informasi atau Fakta Material terkait Penunjukan Akuntan Publik dan Kantor Akuntan Publik (AP dan KAP) Dalam Rangka Pelaksanaan Kegiatan Audit Laporan Keuangan Tahun 2026 PT. Selaras Citra Nusantara Perkasa Tbk",
    "kind_ko": "실적",
    "kind_id": "Laporan Keuangan",
@@ -22440,7 +22032,7 @@
    "type": "STOCK",
    "title": "Siaran Pers - Dari Back Office ke Strategic Business Partner, CASS Dukung Transformasi Chandra Asri Group",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/150f02ac64_02168aed41.pdf",
-   "title_ko": "CASS, 백오피스에서 전략적 사업 파트너로 — Chandra Asri Group 전환 지원",
+   "title_ko": "보도자료 — CASS, Back Office에서 Strategic Business Partner로 Chandra Asri Group 전환 지원",
    "title_id": "Siaran Pers - Dari Back Office ke Strategic Business Partner, CASS Dukung Transformasi Chandra Asri Group",
    "rk": 60
   },
@@ -22522,8 +22114,8 @@
    "type": "STOCK",
    "title": "Hasil Kinerja Audit AMMAN H1 2026",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fe5ca7679d_ed147552f8.pdf",
-   "title_ko": "AMMAN, 2026년 상반기 실적 감사 결과 발표",
-   "title_id": "Hasil Audit Kinerja AMMAN Semester I 2026",
+   "title_ko": "AMMAN, 2026년 상반기 감사실적",
+   "title_id": "Kinerja Audit AMMAN H1 2026",
    "rk": 56
   },
   {
@@ -22548,8 +22140,8 @@
    "type": "STOCK",
    "title": "Pemberitahuan Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0c01935696_81842fa472.pdf",
-   "title_ko": "WIKA, 주주총회(RUPSU) 개최 계획 통지",
-   "title_id": "Pemberitahuan Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
+   "title_ko": "WIKA, 사채권자집회 개최 계획 안내",
+   "title_id": "Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
    "kind_ko": "주총계획",
    "kind_id": "Rencana RUPS",
    "rk": 54
@@ -22588,8 +22180,8 @@
    "type": "STOCK",
    "title": "Keterbukaan Informasi Perseroan Kepada Publik",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3d9c1131a2_9a4cf0d066.pdf",
-   "title_ko": "회사 정보 공시 — 대외 공개",
-   "title_id": "Keterbukaan Informasi Perseroan Kepada Publik",
+   "title_ko": "공시 정보",
+   "title_id": "Keterbukaan Informasi Perseroan kepada Publik",
    "rk": 52
   },
   {
@@ -22600,8 +22192,8 @@
    "type": "STOCK",
    "title": "Keterbukaan Informasi atau Fakta Material tentang Perubahan Logo",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0370230409_f6d496e354.pdf",
-   "title_ko": "로고 변경 관련 공시",
-   "title_id": "Keterbukaan Informasi Perubahan Logo",
+   "title_ko": "사명 변경 관련 수시공시",
+   "title_id": "Keterbukaan Informasi atau Fakta Material Perubahan Logo",
    "kind_ko": "중요사실",
    "kind_id": "Fakta Material",
    "rk": 50
@@ -22614,8 +22206,8 @@
    "type": "STOCK",
    "title": "Pemberitahuan Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d210307dd5_0356202d15.pdf",
-   "title_ko": "WIKA, 주주총회(RUPSU) 개최 계획 통지",
-   "title_id": "Pemberitahuan Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
+   "title_ko": "WIKA, 사채권자집회 개최 계획 안내",
+   "title_id": "Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
    "kind_ko": "주총계획",
    "kind_id": "Rencana RUPS",
    "rk": 50
@@ -22629,7 +22221,7 @@
    "title": "Penyampaian Informasi Tambahan Ringkas Dalam Rangka Penawaran Umum Berkelanjutan Obligasi Berkelanjutan IV Bussan Auto Finance Tahap II Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Bussan Auto Finance Tahap II Tahun 2026",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fe18f57d56_9bbfced863.pdf",
    "title_id": "Penyampaian Informasi Tambahan Ringkas Dalam Rangka Penawaran Umum Berkelanjutan Obligasi Berkelanjutan IV Bussan Auto Finance Tahap II Tahun 2026 dan Sukuk Mudharabah Berkelanjutan II Bussan Auto Finance Tahap II Tahun 2026",
-   "title_ko": "Bussan Auto Finance, 2026년 지속 회사채 IV·수쿡 무다라바 II 2단계 추가정보 공시",
+   "title_ko": "Bussan Auto Finance, 제4차 지속가능 채권 및 제2차 지속가능 수쿡 무다라바 발행 추가 요약 정보",
    "kind_ko": "공모·자금",
    "kind_id": "Prospektus",
    "rk": 48
@@ -22642,8 +22234,8 @@
    "type": "STOCK",
    "title": "Keterbukan Informasi Perseroan Kepada Publik",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/30332f57e0_d4cdf5bc3d.pdf",
-   "title_ko": "회사 정보 공시 — 대외 공개",
-   "title_id": "Keterbukaan Informasi Perseroan Kepada Publik",
+   "title_ko": "공시 정보",
+   "title_id": "Keterbukaan Informasi Perseroan kepada Publik",
    "rk": 48
   },
   {
@@ -22654,7 +22246,7 @@
    "type": "STOCK",
    "title": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Tahunan dan Luar Biasa (KOREKSI)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/84d9e56943_00419b76a2.pdf",
-   "title_ko": "정기·임시주주총회 소집 통지(정정)",
+   "title_ko": "정정 공시 — 정기 및 임시 주주총회 개최 계획 통지",
    "title_id": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Tahunan dan Luar Biasa (KOREKSI)",
    "kind_ko": "주총계획",
    "kind_id": "Rencana RUPS",
@@ -22668,8 +22260,8 @@
    "type": "STOCK",
    "title": "RUPSLB DMAS tanggal 22 September 2026 ",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d23adf1924_acd5f39752.pdf",
-   "title_ko": "DMAS, 9월 22일 임시주주총회 개최",
-   "title_id": "RUPSLB DMAS tanggal 22 September 2026",
+   "title_ko": "DMAS, 2026년 9월 22일 임시주주총회 개최",
+   "title_id": "RUPSLB DMAS 22 September 2026",
    "rk": 46
   },
   {
@@ -22681,7 +22273,7 @@
    "title": "Penandatanganan Addendum Ke-20 Perjanjian Fasilitas antara Protelindo, Iforte, BIT, QTR, VTS, IGPU ,IEN,IEB dengan PT Bank Central Asia Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/df81f18e95_a36072bf7d.pdf",
    "title_id": "Penandatanganan Addendum Ke-20 Perjanjian Fasilitas antara Protelindo, Iforte, BIT, QTR, VTS, IGPU ,IEN,IEB dengan PT Bank Central Asia Tbk",
-   "title_ko": "Protelindo·Iforte 등 8개사, BCA와 여신계약 20차 부속합의서 체결",
+   "title_ko": "Protelindo 외 7개사, PT Bank Central Asia Tbk와 대출 약정 제20차 부속합의서 체결",
    "rk": 46
   },
   {
@@ -22692,9 +22284,9 @@
    "type": "STOCK",
    "title": "Penunjukan Auditor PT Japfa Comfeed Indonesia Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/dfddf0bd50_05a57287b3.pdf",
-   "title_ko": "Japfa Comfeed(JPFA), 감사인 선임",
-   "title_id": "Penunjukan Auditor JPFA",
-   "rk": 46
+   "title_ko": "PT Japfa Comfeed Indonesia Tbk 외부감사인 선임",
+   "rk": 46,
+   "title_id": "Penunjukan Auditor JPFA"
   },
   {
    "ts": "2026-09-22T15:30:58+07:00",
@@ -22704,8 +22296,8 @@
    "type": "STOCK",
    "title": "Pemberitahuan Panggilan RUPO PT Arkora Hydro Tbk.",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b69d0910b6_8669da1d71.pdf",
-   "title_ko": "Arkora Hydro(ARKO) 채권자총회 소집 통지",
-   "title_id": "Pemberitahuan Panggilan RUPO PT Arkora Hydro Tbk.",
+   "title_ko": "ARKR, 임시채권자총회 소집 통지",
+   "title_id": "Panggilan RUPO PT Arkora Hydro Tbk",
    "rk": 46
   },
   {
@@ -22717,8 +22309,8 @@
    "title": "Siaran Pers",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/daf8a1b397_7ff4fd675a.pdf",
    "title_ko": "보도자료",
-   "title_id": "Siaran Pers",
-   "rk": 46
+   "rk": 46,
+   "title_id": "Siaran Pers"
   },
   {
    "ts": "2026-09-21T19:21:54+07:00",
@@ -22728,8 +22320,8 @@
    "type": "STOCK",
    "title": "Pemberitahuan Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/1b05e4c140_aeaff7a810.pdf",
-   "title_ko": "WIKA, 주주총회(RUPSU) 개최 계획 통지",
-   "title_id": "Pemberitahuan Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
+   "title_ko": "WIKA, 사채권자집회 개최 계획 안내",
+   "title_id": "Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
    "kind_ko": "주총계획",
    "kind_id": "Rencana RUPS",
    "rk": 46
@@ -22844,8 +22436,8 @@
    "type": "STOCK",
    "title": "Pemberitahuan Rencana RUPO PT Pyridam Farma Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/4f02c39a34_76114fb83b.pdf",
-   "title_ko": "Pyridam Farma(PYFA), 채권자집회(RUPO) 소집 계획 공지",
-   "title_id": "Pemberitahuan Rencana RUPO PT Pyridam Farma Tbk",
+   "title_ko": "Pyridam Farma, 사채권자집회 개최 계획 안내",
+   "title_id": "Rencana RUPO PT Pyridam Farma Tbk",
    "rk": 40
   },
   {
@@ -22856,8 +22448,8 @@
    "type": "STOCK",
    "title": "Pemberitahuan Perubahan Anggaran Dasar Perseroan ",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/01d554566d_2bfc7fcb94.pdf",
-   "title_ko": "정관 일부 변경 통지",
-   "title_id": "Pemberitahuan Perubahan Anggaran Dasar Perseroan",
+   "title_ko": "정관 변경 공시",
+   "title_id": "Perubahan Anggaran Dasar Perseroan",
    "rk": 40
   },
   {
@@ -22908,8 +22500,8 @@
    "type": "STOCK",
    "title": "Pemberitahuan Hasil RUPO PT Pos Indonesia (Persero)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/34c74619bb_1943d587bd.pdf",
-   "title_ko": "Pos Indonesia, 채권자집회 결과 통지",
-   "title_id": "Hasil RUPO PT Pos Indonesia (Persero) Diumumkan",
+   "title_ko": "PT Pos Indonesia (Persero) RUPO 결과 통지",
+   "title_id": "Hasil RUPO PT Pos Indonesia (Persero)",
    "rk": 36
   },
   {
@@ -22933,7 +22525,7 @@
    "title": "Penyampaian Salinan Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cbb1ba81a9_cf8b60d5c4.pdf",
    "title_id": "Penyampaian Salinan Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
-   "title_ko": "Profesional Telekomunikasi Indonesia, Solusi Tunas Pratama 주식 공개매수 2차 연장 공시 사본 제출",
+   "title_ko": "PT Profesional Telekomunikasi Indonesia, PT Solusi Tunas Pratama Tbk 주식 자발적 공개매수 청약 기간 2차 연장 공시",
    "rk": 36
   },
   {
@@ -22945,7 +22537,7 @@
    "title": "Penyampaian Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/03f82f6c17_4e956c9f33.pdf",
    "title_id": "Penyampaian Informasi Perpanjangan Kedua Masa Penawaran Tender Sukarela PT Profesional Telekomunikasi Indonesia atas saham-saham PT Solusi Tunas Pratama Tbk",
-   "title_ko": "Profesional Telekomunikasi Indonesia, Solusi Tunas Pratama 주식 공개매수 기간 2차 연장 공시",
+   "title_ko": "PT Profesional Telekomunikasi Indonesia, PT Solusi Tunas Pratama Tbk 주식 자발적 공개매수 청약 기간 2차 연장",
    "rk": 36
   },
   {
@@ -22956,9 +22548,9 @@
    "type": "STOCK",
    "title": "Perubahan Perjanjian Perwaliamanatan",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a547f3f4ad_8febaaaa51.pdf",
-   "title_ko": "수탁계약 변경",
-   "title_id": "Perubahan Perjanjian Perwaliamanatan",
-   "rk": 36
+   "title_ko": "수탁회사 계약 변경",
+   "rk": 36,
+   "title_id": "Perubahan Perjanjian Perwaliamanatan"
   },
   {
    "ts": "2026-09-21T20:00:38+07:00",
@@ -22968,7 +22560,7 @@
    "type": "STOCK",
    "title": "Perjanjian Pengikatan Jual Beli Tanah dan Bangunan",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d9a1c05b18_6254d70d8a.pdf",
-   "title_ko": "토지·건물 매매예약계약 체결",
+   "title_ko": "토지·건물 매매계약 체결",
    "title_id": "Perjanjian Pengikatan Jual Beli Tanah dan Bangunan",
    "rk": 36
   },
@@ -22980,8 +22572,8 @@
    "type": "STOCK",
    "title": "Pengumuman Bursa Pencatatan Awal ETF",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/566b369146_d8eeddd1ec.pdf",
-   "title_ko": "ETF 신규 상장 공고",
-   "title_id": "Pengumuman Bursa Pencatatan Awal ETF",
+   "title_ko": "ETF 신규 상장 거래소 공시",
+   "title_id": "Pengumuman Pencatatan Perdana ETF",
    "rk": 36
   },
   {
@@ -23033,8 +22625,8 @@
    "title": "Perubahan Anggaran Dasar",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a35034319a_7040ed4a45.pdf",
    "title_ko": "정관 변경",
-   "title_id": "Perubahan Anggaran Dasar",
-   "rk": 36
+   "rk": 36,
+   "title_id": "Perubahan Anggaran Dasar"
   },
   {
    "ts": "2026-09-21T13:43:49+07:00",
@@ -23070,8 +22662,8 @@
    "type": "STOCK",
    "title": "Keterbukaan Informasi terkait Perubahan Jadwal Waran Terstruktur",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bd5af079b4_feddb435d4.pdf",
-   "title_ko": "기업공시 — 구조화워런트 일정 변경",
-   "title_id": "Keterbukaan Informasi terkait Perubahan Jadwal Waran Terstruktur",
+   "title_ko": "구조화 워런 행사 일정 변경 공시",
+   "title_id": "Keterbukaan Informasi Perubahan Jadwal Waran Terstruktur",
    "rk": 36
   },
   {
@@ -23108,8 +22700,8 @@
    "type": "STOCK",
    "title": "Laporan Perubahan Penggunaan Dana Hasil Penawaran Umum (KOREKSI)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/ac52858693_0e29b84b2e.pdf",
-   "title_ko": "공모자금 사용내역 변경 보고서(정정)",
-   "title_id": "Laporan Perubahan Penggunaan Dana Hasil Penawaran Umum (KOREKSI)",
+   "title_ko": "공모자금 사용내역 보고서 정정",
+   "title_id": "Laporan Perubahan Penggunaan Dana IPO (Koreksi)",
    "kind_ko": "공모·자금",
    "kind_id": "Prospektus",
    "rk": 34
@@ -23150,9 +22742,9 @@
    "type": "STOCK",
    "title": "Perubahan Perjanjian Perwaliamanatan",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a6566e08a9_ba7b52190f.pdf",
-   "title_ko": "수탁계약 변경",
-   "title_id": "Perubahan Perjanjian Perwaliamanatan",
-   "rk": 32
+   "title_ko": "수탁회사 계약 변경",
+   "rk": 32,
+   "title_id": "Perubahan Perjanjian Perwaliamanatan"
   },
   {
    "ts": "2026-09-21T19:22:59+07:00",
@@ -23162,7 +22754,7 @@
    "type": "STOCK",
    "title": "Penyampaian Bukti Iklan Informasi atas Obligasi Berkelanjutan dan Sukuk Mudharabah Berkelanjutan PT Wijaya Karya (Persero) Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/37e734738f_6eec1b0a1d.pdf",
-   "title_ko": "WIKA, 지속형 채권·수쿡 무다라바 정보 광고 증빙 제출",
+   "title_ko": "WIKA, 지속가능 채권 및 무다라바 수쿡 공고 증빙 제출",
    "title_id": "Penyampaian Bukti Iklan Informasi atas Obligasi Berkelanjutan dan Sukuk Mudharabah Berkelanjutan PT Wijaya Karya (Persero) Tbk",
    "kind_ko": "사채만기",
    "kind_id": "Obligasi",
@@ -23176,7 +22768,7 @@
    "type": "STOCK",
    "title": "Penyampaian Bukti Iklan Pengumuman Rapat Umum Pemegang Obligasi dan Sukuk Mudharabah Berkelanjutan",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/37977ad586_2c77e659d5.pdf",
-   "title_ko": "채권·지속형 수쿡 무다라바 보유자총회 공고 광고 증빙 제출",
+   "title_ko": "지속가능 채권·무다라바 수쿡 사채권자집회 공고 증빙 제출",
    "title_id": "Penyampaian Bukti Iklan Pengumuman Rapat Umum Pemegang Obligasi dan Sukuk Mudharabah Berkelanjutan",
    "kind_ko": "사채만기",
    "kind_id": "Obligasi",
@@ -23190,7 +22782,7 @@
    "type": "STOCK",
    "title": "Keterbukaan Informasi Sehubungan dengan Rencana Pembagian Saham Bonus",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fae8c5faca_11772ea6b1.pdf",
-   "title_ko": "무상주 배정 계획 관련 정보 공시",
+   "title_ko": "무상증자 계획 관련 공시",
    "title_id": "Keterbukaan Informasi Sehubungan dengan Rencana Pembagian Saham Bonus",
    "rk": 32
   },
@@ -23228,8 +22820,8 @@
    "type": "STOCK",
    "title": "Keterbukaan Informasi terkait Perubahan Jadwal Waran Terstruktur",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/8b84447cb3_4940ee1fd9.pdf",
-   "title_ko": "기업공시 — 구조화워런트 일정 변경",
-   "title_id": "Keterbukaan Informasi terkait Perubahan Jadwal Waran Terstruktur",
+   "title_ko": "구조화 워런 행사 일정 변경 공시",
+   "title_id": "Keterbukaan Informasi Perubahan Jadwal Waran Terstruktur",
    "rk": 32
   },
   {
@@ -23240,7 +22832,7 @@
    "type": "STOCK",
    "title": "Press Release \"ADHI Karya Masuki Tahap Implementasi Restrukturisasi melalui Penandatanganan Master Restructuring Agreement\"",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/14827d2511_52f9d5f5e9.pdf",
-   "title_ko": "ADHI(ADHI), 마스터 리스트럭처링 계약 체결로 재무구조 개선 이행 단계 진입",
+   "title_ko": "보도자료 \"ADHI Karya, 마스터 구조조정 계약 체결을 통해 구조조정 이행 단계 진입\"",
    "title_id": "Press Release \"ADHI Karya Masuki Tahap Implementasi Restrukturisasi melalui Penandatanganan Master Restructuring Agreement\"",
    "rk": 32
   },
@@ -23266,8 +22858,8 @@
    "type": "STOCK",
    "title": "Keterbukaan Informasi Sehubungan Dengan Pengunduran Diri Direktur PT Haloni Jane Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf4c454e97_f588f172c7.pdf",
-   "title_ko": "Haloni Jane, 이사 사임 관련 정보공개",
-   "title_id": "Keterbukaan Informasi Sehubungan Dengan Pengunduran Diri Direktur PT Haloni Jane Tbk",
+   "title_ko": "PT Haloni Jane Tbk 이사 사임 관련 수시공시",
+   "title_id": "Keterbukaan Informasi Pengunduran Diri Direktur PT Haloni Jane Tbk",
    "rk": 28
   },
   {
@@ -23332,7 +22924,7 @@
    "type": "SPOP",
    "title": "Harga Teoretis Saham PT Fortune Indonesia Tbk (FORU)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Harga Teoretis FORU 260921-No. Peng-00174BEI.POP09-2026.pdf",
-   "title_ko": "FORU, 이론주가 산정",
+   "title_ko": "FORU, 이론주가 산정 안내",
    "title_id": "Harga Teoretis Saham PT Fortune Indonesia Tbk (FORU)",
    "rk": 28
   },
@@ -23452,8 +23044,8 @@
    "type": "STOCK",
    "title": "Pemberitahuan Rencana RUPO PT Wijaya Karya (Persero) Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/15737de547_a3c4ad9f35.pdf",
-   "title_ko": "WIKA, 채권보유자총회(RUPO) 개최 계획 통지",
-   "title_id": "Pemberitahuan Rencana RUPO PT Wijaya Karya (Persero) Tbk",
+   "title_ko": "WIKA, 사채권자집회 개최 계획 안내",
+   "title_id": "Rencana RUPO PT Wijaya Karya (Persero) Tbk",
    "rk": 24
   },
   {
@@ -23464,8 +23056,8 @@
    "type": "STOCK",
    "title": "Pemberitahuan Rencana RUPO PT Wijaya Karya (Persero) Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/bf99bb7d9f_6ecde0cc22.pdf",
-   "title_ko": "WIKA, 채권보유자총회(RUPO) 개최 계획 통지",
-   "title_id": "Pemberitahuan Rencana RUPO PT Wijaya Karya (Persero) Tbk",
+   "title_ko": "WIKA, 사채권자집회 개최 계획 안내",
+   "title_id": "Rencana RUPO PT Wijaya Karya (Persero) Tbk",
    "rk": 24
   },
   {
@@ -23476,8 +23068,8 @@
    "type": "STOCK",
    "title": "Pemberitahuan Rencana RUPO PT Wijaya Karya (Persero) Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/36dd64f183_e661f5faef.pdf",
-   "title_ko": "WIKA, 채권보유자총회(RUPO) 개최 계획 통지",
-   "title_id": "Pemberitahuan Rencana RUPO PT Wijaya Karya (Persero) Tbk",
+   "title_ko": "WIKA, 사채권자집회 개최 계획 안내",
+   "title_id": "Rencana RUPO PT Wijaya Karya (Persero) Tbk",
    "rk": 24
   },
   {
@@ -23600,8 +23192,8 @@
    "type": "STOCK",
    "title": "Perubahan Perjanjian Perwaliamanatan (KOREKSI)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/cf5bc0eeae_91fdccbd0f.pdf",
-   "title_ko": "수탁계약 변경 공시 (정정)",
-   "title_id": "Perubahan Perjanjian Perwaliamanatan (KOREKSI)",
+   "title_ko": "사채관리회사 계약 변경(정정)",
+   "title_id": "Perubahan Perjanjian Perwaliamanatan (Koreksi)",
    "rk": 22
   },
   {
@@ -24074,8 +23666,8 @@
    "type": "STOCK",
    "title": "Penyampaian Bukti Iklan Informasi Penawaran Tender (Tender Offer)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2df1438b07_d13ffd3161.pdf",
-   "title_ko": "공개매수 안내 광고 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Informasi Penawaran Tender (Tender Offer)",
+   "title_ko": "공개매수 안내 공고 증빙 제출",
+   "title_id": "Penyampaian Bukti Iklan Tender Offer",
    "kind_ko": "주총결과",
    "kind_id": "Risalah RUPS",
    "rk": 14
@@ -24242,8 +23834,8 @@
    "type": "STOCK",
    "title": "Laporan Hasil Public Expose - Insidentil (KOREKSI)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/eb668ff428_c73313662a.pdf",
-   "title_ko": "정정 — 수시 기업설명회 결과 보고서",
-   "title_id": "Laporan Hasil Public Expose - Insidentil (KOREKSI)",
+   "title_ko": "수시 기업설명회 결과 보고서 정정",
+   "title_id": "Hasil Public Expose Insidentil - KOREKSI",
    "kind_ko": "기업설명회",
    "kind_id": "Public Expose",
    "rk": 10
@@ -24270,8 +23862,8 @@
    "type": "STOCK",
    "title": "Penyampaian Bukti Iklan Penyampaian Bukti Iklan Rangkuman Risalah RUPSLB PT Victoria Investama Tbk",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/a23caa092b_273859f91e.pdf",
-   "title_ko": "Victoria Investama, 임시주주총회 의사록 요약 광고 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Ringkasan Risalah RUPSLB PT Victoria Investama Tbk",
+   "title_ko": "VICO, 임시주주총회 의사록 요약 광고 증빙 제출",
+   "title_id": "Bukti Iklan Rangkuman Risalah RUPSLB PT Victoria Investama Tbk",
    "kind_ko": "주총결과",
    "kind_id": "Risalah RUPS",
    "rk": 10
@@ -24298,8 +23890,8 @@
    "type": "STOCK",
    "title": "Penyampaian Bukti Iklan Hasil Rapat Umum Pemegang Obligasi",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/747a918b60_83b5803476.pdf",
-   "title_ko": "채권보유자총회 결과 광고 증빙 제출",
-   "title_id": "Penyampaian Bukti Iklan Hasil RUPO",
+   "title_ko": "사채권자집회 결과 공고 증빙 제출",
+   "title_id": "Penyampaian Bukti Iklan RUPO",
    "kind_ko": "주총결과",
    "kind_id": "Risalah RUPS",
    "rk": 10
@@ -24452,8 +24044,8 @@
    "type": "STOCK",
    "title": "Laporan Hasil Public Expose - Insidentil (KOREKSI)",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/2c692441a1_abefbffa5e.pdf",
-   "title_ko": "정정 — 수시 기업설명회 결과 보고서",
-   "title_id": "Laporan Hasil Public Expose - Insidentil (KOREKSI)",
+   "title_ko": "수시 기업설명회 결과 보고서 정정",
+   "title_id": "Hasil Public Expose Insidentil - KOREKSI",
    "kind_ko": "기업설명회",
    "kind_id": "Public Expose",
    "rk": 6
@@ -24715,7 +24307,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 6,
+  "pc_age_min": 10,
   "news_ai_cache": 41,
   "news_ai_hit": 32,
   "on_runner": true,
@@ -27256,7 +26848,7 @@
     },
     {
      "t": "ADHI",
-     "ko": "ADHI(ADHI), 마스터 리스트럭처링 계약 체결로 재무구조 개선 이행 단계 진입",
+     "ko": "보도자료 \"ADHI Karya, 마스터 구조조정 계약 체결을 통해 구조조정 이행 단계 진입\"",
      "id": "Press Release \"ADHI Karya Masuki Tahap Implementasi Restrukturisasi melalui Penandatanganan Master Restructuring Agreement\"",
      "kind_ko": null,
      "kind_id": null,
@@ -27398,8 +26990,8 @@
    "ann": [
     {
      "t": "CDIA",
-     "ko": "중간배당 일정 광고 증빙 제출",
-     "id": "Penyampaian Bukti Iklan Jadwal Pembagian Dividen Interim",
+     "ko": "중간배당 일정 광고 게재 증빙 제출",
+     "id": "Penyampaian Bukti Iklan Jadwal Dividen Interim",
      "kind_ko": "자사주·배당",
      "kind_id": "Buyback/Dividen",
      "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fa4e4c552f_a6f09afe90.pdf",
@@ -27602,7 +27194,7 @@
    "r2": 3307,
    "s2": 3107,
    "band20": 11.0,
-   "flow": -12.72,
+   "flow": -14.41,
    "score": 26,
    "state": "mid",
    "quad": "dip_out"
@@ -27629,7 +27221,7 @@
    "r2": 199,
    "s2": 175,
    "band20": 28.2,
-   "flow": -5.19,
+   "flow": -2.01,
    "score": 20,
    "state": "mid",
    "quad": "dip_out"
@@ -27656,7 +27248,7 @@
    "r2": 6283,
    "s2": 6133,
    "band20": 10.9,
-   "flow": -22.86,
+   "flow": -24.38,
    "score": 24,
    "state": "under",
    "quad": "dip_out"
@@ -27683,7 +27275,7 @@
    "r2": 4253,
    "s2": 4113,
    "band20": 8.5,
-   "flow": -17.47,
+   "flow": -11.17,
    "score": 25,
    "state": "under",
    "quad": "dip_out"
@@ -27710,7 +27302,7 @@
    "r2": 1073,
    "s2": 913,
    "band20": 34.4,
-   "flow": -0.03,
+   "flow": -0.21,
    "score": 13,
    "state": "under",
    "quad": "mid"
@@ -27737,7 +27329,7 @@
    "r2": 4903,
    "s2": 4563,
    "band20": 23.5,
-   "flow": -11.55,
+   "flow": -12.88,
    "score": 58,
    "state": "mid",
    "quad": "up_out"
@@ -27764,7 +27356,7 @@
    "r2": 5097,
    "s2": 4317,
    "band20": 26.9,
-   "flow": -7.51,
+   "flow": -8.2,
    "score": 66,
    "state": "mid",
    "quad": "up_out"
@@ -27791,10 +27383,10 @@
    "r2": 983,
    "s2": 883,
    "band20": 37.7,
-   "flow": 1.94,
+   "flow": 3.7,
    "score": 65,
    "state": "mid",
-   "quad": "mid"
+   "quad": "up_in"
   },
   "TLKM": {
    "n": 53,
@@ -27818,7 +27410,7 @@
    "r2": 2577,
    "s2": 2397,
    "band20": 11.0,
-   "flow": -28.53,
+   "flow": -31.52,
    "score": 24,
    "state": "mid",
    "quad": "dip_out"
@@ -27845,7 +27437,7 @@
    "r2": 2523,
    "s2": 2263,
    "band20": 14.4,
-   "flow": 2.03,
+   "flow": 5.01,
    "score": 46,
    "state": "mid",
    "quad": "mid"
@@ -27872,7 +27464,7 @@
    "r2": 1940,
    "s2": 1740,
    "band20": 14.1,
-   "flow": -4.34,
+   "flow": -5.95,
    "score": 22,
    "state": "under",
    "quad": "dip_out"
@@ -27899,7 +27491,7 @@
    "r2": 3323,
    "s2": 3063,
    "band20": 11.6,
-   "flow": 3.86,
+   "flow": 1.46,
    "score": 53,
    "state": "mid",
    "quad": "mid"
@@ -27926,7 +27518,7 @@
    "r2": 5608,
    "s2": 5058,
    "band20": 21.9,
-   "flow": 0.26,
+   "flow": 1.79,
    "score": 61,
    "state": "mid",
    "quad": "mid"
@@ -27953,7 +27545,7 @@
    "r2": 1625,
    "s2": 1375,
    "band20": 24.6,
-   "flow": -7.07,
+   "flow": -6.12,
    "score": 41,
    "state": "mid",
    "quad": "dip_out"
@@ -27980,10 +27572,10 @@
    "r2": 380,
    "s2": 328,
    "band20": 35.5,
-   "flow": 1.65,
+   "flow": 3.35,
    "score": 13,
    "state": "under",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "TRUE": {
    "n": 53,
@@ -28061,7 +27653,7 @@
    "r2": 963,
    "s2": 743,
    "band20": 43.5,
-   "flow": 8.38,
+   "flow": 8.66,
    "score": 65,
    "state": "mid",
    "quad": "up_in"
@@ -28088,7 +27680,7 @@
    "r2": 4920,
    "s2": 4700,
    "band20": 6.5,
-   "flow": -11.67,
+   "flow": -11.26,
    "score": 30,
    "state": "mid",
    "quad": "dip_out"
@@ -28115,7 +27707,7 @@
    "r2": 718,
    "s2": 628,
    "band20": 19.8,
-   "flow": 11.17,
+   "flow": 6.13,
    "score": 21,
    "state": "mid",
    "quad": "dip_in"
@@ -28142,7 +27734,7 @@
    "r2": 17517,
    "s2": 14717,
    "band20": 122.5,
-   "flow": 9.53,
+   "flow": 6.51,
    "score": 73,
    "state": "mid",
    "quad": "up_in"
@@ -28169,7 +27761,7 @@
    "r2": 11833,
    "s2": 10683,
    "band20": 30.6,
-   "flow": 18.27,
+   "flow": 20.01,
    "score": 46,
    "state": "mid",
    "quad": "mid"
@@ -28196,7 +27788,7 @@
    "r2": 148,
    "s2": 114,
    "band20": 113.4,
-   "flow": -0.32,
+   "flow": 0.03,
    "score": 80,
    "state": "mid",
    "quad": "mid"
@@ -28223,7 +27815,7 @@
    "r2": 420,
    "s2": 376,
    "band20": 25.1,
-   "flow": -1.31,
+   "flow": -1.59,
    "score": 25,
    "state": "under",
    "quad": "mid"
@@ -28250,7 +27842,7 @@
    "r2": 3677,
    "s2": 3497,
    "band20": 12.7,
-   "flow": -23.05,
+   "flow": -21.67,
    "score": 19,
    "state": "under",
    "quad": "dip_out"
@@ -28277,7 +27869,7 @@
    "r2": 457,
    "s2": 357,
    "band20": 102.7,
-   "flow": 1.62,
+   "flow": 1.9,
    "score": 73,
    "state": "mid",
    "quad": "mid"
@@ -28304,7 +27896,7 @@
    "r2": 141,
    "s2": 103,
    "band20": 57.3,
-   "flow": -1.19,
+   "flow": 1.25,
    "score": 30,
    "state": "mid",
    "quad": "mid"
@@ -28331,7 +27923,7 @@
    "r2": 25225,
    "s2": 23875,
    "band20": 13.7,
-   "flow": -0.24,
+   "flow": -1.68,
    "score": 31,
    "state": "mid",
    "quad": "mid"
@@ -28358,7 +27950,7 @@
    "r2": 3240,
    "s2": 3040,
    "band20": 14.2,
-   "flow": -9.19,
+   "flow": -8.47,
    "score": 43,
    "state": "mid",
    "quad": "dip_out"
@@ -28385,7 +27977,7 @@
    "r2": 14183,
    "s2": 10633,
    "band20": 58.6,
-   "flow": -21.76,
+   "flow": -23.38,
    "score": 27,
    "state": "mid",
    "quad": "dip_out"
@@ -28412,7 +28004,7 @@
    "r2": 341,
    "s2": 293,
    "band20": 26.1,
-   "flow": 0.17,
+   "flow": -0.41,
    "score": 25,
    "state": "mid",
    "quad": "mid"
@@ -28439,7 +28031,7 @@
    "r2": 1665,
    "s2": 1495,
    "band20": 21.4,
-   "flow": -16.98,
+   "flow": -15.18,
    "score": 13,
    "state": "under",
    "quad": "dip_out"
@@ -28466,7 +28058,7 @@
    "r2": 2943,
    "s2": 2763,
    "band20": 14.4,
-   "flow": 16.72,
+   "flow": 15.98,
    "score": 34,
    "state": "mid",
    "quad": "dip_in"
@@ -28493,7 +28085,7 @@
    "r2": 2663,
    "s2": 2563,
    "band20": 10.9,
-   "flow": -24.53,
+   "flow": -23.24,
    "score": 31,
    "state": "under",
    "quad": "dip_out"
@@ -28520,7 +28112,7 @@
    "r2": 91,
    "s2": 77,
    "band20": 28.4,
-   "flow": 1.05,
+   "flow": 0.38,
    "score": 10,
    "state": "under",
    "quad": "mid"
@@ -28574,7 +28166,7 @@
    "r2": 157,
    "s2": 141,
    "band20": 23.1,
-   "flow": -3.73,
+   "flow": -2.57,
    "score": 53,
    "state": "mid",
    "quad": "mid"
@@ -28601,10 +28193,10 @@
    "r2": 1323,
    "s2": 1153,
    "band20": 33.5,
-   "flow": -1.64,
+   "flow": -2.39,
    "score": 20,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_out"
   },
   "CSMI": {
    "n": 53,
@@ -28628,7 +28220,7 @@
    "r2": 299,
    "s2": 191,
    "band20": 93.0,
-   "flow": -1.12,
+   "flow": -1.16,
    "score": 82,
    "state": "mid",
    "quad": "mid"
@@ -28655,7 +28247,7 @@
    "r2": 1345,
    "s2": 1255,
    "band20": 14.9,
-   "flow": 13.93,
+   "flow": 14.18,
    "score": 42,
    "state": "mid",
    "quad": "dip_in"
@@ -28682,7 +28274,7 @@
    "r2": 17317,
    "s2": 14367,
    "band20": 57.1,
-   "flow": 5.44,
+   "flow": 4.32,
    "score": 84,
    "state": "over",
    "quad": "up_in"
@@ -28709,7 +28301,7 @@
    "r2": 335,
    "s2": 211,
    "band20": 35.1,
-   "flow": -1.51,
+   "flow": -1.76,
    "score": 49,
    "state": "mid",
    "quad": "mid"
@@ -28736,7 +28328,7 @@
    "r2": 2273,
    "s2": 1893,
    "band20": 27.2,
-   "flow": 29.43,
+   "flow": 29.39,
    "score": 22,
    "state": "mid",
    "quad": "dip_in"
@@ -28763,7 +28355,7 @@
    "r2": 3103,
    "s2": 2943,
    "band20": 33.3,
-   "flow": -4.17,
+   "flow": -4.78,
    "score": 62,
    "state": "mid",
    "quad": "up_out"
@@ -28790,7 +28382,7 @@
    "r2": 8667,
    "s2": 7417,
    "band20": 14.0,
-   "flow": 25.19,
+   "flow": 23.07,
    "score": 22,
    "state": "mid",
    "quad": "dip_in"
@@ -28817,7 +28409,7 @@
    "r2": 5758,
    "s2": 4958,
    "band20": 23.9,
-   "flow": 14.61,
+   "flow": 16.44,
    "score": 86,
    "state": "over",
    "quad": "up_in"
@@ -28844,10 +28436,10 @@
    "r2": 4860,
    "s2": 4580,
    "band20": 16.3,
-   "flow": 1.41,
+   "flow": -6.75,
    "score": 31,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_out"
   },
   "INDY": {
    "n": 53,
@@ -28871,7 +28463,7 @@
    "r2": 2863,
    "s2": 2423,
    "band20": 27.3,
-   "flow": -5.87,
+   "flow": -5.27,
    "score": 25,
    "state": "mid",
    "quad": "dip_out"
@@ -28898,7 +28490,7 @@
    "r2": 7833,
    "s2": 7433,
    "band20": 32.9,
-   "flow": 5.75,
+   "flow": 3.14,
    "score": 24,
    "state": "under",
    "quad": "dip_in"
@@ -28925,7 +28517,7 @@
    "r2": 199,
    "s2": 167,
    "band20": 80.0,
-   "flow": -1.45,
+   "flow": -0.77,
    "score": 21,
    "state": "under",
    "quad": "mid"
@@ -28952,7 +28544,7 @@
    "r2": 5407,
    "s2": 4717,
    "band20": 29.8,
-   "flow": 6.34,
+   "flow": 8.56,
    "score": 8,
    "state": "under",
    "quad": "dip_in"
@@ -28979,7 +28571,7 @@
    "r2": 640,
    "s2": 590,
    "band20": 39.6,
-   "flow": 16.77,
+   "flow": 18.96,
    "score": 66,
    "state": "mid",
    "quad": "up_in"
@@ -29006,10 +28598,10 @@
    "r2": 2157,
    "s2": 1997,
    "band20": 50.0,
-   "flow": 2.48,
+   "flow": 1.92,
    "score": 87,
    "state": "over",
-   "quad": "up_in"
+   "quad": "mid"
   },
   "TEBE": {
    "n": 53,
@@ -29033,7 +28625,7 @@
    "r2": 2243,
    "s2": 1693,
    "band20": 45.3,
-   "flow": 1.44,
+   "flow": 1.62,
    "score": 78,
    "state": "mid",
    "quad": "mid"
@@ -29060,7 +28652,7 @@
    "r2": 3457,
    "s2": 3097,
    "band20": 54.9,
-   "flow": -0.76,
+   "flow": 0.05,
    "score": 46,
    "state": "mid",
    "quad": "mid"
@@ -29087,7 +28679,7 @@
    "r2": 115,
    "s2": 97,
    "band20": 105.0,
-   "flow": -4.79,
+   "flow": -3.82,
    "score": 74,
    "state": "mid",
    "quad": "up_out"
@@ -29114,7 +28706,7 @@
    "r2": 1522,
    "s2": 1422,
    "band20": 7.9,
-   "flow": -5.82,
+   "flow": -12.5,
    "score": 24,
    "state": "mid",
    "quad": "dip_out"
@@ -29141,7 +28733,7 @@
    "r2": 427,
    "s2": 343,
    "band20": 34.6,
-   "flow": -8.54,
+   "flow": -9.15,
    "score": 63,
    "state": "mid",
    "quad": "up_out"
@@ -29168,7 +28760,7 @@
    "r2": 622,
    "s2": 572,
    "band20": 23.9,
-   "flow": -12.86,
+   "flow": -17.12,
    "score": 17,
    "state": "under",
    "quad": "dip_out"
@@ -29195,7 +28787,7 @@
    "r2": 542,
    "s2": 360,
    "band20": 107.0,
-   "flow": 0.59,
+   "flow": 0.58,
    "score": 87,
    "state": "over",
    "quad": "mid"
@@ -29222,7 +28814,7 @@
    "r2": 1960,
    "s2": 1710,
    "band20": 25.7,
-   "flow": -1.7,
+   "flow": -0.59,
    "score": 11,
    "state": "under",
    "quad": "mid"
@@ -29249,7 +28841,7 @@
    "r2": 777,
    "s2": 717,
    "band20": 13.0,
-   "flow": -11.74,
+   "flow": -8.17,
    "score": 35,
    "state": "mid",
    "quad": "dip_out"
@@ -29276,7 +28868,7 @@
    "r2": 8833,
    "s2": 7983,
    "band20": 15.5,
-   "flow": 11.66,
+   "flow": 13.51,
    "score": 25,
    "state": "mid",
    "quad": "dip_in"
@@ -29303,7 +28895,7 @@
    "r2": 542,
    "s2": 482,
    "band20": 22.4,
-   "flow": 1.05,
+   "flow": 0.22,
    "score": 33,
    "state": "mid",
    "quad": "mid"
@@ -29330,7 +28922,7 @@
    "r2": 1683,
    "s2": 1503,
    "band20": 27.9,
-   "flow": 21.63,
+   "flow": 23.78,
    "score": 44,
    "state": "mid",
    "quad": "dip_in"
@@ -29357,10 +28949,10 @@
    "r2": 483,
    "s2": 391,
    "band20": 40.0,
-   "flow": 1.88,
+   "flow": 2.93,
    "score": 70,
    "state": "mid",
-   "quad": "mid"
+   "quad": "up_in"
   },
   "DSFI": {
    "n": 53,
@@ -29411,7 +29003,7 @@
    "r2": 26667,
    "s2": 24317,
    "band20": 7.8,
-   "flow": -44.89,
+   "flow": -42.25,
    "score": 27,
    "state": "mid",
    "quad": "dip_out"
@@ -29438,7 +29030,7 @@
    "r2": 730,
    "s2": 640,
    "band20": 22.9,
-   "flow": -0.55,
+   "flow": 0.12,
    "score": 30,
    "state": "under",
    "quad": "mid"
@@ -29465,10 +29057,10 @@
    "r2": 6950,
    "s2": 6500,
    "band20": 20.3,
-   "flow": -4.66,
+   "flow": 1.17,
    "score": 17,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "RAJA": {
    "n": 53,
@@ -29492,10 +29084,10 @@
    "r2": 755,
    "s2": 665,
    "band20": 23.9,
-   "flow": 1.9,
+   "flow": 3.75,
    "score": 15,
    "state": "under",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "AKRA": {
    "n": 53,
@@ -29519,7 +29111,7 @@
    "r2": 1497,
    "s2": 1417,
    "band20": 15.6,
-   "flow": -36.96,
+   "flow": -35.57,
    "score": 55,
    "state": "mid",
    "quad": "up_out"
@@ -29546,7 +29138,7 @@
    "r2": 116,
    "s2": 102,
    "band20": 39.4,
-   "flow": 0.98,
+   "flow": 1.43,
    "score": 18,
    "state": "under",
    "quad": "mid"
@@ -29573,7 +29165,7 @@
    "r2": 612,
    "s2": 552,
    "band20": 19.3,
-   "flow": -27.26,
+   "flow": -27.61,
    "score": 14,
    "state": "under",
    "quad": "dip_out"
@@ -29600,7 +29192,7 @@
    "r2": 1418,
    "s2": 1218,
    "band20": 19.4,
-   "flow": 5.44,
+   "flow": 5.23,
    "score": 44,
    "state": "mid",
    "quad": "dip_in"
@@ -29627,10 +29219,10 @@
    "r2": 1593,
    "s2": 1473,
    "band20": 18.6,
-   "flow": -4.17,
+   "flow": 2.54,
    "score": 25,
    "state": "mid",
-   "quad": "dip_out"
+   "quad": "dip_in"
   },
   "MDIA": {
    "n": 53,
@@ -29654,10 +29246,10 @@
    "r2": 200,
    "s2": 162,
    "band20": 75.7,
-   "flow": -6.18,
+   "flow": 1.42,
    "score": 20,
    "state": "mid",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "PSAB": {
    "n": 53,
@@ -29681,7 +29273,7 @@
    "r2": 560,
    "s2": 500,
    "band20": 29.1,
-   "flow": 3.01,
+   "flow": 4.28,
    "score": 22,
    "state": "under",
    "quad": "dip_in"
@@ -29708,7 +29300,7 @@
    "r2": 427,
    "s2": 303,
    "band20": 45.0,
-   "flow": -0.86,
+   "flow": -0.22,
    "score": 33,
    "state": "mid",
    "quad": "mid"
@@ -29735,7 +29327,7 @@
    "r2": 193,
    "s2": 177,
    "band20": 30.5,
-   "flow": 8.25,
+   "flow": 8.87,
    "score": 23,
    "state": "under",
    "quad": "dip_in"
@@ -29762,7 +29354,7 @@
    "r2": 1687,
    "s2": 1477,
    "band20": 41.1,
-   "flow": -13.04,
+   "flow": -22.73,
    "score": 53,
    "state": "mid",
    "quad": "mid"
@@ -29789,7 +29381,7 @@
    "r2": 7075,
    "s2": 6775,
    "band20": 10.9,
-   "flow": -16.28,
+   "flow": -15.17,
    "score": 25,
    "state": "mid",
    "quad": "dip_out"
@@ -29816,7 +29408,7 @@
    "r2": 803,
    "s2": 743,
    "band20": 38.6,
-   "flow": 18.23,
+   "flow": 19.92,
    "score": 23,
    "state": "under",
    "quad": "dip_in"
@@ -29843,7 +29435,7 @@
    "r2": 1015,
    "s2": 815,
    "band20": 75.2,
-   "flow": -2.52,
+   "flow": -4.89,
    "score": 58,
    "state": "mid",
    "quad": "up_out"
@@ -29870,7 +29462,7 @@
    "r2": 1713,
    "s2": 1543,
    "band20": 23.8,
-   "flow": 0.18,
+   "flow": 1.25,
    "score": 13,
    "state": "under",
    "quad": "mid"
@@ -29897,7 +29489,7 @@
    "r2": 128,
    "s2": 104,
    "band20": 49.5,
-   "flow": -1.85,
+   "flow": -1.84,
    "score": 29,
    "state": "mid",
    "quad": "mid"
@@ -29924,7 +29516,7 @@
    "r2": 1607,
    "s2": 1317,
    "band20": 49.2,
-   "flow": -5.93,
+   "flow": -5.54,
    "score": 62,
    "state": "mid",
    "quad": "up_out"
@@ -29951,10 +29543,10 @@
    "r2": 425,
    "s2": 389,
    "band20": 13.9,
-   "flow": -3.02,
+   "flow": 0.29,
    "score": 38,
    "state": "mid",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "BREN": {
    "n": 53,
@@ -29978,7 +29570,7 @@
    "r2": 3153,
    "s2": 2933,
    "band20": 15.3,
-   "flow": 9.25,
+   "flow": 13.88,
    "score": 20,
    "state": "under",
    "quad": "dip_in"
@@ -30005,7 +29597,7 @@
    "r2": 1640,
    "s2": 1540,
    "band20": 25.6,
-   "flow": -18.65,
+   "flow": -22.84,
    "score": 30,
    "state": "under",
    "quad": "dip_out"
@@ -30032,7 +29624,7 @@
    "r2": 1620,
    "s2": 1560,
    "band20": 16.5,
-   "flow": -19.44,
+   "flow": -22.94,
    "score": 15,
    "state": "under",
    "quad": "dip_out"
@@ -30059,7 +29651,7 @@
    "r2": 740,
    "s2": 700,
    "band20": 39.0,
-   "flow": 3.86,
+   "flow": 3.25,
    "score": 74,
    "state": "mid",
    "quad": "up_in"
@@ -30086,7 +29678,7 @@
    "r2": 4293,
    "s2": 3953,
    "band20": 19.5,
-   "flow": -14.14,
+   "flow": -15.78,
    "score": 21,
    "state": "under",
    "quad": "dip_out"
@@ -30113,7 +29705,7 @@
    "r2": 125,
    "s2": 81,
    "band20": 42.3,
-   "flow": 0.11,
+   "flow": 0.23,
    "score": 87,
    "state": "over",
    "quad": "mid"
@@ -30140,10 +29732,10 @@
    "r2": 183,
    "s2": 165,
    "band20": 34.9,
-   "flow": 1.26,
+   "flow": 3.9,
    "score": 21,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "MARK": {
    "n": 53,
@@ -30167,7 +29759,7 @@
    "r2": 1220,
    "s2": 1070,
    "band20": 20.5,
-   "flow": 8.66,
+   "flow": 8.76,
    "score": 63,
    "state": "mid",
    "quad": "up_in"
@@ -30194,7 +29786,7 @@
    "r2": 1118,
    "s2": 1018,
    "band20": 9.5,
-   "flow": 22.2,
+   "flow": 27.48,
    "score": 70,
    "state": "mid",
    "quad": "up_in"
@@ -30221,7 +29813,7 @@
    "r2": 213,
    "s2": 179,
    "band20": 28.0,
-   "flow": 5.25,
+   "flow": 6.25,
    "score": 21,
    "state": "under",
    "quad": "dip_in"
@@ -30248,7 +29840,7 @@
    "r2": 660,
    "s2": 590,
    "band20": 23.0,
-   "flow": -1.68,
+   "flow": -1.32,
    "score": 17,
    "state": "under",
    "quad": "mid"
@@ -30275,7 +29867,7 @@
    "r2": 67,
    "s2": 53,
    "band20": 43.9,
-   "flow": 2.0,
+   "flow": 2.01,
    "score": 12,
    "state": "under",
    "quad": "dip_in"
@@ -30302,10 +29894,10 @@
    "r2": 69,
    "s2": 61,
    "band20": 43.5,
-   "flow": 2.01,
+   "flow": 1.24,
    "score": 32,
    "state": "mid",
-   "quad": "dip_in"
+   "quad": "mid"
   },
   "EMTK": {
    "n": 53,
@@ -30329,7 +29921,7 @@
    "r2": 480,
    "s2": 428,
    "band20": 21.6,
-   "flow": -34.07,
+   "flow": -33.45,
    "score": 12,
    "state": "under",
    "quad": "dip_out"
@@ -30356,7 +29948,7 @@
    "r2": 285,
    "s2": 221,
    "band20": 45.4,
-   "flow": -4.41,
+   "flow": -6.8,
    "score": 16,
    "state": "under",
    "quad": "dip_out"
@@ -30383,7 +29975,7 @@
    "r2": 73,
    "s2": 61,
    "band20": 46.2,
-   "flow": 10.52,
+   "flow": 13.28,
    "score": 13,
    "state": "under",
    "quad": "dip_in"
@@ -30410,7 +30002,7 @@
    "r2": 391,
    "s2": 295,
    "band20": 114.8,
-   "flow": -3.51,
+   "flow": -3.36,
    "score": 20,
    "state": "under",
    "quad": "dip_out"
@@ -30437,7 +30029,7 @@
    "r2": 116,
    "s2": 64,
    "band20": 35.6,
-   "flow": -0.01,
+   "flow": -0.15,
    "score": 88,
    "state": "over",
    "quad": "mid"
@@ -30464,10 +30056,10 @@
    "r2": 1633,
    "s2": 1603,
    "band20": 11.8,
-   "flow": -3.22,
+   "flow": 0.47,
    "score": 28,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "BBSS": {
    "n": 53,
@@ -30491,7 +30083,7 @@
    "r2": 103,
    "s2": 79,
    "band20": 48.1,
-   "flow": -0.04,
+   "flow": -0.15,
    "score": 29,
    "state": "mid",
    "quad": "mid"
@@ -30518,7 +30110,7 @@
    "r2": 187,
    "s2": 141,
    "band20": 53.2,
-   "flow": 0.03,
+   "flow": 0.35,
    "score": 19,
    "state": "mid",
    "quad": "mid"
@@ -30545,7 +30137,7 @@
    "r2": 4587,
    "s2": 4407,
    "band20": 10.0,
-   "flow": -6.07,
+   "flow": -7.88,
    "score": 33,
    "state": "mid",
    "quad": "dip_out"
@@ -30572,7 +30164,7 @@
    "r2": 2550,
    "s2": 2310,
    "band20": 20.2,
-   "flow": -31.21,
+   "flow": -33.03,
    "score": 15,
    "state": "under",
    "quad": "dip_out"
@@ -30599,7 +30191,7 @@
    "r2": 1177,
    "s2": 1097,
    "band20": 13.4,
-   "flow": -21.32,
+   "flow": -18.66,
    "score": 20,
    "state": "under",
    "quad": "dip_out"
@@ -30626,7 +30218,7 @@
    "r2": 424,
    "s2": 380,
    "band20": 36.2,
-   "flow": 15.83,
+   "flow": 14.23,
    "score": 79,
    "state": "over",
    "quad": "up_in"
@@ -30653,7 +30245,7 @@
    "r2": 712,
    "s2": 602,
    "band20": 40.4,
-   "flow": -0.3,
+   "flow": 0.2,
    "score": 62,
    "state": "mid",
    "quad": "mid"
@@ -30680,7 +30272,7 @@
    "r2": 3140,
    "s2": 2260,
    "band20": 127.2,
-   "flow": -0.18,
+   "flow": 0.38,
    "score": 81,
    "state": "mid",
    "quad": "mid"
@@ -30707,7 +30299,7 @@
    "r2": 447,
    "s2": 419,
    "band20": 23.2,
-   "flow": 3.41,
+   "flow": 5.33,
    "score": 62,
    "state": "mid",
    "quad": "up_in"
@@ -30734,7 +30326,7 @@
    "r2": 125,
    "s2": 89,
    "band20": 31.0,
-   "flow": 0.43,
+   "flow": 0.61,
    "score": 22,
    "state": "under",
    "quad": "mid"
@@ -30761,7 +30353,7 @@
    "r2": 1532,
    "s2": 1462,
    "band20": 10.1,
-   "flow": -13.6,
+   "flow": -13.13,
    "score": 27,
    "state": "under",
    "quad": "dip_out"
@@ -30788,7 +30380,7 @@
    "r2": 311,
    "s2": 227,
    "band20": 52.3,
-   "flow": 11.46,
+   "flow": 14.13,
    "score": 69,
    "state": "mid",
    "quad": "up_in"
@@ -30815,7 +30407,7 @@
    "r2": 199,
    "s2": 149,
    "band20": 43.3,
-   "flow": 2.97,
+   "flow": 5.63,
    "score": 74,
    "state": "mid",
    "quad": "up_in"
@@ -30869,7 +30461,7 @@
    "r2": 7783,
    "s2": 6933,
    "band20": 18.5,
-   "flow": 5.05,
+   "flow": 6.35,
    "score": 15,
    "state": "under",
    "quad": "dip_in"
@@ -30896,7 +30488,7 @@
    "r2": 1675,
    "s2": 1555,
    "band20": 16.8,
-   "flow": 46.49,
+   "flow": 54.34,
    "score": 80,
    "state": "over",
    "quad": "up_in"
@@ -30923,7 +30515,7 @@
    "r2": 518,
    "s2": 438,
    "band20": 21.7,
-   "flow": 10.53,
+   "flow": 11.8,
    "score": 25,
    "state": "under",
    "quad": "dip_in"
@@ -30950,7 +30542,7 @@
    "r2": 194,
    "s2": 176,
    "band20": 38.0,
-   "flow": 8.14,
+   "flow": 7.97,
    "score": 84,
    "state": "over",
    "quad": "up_in"
@@ -30977,7 +30569,7 @@
    "r2": 517,
    "s2": 477,
    "band20": 13.8,
-   "flow": 28.47,
+   "flow": 31.27,
    "score": 61,
    "state": "mid",
    "quad": "up_in"
@@ -31004,7 +30596,7 @@
    "r2": 962,
    "s2": 912,
    "band20": 24.6,
-   "flow": -7.26,
+   "flow": -11.62,
    "score": 34,
    "state": "mid",
    "quad": "dip_out"
@@ -31031,7 +30623,7 @@
    "r2": 548,
    "s2": 498,
    "band20": 8.9,
-   "flow": 2.76,
+   "flow": 3.14,
    "score": 42,
    "state": "mid",
    "quad": "dip_in"
@@ -31058,7 +30650,7 @@
    "r2": 187,
    "s2": 171,
    "band20": 26.1,
-   "flow": -36.34,
+   "flow": -37.85,
    "score": 10,
    "state": "under",
    "quad": "dip_out"
@@ -31085,7 +30677,7 @@
    "r2": 757,
    "s2": 727,
    "band20": 6.8,
-   "flow": -10.6,
+   "flow": -11.94,
    "score": 47,
    "state": "mid",
    "quad": "mid"
@@ -31112,10 +30704,10 @@
    "r2": 945,
    "s2": 895,
    "band20": 12.8,
-   "flow": 0.87,
+   "flow": 2.08,
    "score": 32,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "SSMS": {
    "n": 53,
@@ -31139,7 +30731,7 @@
    "r2": 1130,
    "s2": 980,
    "band20": 48.3,
-   "flow": -10.26,
+   "flow": -10.63,
    "score": 40,
    "state": "mid",
    "quad": "dip_out"
@@ -31166,7 +30758,7 @@
    "r2": 892,
    "s2": 862,
    "band20": 20.4,
-   "flow": 4.62,
+   "flow": 6.14,
    "score": 81,
    "state": "over",
    "quad": "up_in"
@@ -31193,7 +30785,7 @@
    "r2": 244,
    "s2": 144,
    "band20": 65.9,
-   "flow": 0.36,
+   "flow": 0.37,
    "score": 79,
    "state": "mid",
    "quad": "mid"
@@ -31220,7 +30812,7 @@
    "r2": 421,
    "s2": 393,
    "band20": 23.9,
-   "flow": -32.31,
+   "flow": -32.99,
    "score": 19,
    "state": "mid",
    "quad": "dip_out"
@@ -31247,7 +30839,7 @@
    "r2": 1727,
    "s2": 1417,
    "band20": 20.3,
-   "flow": -0.44,
+   "flow": 1.62,
    "score": 26,
    "state": "mid",
    "quad": "mid"
@@ -31274,7 +30866,7 @@
    "r2": 277,
    "s2": 249,
    "band20": 32.6,
-   "flow": -15.41,
+   "flow": -19.59,
    "score": 11,
    "state": "under",
    "quad": "dip_out"
@@ -31301,7 +30893,7 @@
    "r2": 658,
    "s2": 628,
    "band20": 21.3,
-   "flow": 12.76,
+   "flow": 9.39,
    "score": 17,
    "state": "under",
    "quad": "dip_in"
@@ -31328,7 +30920,7 @@
    "r2": 2350,
    "s2": 2170,
    "band20": 14.7,
-   "flow": -9.14,
+   "flow": -13.92,
    "score": 34,
    "state": "mid",
    "quad": "dip_out"
@@ -31355,7 +30947,7 @@
    "r2": 180,
    "s2": 158,
    "band20": 29.7,
-   "flow": -29.3,
+   "flow": -29.45,
    "score": 14,
    "state": "under",
    "quad": "dip_out"
@@ -31382,10 +30974,10 @@
    "r2": 4290,
    "s2": 3730,
    "band20": 50.1,
-   "flow": -1.63,
+   "flow": -2.77,
    "score": 18,
    "state": "under",
-   "quad": "mid"
+   "quad": "dip_out"
   },
   "GGRM": {
    "n": 53,
@@ -31409,7 +31001,7 @@
    "r2": 18183,
    "s2": 17333,
    "band20": 23.1,
-   "flow": 7.01,
+   "flow": 14.76,
    "score": 19,
    "state": "under",
    "quad": "dip_in"
@@ -31436,7 +31028,7 @@
    "r2": 800,
    "s2": 710,
    "band20": 24.4,
-   "flow": 16.55,
+   "flow": 18.23,
    "score": 69,
    "state": "mid",
    "quad": "up_in"
@@ -31463,7 +31055,7 @@
    "r2": 98,
    "s2": 58,
    "band20": 33.8,
-   "flow": -0.31,
+   "flow": -0.18,
    "score": 15,
    "state": "under",
    "quad": "mid"
@@ -31490,7 +31082,7 @@
    "r2": 73,
    "s2": 65,
    "band20": 28.4,
-   "flow": 0.55,
+   "flow": 0.06,
    "score": 20,
    "state": "mid",
    "quad": "mid"
@@ -31517,7 +31109,7 @@
    "r2": 179,
    "s2": 137,
    "band20": 73.8,
-   "flow": 0.66,
+   "flow": 0.38,
    "score": 30,
    "state": "mid",
    "quad": "mid"
@@ -31544,7 +31136,7 @@
    "r2": 353,
    "s2": 321,
    "band20": 14.5,
-   "flow": -28.48,
+   "flow": -24.77,
    "score": 25,
    "state": "under",
    "quad": "dip_out"
@@ -31571,7 +31163,7 @@
    "r2": 168,
    "s2": 134,
    "band20": 106.9,
-   "flow": -0.5,
+   "flow": -1.06,
    "score": 77,
    "state": "mid",
    "quad": "mid"
@@ -31598,10 +31190,10 @@
    "r2": 1017,
    "s2": 917,
    "band20": 21.6,
-   "flow": -5.08,
+   "flow": -0.93,
    "score": 62,
    "state": "mid",
-   "quad": "up_out"
+   "quad": "mid"
   },
   "HRTA": {
    "n": 53,
@@ -31625,7 +31217,7 @@
    "r2": 2237,
    "s2": 2057,
    "band20": 19.3,
-   "flow": -18.24,
+   "flow": -12.82,
    "score": 36,
    "state": "mid",
    "quad": "dip_out"
@@ -31652,7 +31244,7 @@
    "r2": 212,
    "s2": 154,
    "band20": 60.0,
-   "flow": 0.4,
+   "flow": -0.37,
    "score": 78,
    "state": "mid",
    "quad": "mid"
@@ -31679,7 +31271,7 @@
    "r2": 235,
    "s2": 211,
    "band20": 34.9,
-   "flow": -24.19,
+   "flow": -25.18,
    "score": 13,
    "state": "under",
    "quad": "dip_out"
@@ -31706,7 +31298,7 @@
    "r2": 633,
    "s2": 573,
    "band20": 12.7,
-   "flow": -0.93,
+   "flow": 1.3,
    "score": 26,
    "state": "mid",
    "quad": "mid"
@@ -31733,7 +31325,7 @@
    "r2": 97,
    "s2": 75,
    "band20": 25.0,
-   "flow": -1.61,
+   "flow": -1.24,
    "score": 24,
    "state": "mid",
    "quad": "mid"
@@ -31760,10 +31352,10 @@
    "r2": 922,
    "s2": 692,
    "band20": 110.9,
-   "flow": 2.01,
+   "flow": -3.19,
    "score": 80,
    "state": "over",
-   "quad": "up_in"
+   "quad": "up_out"
   },
   "MEDS": {
    "n": 53,
@@ -31787,7 +31379,7 @@
    "r2": 103,
    "s2": 67,
    "band20": 82.6,
-   "flow": -0.8,
+   "flow": -0.87,
    "score": 66,
    "state": "mid",
    "quad": "mid"
@@ -31814,7 +31406,7 @@
    "r2": 920,
    "s2": 830,
    "band20": 15.1,
-   "flow": -13.89,
+   "flow": -16.48,
    "score": 20,
    "state": "under",
    "quad": "dip_out"
@@ -31841,7 +31433,7 @@
    "r2": 707,
    "s2": 667,
    "band20": 17.4,
-   "flow": -9.84,
+   "flow": -4.45,
    "score": 21,
    "state": "under",
    "quad": "dip_out"
@@ -31868,7 +31460,7 @@
    "r2": 1130,
    "s2": 920,
    "band20": 91.0,
-   "flow": 4.81,
+   "flow": 7.09,
    "score": 64,
    "state": "mid",
    "quad": "up_in"
@@ -31895,7 +31487,7 @@
    "r2": 104,
    "s2": 100,
    "band20": 15.0,
-   "flow": -4.45,
+   "flow": -3.86,
    "score": 28,
    "state": "mid",
    "quad": "dip_out"
@@ -31922,7 +31514,7 @@
    "r2": 401,
    "s2": 357,
    "band20": 28.6,
-   "flow": 3.65,
+   "flow": 7.52,
    "score": 9,
    "state": "under",
    "quad": "dip_in"
@@ -31949,7 +31541,7 @@
    "r2": 1042,
    "s2": 912,
    "band20": 13.7,
-   "flow": -11.82,
+   "flow": -12.15,
    "score": 29,
    "state": "mid",
    "quad": "dip_out"
@@ -31976,7 +31568,7 @@
    "r2": 466,
    "s2": 418,
    "band20": 34.7,
-   "flow": 4.39,
+   "flow": 6.36,
    "score": 81,
    "state": "over",
    "quad": "up_in"
@@ -32003,7 +31595,7 @@
    "r2": 113,
    "s2": 101,
    "band20": 18.0,
-   "flow": -29.99,
+   "flow": -35.21,
    "score": 34,
    "state": "mid",
    "quad": "dip_out"
@@ -32030,10 +31622,10 @@
    "r2": 416,
    "s2": 352,
    "band20": 51.9,
-   "flow": 1.33,
+   "flow": 2.22,
    "score": 82,
    "state": "over",
-   "quad": "mid"
+   "quad": "up_in"
   },
   "BKSL": {
    "n": 53,
@@ -32057,7 +31649,7 @@
    "r2": 71,
    "s2": 59,
    "band20": 23.8,
-   "flow": 16.88,
+   "flow": 22.35,
    "score": 10,
    "state": "under",
    "quad": "dip_in"
@@ -32084,7 +31676,7 @@
    "r2": 461,
    "s2": 413,
    "band20": 25.0,
-   "flow": -2.51,
+   "flow": -2.3,
    "score": 14,
    "state": "under",
    "quad": "dip_out"
@@ -32111,7 +31703,7 @@
    "r2": 783,
    "s2": 673,
    "band20": 41.9,
-   "flow": -1.3,
+   "flow": 1.92,
    "score": 25,
    "state": "mid",
    "quad": "mid"
@@ -32138,7 +31730,7 @@
    "r2": 3413,
    "s2": 3313,
    "band20": 14.3,
-   "flow": -16.66,
+   "flow": -5.33,
    "score": 46,
    "state": "mid",
    "quad": "mid"
@@ -32165,7 +31757,7 @@
    "r2": 151,
    "s2": 103,
    "band20": 132.8,
-   "flow": -0.3,
+   "flow": -0.42,
    "score": 91,
    "state": "over",
    "quad": "mid"
@@ -32192,7 +31784,7 @@
    "r2": 718,
    "s2": 658,
    "band20": 14.1,
-   "flow": -11.51,
+   "flow": -6.87,
    "score": 48,
    "state": "mid",
    "quad": "mid"
@@ -32219,7 +31811,7 @@
    "r2": 295,
    "s2": 235,
    "band20": 22.0,
-   "flow": -5.96,
+   "flow": -4.63,
    "score": 12,
    "state": "under",
    "quad": "dip_out"
@@ -32246,7 +31838,7 @@
    "r2": 145,
    "s2": 115,
    "band20": 24.2,
-   "flow": -4.47,
+   "flow": -4.57,
    "score": 21,
    "state": "under",
    "quad": "dip_out"
@@ -32273,7 +31865,7 @@
    "r2": 922,
    "s2": 852,
    "band20": 24.1,
-   "flow": -19.7,
+   "flow": -14.45,
    "score": 17,
    "state": "under",
    "quad": "dip_out"
@@ -32300,7 +31892,7 @@
    "r2": 4893,
    "s2": 4393,
    "band20": 36.9,
-   "flow": 5.13,
+   "flow": 5.14,
    "score": 79,
    "state": "over",
    "quad": "up_in"
@@ -32327,7 +31919,7 @@
    "r2": 4153,
    "s2": 3953,
    "band20": 12.7,
-   "flow": -47.26,
+   "flow": -46.76,
    "score": 14,
    "state": "under",
    "quad": "dip_out"
@@ -32354,7 +31946,7 @@
    "r2": 279,
    "s2": 235,
    "band20": 56.6,
-   "flow": 2.2,
+   "flow": 2.99,
    "score": 16,
    "state": "under",
    "quad": "dip_in"
@@ -32381,7 +31973,7 @@
    "r2": 257,
    "s2": 205,
    "band20": 48.1,
-   "flow": 11.55,
+   "flow": 14.65,
    "score": 16,
    "state": "under",
    "quad": "dip_in"
@@ -32408,7 +32000,7 @@
    "r2": 54,
    "s2": 50,
    "band20": 25.5,
-   "flow": -21.99,
+   "flow": -19.77,
    "score": 10,
    "state": "under",
    "quad": "dip_out"
@@ -32435,7 +32027,7 @@
    "r2": 64,
    "s2": 54,
    "band20": 31.6,
-   "flow": 0.39,
+   "flow": 1.58,
    "score": 15,
    "state": "under",
    "quad": "mid"
@@ -32462,7 +32054,7 @@
    "r2": 121,
    "s2": 83,
    "band20": 66.3,
-   "flow": -0.59,
+   "flow": -0.72,
    "score": 42,
    "state": "mid",
    "quad": "mid"
@@ -32489,7 +32081,7 @@
    "r2": 872,
    "s2": 822,
    "band20": 18.6,
-   "flow": -7.36,
+   "flow": -6.08,
    "score": 20,
    "state": "under",
    "quad": "dip_out"
@@ -32516,7 +32108,7 @@
    "r2": 2877,
    "s2": 2697,
    "band20": 11.7,
-   "flow": 12.38,
+   "flow": 11.54,
    "score": 22,
    "state": "under",
    "quad": "dip_in"
@@ -32543,7 +32135,7 @@
    "r2": 1542,
    "s2": 1432,
    "band20": 15.6,
-   "flow": 21.12,
+   "flow": 25.56,
    "score": 70,
    "state": "mid",
    "quad": "up_in"
@@ -32570,7 +32162,7 @@
    "r2": 592,
    "s2": 522,
    "band20": 17.3,
-   "flow": 1.25,
+   "flow": 1.2,
    "score": 76,
    "state": "mid",
    "quad": "mid"
@@ -32597,7 +32189,7 @@
    "r2": 1248,
    "s2": 1138,
    "band20": 16.8,
-   "flow": 10.35,
+   "flow": 17.96,
    "score": 32,
    "state": "mid",
    "quad": "dip_in"
@@ -32624,7 +32216,7 @@
    "r2": 935,
    "s2": 625,
    "band20": 31.0,
-   "flow": -1.39,
+   "flow": -1.76,
    "score": 18,
    "state": "mid",
    "quad": "mid"
@@ -32651,10 +32243,10 @@
    "r2": 678,
    "s2": 618,
    "band20": 19.8,
-   "flow": -6.39,
+   "flow": -1.69,
    "score": 27,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "AHAP": {
    "n": 53,
@@ -32678,7 +32270,7 @@
    "r2": 110,
    "s2": 92,
    "band20": 40.2,
-   "flow": 0.55,
+   "flow": 1.12,
    "score": 48,
    "state": "mid",
    "quad": "mid"
@@ -32705,7 +32297,7 @@
    "r2": 253,
    "s2": 225,
    "band20": 26.7,
-   "flow": -6.49,
+   "flow": -7.48,
    "score": 12,
    "state": "under",
    "quad": "dip_out"
@@ -32732,7 +32324,7 @@
    "r2": 667,
    "s2": 617,
    "band20": 14.3,
-   "flow": -38.07,
+   "flow": -35.06,
    "score": 22,
    "state": "under",
    "quad": "dip_out"
@@ -32759,7 +32351,7 @@
    "r2": 272,
    "s2": 212,
    "band20": 107.9,
-   "flow": -0.04,
+   "flow": -0.17,
    "score": 66,
    "state": "mid",
    "quad": "mid"
@@ -32786,7 +32378,7 @@
    "r2": 1638,
    "s2": 1278,
    "band20": 105.8,
-   "flow": -13.91,
+   "flow": -11.63,
    "score": 15,
    "state": "under",
    "quad": "dip_out"
@@ -32813,7 +32405,7 @@
    "r2": 1283,
    "s2": 1233,
    "band20": 4.9,
-   "flow": -35.05,
+   "flow": -34.47,
    "score": 56,
    "state": "mid",
    "quad": "up_out"
@@ -32840,7 +32432,7 @@
    "r2": 273,
    "s2": 261,
    "band20": 9.2,
-   "flow": -1.54,
+   "flow": -1.31,
    "score": 32,
    "state": "under",
    "quad": "mid"
@@ -32867,7 +32459,7 @@
    "r2": 2113,
    "s2": 2033,
    "band20": 20.2,
-   "flow": -5.66,
+   "flow": -4.83,
    "score": 43,
    "state": "mid",
    "quad": "dip_out"
@@ -32894,7 +32486,7 @@
    "r2": 1775,
    "s2": 1705,
    "band20": 6.6,
-   "flow": 37.11,
+   "flow": 44.13,
    "score": 59,
    "state": "mid",
    "quad": "up_in"
@@ -32921,7 +32513,7 @@
    "r2": 215,
    "s2": 199,
    "band20": 13.7,
-   "flow": -52.25,
+   "flow": -53.32,
    "score": 12,
    "state": "under",
    "quad": "dip_out"
@@ -32948,7 +32540,7 @@
    "r2": 101,
    "s2": 87,
    "band20": 26.7,
-   "flow": -10.79,
+   "flow": -9.32,
    "score": 33,
    "state": "under",
    "quad": "dip_out"
@@ -32975,7 +32567,7 @@
    "r2": 567,
    "s2": 527,
    "band20": 13.9,
-   "flow": 18.2,
+   "flow": 17.15,
    "score": 72,
    "state": "over",
    "quad": "up_in"
@@ -33002,10 +32594,10 @@
    "r2": 3813,
    "s2": 3433,
    "band20": 19.8,
-   "flow": 0.8,
+   "flow": 4.0,
    "score": 22,
    "state": "under",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "ACES": {
    "n": 53,
@@ -33029,7 +32621,7 @@
    "r2": 352,
    "s2": 332,
    "band20": 7.7,
-   "flow": -3.83,
+   "flow": -35.4,
    "score": 21,
    "state": "under",
    "quad": "dip_out"
@@ -33056,7 +32648,7 @@
    "r2": 238,
    "s2": 214,
    "band20": 55.4,
-   "flow": 0.71,
+   "flow": 0.66,
    "score": 82,
    "state": "over",
    "quad": "mid"
@@ -33110,7 +32702,7 @@
    "r2": 516,
    "s2": 492,
    "band20": 21.2,
-   "flow": 8.39,
+   "flow": 10.28,
    "score": 65,
    "state": "mid",
    "quad": "up_in"
@@ -33137,7 +32729,7 @@
    "r2": 58,
    "s2": 54,
    "band20": 12.7,
-   "flow": -7.79,
+   "flow": -7.03,
    "score": 26,
    "state": "mid",
    "quad": "dip_out"
@@ -33164,7 +32756,7 @@
    "r2": 110,
    "s2": 92,
    "band20": 28.6,
-   "flow": -1.78,
+   "flow": -0.99,
    "score": 32,
    "state": "under",
    "quad": "mid"
@@ -33191,7 +32783,7 @@
    "r2": 146,
    "s2": 110,
    "band20": 31.5,
-   "flow": -0.7,
+   "flow": -0.54,
    "score": 68,
    "state": "mid",
    "quad": "mid"
@@ -33218,7 +32810,7 @@
    "r2": 80,
    "s2": 58,
    "band20": 27.7,
-   "flow": 0.0,
+   "flow": -0.08,
    "score": 15,
    "state": "under",
    "quad": "mid"
@@ -33245,7 +32837,7 @@
    "r2": 2923,
    "s2": 2883,
    "band20": 5.0,
-   "flow": 2.11,
+   "flow": 2.34,
    "score": 74,
    "state": "over",
    "quad": "up_in"
@@ -33272,7 +32864,7 @@
    "r2": 4520,
    "s2": 4360,
    "band20": 13.4,
-   "flow": -37.41,
+   "flow": -37.37,
    "score": 53,
    "state": "mid",
    "quad": "mid"
@@ -33299,7 +32891,7 @@
    "r2": 1723,
    "s2": 1653,
    "band20": 6.3,
-   "flow": -61.79,
+   "flow": -58.11,
    "score": 27,
    "state": "mid",
    "quad": "dip_out"
@@ -33326,10 +32918,10 @@
    "r2": 187,
    "s2": 175,
    "band20": 7.3,
-   "flow": 0.35,
+   "flow": -3.14,
    "score": 29,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_out"
   },
   "WIIM": {
    "n": 53,
@@ -33353,7 +32945,7 @@
    "r2": 1530,
    "s2": 1430,
    "band20": 25.1,
-   "flow": 4.77,
+   "flow": 13.85,
    "score": 25,
    "state": "under",
    "quad": "dip_in"
@@ -33380,7 +32972,7 @@
    "r2": 612,
    "s2": 572,
    "band20": 13.7,
-   "flow": -31.06,
+   "flow": -32.57,
    "score": 23,
    "state": "under",
    "quad": "dip_out"
@@ -33407,10 +32999,10 @@
    "r2": 423,
    "s2": 391,
    "band20": 12.8,
-   "flow": -2.07,
+   "flow": -1.37,
    "score": 37,
    "state": "mid",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "CTRA": {
    "n": 53,
@@ -33434,7 +33026,7 @@
    "r2": 582,
    "s2": 552,
    "band20": 17.0,
-   "flow": -25.37,
+   "flow": -24.13,
    "score": 14,
    "state": "under",
    "quad": "dip_out"
@@ -33461,7 +33053,7 @@
    "r2": 109,
    "s2": 85,
    "band20": 30.4,
-   "flow": -0.93,
+   "flow": 0.06,
    "score": 21,
    "state": "mid",
    "quad": "mid"
@@ -33488,7 +33080,7 @@
    "r2": 114,
    "s2": 104,
    "band20": 13.1,
-   "flow": -8.94,
+   "flow": -11.47,
    "score": 23,
    "state": "mid",
    "quad": "dip_out"
@@ -33515,10 +33107,10 @@
    "r2": 832,
    "s2": 812,
    "band20": 15.5,
-   "flow": 1.56,
+   "flow": 2.16,
    "score": 67,
    "state": "mid",
-   "quad": "mid"
+   "quad": "up_in"
   },
   "SAPX": {
    "n": 53,
@@ -33542,7 +33134,7 @@
    "r2": 424,
    "s2": 280,
    "band20": 200.0,
-   "flow": 0.11,
+   "flow": 0.03,
    "score": 71,
    "state": "mid",
    "quad": "mid"
@@ -33569,10 +33161,10 @@
    "r2": 301,
    "s2": 249,
    "band20": 38.7,
-   "flow": 0.06,
+   "flow": -3.59,
    "score": 59,
    "state": "mid",
-   "quad": "mid"
+   "quad": "up_out"
   },
   "LAPD": {
    "n": 53,
@@ -33596,7 +33188,7 @@
    "r2": 85,
    "s2": 71,
    "band20": 64.1,
-   "flow": 0.74,
+   "flow": -0.39,
    "score": 56,
    "state": "mid",
    "quad": "mid"
@@ -33623,7 +33215,7 @@
    "r2": 1770,
    "s2": 1700,
    "band20": 19.9,
-   "flow": -3.24,
+   "flow": -2.13,
    "score": 24,
    "state": "under",
    "quad": "dip_out"
@@ -33650,7 +33242,7 @@
    "r2": 360,
    "s2": 348,
    "band20": 4.7,
-   "flow": -15.34,
+   "flow": -4.6,
    "score": 49,
    "state": "mid",
    "quad": "mid"
@@ -33677,7 +33269,7 @@
    "r2": 792,
    "s2": 742,
    "band20": 16.3,
-   "flow": 6.75,
+   "flow": 6.0,
    "score": 69,
    "state": "mid",
    "quad": "up_in"
@@ -33704,7 +33296,7 @@
    "r2": 205,
    "s2": 163,
    "band20": 38.3,
-   "flow": 0.54,
+   "flow": 1.28,
    "score": 17,
    "state": "under",
    "quad": "mid"
@@ -33731,7 +33323,7 @@
    "r2": 265,
    "s2": 241,
    "band20": 19.8,
-   "flow": 2.49,
+   "flow": 2.67,
    "score": 75,
    "state": "over",
    "quad": "up_in"
@@ -33758,7 +33350,7 @@
    "r2": 140,
    "s2": 118,
    "band20": 37.2,
-   "flow": -2.22,
+   "flow": -1.97,
    "score": 49,
    "state": "mid",
    "quad": "mid"
@@ -33785,7 +33377,7 @@
    "r2": 459,
    "s2": 379,
    "band20": 65.4,
-   "flow": 1.08,
+   "flow": 1.65,
    "score": 81,
    "state": "over",
    "quad": "mid"
@@ -33812,7 +33404,7 @@
    "r2": 74,
    "s2": 64,
    "band20": 21.0,
-   "flow": -2.68,
+   "flow": -2.35,
    "score": 62,
    "state": "mid",
    "quad": "up_out"
@@ -33839,7 +33431,7 @@
    "r2": 219,
    "s2": 165,
    "band20": 132.7,
-   "flow": -0.58,
+   "flow": -1.36,
    "score": 82,
    "state": "over",
    "quad": "mid"
@@ -33866,7 +33458,7 @@
    "r2": 333,
    "s2": 321,
    "band20": 23.5,
-   "flow": -1.61,
+   "flow": -1.45,
    "score": 77,
    "state": "mid",
    "quad": "mid"
@@ -33893,7 +33485,7 @@
    "r2": 1340,
    "s2": 1280,
    "band20": 12.4,
-   "flow": -19.16,
+   "flow": -14.37,
    "score": 23,
    "state": "under",
    "quad": "dip_out"
@@ -33920,10 +33512,10 @@
    "r2": 5317,
    "s2": 5067,
    "band20": 13.7,
-   "flow": -5.39,
+   "flow": -1.87,
    "score": 28,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "LPPF": {
    "n": 53,
@@ -33947,7 +33539,7 @@
    "r2": 1603,
    "s2": 1553,
    "band20": 9.2,
-   "flow": -27.6,
+   "flow": -26.22,
    "score": 36,
    "state": "mid",
    "quad": "dip_out"
@@ -33974,7 +33566,7 @@
    "r2": 449,
    "s2": 405,
    "band20": 19.6,
-   "flow": -0.97,
+   "flow": -0.99,
    "score": 26,
    "state": "mid",
    "quad": "mid"
@@ -34001,7 +33593,7 @@
    "r2": 183,
    "s2": 141,
    "band20": 75.0,
-   "flow": -6.52,
+   "flow": -6.63,
    "score": 36,
    "state": "mid",
    "quad": "dip_out"
@@ -34028,7 +33620,7 @@
    "r2": 121,
    "s2": 99,
    "band20": 30.9,
-   "flow": -1.23,
+   "flow": -0.85,
    "score": 45,
    "state": "mid",
    "quad": "mid"
@@ -34055,7 +33647,7 @@
    "r2": 515,
    "s2": 487,
    "band20": 6.0,
-   "flow": -31.23,
+   "flow": -35.99,
    "score": 32,
    "state": "mid",
    "quad": "dip_out"
@@ -34082,10 +33674,10 @@
    "r2": 131,
    "s2": 103,
    "band20": 60.9,
-   "flow": 1.6,
+   "flow": 4.83,
    "score": 22,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "YELO": {
    "n": 53,
@@ -34109,7 +33701,7 @@
    "r2": 96,
    "s2": 80,
    "band20": 37.0,
-   "flow": -7.92,
+   "flow": -3.7,
    "score": 16,
    "state": "under",
    "quad": "dip_out"
@@ -34136,7 +33728,7 @@
    "r2": 517,
    "s2": 485,
    "band20": 28.5,
-   "flow": -0.76,
+   "flow": -0.61,
    "score": 15,
    "state": "under",
    "quad": "mid"
@@ -34163,7 +33755,7 @@
    "r2": 167,
    "s2": 137,
    "band20": 74.3,
-   "flow": 1.46,
+   "flow": 1.08,
    "score": 62,
    "state": "mid",
    "quad": "mid"
@@ -34190,7 +33782,7 @@
    "r2": 98,
    "s2": 84,
    "band20": 22.6,
-   "flow": -0.37,
+   "flow": -0.33,
    "score": 49,
    "state": "mid",
    "quad": "mid"
@@ -34217,10 +33809,10 @@
    "r2": 178,
    "s2": 144,
    "band20": 35.9,
-   "flow": 1.42,
+   "flow": 3.38,
    "score": 32,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "BJBR": {
    "n": 53,
@@ -34244,7 +33836,7 @@
    "r2": 777,
    "s2": 747,
    "band20": 8.0,
-   "flow": -50.12,
+   "flow": -50.76,
    "score": 23,
    "state": "under",
    "quad": "dip_out"
@@ -34271,7 +33863,7 @@
    "r2": 822,
    "s2": 782,
    "band20": 19.2,
-   "flow": 6.57,
+   "flow": 11.93,
    "score": 44,
    "state": "mid",
    "quad": "dip_in"
@@ -34298,7 +33890,7 @@
    "r2": 572,
    "s2": 492,
    "band20": 37.0,
-   "flow": -1.67,
+   "flow": -1.53,
    "score": 26,
    "state": "mid",
    "quad": "mid"
@@ -34325,7 +33917,7 @@
    "r2": 135,
    "s2": 117,
    "band20": 31.5,
-   "flow": -0.16,
+   "flow": -0.12,
    "score": 68,
    "state": "mid",
    "quad": "mid"
@@ -34352,7 +33944,7 @@
    "r2": 65,
    "s2": 59,
    "band20": 16.4,
-   "flow": -7.11,
+   "flow": -6.97,
    "score": 22,
    "state": "under",
    "quad": "dip_out"
@@ -34379,7 +33971,7 @@
    "r2": 583,
    "s2": 523,
    "band20": 18.9,
-   "flow": 4.0,
+   "flow": 5.52,
    "score": 41,
    "state": "mid",
    "quad": "dip_in"
@@ -34406,10 +33998,10 @@
    "r2": 421,
    "s2": 377,
    "band20": 20.6,
-   "flow": -2.24,
+   "flow": -0.9,
    "score": 17,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "HYGN": {
    "n": 53,
@@ -34433,7 +34025,7 @@
    "r2": 183,
    "s2": 177,
    "band20": 13.7,
-   "flow": 79.73,
+   "flow": 83.17,
    "score": 35,
    "state": "mid",
    "quad": "dip_in"
@@ -34460,7 +34052,7 @@
    "r2": 112,
    "s2": 98,
    "band20": 49.5,
-   "flow": -0.02,
+   "flow": 0.88,
    "score": 37,
    "state": "mid",
    "quad": "mid"
@@ -34487,7 +34079,7 @@
    "r2": 97,
    "s2": 81,
    "band20": 35.0,
-   "flow": -3.33,
+   "flow": -2.36,
    "score": 24,
    "state": "mid",
    "quad": "dip_out"
@@ -34514,7 +34106,7 @@
    "r2": 471,
    "s2": 363,
    "band20": 105.6,
-   "flow": 0.48,
+   "flow": 0.07,
    "score": 79,
    "state": "over",
    "quad": "mid"
@@ -34541,7 +34133,7 @@
    "r2": 53,
    "s2": 49,
    "band20": 22.0,
-   "flow": -1.99,
+   "flow": -1.57,
    "score": 19,
    "state": "under",
    "quad": "mid"
@@ -34568,7 +34160,7 @@
    "r2": 165,
    "s2": 141,
    "band20": 26.2,
-   "flow": 0.95,
+   "flow": 0.58,
    "score": 21,
    "state": "mid",
    "quad": "mid"
@@ -34595,10 +34187,10 @@
    "r2": 78,
    "s2": 68,
    "band20": 40.3,
-   "flow": -2.61,
+   "flow": -0.15,
    "score": 68,
    "state": "mid",
-   "quad": "up_out"
+   "quad": "mid"
   },
   "SMMT": {
    "n": 53,
@@ -34622,7 +34214,7 @@
    "r2": 3120,
    "s2": 2780,
    "band20": 63.0,
-   "flow": -26.5,
+   "flow": -29.53,
    "score": 79,
    "state": "over",
    "quad": "up_out"
@@ -34649,7 +34241,7 @@
    "r2": 700,
    "s2": 670,
    "band20": 9.3,
-   "flow": -0.37,
+   "flow": 0.6,
    "score": 63,
    "state": "mid",
    "quad": "mid"
@@ -34676,7 +34268,7 @@
    "r2": 95,
    "s2": 81,
    "band20": 98.3,
-   "flow": -0.07,
+   "flow": 0.01,
    "score": 52,
    "state": "mid",
    "quad": "mid"
@@ -34703,7 +34295,7 @@
    "r2": 525,
    "s2": 505,
    "band20": 4.9,
-   "flow": -30.58,
+   "flow": -41.79,
    "score": 26,
    "state": "under",
    "quad": "dip_out"
@@ -34730,7 +34322,7 @@
    "r2": 197,
    "s2": 167,
    "band20": 34.6,
-   "flow": -10.86,
+   "flow": -13.25,
    "score": 24,
    "state": "under",
    "quad": "dip_out"
@@ -34757,7 +34349,7 @@
    "r2": 342,
    "s2": 282,
    "band20": 70.5,
-   "flow": 9.16,
+   "flow": 8.71,
    "score": 68,
    "state": "mid",
    "quad": "up_in"
@@ -34784,7 +34376,7 @@
    "r2": 469,
    "s2": 409,
    "band20": 21.9,
-   "flow": 9.35,
+   "flow": 15.24,
    "score": 41,
    "state": "mid",
    "quad": "dip_in"
@@ -34811,7 +34403,7 @@
    "r2": 125,
    "s2": 113,
    "band20": 24.1,
-   "flow": -1.58,
+   "flow": -1.94,
    "score": 18,
    "state": "under",
    "quad": "mid"
@@ -34838,10 +34430,10 @@
    "r2": 331,
    "s2": 311,
    "band20": 16.5,
-   "flow": -2.64,
+   "flow": -1.28,
    "score": 21,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "UDNG": {
    "n": 53,
@@ -34892,10 +34484,10 @@
    "r2": 133,
    "s2": 111,
    "band20": 27.0,
-   "flow": -2.45,
+   "flow": -0.76,
    "score": 83,
    "state": "over",
-   "quad": "up_out"
+   "quad": "mid"
   },
   "KICI": {
    "n": 53,
@@ -34973,10 +34565,10 @@
    "r2": 880,
    "s2": 770,
    "band20": 56.3,
-   "flow": 2.02,
+   "flow": 1.92,
    "score": 76,
    "state": "mid",
-   "quad": "up_in"
+   "quad": "mid"
   },
   "STRK": {
    "n": 53,
@@ -35000,10 +34592,10 @@
    "r2": 74,
    "s2": 58,
    "band20": 19.7,
-   "flow": -6.83,
+   "flow": -1.17,
    "score": 39,
    "state": "mid",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "TRON": {
    "n": 53,
@@ -35027,10 +34619,10 @@
    "r2": 113,
    "s2": 89,
    "band20": 18.1,
-   "flow": 1.07,
+   "flow": -2.45,
    "score": 44,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_out"
   },
   "OASA": {
    "n": 53,
@@ -35054,7 +34646,7 @@
    "r2": 294,
    "s2": 262,
    "band20": 32.6,
-   "flow": -6.25,
+   "flow": -3.07,
    "score": 20,
    "state": "under",
    "quad": "dip_out"
@@ -35081,7 +34673,7 @@
    "r2": 246,
    "s2": 222,
    "band20": 18.3,
-   "flow": -0.37,
+   "flow": -0.28,
    "score": 41,
    "state": "mid",
    "quad": "mid"
@@ -35108,7 +34700,7 @@
    "r2": 110,
    "s2": 98,
    "band20": 174.5,
-   "flow": 1.33,
+   "flow": 1.26,
    "score": 23,
    "state": "under",
    "quad": "mid"
@@ -35135,7 +34727,7 @@
    "r2": 84,
    "s2": 68,
    "band20": 30.8,
-   "flow": -1.4,
+   "flow": -0.15,
    "score": 52,
    "state": "mid",
    "quad": "mid"
@@ -35162,7 +34754,7 @@
    "r2": 778,
    "s2": 688,
    "band20": 28.7,
-   "flow": 8.37,
+   "flow": 7.68,
    "score": 13,
    "state": "under",
    "quad": "dip_in"
@@ -35189,7 +34781,7 @@
    "r2": 219,
    "s2": 181,
    "band20": 50.3,
-   "flow": 4.24,
+   "flow": 6.68,
    "score": 11,
    "state": "under",
    "quad": "dip_in"
@@ -35216,7 +34808,7 @@
    "r2": 116,
    "s2": 102,
    "band20": 21.9,
-   "flow": -4.66,
+   "flow": -11.11,
    "score": 31,
    "state": "mid",
    "quad": "dip_out"
@@ -35243,7 +34835,7 @@
    "r2": 563,
    "s2": 267,
    "band20": 45.4,
-   "flow": -0.8,
+   "flow": -0.94,
    "score": 82,
    "state": "mid",
    "quad": "mid"
@@ -35270,7 +34862,7 @@
    "r2": 120,
    "s2": 112,
    "band20": 27.0,
-   "flow": 8.73,
+   "flow": 6.22,
    "score": 68,
    "state": "mid",
    "quad": "up_in"
@@ -35297,10 +34889,10 @@
    "r2": 1663,
    "s2": 1523,
    "band20": 32.2,
-   "flow": 3.03,
+   "flow": -7.15,
    "score": 78,
    "state": "over",
-   "quad": "up_in"
+   "quad": "up_out"
   },
   "UANG": {
    "n": 53,
@@ -35324,7 +34916,7 @@
    "r2": 4387,
    "s2": 3587,
    "band20": 98.7,
-   "flow": -0.31,
+   "flow": 0.03,
    "score": 72,
    "state": "mid",
    "quad": "mid"
@@ -35351,10 +34943,10 @@
    "r2": 126,
    "s2": 112,
    "band20": 23.3,
-   "flow": -1.14,
+   "flow": 3.05,
    "score": 12,
    "state": "under",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "ASGR": {
    "n": 53,
@@ -35378,7 +34970,7 @@
    "r2": 2130,
    "s2": 2050,
    "band20": 27.9,
-   "flow": 7.78,
+   "flow": 12.55,
    "score": 33,
    "state": "mid",
    "quad": "dip_in"
@@ -35405,7 +34997,7 @@
    "r2": 327,
    "s2": 295,
    "band20": 18.2,
-   "flow": 4.24,
+   "flow": 4.63,
    "score": 30,
    "state": "mid",
    "quad": "dip_in"
@@ -35432,10 +35024,10 @@
    "r2": 133,
    "s2": 111,
    "band20": 30.6,
-   "flow": 1.4,
+   "flow": 2.33,
    "score": 44,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "DKFT": {
    "n": 53,
@@ -35459,7 +35051,7 @@
    "r2": 693,
    "s2": 633,
    "band20": 15.0,
-   "flow": 17.03,
+   "flow": 22.51,
    "score": 32,
    "state": "mid",
    "quad": "dip_in"
@@ -35486,7 +35078,7 @@
    "r2": 33,
    "s2": 31,
    "band20": 29.0,
-   "flow": 1.26,
+   "flow": 1.07,
    "score": 17,
    "state": "under",
    "quad": "mid"
@@ -35513,10 +35105,10 @@
    "r2": 109,
    "s2": 95,
    "band20": 26.0,
-   "flow": -2.63,
+   "flow": -0.46,
    "score": 26,
    "state": "mid",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "GRPH": {
    "n": 53,
@@ -35567,7 +35159,7 @@
    "r2": 87,
    "s2": 79,
    "band20": 25.0,
-   "flow": -5.24,
+   "flow": -6.05,
    "score": 65,
    "state": "mid",
    "quad": "up_out"
@@ -35594,7 +35186,7 @@
    "r2": 109,
    "s2": 99,
    "band20": 17.0,
-   "flow": -7.88,
+   "flow": -5.13,
    "score": 33,
    "state": "mid",
    "quad": "dip_out"
@@ -35621,7 +35213,7 @@
    "r2": 253,
    "s2": 171,
    "band20": 41.4,
-   "flow": 0.02,
+   "flow": 0.03,
    "score": 79,
    "state": "mid",
    "quad": "mid"
@@ -35648,7 +35240,7 @@
    "r2": 1028,
    "s2": 1008,
    "band20": 5.5,
-   "flow": -28.4,
+   "flow": -30.99,
    "score": 36,
    "state": "mid",
    "quad": "dip_out"
@@ -35675,10 +35267,10 @@
    "r2": 83,
    "s2": 75,
    "band20": 19.5,
-   "flow": -5.88,
+   "flow": -0.61,
    "score": 29,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "DATA": {
    "n": 53,
@@ -35702,7 +35294,7 @@
    "r2": 1747,
    "s2": 1557,
    "band20": 21.7,
-   "flow": 0.24,
+   "flow": -0.35,
    "score": 22,
    "state": "under",
    "quad": "mid"
@@ -35729,7 +35321,7 @@
    "r2": 568,
    "s2": 484,
    "band20": 24.5,
-   "flow": 1.69,
+   "flow": -1.12,
    "score": 25,
    "state": "mid",
    "quad": "mid"
@@ -35756,7 +35348,7 @@
    "r2": 155,
    "s2": 141,
    "band20": 18.3,
-   "flow": 0.56,
+   "flow": 0.57,
    "score": 51,
    "state": "mid",
    "quad": "mid"
@@ -35783,7 +35375,7 @@
    "r2": 78,
    "s2": 70,
    "band20": 29.7,
-   "flow": 2.2,
+   "flow": -4.28,
    "score": 53,
    "state": "mid",
    "quad": "mid"
@@ -35810,7 +35402,7 @@
    "r2": 110,
    "s2": 88,
    "band20": 30.5,
-   "flow": -1.54,
+   "flow": -1.27,
    "score": 63,
    "state": "mid",
    "quad": "mid"
@@ -35837,7 +35429,7 @@
    "r2": 2873,
    "s2": 2733,
    "band20": 20.5,
-   "flow": -19.76,
+   "flow": -19.46,
    "score": 61,
    "state": "mid",
    "quad": "up_out"
@@ -35864,7 +35456,7 @@
    "r2": 121,
    "s2": 105,
    "band20": 46.5,
-   "flow": 8.56,
+   "flow": 8.57,
    "score": 50,
    "state": "mid",
    "quad": "mid"
@@ -35891,7 +35483,7 @@
    "r2": 143,
    "s2": 125,
    "band20": 34.3,
-   "flow": 18.99,
+   "flow": 12.55,
    "score": 68,
    "state": "mid",
    "quad": "up_in"
@@ -35918,7 +35510,7 @@
    "r2": 483,
    "s2": 275,
    "band20": 37.0,
-   "flow": -1.67,
+   "flow": 0.27,
    "score": 57,
    "state": "mid",
    "quad": "mid"
@@ -35945,7 +35537,7 @@
    "r2": 144,
    "s2": 128,
    "band20": 22.0,
-   "flow": -27.77,
+   "flow": -35.4,
    "score": 21,
    "state": "mid",
    "quad": "dip_out"
@@ -35972,10 +35564,10 @@
    "r2": 1818,
    "s2": 1748,
    "band20": 11.7,
-   "flow": -6.76,
+   "flow": 3.07,
    "score": 36,
    "state": "mid",
-   "quad": "dip_out"
+   "quad": "dip_in"
   },
   "INAI": {
    "n": 53,
@@ -35999,7 +35591,7 @@
    "r2": 209,
    "s2": 171,
    "band20": 21.6,
-   "flow": -1.21,
+   "flow": -1.26,
    "score": 76,
    "state": "mid",
    "quad": "mid"
@@ -36026,7 +35618,7 @@
    "r2": 1132,
    "s2": 1092,
    "band20": 9.1,
-   "flow": -0.38,
+   "flow": 0.1,
    "score": 31,
    "state": "mid",
    "quad": "mid"
@@ -36053,10 +35645,10 @@
    "r2": 190,
    "s2": 166,
    "band20": 47.4,
-   "flow": -5.64,
+   "flow": -1.52,
    "score": 68,
    "state": "mid",
-   "quad": "up_out"
+   "quad": "mid"
   },
   "APEX": {
    "n": 53,
@@ -36080,7 +35672,7 @@
    "r2": 196,
    "s2": 176,
    "band20": 21.8,
-   "flow": 13.18,
+   "flow": 16.06,
    "score": 24,
    "state": "mid",
    "quad": "dip_in"
@@ -36107,7 +35699,7 @@
    "r2": 227,
    "s2": 173,
    "band20": 24.2,
-   "flow": -0.56,
+   "flow": -0.06,
    "score": 77,
    "state": "over",
    "quad": "mid"
@@ -36134,7 +35726,7 @@
    "r2": 118,
    "s2": 98,
    "band20": 33.0,
-   "flow": -0.08,
+   "flow": 0.53,
    "score": 57,
    "state": "mid",
    "quad": "mid"
@@ -36161,10 +35753,10 @@
    "r2": 334,
    "s2": 286,
    "band20": 66.7,
-   "flow": -1.43,
+   "flow": 2.04,
    "score": 30,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "BINA": {
    "n": 53,
@@ -36188,7 +35780,7 @@
    "r2": 4120,
    "s2": 3920,
    "band20": 10.3,
-   "flow": -5.34,
+   "flow": -3.72,
    "score": 26,
    "state": "under",
    "quad": "dip_out"
@@ -36215,7 +35807,7 @@
    "r2": 61,
    "s2": 51,
    "band20": 24.1,
-   "flow": -0.32,
+   "flow": -0.41,
    "score": 19,
    "state": "mid",
    "quad": "mid"
@@ -36242,7 +35834,7 @@
    "r2": 1373,
    "s2": 1183,
    "band20": 47.6,
-   "flow": 5.95,
+   "flow": 9.0,
    "score": 85,
    "state": "over",
    "quad": "up_in"
@@ -36269,7 +35861,7 @@
    "r2": 379,
    "s2": 295,
    "band20": 33.6,
-   "flow": -3.22,
+   "flow": -2.34,
    "score": 34,
    "state": "mid",
    "quad": "dip_out"
@@ -36296,7 +35888,7 @@
    "r2": 198,
    "s2": 188,
    "band20": 17.6,
-   "flow": -1.64,
+   "flow": 0.75,
    "score": 34,
    "state": "mid",
    "quad": "mid"
@@ -36323,7 +35915,7 @@
    "r2": 190,
    "s2": 162,
    "band20": 31.0,
-   "flow": 1.24,
+   "flow": 1.58,
    "score": 31,
    "state": "mid",
    "quad": "mid"
@@ -36350,7 +35942,7 @@
    "r2": 310,
    "s2": 246,
    "band20": 60.4,
-   "flow": -0.49,
+   "flow": -0.15,
    "score": 69,
    "state": "mid",
    "quad": "mid"
@@ -36377,10 +35969,10 @@
    "r2": 149,
    "s2": 127,
    "band20": 13.1,
-   "flow": -1.44,
+   "flow": -5.08,
    "score": 35,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_out"
   },
   "FUJI": {
    "n": 53,
@@ -36404,7 +35996,7 @@
    "r2": 329,
    "s2": 245,
    "band20": 50.4,
-   "flow": 1.76,
+   "flow": 0.93,
    "score": 72,
    "state": "mid",
    "quad": "mid"
@@ -36431,7 +36023,7 @@
    "r2": 187,
    "s2": 155,
    "band20": 69.7,
-   "flow": -5.97,
+   "flow": -5.24,
    "score": 54,
    "state": "mid",
    "quad": "mid"
@@ -36458,7 +36050,7 @@
    "r2": 231,
    "s2": 191,
    "band20": 220.0,
-   "flow": -0.02,
+   "flow": -0.22,
    "score": 85,
    "state": "over",
    "quad": "mid"
@@ -36485,7 +36077,7 @@
    "r2": 248,
    "s2": 212,
    "band20": 23.6,
-   "flow": -16.13,
+   "flow": -14.69,
    "score": 26,
    "state": "mid",
    "quad": "dip_out"
@@ -36539,7 +36131,7 @@
    "r2": 171,
    "s2": 153,
    "band20": 31.9,
-   "flow": -0.01,
+   "flow": -0.02,
    "score": 66,
    "state": "mid",
    "quad": "mid"
@@ -36593,7 +36185,7 @@
    "r2": 57,
    "s2": 47,
    "band20": 28.0,
-   "flow": 0.94,
+   "flow": 1.86,
    "score": 12,
    "state": "under",
    "quad": "mid"
@@ -36620,7 +36212,7 @@
    "r2": 7467,
    "s2": 7017,
    "band20": 17.3,
-   "flow": -55.73,
+   "flow": -57.07,
    "score": 39,
    "state": "mid",
    "quad": "dip_out"
@@ -36647,7 +36239,7 @@
    "r2": 162,
    "s2": 156,
    "band20": 7.9,
-   "flow": -8.92,
+   "flow": -6.87,
    "score": 59,
    "state": "mid",
    "quad": "up_out"
@@ -36674,7 +36266,7 @@
    "r2": 84,
    "s2": 72,
    "band20": 106.0,
-   "flow": -0.43,
+   "flow": -0.13,
    "score": 75,
    "state": "mid",
    "quad": "mid"
@@ -36701,10 +36293,10 @@
    "r2": 151,
    "s2": 131,
    "band20": 24.6,
-   "flow": 1.34,
+   "flow": 4.18,
    "score": 59,
    "state": "mid",
-   "quad": "mid"
+   "quad": "up_in"
   },
   "CNMA": {
    "n": 53,
@@ -36728,7 +36320,7 @@
    "r2": 92,
    "s2": 88,
    "band20": 6.8,
-   "flow": -10.26,
+   "flow": -14.3,
    "score": 28,
    "state": "mid",
    "quad": "dip_out"
@@ -36755,7 +36347,7 @@
    "r2": 96,
    "s2": 82,
    "band20": 32.1,
-   "flow": -0.69,
+   "flow": 1.49,
    "score": 59,
    "state": "mid",
    "quad": "mid"
@@ -36782,10 +36374,10 @@
    "r2": 66,
    "s2": 54,
    "band20": 27.6,
-   "flow": -1.72,
+   "flow": -5.46,
    "score": 21,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_out"
   },
   "HBAT": {
    "n": 53,
@@ -36809,7 +36401,7 @@
    "r2": 423,
    "s2": 371,
    "band20": 81.2,
-   "flow": -0.03,
+   "flow": -0.13,
    "score": 87,
    "state": "over",
    "quad": "mid"
@@ -36836,7 +36428,7 @@
    "r2": 2770,
    "s2": 2690,
    "band20": 4.9,
-   "flow": -8.9,
+   "flow": -11.35,
    "score": 44,
    "state": "mid",
    "quad": "dip_out"
@@ -36863,7 +36455,7 @@
    "r2": 58,
    "s2": 48,
    "band20": 22.0,
-   "flow": -7.51,
+   "flow": -7.3,
    "score": 18,
    "state": "mid",
    "quad": "dip_out"
@@ -36890,7 +36482,7 @@
    "r2": 79,
    "s2": 67,
    "band20": 40.0,
-   "flow": -0.37,
+   "flow": 0.87,
    "score": 28,
    "state": "mid",
    "quad": "mid"
@@ -36917,7 +36509,7 @@
    "r2": 511,
    "s2": 447,
    "band20": 33.8,
-   "flow": -0.12,
+   "flow": 0.27,
    "score": 17,
    "state": "under",
    "quad": "mid"
@@ -36971,10 +36563,10 @@
    "r2": 1228,
    "s2": 1068,
    "band20": 24.9,
-   "flow": -2.2,
+   "flow": 1.46,
    "score": 26,
    "state": "mid",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "LAND": {
    "n": 53,
@@ -36998,10 +36590,10 @@
    "r2": 71,
    "s2": 59,
    "band20": 27.4,
-   "flow": -2.98,
+   "flow": -0.75,
    "score": 16,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "MSIE": {
    "n": 53,
@@ -37025,7 +36617,7 @@
    "r2": 202,
    "s2": 162,
    "band20": 125.6,
-   "flow": -5.49,
+   "flow": -4.01,
    "score": 81,
    "state": "over",
    "quad": "up_out"
@@ -37052,7 +36644,7 @@
    "r2": 4993,
    "s2": 4693,
    "band20": 28.9,
-   "flow": -32.41,
+   "flow": -35.22,
    "score": 17,
    "state": "under",
    "quad": "dip_out"
@@ -37079,7 +36671,7 @@
    "r2": 413,
    "s2": 385,
    "band20": 33.9,
-   "flow": 11.38,
+   "flow": 8.99,
    "score": 37,
    "state": "mid",
    "quad": "dip_in"
@@ -37106,7 +36698,7 @@
    "r2": 120,
    "s2": 108,
    "band20": 24.5,
-   "flow": 3.81,
+   "flow": 4.66,
    "score": 28,
    "state": "mid",
    "quad": "dip_in"
@@ -37133,7 +36725,7 @@
    "r2": 39,
    "s2": 37,
    "band20": 40.5,
-   "flow": 7.95,
+   "flow": 8.63,
    "score": 9,
    "state": "under",
    "quad": "dip_in"
@@ -37160,7 +36752,7 @@
    "r2": 128,
    "s2": 104,
    "band20": 33.0,
-   "flow": -2.97,
+   "flow": -3.16,
    "score": 28,
    "state": "mid",
    "quad": "dip_out"
@@ -37187,7 +36779,7 @@
    "r2": 1130,
    "s2": 1050,
    "band20": 8.4,
-   "flow": -0.36,
+   "flow": -0.08,
    "score": 17,
    "state": "under",
    "quad": "mid"
@@ -37214,7 +36806,7 @@
    "r2": 249,
    "s2": 233,
    "band20": 7.6,
-   "flow": -6.94,
+   "flow": -6.63,
    "score": 41,
    "state": "mid",
    "quad": "dip_out"
@@ -37241,7 +36833,7 @@
    "r2": 4343,
    "s2": 3783,
    "band20": 22.2,
-   "flow": -7.2,
+   "flow": -8.09,
    "score": 16,
    "state": "under",
    "quad": "dip_out"
@@ -37268,10 +36860,10 @@
    "r2": 184,
    "s2": 150,
    "band20": 91.5,
-   "flow": -1.52,
+   "flow": 14.76,
    "score": 31,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "BLUE": {
    "n": 53,
@@ -37295,7 +36887,7 @@
    "r2": 3233,
    "s2": 2593,
    "band20": 30.6,
-   "flow": -10.01,
+   "flow": -9.26,
    "score": 49,
    "state": "mid",
    "quad": "mid"
@@ -37322,7 +36914,7 @@
    "r2": 26,
    "s2": 22,
    "band20": 31.8,
-   "flow": -2.57,
+   "flow": -2.92,
    "score": 46,
    "state": "mid",
    "quad": "mid"
@@ -37349,7 +36941,7 @@
    "r2": 10367,
    "s2": 7567,
    "band20": 35.8,
-   "flow": -0.44,
+   "flow": -0.49,
    "score": 21,
    "state": "mid",
    "quad": "mid"
@@ -37376,7 +36968,7 @@
    "r2": 405,
    "s2": 353,
    "band20": 77.3,
-   "flow": 0.19,
+   "flow": 0.37,
    "score": 67,
    "state": "mid",
    "quad": "mid"
@@ -37403,7 +36995,7 @@
    "r2": 637,
    "s2": 607,
    "band20": 5.7,
-   "flow": -27.45,
+   "flow": -20.48,
    "score": 33,
    "state": "mid",
    "quad": "dip_out"
@@ -37430,7 +37022,7 @@
    "r2": 128,
    "s2": 110,
    "band20": 28.9,
-   "flow": 5.63,
+   "flow": 7.95,
    "score": 16,
    "state": "under",
    "quad": "dip_in"
@@ -37457,10 +37049,10 @@
    "r2": 391,
    "s2": 347,
    "band20": 35.1,
-   "flow": -5.78,
+   "flow": 1.19,
    "score": 22,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "SMBR": {
    "n": 53,
@@ -37484,7 +37076,7 @@
    "r2": 178,
    "s2": 158,
    "band20": 32.5,
-   "flow": -1.75,
+   "flow": -1.09,
    "score": 32,
    "state": "mid",
    "quad": "mid"
@@ -37511,10 +37103,10 @@
    "r2": 119,
    "s2": 107,
    "band20": 25.0,
-   "flow": 0.53,
+   "flow": -4.46,
    "score": 22,
    "state": "under",
-   "quad": "mid"
+   "quad": "dip_out"
   },
   "KLAS": {
    "n": 53,
@@ -37538,10 +37130,10 @@
    "r2": 88,
    "s2": 72,
    "band20": 19.7,
-   "flow": -8.47,
+   "flow": -1.62,
    "score": 20,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "HALO": {
    "n": 53,
@@ -37565,7 +37157,7 @@
    "r2": 75,
    "s2": 65,
    "band20": 37.9,
-   "flow": -1.18,
+   "flow": -1.2,
    "score": 39,
    "state": "mid",
    "quad": "mid"
@@ -37592,7 +37184,7 @@
    "r2": 1380,
    "s2": 1320,
    "band20": 9.8,
-   "flow": -7.81,
+   "flow": -7.56,
    "score": 44,
    "state": "mid",
    "quad": "dip_out"
@@ -37619,7 +37211,7 @@
    "r2": 220,
    "s2": 194,
    "band20": 15.6,
-   "flow": -0.49,
+   "flow": 0.08,
    "score": 78,
    "state": "over",
    "quad": "mid"
@@ -37646,7 +37238,7 @@
    "r2": 3607,
    "s2": 3447,
    "band20": 40.2,
-   "flow": -28.12,
+   "flow": -31.96,
    "score": 79,
    "state": "mid",
    "quad": "up_out"
@@ -37673,7 +37265,7 @@
    "r2": 1163,
    "s2": 1123,
    "band20": 7.5,
-   "flow": -76.21,
+   "flow": -76.28,
    "score": 77,
    "state": "over",
    "quad": "up_out"
@@ -37700,7 +37292,7 @@
    "r2": 67,
    "s2": 59,
    "band20": 28.8,
-   "flow": -2.98,
+   "flow": -9.93,
    "score": 24,
    "state": "mid",
    "quad": "dip_out"
@@ -37727,7 +37319,7 @@
    "r2": 385,
    "s2": 293,
    "band20": 55.2,
-   "flow": -0.0,
+   "flow": -0.02,
    "score": 82,
    "state": "mid",
    "quad": "mid"
@@ -37754,7 +37346,7 @@
    "r2": 2767,
    "s2": 2667,
    "band20": 13.3,
-   "flow": -26.67,
+   "flow": -13.87,
    "score": 29,
    "state": "mid",
    "quad": "dip_out"
@@ -37781,7 +37373,7 @@
    "r2": 131,
    "s2": 109,
    "band20": 55.7,
-   "flow": -0.57,
+   "flow": 1.88,
    "score": 18,
    "state": "under",
    "quad": "mid"
@@ -37808,10 +37400,10 @@
    "r2": 175,
    "s2": 139,
    "band20": 40.0,
-   "flow": -2.46,
+   "flow": -0.01,
    "score": 15,
    "state": "under",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "ASMI": {
    "n": 53,
@@ -37862,7 +37454,7 @@
    "r2": 880,
    "s2": 840,
    "band20": 10.0,
-   "flow": -56.41,
+   "flow": -55.09,
    "score": 24,
    "state": "under",
    "quad": "dip_out"
@@ -37889,10 +37481,10 @@
    "r2": 68,
    "s2": 58,
    "band20": 20.3,
-   "flow": -2.52,
+   "flow": 1.61,
    "score": 34,
    "state": "mid",
-   "quad": "dip_out"
+   "quad": "mid"
   },
   "ASPI": {
    "n": 53,
@@ -37916,7 +37508,7 @@
    "r2": 767,
    "s2": 607,
    "band20": 105.9,
-   "flow": 5.4,
+   "flow": 5.45,
    "score": 83,
    "state": "over",
    "quad": "up_in"
@@ -37943,7 +37535,7 @@
    "r2": 239,
    "s2": 223,
    "band20": 22.7,
-   "flow": -3.97,
+   "flow": -5.73,
    "score": 33,
    "state": "mid",
    "quad": "dip_out"
@@ -37970,7 +37562,7 @@
    "r2": 118,
    "s2": 112,
    "band20": 12.4,
-   "flow": -22.23,
+   "flow": -24.38,
    "score": 25,
    "state": "under",
    "quad": "dip_out"
@@ -37997,7 +37589,7 @@
    "r2": 1305,
    "s2": 1125,
    "band20": 13.6,
-   "flow": 6.14,
+   "flow": 7.07,
    "score": 78,
    "state": "mid",
    "quad": "up_in"
@@ -38051,7 +37643,7 @@
    "r2": 618,
    "s2": 568,
    "band20": 7.8,
-   "flow": -14.29,
+   "flow": -14.8,
    "score": 36,
    "state": "mid",
    "quad": "dip_out"
@@ -38078,7 +37670,7 @@
    "r2": 241,
    "s2": 213,
    "band20": 21.1,
-   "flow": -28.73,
+   "flow": -23.45,
    "score": 23,
    "state": "under",
    "quad": "dip_out"
@@ -38105,7 +37697,7 @@
    "r2": 268,
    "s2": 188,
    "band20": 35.0,
-   "flow": -0.97,
+   "flow": -0.89,
    "score": 76,
    "state": "mid",
    "quad": "mid"
@@ -38132,7 +37724,7 @@
    "r2": 633,
    "s2": 573,
    "band20": 20.7,
-   "flow": 0.67,
+   "flow": 0.6,
    "score": 34,
    "state": "mid",
    "quad": "mid"
@@ -38159,7 +37751,7 @@
    "r2": 122,
    "s2": 112,
    "band20": 36.7,
-   "flow": -0.04,
+   "flow": 1.73,
    "score": 57,
    "state": "mid",
    "quad": "mid"
@@ -38186,7 +37778,7 @@
    "r2": 613,
    "s2": 553,
    "band20": 30.7,
-   "flow": -6.46,
+   "flow": -13.98,
    "score": 58,
    "state": "mid",
    "quad": "up_out"
@@ -38213,7 +37805,7 @@
    "r2": 186,
    "s2": 166,
    "band20": 19.6,
-   "flow": -0.04,
+   "flow": -1.07,
    "score": 70,
    "state": "mid",
    "quad": "mid"
@@ -38240,7 +37832,7 @@
    "r2": 219,
    "s2": 199,
    "band20": 33.3,
-   "flow": 17.69,
+   "flow": 22.69,
    "score": 38,
    "state": "mid",
    "quad": "dip_in"
@@ -38267,10 +37859,10 @@
    "r2": 131,
    "s2": 117,
    "band20": 27.4,
-   "flow": 0.33,
+   "flow": 2.17,
    "score": 27,
    "state": "mid",
-   "quad": "mid"
+   "quad": "dip_in"
   },
   "MIDI": {
    "n": 53,
@@ -38294,7 +37886,7 @@
    "r2": 271,
    "s2": 255,
    "band20": 9.2,
-   "flow": -17.88,
+   "flow": -7.18,
    "score": 26,
    "state": "under",
    "quad": "dip_out"
@@ -38321,7 +37913,7 @@
    "r2": 515,
    "s2": 491,
    "band20": 5.8,
-   "flow": -52.13,
+   "flow": -55.36,
    "score": 33,
    "state": "mid",
    "quad": "dip_out"
@@ -38348,7 +37940,7 @@
    "r2": 1332,
    "s2": 1022,
    "band20": 144.2,
-   "flow": -3.13,
+   "flow": -2.06,
    "score": 76,
    "state": "mid",
    "quad": "up_out"
@@ -38375,7 +37967,7 @@
    "r2": 155,
    "s2": 135,
    "band20": 18.5,
-   "flow": -19.35,
+   "flow": -20.54,
    "score": 58,
    "state": "mid",
    "quad": "up_out"
@@ -38385,146 +37977,146 @@
   "basis": "2026-09-22",
   "days": [
    1,
-   5,
+   4,
    21
   ],
   "from": [
-   "2026-09-22",
-   "2026-09-16",
-   "2026-08-22"
+   "2026-09-23",
+   "2026-09-17",
+   "2026-08-23"
   ],
-  "to": "2026-09-22",
+  "to": "2026-09-23",
   "mktv": [
    -664231103678,
-   -3371667171293,
+   -2783430561517,
    -6047420209560
   ],
   "mktval": [
    13128695561100,
-   63644079506900,
+   52704927918100,
    308494713619900
   ],
   "mktbuy": [
    3656941427564,
-   20334766923262,
+   17159591497553,
    93599582073989
   ],
   "mktsell": [
    4321172531242,
-   23706434094555,
+   19943022059070,
    99647002283550
   ],
   "mkt": [
    -5.06,
-   -5.3,
+   -5.28,
    -1.96
   ],
   "sec": {
    "에너지": [
     -1.39,
-    -3.36,
+    -2.02,
     -1.07
    ],
    "필수소비재": [
     10.39,
-    1.4,
+    2.13,
     -3.3
    ],
    "경기소비재": [
     0.5,
-    -1.56,
+    -0.69,
     -1.87
    ],
    "금융": [
     -22.59,
-    -16.6,
+    -16.11,
     -1.95
    ],
    "인프라": [
     -0.58,
-    -9.21,
+    -9.57,
     -5.9
    ],
    "부동산": [
     4.18,
-    -3.88,
+    -3.66,
     -2.48
    ],
    "기초소재": [
     -7.87,
-    -2.75,
+    -4.66,
     -0.59
    ],
    "운송·물류": [
     -1.15,
-    0.05,
+    0.45,
     -1.82
    ],
    "산업재": [
     2.8,
-    -0.54,
+    -1.44,
     -0.7
    ],
    "기술": [
     -2.23,
-    -4.92,
+    -4.98,
     -5.3
    ],
    "헬스케어": [
     -2.96,
-    -6.37,
+    -3.97,
     -10.17
    ]
   },
   "secpct": {
    "에너지": [
     -4.13,
-    0.12,
+    -1.52,
     -7.35
    ],
    "필수소비재": [
     -1.41,
-    -2.48,
+    -2.52,
     -3.8
    ],
    "금융": [
     -1.02,
-    -2.95,
+    -2.26,
     -1.93
    ],
    "경기소비재": [
     -0.95,
-    -1.11,
+    -0.32,
     -0.83
    ],
    "인프라": [
     -1.3,
-    -4.64,
+    -3.38,
     -8.19
    ],
    "기초소재": [
     -1.52,
-    -3.23,
+    -3.29,
     -3.66
    ],
    "운송·물류": [
     -1.69,
-    -2.06,
+    -1.52,
     -4.11
    ],
    "부동산": [
     -2.1,
-    -3.88,
+    -2.97,
     -8.91
    ],
    "산업재": [
     -1.9,
-    -3.21,
+    -3.87,
     3.93
    ],
    "기술": [
     -1.9,
-    -1.22,
+    0.97,
     -4.37
    ],
    "헬스케어": [
@@ -38535,12 +38127,12 @@
   },
   "mktpct": [
    -1.74,
-   -2.61,
+   -2.31,
    -4.26
   ],
   "pctfrom": [
    "2026-09-21",
-   "2026-09-15",
+   "2026-09-16",
    "2026-08-21"
   ],
   "pctto": "2026-09-22",
@@ -38553,8 +38145,8 @@
       22.29
      ],
      [
-      109539969367,
-      18.27
+      101786769608,
+      20.01
      ],
      [
       709587305815,
@@ -38570,8 +38162,8 @@
       29.24
      ],
      [
-      36952320216,
-      25.19
+      28751039436,
+      23.07
      ],
      [
       55623077027,
@@ -38587,8 +38179,8 @@
       -18.02
      ],
      [
-      -1861811362,
-      -26.67
+      -759873358,
+      -13.87
      ],
      [
       -2591203784,
@@ -38604,8 +38196,8 @@
       -52.15
      ],
      [
-      -1388517647,
-      -3.83
+      -6482933179,
+      -35.4
      ],
      [
       2875500559,
@@ -38621,8 +38213,8 @@
       2.96
      ],
      [
-      -11628634975,
-      -4.17
+      4482706753,
+      2.54
      ],
      [
       -46731001508,
@@ -38638,8 +38230,8 @@
       -11.67
      ],
      [
-      -150369178618,
-      -24.53
+      -109857874496,
+      -23.24
      ],
      [
       -187910143187,
@@ -38655,8 +38247,8 @@
       -0.53
      ],
      [
-      -68243742,
-      -0.18
+      125362336,
+      0.38
      ],
      [
       465954422,
@@ -38672,8 +38264,8 @@
       -3.74
      ],
      [
-      -6713695356,
-      -28.12
+      -6840245225,
+      -31.96
      ],
      [
       -6902331260,
@@ -38689,8 +38281,8 @@
       -11.62
      ],
      [
-      292369172,
-      0.55
+      347119148,
+      1.12
      ],
      [
       -461484353,
@@ -38706,8 +38298,8 @@
       -3.27
      ],
      [
-      -86077215,
-      -0.16
+      -62562051,
+      -0.12
      ],
      [
       -210553871,
@@ -38723,8 +38315,8 @@
       -49.82
      ],
      [
-      -37897072078,
-      -36.96
+      -33020008803,
+      -35.57
      ],
      [
       -122044014533,
@@ -38740,8 +38332,8 @@
       4.7
      ],
      [
-      -370029072746,
-      -11.55
+      -344801001164,
+      -12.88
      ],
      [
       -314483540136,
@@ -38757,8 +38349,8 @@
       18.85
      ],
      [
-      39309129992,
-      13.93
+      35927394859,
+      14.18
      ],
      [
       -75685744042,
@@ -38774,8 +38366,8 @@
       -3.43
      ],
      [
-      67939564863,
-      3.86
+      18866927384,
+      1.46
      ],
      [
       749317565192,
@@ -38791,8 +38383,8 @@
       -14.4
      ],
      [
-      1936484419,
-      13.18
+      1807188392,
+      16.06
      ],
      [
       3758217548,
@@ -38808,8 +38400,8 @@
       0.06
      ],
      [
-      1293100,
-      0.02
+      1378703,
+      0.03
      ],
      [
       2718959,
@@ -38825,8 +38417,8 @@
       -3.57
      ],
      [
-      -128169043,
-      -1.14
+      285130166,
+      3.05
      ],
      [
       362389240,
@@ -38842,8 +38434,8 @@
       5.41
      ],
      [
-      14205666299,
-      5.44
+      9658490013,
+      5.23
      ],
      [
       44731481945,
@@ -38860,7 +38452,7 @@
      ],
      [
       99674690,
-      6.14
+      7.07
      ],
      [
       97199043,
@@ -38876,8 +38468,8 @@
       -6.64
      ],
      [
-      -1971934751,
-      -1.63
+      -2758700873,
+      -2.77
      ],
      [
       -9914802875,
@@ -38893,8 +38485,8 @@
       -64.81
      ],
      [
-      -2504287635,
-      -31.23
+      -2540036104,
+      -35.99
      ],
      [
       -5829759366,
@@ -38910,8 +38502,8 @@
       4.99
      ],
      [
-      -13745041506,
-      -19.7
+      -7094765283,
+      -14.45
      ],
      [
       -128207714328,
@@ -38927,8 +38519,8 @@
       9.92
      ],
      [
-      728977925,
-      7.78
+      918284023,
+      12.55
      ],
      [
       2367324410,
@@ -38944,8 +38536,8 @@
       0.23
      ],
      [
-      -1191840932,
-      -7.51
+      -971866251,
+      -7.3
      ],
      [
       -1799380541,
@@ -38961,8 +38553,8 @@
       -6.97
      ],
      [
-      -98648785764,
-      -11.67
+      -75919706000,
+      -11.26
      ],
      [
       -428013145326,
@@ -38978,8 +38570,8 @@
       -1.7
      ],
      [
-      -287488124,
-      -2.68
+      -245455593,
+      -2.35
      ],
      [
       -641648549,
@@ -38995,8 +38587,8 @@
       4.01
      ],
      [
-      6946118457,
-      1.62
+      7537004908,
+      1.9
      ],
      [
       17023693722,
@@ -39029,8 +38621,8 @@
       17.6
      ],
      [
-      900594472,
-      5.4
+      829089180,
+      5.45
      ],
      [
       -128435419,
@@ -39046,8 +38638,8 @@
       -33.08
      ],
      [
-      -3317311906,
-      -27.77
+      -2724532665,
+      -35.4
      ],
      [
       -4953044895,
@@ -39063,8 +38655,8 @@
       -57.07
      ],
      [
-      -7673959575,
-      -31.06
+      -6274021751,
+      -32.57
      ],
      [
       -51100303942,
@@ -39080,8 +38672,8 @@
       -26.54
      ],
      [
-      -7811788404,
-      -16.66
+      -1947248536,
+      -5.33
      ],
      [
       -468178313,
@@ -39097,8 +38689,8 @@
       -14.29
      ],
      [
-      -10215576108,
-      -28.48
+      -7754313382,
+      -24.77
      ],
      [
       -14198914824,
@@ -39114,8 +38706,8 @@
       17.97
      ],
      [
-      3608081616,
-      8.39
+      2474636780,
+      10.28
      ],
      [
       11258233539,
@@ -39132,7 +38724,7 @@
      ],
      [
       164350644,
-      0.36
+      0.37
      ],
      [
       -618897137,
@@ -39148,8 +38740,8 @@
       22.22
      ],
      [
-      2052037077,
-      3.65
+      2729940576,
+      7.52
      ],
      [
       293015500,
@@ -39165,8 +38757,8 @@
       -4.01
      ],
      [
-      -1170813817,
-      -1.51
+      -1332874155,
+      -1.76
      ],
      [
       -390417065,
@@ -39182,8 +38774,8 @@
       -0.64
      ],
      [
-      829903724,
-      0.59
+      811965121,
+      0.58
      ],
      [
       835362500,
@@ -39199,8 +38791,8 @@
       -2.56
      ],
      [
-      -21461311,
-      -0.57
+      56577299,
+      1.88
      ],
      [
       -490465234,
@@ -39216,8 +38808,8 @@
       -17.53
      ],
      [
-      -681007855291,
-      -22.86
+      -614194136784,
+      -24.38
      ],
      [
       -1146018616129,
@@ -39233,8 +38825,8 @@
       -10.75
      ],
      [
-      -124876664027,
-      -23.05
+      -100709042072,
+      -21.67
      ],
      [
       -176562404288,
@@ -39250,8 +38842,8 @@
       -38.73
      ],
      [
-      -362313018808,
-      -12.72
+      -353560966645,
+      -14.41
      ],
      [
       633064954502,
@@ -39267,8 +38859,8 @@
       -8.85
      ],
      [
-      -204501460,
-      -2.97
+      -204477398,
+      -3.16
      ],
      [
       -279834829,
@@ -39284,8 +38876,8 @@
       0.16
      ],
      [
-      -31913228,
-      -0.04
+      -115738789,
+      -0.15
      ],
      [
       49672372,
@@ -39301,8 +38893,8 @@
       -32.4
      ],
      [
-      -16885678392,
-      -21.32
+      -11129428036,
+      -18.66
      ],
      [
       -75298428508,
@@ -39318,8 +38910,8 @@
       7.34
      ],
      [
-      -19983104792,
-      -24.19
+      -19907466820,
+      -25.18
      ],
      [
       -20700469878,
@@ -39335,8 +38927,8 @@
       4.71
      ],
      [
-      -1030860202,
-      -8.92
+      -618207198,
+      -6.87
      ],
      [
       -599129303,
@@ -39352,8 +38944,8 @@
       -31.32
      ],
      [
-      -12049466849,
-      -37.41
+      -11142658269,
+      -37.37
      ],
      [
       180872085,
@@ -39369,8 +38961,8 @@
       22.1
      ],
      [
-      1155825941,
-      9.35
+      1537217463,
+      15.24
      ],
      [
       -2811627659,
@@ -39386,8 +38978,8 @@
       -0.62
      ],
      [
-      -43259780,
-      -0.31
+      -23729992,
+      -0.18
      ],
      [
       -214057950,
@@ -39403,8 +38995,8 @@
       1.22
      ],
      [
-      100609149,
-      0.43
+      135457950,
+      0.61
      ],
      [
       -1029395859,
@@ -39420,8 +39012,8 @@
       7.43
      ],
      [
-      -195682043,
-      -1.58
+      -204799586,
+      -1.94
      ],
      [
       3090528862,
@@ -39437,8 +39029,8 @@
       24.09
      ],
      [
-      -7076798273,
-      -7.26
+      -9227247458,
+      -11.62
      ],
      [
       -27655063056,
@@ -39454,8 +39046,8 @@
       2.58
      ],
      [
-      22100509,
-      0.53
+      -127913270,
+      -4.46
      ],
      [
       -210663544,
@@ -39471,8 +39063,8 @@
       -8.57
      ],
      [
-      -377204211,
-      -5.34
+      -245230620,
+      -3.72
      ],
      [
       -159021200,
@@ -39488,8 +39080,8 @@
       -6.49
      ],
      [
-      -10922975058,
-      -3.73
+      -6659497434,
+      -2.57
      ],
      [
       -60388407874,
@@ -39505,8 +39097,8 @@
       -18.99
      ],
      [
-      -40325498549,
-      -50.12
+      -40255579414,
+      -50.76
      ],
      [
       -38994474459,
@@ -39522,8 +39114,8 @@
       -42.09
      ],
      [
-      -4130188451,
-      -30.58
+      -4282317227,
+      -41.79
      ],
      [
       -6105435861,
@@ -39539,8 +39131,8 @@
       7.64
      ],
      [
-      -972323597,
-      -5.97
+      -709270479,
+      -5.24
      ],
      [
       -1389785566,
@@ -39556,8 +39148,8 @@
       8.61
      ],
      [
-      5908829038,
-      16.88
+      6728667073,
+      22.35
      ],
      [
       5841332422,
@@ -39573,8 +39165,8 @@
       -2.87
      ],
      [
-      -182912985,
-      -1.64
+      62448970,
+      0.75
      ],
      [
       1043307247,
@@ -39590,8 +39182,8 @@
       -6.31
      ],
      [
-      -407359026,
-      -10.01
+      -283887651,
+      -9.26
      ],
      [
       -759562787,
@@ -39607,8 +39199,8 @@
       -16.54
      ],
      [
-      -473191327590,
-      -17.47
+      -234947518016,
+      -11.17
      ],
      [
       159772445646,
@@ -39624,8 +39216,8 @@
       -5.67
      ],
      [
-      -2380148466,
-      -8.94
+      -2466117238,
+      -11.47
      ],
      [
       -9556447964,
@@ -39641,8 +39233,8 @@
       8.23
      ],
      [
-      2899461457,
-      1.05
+      889257415,
+      0.38
      ],
      [
       -7050482242,
@@ -39658,8 +39250,8 @@
       8.2
      ],
      [
-      15549945739,
-      37.11
+      17087182431,
+      44.13
      ],
      [
       15558274841,
@@ -39675,8 +39267,8 @@
       -0.1
      ],
      [
-      -2542060,
-      -0.01
+      -34069902,
+      -0.15
      ],
      [
       -19052257,
@@ -39692,8 +39284,8 @@
       13.43
      ],
      [
-      13516915660,
-      9.25
+      17255192972,
+      13.88
      ],
      [
       -170848658057,
@@ -39709,8 +39301,8 @@
       -16.44
      ],
      [
-      -43165568058,
-      -19.44
+      -39833639973,
+      -22.94
      ],
      [
       -75169917554,
@@ -39726,8 +39318,8 @@
       1.31
      ],
      [
-      154157181203,
-      11.17
+      65780599831,
+      6.13
      ],
      [
       257682272991,
@@ -39743,8 +39335,8 @@
       -26.65
      ],
      [
-      -70207102950,
-      -16.98
+      -53341608673,
+      -15.18
      ],
      [
       -69769920725,
@@ -39760,8 +39352,8 @@
       -0.21
      ],
      [
-      353730,
-      0.0
+      -6659025,
+      -0.08
      ],
      [
       11809023,
@@ -39777,8 +39369,8 @@
       -10.85
      ],
      [
-      -56076984450,
-      -27.26
+      -55558215184,
+      -27.61
      ],
      [
       -99219348369,
@@ -39794,8 +39386,8 @@
       11.15
      ],
      [
-      7112305481,
-      18.2
+      5943584686,
+      17.15
      ],
      [
       5125730878,
@@ -39811,8 +39403,8 @@
       17.49
      ],
      [
-      11563168942,
-      14.61
+      12520036152,
+      16.44
      ],
      [
       19944233902,
@@ -39828,8 +39420,8 @@
       -14.54
      ],
      [
-      -12219130541,
-      -11.82
+      -12368752915,
+      -12.15
      ],
      [
       -9534859288,
@@ -39845,8 +39437,8 @@
       28.99
      ],
      [
-      -20289783775,
-      -29.99
+      -20173579750,
+      -35.21
      ],
      [
       -188478626102,
@@ -39862,8 +39454,8 @@
       -11.61
      ],
      [
-      -10310143931,
-      -1.31
+      -10548550904,
+      -1.59
      ],
      [
       -95394602422,
@@ -39879,8 +39471,8 @@
       1.92
      ],
      [
-      -148074655613,
-      -5.19
+      -47215595113,
+      -2.01
      ],
      [
       -142019501688,
@@ -39896,8 +39488,8 @@
       -12.51
      ],
      [
-      -1457187378,
-      -0.55
+      296923877,
+      0.12
      ],
      [
       -13382873938,
@@ -39913,8 +39505,8 @@
       -0.9
      ],
      [
-      -1914697704,
-      -1.85
+      -1656616001,
+      -1.84
      ],
      [
       1674983100,
@@ -39930,8 +39522,8 @@
       -35.85
      ],
      [
-      -110518937648,
-      -21.76
+      -91476018818,
+      -23.38
      ],
      [
       -195993183754,
@@ -39947,7 +39539,7 @@
       1.21
      ],
      [
-      46734597,
+      44873566,
       0.19
      ],
      [
@@ -39964,8 +39556,8 @@
       -3.54
      ],
      [
-      -156915126,
-      -2.45
+      -41856397,
+      -0.76
      ],
      [
       -1291008391,
@@ -39981,8 +39573,8 @@
       16.58
      ],
      [
-      275456980,
-      0.8
+      1254693490,
+      4.0
      ],
      [
       -1504367210,
@@ -39998,8 +39590,8 @@
       -8.76
      ],
      [
-      7602600295,
-      16.55
+      7634219308,
+      18.23
      ],
      [
       20185606583,
@@ -40015,8 +39607,8 @@
       -6.27
      ],
      [
-      175793938,
-      0.48
+      6862706,
+      0.07
      ],
      [
       175341621,
@@ -40032,8 +39624,8 @@
       1.24
      ],
      [
-      -1891869671,
-      -1.68
+      -1214950035,
+      -1.32
      ],
      [
       -2606767114,
@@ -40049,8 +39641,8 @@
       -2.92
      ],
      [
-      -12769443,
-      -0.08
+      72118303,
+      0.53
      ],
      [
       -164274725,
@@ -40066,7 +39658,7 @@
       0.02
      ],
      [
-      193019,
+      172214,
       0.0
      ],
      [
@@ -40083,8 +39675,8 @@
       -4.53
      ],
      [
-      -573374547,
-      -2.07
+      -280239478,
+      -1.37
      ],
      [
       -2129930058,
@@ -40100,8 +39692,8 @@
       31.72
      ],
      [
-      -8240021707,
-      -10.6
+      -8121212088,
+      -11.94
      ],
      [
       -39098859639,
@@ -40117,8 +39709,8 @@
       2.49
      ],
      [
-      -7149114056,
-      -6.07
+      -8044758879,
+      -7.88
      ],
      [
       -8143141449,
@@ -40134,8 +39726,8 @@
       -25.02
      ],
      [
-      -616075761,
-      -10.26
+      -538801352,
+      -14.3
      ],
      [
       -5369850127,
@@ -40151,8 +39743,8 @@
       2.94
      ],
      [
-      -3008944150,
-      -1.19
+      2478715164,
+      1.25
      ],
      [
       6274443313,
@@ -40168,8 +39760,8 @@
       -3.89
      ],
      [
-      28350570693,
-      8.38
+      28124974905,
+      8.66
      ],
      [
       31690910822,
@@ -40185,8 +39777,8 @@
       17.37
      ],
      [
-      -38609676238,
-      -9.19
+      -30645523752,
+      -8.47
      ],
      [
       -1033612615131,
@@ -40203,7 +39795,7 @@
      ],
      [
       -1409005369,
-      -1.12
+      -1.16
      ],
      [
       -2946592868,
@@ -40219,8 +39811,8 @@
       24.9
      ],
      [
-      -11052565994,
-      -25.37
+      -9238797994,
+      -24.13
      ],
      [
       4606373095,
@@ -40236,8 +39828,8 @@
       3.21
      ],
      [
-      22655642,
-      0.33
+      113901298,
+      2.17
      ],
      [
       -393893293,
@@ -40253,8 +39845,8 @@
       8.19
      ],
      [
-      27622104687,
-      1.94
+      45579515891,
+      3.7
      ],
      [
       36279099633,
@@ -40270,8 +39862,8 @@
       5.01
      ],
      [
-      2264138985,
-      2.76
+      2099564541,
+      3.14
      ],
      [
       6255045216,
@@ -40287,8 +39879,8 @@
       -3.2
      ],
      [
-      35643115,
-      0.24
+      -31847842,
+      -0.35
      ],
      [
       136857494,
@@ -40304,8 +39896,8 @@
       9.27
      ],
      [
-      -23061695,
-      -0.02
+      321987427,
+      0.88
      ],
      [
       281925489,
@@ -40321,8 +39913,8 @@
       14.47
      ],
      [
-      18601472631,
-      1.65
+      25814718144,
+      3.35
      ],
      [
       -46241764914,
@@ -40338,8 +39930,8 @@
       6.9
      ],
      [
-      4697179779,
-      8.14
+      4136540094,
+      7.97
      ],
      [
       3572927960,
@@ -40355,8 +39947,8 @@
       -0.48
      ],
      [
-      72456808,
-      0.11
+      78482691,
+      0.23
      ],
      [
       68255743,
@@ -40372,8 +39964,8 @@
       -12.93
      ],
      [
-      -96348811,
-      -1.44
+      -240033951,
+      -5.08
      ],
      [
       65893017,
@@ -40389,8 +39981,8 @@
       -0.74
      ],
      [
-      -444447824,
-      -2.64
+      -172256375,
+      -1.28
      ],
      [
       -113155596,
@@ -40406,8 +39998,8 @@
       -33.64
      ],
      [
-      -944092805,
-      -22.23
+      -771502261,
+      -24.38
      ],
      [
       -361635154,
@@ -40423,8 +40015,8 @@
       10.55
      ],
      [
-      2552817263,
-      17.03
+      2557118536,
+      22.51
      ],
      [
       -1634809001,
@@ -40440,8 +40032,8 @@
       22.77
      ],
      [
-      11818212538,
-      8.25
+      10740333537,
+      8.87
      ],
      [
       31822215130,
@@ -40457,8 +40049,8 @@
       -12.28
      ],
      [
-      -695276374,
-      -16.13
+      -543357906,
+      -14.69
      ],
      [
       219628222,
@@ -40475,7 +40067,7 @@
      ],
      [
       -24628706867,
-      -8.54
+      -9.15
      ],
      [
       -25905739080,
@@ -40491,8 +40083,8 @@
       -15.76
      ],
      [
-      -890485764,
-      -0.5
+      -646309338,
+      -1.06
      ],
      [
       -2456296623,
@@ -40508,7 +40100,7 @@
       -0.0
      ],
      [
-      1197187,
+      177069,
       0.0
      ],
      [
@@ -40525,8 +40117,8 @@
       -3.89
      ],
      [
-      -242672541,
-      -0.44
+      686751960,
+      1.62
      ],
      [
       52652478,
@@ -40542,8 +40134,8 @@
       4.54
      ],
      [
-      -433327931,
-      -0.03
+      -2497831880,
+      -0.21
      ],
      [
       -380004613863,
@@ -40559,7 +40151,7 @@
       0.11
      ],
      [
-      93951259,
+      93994200,
       0.12
      ],
      [
@@ -40576,8 +40168,8 @@
       -4.81
      ],
      [
-      918543290,
-      11.38
+      592900046,
+      8.99
      ],
      [
       1323274836,
@@ -40593,8 +40185,8 @@
       1.51
      ],
      [
-      33471765,
-      0.06
+      -1102195119,
+      -3.59
      ],
      [
       -658669278,
@@ -40610,8 +40202,8 @@
       -18.46
      ],
      [
-      -5486972030,
-      -9.84
+      -1990749137,
+      -4.45
      ],
      [
       -196608397,
@@ -40627,8 +40219,8 @@
       3.95
      ],
      [
-      108119511,
-      1.26
+      72310862,
+      1.07
      ],
      [
       3762447046,
@@ -40644,8 +40236,8 @@
       9.39
      ],
      [
-      36933663975,
-      5.75
+      16890337587,
+      3.14
      ],
      [
       -163288608616,
@@ -40661,8 +40253,8 @@
       -10.38
      ],
      [
-      -35056015172,
-      -34.07
+      -30364266553,
+      -33.45
      ],
      [
       -76811908309,
@@ -40678,8 +40270,8 @@
       4.27
      ],
      [
-      -7339791172,
-      -1.64
+      -8871635267,
+      -2.39
      ],
      [
       56596372527,
@@ -40695,8 +40287,8 @@
       -6.82
      ],
      [
-      -153333954,
-      -1.4
+      -9819418,
+      -0.15
      ],
      [
       -192706533,
@@ -40712,8 +40304,8 @@
       18.04
      ],
      [
-      62687385318,
-      16.77
+      63906765234,
+      18.96
      ],
      [
       291799514908,
@@ -40729,8 +40321,8 @@
       -5.52
      ],
      [
-      510129509,
-      4.24
+      442186202,
+      4.63
      ],
      [
       -905141037,
@@ -40746,8 +40338,8 @@
       0.45
      ],
      [
-      260541149,
-      3.81
+      268019707,
+      4.66
      ],
      [
       83510704,
@@ -40763,8 +40355,8 @@
       -6.02
      ],
      [
-      -31937913867,
-      -12.86
+      -29877140094,
+      -17.12
      ],
      [
       -153633229069,
@@ -40780,8 +40372,8 @@
       -7.7
      ],
      [
-      -487547379,
-      -6.52
+      -399218813,
+      -6.63
      ],
      [
       125589428,
@@ -40797,8 +40389,8 @@
       -33.14
      ],
      [
-      -47403445900,
-      -31.21
+      -45777648657,
+      -33.03
      ],
      [
       -78461576079,
@@ -40814,8 +40406,8 @@
       -5.72
      ],
      [
-      -916559294,
-      -0.97
+      -894636429,
+      -0.99
      ],
      [
       -3283329956,
@@ -40831,8 +40423,8 @@
       -5.98
      ],
      [
-      -1454643655,
-      -1.3
+      1696409736,
+      1.92
      ],
      [
       -67660266422,
@@ -40848,8 +40440,8 @@
       -11.69
      ],
      [
-      154756192,
-      1.4
+      221052455,
+      2.33
      ],
      [
       238025214,
@@ -40865,8 +40457,8 @@
       -1.8
      ],
      [
-      -19889007,
-      -0.04
+      -78814398,
+      -0.17
      ],
      [
       -873160015,
@@ -40882,8 +40474,8 @@
       37.87
      ],
      [
-      1013688634,
-      6.57
+      1676108210,
+      11.93
      ],
      [
       -4096625231,
@@ -40899,8 +40491,8 @@
       18.84
      ],
      [
-      -1196137268,
-      -1.67
+      -1076722689,
+      -1.53
      ],
      [
       -2717294815,
@@ -40916,8 +40508,8 @@
       -1.56
      ],
      [
-      210695482,
-      1.76
+      94657604,
+      0.93
      ],
      [
       -1612539332,
@@ -40933,8 +40525,8 @@
       -6.09
      ],
      [
-      1153561303,
-      2.2
+      1203769510,
+      2.99
      ],
      [
       -3615088092,
@@ -40950,8 +40542,8 @@
       -3.24
      ],
      [
-      -303885258,
-      -0.7
+      -230654140,
+      -0.54
      ],
      [
       -283597152,
@@ -40967,8 +40559,8 @@
       -65.3
      ],
      [
-      -2942278424,
-      -55.73
+      -2861817296,
+      -57.07
      ],
      [
       -6233851548,
@@ -40984,8 +40576,8 @@
       33.47
      ],
      [
-      6022166547,
-      7.01
+      10676099794,
+      14.76
      ],
      [
       14943324142,
@@ -41001,8 +40593,8 @@
       0.49
      ],
      [
-      -1426121991,
-      -7.11
+      -1241134275,
+      -6.97
      ],
      [
       -4956914643,
@@ -41018,8 +40610,8 @@
       -3.94
      ],
      [
-      -3639217065,
-      -19.16
+      -2341522583,
+      -14.37
      ],
      [
       -38063858702,
@@ -41035,8 +40627,8 @@
       6.87
      ],
      [
-      -2525788422,
-      -7.79
+      -1917996022,
+      -7.03
      ],
      [
       -5391067528,
@@ -41052,8 +40644,8 @@
       -4.73
      ],
      [
-      -2062216,
-      -0.04
+      -42586792,
+      -1.07
      ],
      [
       -390344926,
@@ -41069,8 +40661,8 @@
       -6.73
      ],
      [
-      -2250681611,
-      -4.45
+      -1492999481,
+      -3.86
      ],
      [
       1854458057,
@@ -41086,8 +40678,8 @@
       -16.6
      ],
      [
-      -2440956935,
-      -5.96
+      -1830937302,
+      -4.63
      ],
      [
       -1793220541,
@@ -41103,8 +40695,8 @@
       -4.91
      ],
      [
-      -741264255,
-      -5.64
+      -135087130,
+      -1.52
      ],
      [
       -963586390,
@@ -41137,8 +40729,8 @@
       -7.47
      ],
      [
-      -186799829,
-      -2.46
+      -672433,
+      -0.01
      ],
      [
       -244110619,
@@ -41154,8 +40746,8 @@
       -0.67
      ],
      [
-      -61334602,
-      -0.59
+      -69124741,
+      -0.72
      ],
      [
       -175225491,
@@ -41171,8 +40763,8 @@
       5.09
      ],
      [
-      222247328,
-      0.95
+      127163238,
+      0.58
      ],
      [
       -1377823442,
@@ -41188,8 +40780,8 @@
       -2.85
      ],
      [
-      896954816,
-      1.56
+      803668541,
+      2.16
      ],
      [
       13590985705,
@@ -41205,8 +40797,8 @@
       1.98
      ],
      [
-      -1442806361,
-      -10.86
+      -1485579398,
+      -13.25
      ],
      [
       123439451,
@@ -41222,8 +40814,8 @@
       7.0
      ],
      [
-      -110727882,
-      -1.18
+      -104769957,
+      -1.2
      ],
      [
       -306372537,
@@ -41239,8 +40831,8 @@
       14.9
      ],
      [
-      638995402,
-      1.69
+      -231368947,
+      -1.12
      ],
      [
       -3860286564,
@@ -41256,8 +40848,8 @@
       -0.86
      ],
      [
-      -1378193,
-      -0.03
+      -6206881,
+      -0.13
      ],
      [
       -92720264,
@@ -41273,8 +40865,8 @@
       -22.66
      ],
      [
-      -16382286388,
-      -38.07
+      -13032981826,
+      -35.06
      ],
      [
       -107141760460,
@@ -41307,8 +40899,8 @@
       -56.92
      ],
      [
-      -21178272933,
-      -47.26
+      -17477274166,
+      -46.76
      ],
      [
       -25022527139,
@@ -41324,8 +40916,8 @@
       22.72
      ],
      [
-      11031021970,
-      12.76
+      4966138632,
+      9.39
      ],
      [
       4979166767,
@@ -41341,8 +40933,8 @@
       -0.38
      ],
      [
-      -771540683,
-      -1.99
+      -587417361,
+      -1.57
      ],
      [
       -799495779,
@@ -41358,8 +40950,8 @@
       14.7
      ],
      [
-      9956056944,
-      11.46
+      11103091572,
+      14.13
      ],
      [
       10281771806,
@@ -41375,8 +40967,8 @@
       -20.82
      ],
      [
-      -12575457764,
-      -18.24
+      -6372518739,
+      -12.82
      ],
      [
       -33484712641,
@@ -41392,8 +40984,8 @@
       -7.87
      ],
      [
-      -5798634041,
-      -13.89
+      -5169700700,
+      -16.48
      ],
      [
       -10564011066,
@@ -41409,8 +41001,8 @@
       -9.69
      ],
      [
-      -1383663954,
-      -4.47
+      -1317760511,
+      -4.57
      ],
      [
       -3884409695,
@@ -41426,8 +41018,8 @@
       86.17
      ],
      [
-      7076591398,
-      79.73
+      7076423745,
+      83.17
      ],
      [
       7608292565,
@@ -41443,8 +41035,8 @@
       7.38
      ],
      [
-      2038280835,
-      0.98
+      2099078738,
+      1.43
      ],
      [
       -925367217,
@@ -41460,8 +41052,8 @@
       -3.2
      ],
      [
-      -78368105,
-      -1.54
+      -63687290,
+      -1.27
      ],
      [
       -17857047,
@@ -41477,8 +41069,8 @@
       -2.88
      ],
      [
-      -7419646281,
-      -4.66
+      1547222659,
+      1.17
      ],
      [
       130827015481,
@@ -41494,8 +41086,8 @@
       -11.79
      ],
      [
-      1430521985,
-      1.46
+      1050633931,
+      1.08
      ],
      [
       -1045608006,
@@ -41512,7 +41104,7 @@
      ],
      [
       -58141383,
-      -0.3
+      -0.42
      ],
      [
       -58446371,
@@ -41528,8 +41120,8 @@
       -0.36
      ],
      [
-      -15640669,
-      -0.97
+      -13115517,
+      -0.89
      ],
      [
       -43622736,
@@ -41545,8 +41137,8 @@
       -0.72
      ],
      [
-      -36340882,
-      -0.37
+      -22533993,
+      -0.33
      ],
      [
       38861039,
@@ -41562,8 +41154,8 @@
       -18.07
      ],
      [
-      -21094361497,
-      -13.04
+      -27050133253,
+      -22.73
      ],
      [
       -55958842986,
@@ -41580,7 +41172,7 @@
      ],
      [
       -75593156,
-      -1.21
+      -1.26
      ],
      [
       -72414376,
@@ -41596,8 +41188,8 @@
       6.31
      ],
      [
-      6827326787,
-      1.41
+      -21793246385,
+      -6.75
      ],
      [
       87792184555,
@@ -41613,8 +41205,8 @@
       22.61
      ],
      [
-      -39083005083,
-      -16.28
+      -30169321314,
+      -15.17
      ],
      [
       -9697434465,
@@ -41630,8 +41222,8 @@
       -5.22
      ],
      [
-      98083681,
-      0.35
+      -688859170,
+      -3.14
      ],
      [
       5183965527,
@@ -41647,8 +41239,8 @@
       -10.88
      ],
      [
-      -10277141911,
-      -5.87
+      -7017272455,
+      -5.27
      ],
      [
       -40372453530,
@@ -41664,8 +41256,8 @@
       11.32
      ],
      [
-      849539820,
-      0.17
+      -1725619826,
+      -0.41
      ],
      [
       -9482180931,
@@ -41681,8 +41273,8 @@
       22.91
      ],
      [
-      23951900471,
-      11.66
+      21875120619,
+      13.51
      ],
      [
       55542887172,
@@ -41698,8 +41290,8 @@
       -0.07
      ],
      [
-      -16745,
-      -0.0
+      -630114,
+      -0.02
      ],
      [
       -16745,
@@ -41715,8 +41307,8 @@
       13.29
      ],
      [
-      -1780408091,
-      -5.39
+      -531185661,
+      -1.87
      ],
      [
       -15737231335,
@@ -41732,8 +41324,8 @@
       5.53
      ],
      [
-      -127396817,
-      -2.52
+      67506031,
+      1.61
      ],
      [
       -803740709,
@@ -41749,8 +41341,8 @@
       -0.01
      ],
      [
-      -19010131,
-      -0.36
+      -3422505,
+      -0.08
      ],
      [
       -662105851,
@@ -41766,8 +41358,8 @@
       -24.84
      ],
      [
-      3520059774,
-      1.88
+      4980544258,
+      2.93
      ],
      [
       13349594850,
@@ -41784,7 +41376,7 @@
      ],
      [
       -147512722,
-      -2.57
+      -2.92
      ],
      [
       -142432500,
@@ -41800,8 +41392,8 @@
       4.8
      ],
      [
-      14518432469,
-      2.03
+      31845426613,
+      5.01
      ],
      [
       -675634520284,
@@ -41817,8 +41409,8 @@
       -1.48
      ],
      [
-      -32295065,
-      -0.69
+      47570593,
+      1.49
      ],
      [
       39417367,
@@ -41834,8 +41426,8 @@
       0.14
      ],
      [
-      -289816490,
-      -2.24
+      -99228383,
+      -0.9
      ],
      [
       -350605878,
@@ -41851,8 +41443,8 @@
       -33.96
      ],
      [
-      -93712293558,
-      -44.89
+      -66095694706,
+      -42.25
      ],
      [
       -334615554218,
@@ -41868,8 +41460,8 @@
       -4.49
      ],
      [
-      -7224571160,
-      -0.76
+      489451717,
+      0.05
      ],
      [
       9246653136,
@@ -41885,8 +41477,8 @@
       1.98
      ],
      [
-      1123603946,
-      8.73
+      601577237,
+      6.22
      ],
      [
       2184099402,
@@ -41902,8 +41494,8 @@
       2.16
      ],
      [
-      158072493,
-      0.4
+      -121850249,
+      -0.37
      ],
      [
       145005813,
@@ -41919,8 +41511,8 @@
       -6.02
      ],
      [
-      -3677675116,
-      -5.93
+      -3376476122,
+      -5.54
      ],
      [
       -18809094455,
@@ -41936,8 +41528,8 @@
       -4.93
      ],
      [
-      -16891195,
-      -0.12
+      35472831,
+      0.27
      ],
      [
       943663014,
@@ -41953,8 +41545,8 @@
       18.99
      ],
      [
-      10039789664,
-      10.52
+      9902675717,
+      13.28
      ],
      [
       3300164048,
@@ -41970,8 +41562,8 @@
       -18.91
      ],
      [
-      -10389573900,
-      -9.14
+      -13280529754,
+      -13.92
      ],
      [
       -141639513076,
@@ -41987,8 +41579,8 @@
       -74.47
      ],
      [
-      -2688368212,
-      -76.21
+      -2094863000,
+      -76.28
      ],
      [
       -9842846910,
@@ -42004,8 +41596,8 @@
       4.12
      ],
      [
-      7595976653,
-      12.38
+      5868177066,
+      11.54
      ],
      [
       37493700471,
@@ -42021,8 +41613,8 @@
       -10.59
      ],
      [
-      -540291790,
-      -14.29
+      -532661123,
+      -14.8
      ],
      [
       -1825426368,
@@ -42038,8 +41630,8 @@
       -16.13
      ],
      [
-      -2422001351,
-      -10.79
+      -1334761902,
+      -9.32
      ],
      [
       -2449392540,
@@ -42055,8 +41647,8 @@
       5.08
      ],
      [
-      248632385,
-      5.63
+      244309698,
+      7.95
      ],
      [
       385392846,
@@ -42072,8 +41664,8 @@
       1.59
      ],
      [
-      -272688729,
-      -5.78
+      41313966,
+      1.19
      ],
      [
       1585096786,
@@ -42089,8 +41681,8 @@
       -5.23
      ],
      [
-      -2643176914,
-      -7.36
+      -1917909680,
+      -6.08
      ],
      [
       -1653661259,
@@ -42106,8 +41698,8 @@
       13.78
      ],
      [
-      -4501469105,
-      -2.52
+      -7432069912,
+      -4.89
      ],
      [
       -6266558195,
@@ -42123,7 +41715,7 @@
       0.48
      ],
      [
-      -11463472,
+      -12476745,
       -0.02
      ],
      [
@@ -42140,8 +41732,8 @@
       30.05
      ],
      [
-      2934304435,
-      1.26
+      7036962284,
+      3.9
      ],
      [
       -60210284758,
@@ -42157,8 +41749,8 @@
       -0.21
      ],
      [
-      98517704,
-      1.08
+      141349549,
+      1.65
      ],
      [
       -39490218,
@@ -42174,8 +41766,8 @@
       -0.23
      ],
      [
-      -88791454,
-      -0.93
+      4547230,
+      0.06
      ],
      [
       -165133101,
@@ -42191,8 +41783,8 @@
       -0.37
      ],
      [
-      263908703,
-      1.42
+      453452894,
+      3.38
      ],
      [
       454083058,
@@ -42208,8 +41800,8 @@
       -2.22
      ],
      [
-      -20036818,
-      -0.07
+      3065705,
+      0.01
      ],
      [
       -9006291,
@@ -42225,8 +41817,8 @@
       2.7
      ],
      [
-      -386648787,
-      -1.61
+      -308759528,
+      -1.45
      ],
      [
       -418177477,
@@ -42242,8 +41834,8 @@
       0.0
      ],
      [
-      -350769258,
-      -8.47
+      -45422257,
+      -1.62
      ],
      [
       -646572630,
@@ -42259,8 +41851,8 @@
       -8.3
      ],
      [
-      -24903497431,
-      -11.74
+      -13155959891,
+      -8.17
      ],
      [
       -293791221168,
@@ -42276,8 +41868,8 @@
       21.52
      ],
      [
-      1390287358,
-      8.56
+      1114711680,
+      8.57
      ],
      [
       1292606521,
@@ -42293,8 +41885,8 @@
       1.46
      ],
      [
-      125269152,
-      1.24
+      136181461,
+      1.58
      ],
      [
       -1177020903,
@@ -42310,8 +41902,8 @@
       -3.63
      ],
      [
-      -2717418076,
-      -1.45
+      -1060943790,
+      -0.77
      ],
      [
       -33255224032,
@@ -42327,8 +41919,8 @@
       10.21
      ],
      [
-      2894674823,
-      2.01
+      1322165019,
+      1.24
      ],
      [
       -70129427249,
@@ -42344,8 +41936,8 @@
       -22.85
      ],
      [
-      -957133620,
-      -28.73
+      -650962887,
+      -23.45
      ],
      [
       -333082432,
@@ -42361,8 +41953,8 @@
       -8.98
      ],
      [
-      -470403850,
-      -2.98
+      -669947950,
+      -9.93
      ],
      [
       -651845956,
@@ -42378,8 +41970,8 @@
       -3.05
      ],
      [
-      -173794111,
-      -1.78
+      -86058030,
+      -0.99
      ],
      [
       101427390,
@@ -42395,8 +41987,8 @@
       -0.58
      ],
      [
-      285465354,
-      1.6
+      383154423,
+      4.83
      ],
      [
       626756000,
@@ -42412,8 +42004,8 @@
       13.96
      ],
      [
-      -210950780,
-      -2.98
+      -41840331,
+      -0.75
      ],
      [
       202163242,
@@ -42429,8 +42021,8 @@
       12.28
      ],
      [
-      568488395,
-      0.74
+      -247893148,
+      -0.39
      ],
      [
       -157282265,
@@ -42446,8 +42038,8 @@
       -18.29
      ],
      [
-      -347190925,
-      -2.63
+      -52685798,
+      -0.46
      ],
      [
       -848952813,
@@ -42480,8 +42072,8 @@
       2.8
      ],
      [
-      -18947744804,
-      -21.99
+      -15742949766,
+      -19.77
      ],
      [
       -53655231471,
@@ -42497,8 +42089,8 @@
       1.3
      ],
      [
-      -9823273713,
-      -27.6
+      -8834657963,
+      -26.22
      ],
      [
       -14558239648,
@@ -42514,8 +42106,8 @@
       51.13
      ],
      [
-      38777855825,
-      21.63
+      36450676597,
+      23.78
      ],
      [
       64686636172,
@@ -42548,8 +42140,8 @@
       -1.58
      ],
      [
-      -6454996323,
-      -3.51
+      -5311369862,
+      -3.36
      ],
      [
       -11613210499,
@@ -42565,8 +42157,8 @@
       -1.71
      ],
      [
-      183407445,
-      0.56
+      184370897,
+      0.57
      ],
      [
       -219521038,
@@ -42582,8 +42174,8 @@
       -3.99
      ],
      [
-      -4255160523,
-      -11.51
+      -2212846624,
+      -6.87
      ],
      [
       -32591130732,
@@ -42599,8 +42191,8 @@
       32.08
      ],
      [
-      15744389650,
-      21.12
+      16909748575,
+      25.56
      ],
      [
       -18929528048,
@@ -42616,8 +42208,8 @@
       12.03
      ],
      [
-      7601062045,
-      8.66
+      6436532726,
+      8.76
      ],
      [
       12113793481,
@@ -42633,8 +42225,8 @@
       6.32
      ],
      [
-      -21659833,
-      -0.49
+      3329969,
+      0.08
      ],
      [
       -78552050,
@@ -42650,8 +42242,8 @@
       -16.37
      ],
      [
-      3573546035,
-      1.05
+      639181767,
+      0.22
      ],
      [
       -133446376663,
@@ -42667,8 +42259,8 @@
       1.95
      ],
      [
-      432681847,
-      2.11
+      423744309,
+      2.34
      ],
      [
       6389730169,
@@ -42684,8 +42276,8 @@
       8.15
      ],
      [
-      -12469186366,
-      -6.18
+      2143859060,
+      1.42
      ],
      [
       -117312886200,
@@ -42701,8 +42293,8 @@
       29.83
      ],
      [
-      77464850103,
-      16.72
+      55180099688,
+      15.98
      ],
      [
       -46451397334,
@@ -42718,8 +42310,8 @@
       -13.5
      ],
      [
-      -42244692637,
-      -7.07
+      -31687119267,
+      -6.12
      ],
      [
       -147799934739,
@@ -42735,8 +42327,8 @@
       2.1
      ],
      [
-      -561786187,
-      -0.8
+      -590914342,
+      -0.87
      ],
      [
       232912472,
@@ -42752,8 +42344,8 @@
       -9.6
      ],
      [
-      -408157513,
-      -4.66
+      -712257830,
+      -11.11
      ],
      [
       46023363,
@@ -42769,8 +42361,8 @@
       0.16
      ],
      [
-      6242642804,
-      5.44
+      4569993287,
+      4.32
      ],
      [
       19209402038,
@@ -42786,8 +42378,8 @@
       2.69
      ],
      [
-      -24566526,
-      -0.02
+      -180250785,
+      -0.22
      ],
      [
       -197140113,
@@ -42803,8 +42395,8 @@
       1.62
      ],
      [
-      -53641573,
-      -0.37
+      72759805,
+      0.6
      ],
      [
       1297453381,
@@ -42820,8 +42412,8 @@
       -24.85
      ],
      [
-      -1191805464,
-      -17.88
+      -375939272,
+      -7.18
      ],
      [
       -6682321625,
@@ -42837,8 +42429,8 @@
       -24.82
      ],
      [
-      -1364751870,
-      -3.24
+      -867162235,
+      -2.13
      ],
      [
       36555201057,
@@ -42854,8 +42446,8 @@
       -18.6
      ],
      [
-      -3075453873,
-      -6.49
+      -3194915026,
+      -7.48
      ],
      [
       425650532,
@@ -42871,8 +42463,8 @@
       6.18
      ],
      [
-      -183707671,
-      -0.49
+      -26843505,
+      -0.15
      ],
      [
       -370168234,
@@ -42888,8 +42480,8 @@
       0.03
      ],
      [
-      -41043731,
-      -0.38
+      8550616,
+      0.1
      ],
      [
       -162087130,
@@ -42905,8 +42497,8 @@
       -5.8
      ],
      [
-      -490331324,
-      -2.2
+      240143235,
+      1.46
      ],
      [
       -6166103529,
@@ -42922,8 +42514,8 @@
       12.19
      ],
      [
-      5313720781,
-      4.62
+      5910517747,
+      6.14
      ],
      [
       22966545437,
@@ -42939,8 +42531,8 @@
       -2.46
      ],
      [
-      -27282084784,
-      -29.3
+      -24773799387,
+      -29.45
      ],
      [
       -45890024448,
@@ -42956,8 +42548,8 @@
       -6.66
      ],
      [
-      560209670,
-      1.33
+      832247016,
+      2.22
      ],
      [
       857095451,
@@ -42973,8 +42565,8 @@
       -10.8
      ],
      [
-      -1640425026,
-      -32.41
+      -1603133460,
+      -35.22
      ],
      [
       -3184497728,
@@ -42990,8 +42582,8 @@
       4.81
      ],
      [
-      -334160279,
-      -0.58
+      -637404333,
+      -1.36
      ],
      [
       522100979,
@@ -43007,8 +42599,8 @@
       -20.46
      ],
      [
-      -3070860969,
-      -28.4
+      -2891370097,
+      -30.99
      ],
      [
       -2502729909,
@@ -43024,8 +42616,8 @@
       -21.92
      ],
      [
-      -359204232,
-      -5.49
+      -193010498,
+      -4.01
      ],
      [
       205166830,
@@ -43041,8 +42633,8 @@
       -8.57
      ],
      [
-      -4297019425,
-      -4.41
+      -5080339306,
+      -6.8
      ],
      [
       -33833796252,
@@ -43058,8 +42650,8 @@
       18.41
      ],
      [
-      1183823374,
-      2.01
+      -1471202343,
+      -3.19
      ],
      [
       3636357812,
@@ -43075,8 +42667,8 @@
       -5.94
      ],
      [
-      -401133265,
-      -7.81
+      -291376237,
+      -7.56
      ],
      [
       8349941213,
@@ -43092,8 +42684,8 @@
       -29.1
      ],
      [
-      -2625736460,
-      -52.13
+      -2187008006,
+      -55.36
      ],
      [
       -11393807644,
@@ -43109,8 +42701,8 @@
       28.6
      ],
      [
-      17354263794,
-      28.47
+      16920917588,
+      31.27
      ],
      [
       -28725255889,
@@ -43126,8 +42718,8 @@
       -1.22
      ],
      [
-      -1381400746,
-      -2.22
+      -565439242,
+      -1.97
      ],
      [
       -676180390,
@@ -43143,8 +42735,8 @@
       -30.21
      ],
      [
-      -16381120468,
-      -13.6
+      -13817119852,
+      -13.13
      ],
      [
       -7029771085,
@@ -43160,8 +42752,8 @@
       -7.6
      ],
      [
-      -80855291,
-      -3.13
+      -46936757,
+      -2.06
      ],
      [
       -2065975644,
@@ -43177,8 +42769,8 @@
       -2.43
      ],
      [
-      176323444,
-      2.2
+      -256690849,
+      -4.28
      ],
      [
       -5223204012,
@@ -43194,8 +42786,8 @@
       -4.04
      ],
      [
-      1268650274,
-      0.87
+      2190271730,
+      2.08
      ],
      [
       -1032447480,
@@ -43211,8 +42803,8 @@
       2.07
      ],
      [
-      2551967784,
-      6.75
+      2078951380,
+      6.0
      ],
      [
       -334070253,
@@ -43228,8 +42820,8 @@
       -2.61
      ],
      [
-      -1904472057,
-      -2.51
+      -1217061728,
+      -2.3
      ],
      [
       -10803365243,
@@ -43245,8 +42837,8 @@
       11.84
      ],
      [
-      925335973,
-      17.69
+      918485355,
+      22.69
      ],
      [
       -990605544,
@@ -43262,8 +42854,8 @@
       -24.49
      ],
      [
-      -10001397462,
-      -35.05
+      -8328803445,
+      -34.47
      ],
      [
       -76378742213,
@@ -43279,8 +42871,8 @@
       -7.75
      ],
      [
-      338168459,
-      1.25
+      313850565,
+      1.2
      ],
      [
       -550596405,
@@ -43296,8 +42888,8 @@
       3.51
      ],
      [
-      1265162909,
-      4.0
+      1662522502,
+      5.52
      ],
      [
       274260501,
@@ -43313,8 +42905,8 @@
       23.91
      ],
      [
-      1191223154,
-      8.37
+      646369962,
+      7.68
      ],
      [
       1515534476,
@@ -43330,8 +42922,8 @@
       14.02
      ],
      [
-      -653559542,
-      -1.52
+      955347508,
+      14.76
      ],
      [
       -707775580,
@@ -43347,8 +42939,8 @@
       -17.82
      ],
      [
-      -906930721,
-      -6.25
+      -330830580,
+      -3.07
      ],
      [
       852403388,
@@ -43364,8 +42956,8 @@
       -2.18
      ],
      [
-      1170971749,
-      9.16
+      867010803,
+      8.71
      ],
      [
       3968767368,
@@ -43398,8 +42990,8 @@
       1.89
      ],
      [
-      127537175,
-      0.54
+      243600513,
+      1.28
      ],
      [
       -280824605,
@@ -43415,8 +43007,8 @@
       1.24
      ],
      [
-      2215609139,
-      2.0
+      2094350763,
+      2.01
      ],
      [
       990473999,
@@ -43449,8 +43041,8 @@
       19.63
      ],
      [
-      11231798391,
-      6.34
+      13166849098,
+      8.56
      ],
      [
       -54335057904,
@@ -43466,8 +43058,8 @@
       -1.35
      ],
      [
-      -446689745,
-      -1.23
+      -133153138,
+      -0.85
      ],
      [
       -681840973,
@@ -43483,8 +43075,8 @@
       5.94
      ],
      [
-      1793304015,
-      18.99
+      864724860,
+      12.55
      ],
      [
       7237902434,
@@ -43500,8 +43092,8 @@
       -33.71
      ],
      [
-      -19480347476,
-      -5.82
+      -32966996460,
+      -12.5
      ],
      [
       -4424360471,
@@ -43517,8 +43109,8 @@
       21.89
      ],
      [
-      18137989525,
-      22.2
+      19475169790,
+      27.48
      ],
      [
       25605876447,
@@ -43534,8 +43126,8 @@
       -0.78
      ],
      [
-      -68766348,
-      -0.44
+      -72644947,
+      -0.49
      ],
      [
       -71086559,
@@ -43551,8 +43143,8 @@
       5.03
      ],
      [
-      31212527,
-      0.03
+      313302875,
+      0.35
      ],
      [
       -5993693348,
@@ -43568,8 +43160,8 @@
       -2.03
      ],
      [
-      1532115964,
-      5.13
+      1435150287,
+      5.14
      ],
      [
       7531920830,
@@ -43585,8 +43177,8 @@
       -8.68
      ],
      [
-      -14311784647,
-      -56.41
+      -12818805847,
+      -55.09
      ],
      [
       -11231661735,
@@ -43602,8 +43194,8 @@
       0.91
      ],
      [
-      -50795515478,
-      -52.25
+      -50529259431,
+      -53.32
      ],
      [
       -63859800564,
@@ -43619,8 +43211,8 @@
       -12.92
      ],
      [
-      -355540907,
-      -0.43
+      -106381964,
+      -0.13
      ],
      [
       -1096553138,
@@ -43636,8 +43228,8 @@
       1.9
      ],
      [
-      -2389590456,
-      -5.08
+      -379902152,
+      -0.93
      ],
      [
       -3900327670,
@@ -43653,8 +43245,8 @@
       -3.0
      ],
      [
-      -613478468,
-      -7.88
+      -319632945,
+      -5.13
      ],
      [
       -1068924623,
@@ -43670,8 +43262,8 @@
       -13.57
      ],
      [
-      -2018370310,
-      -19.76
+      -1720871170,
+      -19.46
      ],
      [
       -10167848006,
@@ -43687,8 +43279,8 @@
       -10.26
      ],
      [
-      352569842,
-      4.24
+      458542031,
+      6.68
      ],
      [
       -480160655,
@@ -43704,8 +43296,8 @@
       6.82
      ],
      [
-      5018717066,
-      3.01
+      5733219111,
+      4.28
      ],
      [
       -45767437397,
@@ -43721,8 +43313,8 @@
       18.97
      ],
      [
-      154708569,
-      1.34
+      440887310,
+      4.18
      ],
      [
       611626444,
@@ -43738,8 +43330,8 @@
       -9.66
      ],
      [
-      -324361201,
-      -3.97
+      -403153209,
+      -5.73
      ],
      [
       1266695733,
@@ -43755,8 +43347,8 @@
       0.59
      ],
      [
-      -39096165,
-      -1.67
+      6056129,
+      0.27
      ],
      [
       -178496950,
@@ -43772,8 +43364,8 @@
       3.7
      ],
      [
-      -18911528399,
-      -4.17
+      -17998316019,
+      -4.78
      ],
      [
       359757840149,
@@ -43789,8 +43381,8 @@
       -13.54
      ],
      [
-      3010583698,
-      0.26
+      19021472477,
+      1.79
      ],
      [
       -206765784778,
@@ -43806,8 +43398,8 @@
       0.54
      ],
      [
-      44125701,
-      0.19
+      62623060,
+      0.37
      ],
      [
       -151163549,
@@ -43823,8 +43415,8 @@
       -0.17
      ],
      [
-      -711902,
-      -0.01
+      -1626023,
+      -0.02
      ],
      [
       1746275,
@@ -43840,8 +43432,8 @@
       25.07
      ],
      [
-      -564900061,
-      -1.54
+      -361985744,
+      -1.31
      ],
      [
       27591642116,
@@ -43857,8 +43449,8 @@
       22.45
      ],
      [
-      2116858840,
-      11.55
+      2242245010,
+      14.65
      ],
      [
       1237437446,
@@ -43874,8 +43466,8 @@
       4.7
      ],
      [
-      3162272243,
-      1.9
+      4635544978,
+      3.75
      ],
      [
       -4699537849,
@@ -43891,8 +43483,8 @@
       7.39
      ],
      [
-      3746373985,
-      5.25
+      3734087910,
+      6.25
      ],
      [
       2489572201,
@@ -43908,8 +43500,8 @@
       -18.42
      ],
      [
-      -14067121768,
-      -14.14
+      -13212565270,
+      -15.78
      ],
      [
       -81127055649,
@@ -43925,8 +43517,8 @@
       0.61
      ],
      [
-      -19333190,
-      -0.32
+      -18585886,
+      -0.41
      ],
      [
       -585074724,
@@ -43942,8 +43534,8 @@
       3.42
      ],
      [
-      189088894,
-      1.33
+      93449648,
+      1.26
      ],
      [
       -4006939886,
@@ -43959,8 +43551,8 @@
       -1.39
      ],
      [
-      -190301186,
-      -1.39
+      -235989970,
+      -1.76
      ],
      [
       -395337283,
@@ -43976,8 +43568,8 @@
       -5.24
      ],
      [
-      -414950656,
-      -7.2
+      -359285310,
+      -8.09
      ],
      [
       -221883933,
@@ -43993,8 +43585,8 @@
       12.36
      ],
      [
-      -3596003819,
-      -3.02
+      282477614,
+      0.29
      ],
      [
       21982040490,
@@ -44010,8 +43602,8 @@
       -6.05
      ],
      [
-      -122420035,
-      -1.43
+      134563328,
+      2.04
      ],
      [
       -1350033766,
@@ -44027,8 +43619,8 @@
       4.32
      ],
      [
-      -331288210,
-      -1.72
+      -841217763,
+      -5.46
      ],
      [
       -3716288412,
@@ -44044,8 +43636,8 @@
       11.15
      ],
      [
-      2314899260,
-      4.39
+      2504096514,
+      6.36
      ],
      [
       3968889259,
@@ -44061,8 +43653,8 @@
       -3.03
      ],
      [
-      26353751,
-      0.11
+      7907351,
+      0.03
      ],
      [
       -21542492,
@@ -44078,8 +43670,8 @@
       -9.57
      ],
      [
-      -174863143,
-      -6.94
+      -164434428,
+      -6.63
      ],
      [
       -304989858,
@@ -44095,8 +43687,8 @@
       10.31
      ],
      [
-      -47844186477,
-      -36.34
+      -48080606265,
+      -37.85
      ],
      [
       -49787670521,
@@ -44112,8 +43704,8 @@
       -2.31
      ],
      [
-      -243780212,
-      -3.33
+      -123891405,
+      -2.36
      ],
      [
       56059458,
@@ -44129,8 +43721,8 @@
       2.23
      ],
      [
-      4903601156,
-      3.86
+      3639444299,
+      3.25
      ],
      [
       38621081836,
@@ -44146,8 +43738,8 @@
       -36.32
      ],
      [
-      -6373578825,
-      -15.34
+      -1625137597,
+      -4.6
      ],
      [
       -43255584390,
@@ -44163,8 +43755,8 @@
       16.48
      ],
      [
-      -2236160472,
-      -5.66
+      -1879793772,
+      -4.83
      ],
      [
       -10378922165,
@@ -44180,8 +43772,8 @@
       -4.71
      ],
      [
-      -323777713,
-      -0.93
+      392671142,
+      1.3
      ],
      [
       1174053679,
@@ -44197,8 +43789,8 @@
       15.35
      ],
      [
-      91102386274,
-      9.53
+      51555281240,
+      6.51
      ],
      [
       265303651296,
@@ -44214,8 +43806,8 @@
       -11.08
      ],
      [
-      -1435669526,
-      -1.61
+      -298680474,
+      -1.24
      ],
      [
       -822386155,
@@ -44231,8 +43823,8 @@
       -12.17
      ],
      [
-      -330532433,
-      -1.75
+      -200455714,
+      -1.09
      ],
      [
       168677841,
@@ -44248,8 +43840,8 @@
       13.85
      ],
      [
-      13285121191,
-      15.83
+      10238511375,
+      14.23
      ],
      [
       24041357764,
@@ -44265,8 +43857,8 @@
       -3.88
      ],
      [
-      -23717313805,
-      -18.65
+      -24126723787,
+      -22.84
      ],
      [
       -111663602680,
@@ -44282,8 +43874,8 @@
       21.68
      ],
      [
-      3314246494,
-      3.41
+      3989992493,
+      5.33
      ],
      [
       -1178550090,
@@ -44299,8 +43891,8 @@
       1.79
      ],
      [
-      201050549,
-      0.71
+      145032098,
+      0.66
      ],
      [
       3168725287,
@@ -44316,8 +43908,8 @@
       2.02
      ],
      [
-      -6499082046,
-      -26.5
+      -3536393585,
+      -29.53
      ],
      [
       -8232262585,
@@ -44333,8 +43925,8 @@
       -10.54
      ],
      [
-      -23291243326,
-      -15.41
+      -23152294123,
+      -19.59
      ],
      [
       -34789427960,
@@ -44350,8 +43942,8 @@
       -34.85
      ],
      [
-      -16842649183,
-      -61.79
+      -13301556074,
+      -58.11
      ],
      [
       -75379916514,
@@ -44367,8 +43959,8 @@
       1.13
      ],
      [
-      630531966,
-      2.49
+      539480523,
+      2.67
      ],
      [
       184513783,
@@ -44384,8 +43976,8 @@
       -7.92
      ],
      [
-      -253566801,
-      -0.3
+      147101770,
+      0.2
      ],
      [
       15823373018,
@@ -44401,8 +43993,8 @@
       -11.73
      ],
      [
-      -309236374,
-      -3.22
+      -167751687,
+      -2.34
      ],
      [
       -260319223,
@@ -44418,8 +44010,8 @@
       -1.72
      ],
      [
-      -20143198962,
-      -4.79
+      -15220640456,
+      -3.82
      ],
      [
       -89204513707,
@@ -44435,8 +44027,8 @@
       -5.32
      ],
      [
-      -1593003303,
-      -0.32
+      154773311,
+      0.03
      ],
      [
       -3541094235,
@@ -44452,8 +44044,8 @@
       -20.28
      ],
      [
-      -1360259933,
-      -6.76
+      442987074,
+      3.07
      ],
      [
       15039312207,
@@ -44469,8 +44061,8 @@
       3.59
      ],
      [
-      210195371,
-      0.18
+      1164184591,
+      1.25
      ],
      [
       -12854134123,
@@ -44486,8 +44078,8 @@
       -11.31
      ],
      [
-      -6930792915,
-      -10.26
+      -6080929999,
+      -10.63
      ],
      [
       -13444733655,
@@ -44503,8 +44095,8 @@
       16.1
      ],
      [
-      2817485896,
-      10.35
+      4174891022,
+      17.96
      ],
      [
       18302094428,
@@ -44520,8 +44112,8 @@
       -1.14
      ],
      [
-      -20904264,
-      -0.8
+      -24538988,
+      -0.94
      ],
      [
       -52585613,
@@ -44537,8 +44129,8 @@
       -4.27
      ],
      [
-      -430057373,
-      -6.83
+      -53175964,
+      -1.17
      ],
      [
       -79803720,
@@ -44554,8 +44146,8 @@
       10.14
      ],
      [
-      4467993101,
-      10.53
+      4528478988,
+      11.8
      ],
      [
       7655389132,
@@ -44571,8 +44163,8 @@
       54.29
      ],
      [
-      54794041692,
-      29.43
+      47549125701,
+      29.39
      ],
      [
       309401382705,
@@ -44588,8 +44180,8 @@
       -45.85
      ],
      [
-      -1300363340,
-      -27.45
+      -706442321,
+      -20.48
      ],
      [
       -3507718106,
@@ -44605,8 +44197,8 @@
       -11.65
      ],
      [
-      -5816937079,
-      -13.91
+      -3780262451,
+      -11.63
      ],
      [
       -46968193733,
@@ -44622,8 +44214,8 @@
       -0.75
      ],
      [
-      4876830275,
-      1.44
+      5352945598,
+      1.62
      ],
      [
       3596228028,
@@ -44639,8 +44231,8 @@
       -0.1
      ],
      [
-      -29099449,
-      -0.56
+      -3073255,
+      -0.06
      ],
      [
       -140713384,
@@ -44656,8 +44248,8 @@
       -30.51
      ],
      [
-      -83459774560,
-      -7.51
+      -76331967123,
+      -8.2
      ],
      [
       218545694756,
@@ -44673,8 +44265,8 @@
       1.12
      ],
      [
-      6640531131,
-      5.05
+      6746987379,
+      6.35
      ],
      [
       17531187024,
@@ -44690,8 +44282,8 @@
       4.12
      ],
      [
-      21772017,
-      0.67
+      16902913,
+      0.6
      ],
      [
       2412712734,
@@ -44707,8 +44299,8 @@
       -19.57
      ],
      [
-      -409954537775,
-      -28.53
+      -391747952136,
+      -31.52
      ],
      [
       -354538739214,
@@ -44724,8 +44316,8 @@
       -14.05
      ],
      [
-      -758452702,
-      -19.35
+      -757628331,
+      -20.54
      ],
      [
       -1051921125,
@@ -44741,8 +44333,8 @@
       0.58
      ],
      [
-      107274258,
-      0.66
+      53945806,
+      0.38
      ],
      [
       481632066,
@@ -44758,8 +44350,8 @@
       4.99
      ],
      [
-      -129668710,
-      -0.76
+      -74679853,
+      -0.61
      ],
      [
       2108335652,
@@ -44775,8 +44367,8 @@
       -1.28
      ],
      [
-      -265134526,
-      -2.61
+      -11042155,
+      -0.15
      ],
      [
       5514861,
@@ -44792,8 +44384,8 @@
       6.95
      ],
      [
-      -545653170,
-      -5.24
+      -546714402,
+      -6.05
      ],
      [
       -1352319785,
@@ -44809,8 +44401,8 @@
       73.91
      ],
      [
-      18513322565,
-      46.49
+      17054162758,
+      54.34
      ],
      [
       24366671566,
@@ -44826,8 +44418,8 @@
       -31.7
      ],
      [
-      -41898073275,
-      -32.31
+      -38569446922,
+      -32.99
      ],
      [
       -117312145520,
@@ -44843,8 +44435,8 @@
       -32.37
      ],
      [
-      -44763695887,
-      -4.34
+      -54054168606,
+      -5.95
      ],
      [
       -428390756511,
@@ -44860,8 +44452,8 @@
       0.47
      ],
      [
-      234865860,
-      2.02
+      203380974,
+      1.92
      ],
      [
       130974455,
@@ -44877,8 +44469,8 @@
       -12.38
      ],
      [
-      -1632199775,
-      -0.86
+      -384493829,
+      -0.22
      ],
      [
       -7193970503,
@@ -44894,8 +44486,8 @@
       -2.35
      ],
      [
-      204902842,
-      1.07
+      -340411326,
+      -2.45
      ],
      [
       239278579,
@@ -44928,8 +44520,8 @@
       13.89
      ],
      [
-      -495454998,
-      -8.9
+      -492968417,
+      -11.35
      ],
      [
       -5359751048,
@@ -44945,8 +44537,8 @@
       -15.74
      ],
      [
-      1748355709,
-      3.03
+      -2235444781,
+      -7.15
      ],
      [
       4408742701,
@@ -44962,8 +44554,8 @@
       7.01
      ],
      [
-      -122311377,
-      -0.31
+      8022601,
+      0.03
      ],
      [
       -543010600,
@@ -44996,8 +44588,8 @@
       -19.03
      ],
      [
-      12481634678,
-      2.48
+      8570671584,
+      1.92
      ],
      [
       19374468637,
@@ -45013,8 +44605,8 @@
       -0.95
      ],
      [
-      -453912250,
-      -5.88
+      -31295188,
+      -0.61
      ],
      [
       -162759997,
@@ -45030,8 +44622,8 @@
       1.81
      ],
      [
-      -1273251991,
-      -0.24
+      -7464601684,
+      -1.68
      ],
      [
       104946145690,
@@ -45047,8 +44639,8 @@
       2.05
      ],
      [
-      -3797490282,
-      -3.22
+      347438917,
+      0.47
      ],
      [
       -176497802405,
@@ -45064,8 +44656,8 @@
       -1.26
      ],
      [
-      3087136702,
-      2.97
+      4595605094,
+      5.63
      ],
      [
       5671453250,
@@ -45081,8 +44673,8 @@
       -0.65
      ],
      [
-      -13082512,
-      -0.04
+      123974248,
+      1.73
      ],
      [
       -34593438,
@@ -45098,8 +44690,8 @@
       -27.06
      ],
      [
-      -52723864,
-      -0.37
+      -37171673,
+      -0.28
      ],
      [
       -2607208145,
@@ -45115,8 +44707,8 @@
       16.14
      ],
      [
-      2685040989,
-      4.81
+      2691234825,
+      7.09
      ],
      [
       8223969583,
@@ -45132,8 +44724,8 @@
       30.96
      ],
      [
-      2382253315,
-      5.95
+      2410833729,
+      9.0
      ],
      [
       2009337347,
@@ -45150,7 +44742,7 @@
      ],
      [
       209180120,
-      7.95
+      8.63
      ],
      [
       -4076056446,
@@ -45166,8 +44758,8 @@
       51.78
      ],
      [
-      39375074027,
-      18.23
+      37821022357,
+      19.92
      ],
      [
       -6077018967,
@@ -45183,8 +44775,8 @@
       -5.67
      ],
      [
-      -29070188,
-      -0.37
+      58692044,
+      0.87
      ],
      [
       -1656508298,
@@ -45200,8 +44792,8 @@
       -3.48
      ],
      [
-      -2350056479,
-      -6.39
+      -493028795,
+      -1.69
      ],
      [
       1628868143,
@@ -45217,7 +44809,7 @@
       -0.01
      ],
      [
-      -116387,
+      -233277,
       -0.0
      ],
      [
@@ -45234,8 +44826,8 @@
       2.16
      ],
      [
-      -2016004476,
-      -1.7
+      -580380252,
+      -0.59
      ],
      [
       5297390261,
@@ -45251,8 +44843,8 @@
       -25.95
      ],
      [
-      2381699951,
-      4.77
+      5874267635,
+      13.85
      ],
      [
       1589147304,
@@ -45268,8 +44860,8 @@
       6.36
      ],
      [
-      -881227124,
-      -6.46
+      -987774572,
+      -13.98
      ],
      [
       2154519776,
@@ -45285,8 +44877,8 @@
       27.77
      ],
      [
-      413351947,
-      0.55
+      35409490,
+      0.06
      ],
      [
       -24012285541,
@@ -45302,8 +44894,8 @@
       3.88
      ],
      [
-      72306680,
-      0.94
+      124074784,
+      1.86
      ],
      [
       227916711,
@@ -45319,8 +44911,8 @@
       3.91
      ],
      [
-      -1666622833,
-      -7.92
+      -667178471,
+      -3.7
      ],
      [
       -183364226,
@@ -45336,8 +44928,8 @@
       4.57
      ],
      [
-      73943732,
-      0.39
+      270701819,
+      1.58
      ],
      [
       -605856965,
@@ -45608,7 +45200,7 @@
    "s_flow": 100,
    "alpha": -8.02,
    "vrank": 30,
-   "flow": -21.76,
+   "flow": -23.38,
    "srcs": 3
   },
   {
@@ -45633,7 +45225,7 @@
    "s_flow": 100,
    "alpha": 12.97,
    "vrank": 46,
-   "flow": 14.61,
+   "flow": 16.44,
    "srcs": 2
   },
   {
@@ -45649,16 +45241,16 @@
    "hl": "경영진 및 이사회 구성원 변경",
    "hl_id": "Perubahan anggota Direksi dan/atau anggota Dewan Komisaris",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d6fce94b8_28b2530122.pdf",
-   "score": 68.3,
+   "score": 67.9,
    "s_news": 50,
    "s_size": 42,
    "s_surge": 80,
    "s_move": 100,
    "s_conc": 80,
-   "s_flow": 59,
+   "s_flow": 55,
    "alpha": 5.14,
    "vrank": 88,
-   "flow": -5.93,
+   "flow": -5.54,
    "srcs": 0
   },
   {
@@ -45674,16 +45266,16 @@
    "hl": "IFII, 주당 Rp 5 중간배당 실시",
    "hl_id": "Emiten IFII Tebar Dividen Interim Rp 5 per Saham",
    "url": "https://www.liputan6.com/saham/read/8294758/emiten-ifii-tebar-dividen-interim-rp-5-per-saham",
-   "score": 65.9,
+   "score": 65.8,
    "s_news": 70,
    "s_size": 33,
    "s_surge": 70,
    "s_move": 100,
    "s_conc": 70,
-   "s_flow": 10,
+   "s_flow": 9,
    "alpha": 5.46,
    "vrank": null,
-   "flow": -0.97,
+   "flow": -0.89,
    "srcs": 1
   },
   {
@@ -45699,41 +45291,16 @@
    "hl": "신주인수권 배제(HMETD 미부여) 증자 정보 공고 게재 증빙 제출",
    "hl_id": "Bukti Iklan Penambahan Modal tanpa HMETD",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/fef1cb60cb_ce4856181a.pdf",
-   "score": 63.0,
+   "score": 65.6,
    "s_news": 90,
    "s_size": 13,
    "s_surge": 30,
    "s_move": 100,
    "s_conc": 30,
-   "s_flow": 30,
+   "s_flow": 56,
    "alpha": -6.82,
    "vrank": null,
-   "flow": 2.97,
-   "srcs": 0
-  },
-  {
-   "t": "MGLV",
-   "n": "NexAI Digital Infrastruktur",
-   "px": 16000.0,
-   "pct": 6.49,
-   "val": 68759170000.0,
-   "mcap": 30478134576000.0,
-   "ratio": 4.1,
-   "ev_ko": "가격·수급 이상",
-   "ev_id": "Harga & arus dana",
-   "hl": "시장 대비 +8.18%p · 거래대금 42위 · 20일 평균 4.1배 · 외국인 5일 +5.4%",
-   "hl_id": "vs pasar +8.18%p · nilai transaksi #42 · 4.1x rata 20 hari · asing 5 hari +5.4%",
-   "url": "",
-   "score": 59.8,
-   "s_news": 0,
-   "s_size": 62,
-   "s_surge": 100,
-   "s_move": 100,
-   "s_conc": 100,
-   "s_flow": 54,
-   "alpha": 8.18,
-   "vrank": 42,
-   "flow": 5.44,
+   "flow": 5.63,
    "srcs": 0
   },
   {
@@ -45746,8 +45313,8 @@
    "ratio": 4.6,
    "ev_ko": "가격·수급 이상",
    "ev_id": "Harga & arus dana",
-   "hl": "시장 대비 -4.30%p · 거래대금 45위 · 20일 평균 4.6배 · 외국인 5일 +25.2%",
-   "hl_id": "vs pasar -4.30%p · nilai transaksi #45 · 4.6x rata 20 hari · asing 5 hari +25.2%",
+   "hl": "시장 대비 -4.30%p · 거래대금 45위 · 20일 평균 4.6배 · 외국인 5일 +23.1%",
+   "hl_id": "vs pasar -4.30%p · nilai transaksi #45 · 4.6x rata 20 hari · asing 5 hari +23.1%",
    "url": "",
    "score": 59.7,
    "s_news": 0,
@@ -45758,7 +45325,32 @@
    "s_flow": 100,
    "alpha": -4.3,
    "vrank": 45,
-   "flow": 25.19,
+   "flow": 23.07,
+   "srcs": 0
+  },
+  {
+   "t": "MGLV",
+   "n": "NexAI Digital Infrastruktur",
+   "px": 16000.0,
+   "pct": 6.49,
+   "val": 68759170000.0,
+   "mcap": 30478134576000.0,
+   "ratio": 4.1,
+   "ev_ko": "가격·수급 이상",
+   "ev_id": "Harga & arus dana",
+   "hl": "시장 대비 +8.18%p · 거래대금 42위 · 20일 평균 4.1배 · 외국인 5일 +4.3%",
+   "hl_id": "vs pasar +8.18%p · nilai transaksi #42 · 4.1x rata 20 hari · asing 5 hari +4.3%",
+   "url": "",
+   "score": 58.6,
+   "s_news": 0,
+   "s_size": 62,
+   "s_surge": 100,
+   "s_move": 100,
+   "s_conc": 100,
+   "s_flow": 43,
+   "alpha": 8.18,
+   "vrank": 42,
+   "flow": 4.32,
    "srcs": 0
   },
   {
@@ -45774,16 +45366,16 @@
    "hl": "주주총회 결과 공고 증빙 제출",
    "hl_id": "Penyampaian Bukti Iklan Hasil RUPS",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/40e2f14428_142bc88291.pdf",
-   "score": 59.1,
+   "score": 58.3,
    "s_news": 50,
    "s_size": 61,
    "s_surge": 80,
    "s_move": 53,
    "s_conc": 80,
-   "s_flow": 57,
+   "s_flow": 48,
    "alpha": 2.66,
    "vrank": null,
-   "flow": -5.66,
+   "flow": -4.83,
    "srcs": 0
   },
   {
@@ -45796,19 +45388,19 @@
    "ratio": 6.0,
    "ev_ko": "가격·수급 이상",
    "ev_id": "Harga & arus dana",
-   "hl": "시장 대비 +8.16%p · 20일 평균 6.0배 · 외국인 5일 +6.1%",
-   "hl_id": "vs pasar +8.16%p · 6.0x rata 20 hari · asing 5 hari +6.1%",
+   "hl": "시장 대비 +8.16%p · 20일 평균 6.0배 · 외국인 5일 +7.1%",
+   "hl_id": "vs pasar +8.16%p · 6.0x rata 20 hari · asing 5 hari +7.1%",
    "url": "",
-   "score": 57.1,
+   "score": 58.0,
    "s_news": 0,
    "s_size": 40,
    "s_surge": 100,
    "s_move": 100,
    "s_conc": 100,
-   "s_flow": 61,
+   "s_flow": 71,
    "alpha": 8.16,
    "vrank": null,
-   "flow": 6.14,
+   "flow": 7.07,
    "srcs": 0
   },
   {
@@ -45821,8 +45413,8 @@
    "ratio": 3.4,
    "ev_ko": "가격·수급 이상",
    "ev_id": "Harga & arus dana",
-   "hl": "시장 대비 +3.88%p · 20일 평균 3.4배 · 외국인 5일 +46.5%",
-   "hl_id": "vs pasar +3.88%p · 3.4x rata 20 hari · asing 5 hari +46.5%",
+   "hl": "시장 대비 +3.88%p · 20일 평균 3.4배 · 외국인 5일 +54.3%",
+   "hl_id": "vs pasar +3.88%p · 3.4x rata 20 hari · asing 5 hari +54.3%",
    "url": "",
    "score": 55.9,
    "s_news": 0,
@@ -45833,7 +45425,7 @@
    "s_flow": 100,
    "alpha": 3.88,
    "vrank": null,
-   "flow": 46.49,
+   "flow": 54.34,
    "srcs": 0
   }
  ],

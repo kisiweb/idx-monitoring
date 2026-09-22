@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 18:23",
+ "updated": "2026-09-22 18:25",
  "delay_min": 15,
- "fx_basis": "13.17 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,356 · 17:30 Yahoo",
- "idr_per_krw": 13.1701,
+ "fx_basis": "13.18 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,356 · 17:30 Yahoo",
+ "idr_per_krw": 13.1789,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16464,8 +16464,8 @@
    ],
    "url": "https://www.idxchannel.com/market-news/pengalihan-saham-byan-ke-haji-isam-kantongi-restu-menteri-esdm",
    "img": "https://img.idxchannel.com/media/439/images/idx/2023/11/03/Adu_Saham_Batu_Bara_BYAN_vs_ITMG.jpg",
-   "t_id": "Pengalihan Saham BYAN ke Haji Isam Kantongi Restu Menteri ESDM",
-   "t_ko": "Haji Isam, BYAN 지분 이전 ESDM 장관 승인 획득"
+   "t_ko": "Haji Isam, BYAN 지분 이전 ESDM 장관 승인 획득",
+   "t_id": "Pengalihan Saham BYAN ke Haji Isam Kantongi Restu Menteri ESDM"
   },
   {
    "ts": "2026-09-22T18:06:13.878040+07:00",
@@ -17858,6 +17858,18 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T18:23:00+07:00",
+   "date": "2026-09-22",
+   "time": "18:23",
+   "src": "WSJ",
+   "t": "Gilt Yields Fall After Oil Prices Drop",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?mod=rss_markets_main",
+   "g": 1,
+   "t_ko": "오일 가격 하락에 영국 국채 금리 하락",
+   "t_id": "Yield gilt turun setelah harga minyak anjlok"
+  },
+  {
    "ts": "2026-09-22T18:17:29+07:00",
    "date": "2026-09-22",
    "time": "18:17",
@@ -17866,8 +17878,21 @@
    "tags": [],
    "url": "https://www.liputan6.com/saham/read/8297105/bei-usung-pesan-investasi-dan-kesehatan-lewat-capital-market-run-2026",
    "img": "https://cdn1-production-images-kly.akamaized.net/w2wiULZrFhVhzqWFjlDSBgVj-5Y=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9354658/original/015409700_1790058141-WhatsApp_Image_2026-09-22_at_12.51.52.jpeg",
-   "t_id": "BEI Usung Pesan Investasi dan Kesehatan Lewat Capital Market Run 2026",
-   "t_ko": "BEI, Capital Market Run 2026으로 투자·건강 메시지 전달"
+   "t_ko": "BEI, Capital Market Run 2026으로 투자·건강 메시지 전달",
+   "t_id": "BEI Usung Pesan Investasi dan Kesehatan Lewat Capital Market Run 2026"
+  },
+  {
+   "ts": "2026-09-22T18:15:36+07:00",
+   "date": "2026-09-22",
+   "time": "18:15",
+   "src": "Yahoo Finance",
+   "t": "Silver price today, Tuesday, September 22, 2026: Silver prices hit high mark ahead of U.S.- China talks this week",
+   "tags": [],
+   "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-tuesday-september-22-2026-silver-prices-hit-high-mark-ahead-of-us--china-talks-this-week-111536074.html",
+   "g": 1,
+   "img": "https://s.yimg.com/os/creatr-uploaded-images/2026-01/0fb18420-fab2-11f0-abfd-75e516fff7d1",
+   "t_ko": "은 가격 22일, 미·중 회담 앞두고 고점 경신",
+   "t_id": "Harga perak hari ini, Selasa 22 September 2026: Harga perak sentuh titik tertinggi jelang perundingan AS-China pekan ini"
   },
   {
    "ts": "2026-09-22T18:12:00+07:00",
@@ -17978,6 +18003,19 @@
    "g": 1,
    "t_ko": "유럽 유틸리티주, 천연가스 가격 상승에 수혜 전망",
    "t_id": "Utilitas Eropa Diuntungkan Kenaikan Harga Gas Alam"
+  },
+  {
+   "ts": "2026-09-22T18:05:34+07:00",
+   "date": "2026-09-22",
+   "time": "18:05",
+   "src": "Yahoo Finance",
+   "t": "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportunity?",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/intuitive-machines-lunr-just-opened-110534783.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/ce0482e4ff1e16c82ac74e2126dc444f.jpg",
+   "t_ko": "Intuitive Machines(LUNR), IM 300 플랫폼으로 신규 시장 개척 — 기회 규모는",
+   "t_id": "Intuitive Machines (LUNR) buka pasar baru untuk platform IM 300, seberapa besar peluangnya?"
   },
   {
    "ts": "2026-09-22T18:03:20+07:00",
@@ -18246,43 +18284,6 @@
    "t_id": "Pemangkasan Dividen Beri Sinyal Bearish"
   },
   {
-   "ts": "2026-09-22T17:25:16+07:00",
-   "date": "2026-09-22",
-   "time": "17:25",
-   "src": "CNBC",
-   "t": "Oil prices reverse gains as United Nations General Assembly meeting lifts hopes for Iran war diplomacy",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-   "g": 1,
-   "t_ko": "유가, UN 총회발 Iran 전쟁 외교 기대에 상승분 반납",
-   "t_id": "Harga Minyak Balik Turun dari Kenaikan, Sidang Majelis Umum PBB Kobarkan Harapan Diplomasi Perang Iran",
-   "ai_ko": "· 국제유가 상승, 이란-미국 긴장 고조\n· Bessent, 수요일부터 이란 항공사 전면 중단 경고\n· Pezeshkian 대통령 뉴욕 UN 연설·정상회담 22~28일",
-   "ai_id": "· Harga minyak naik, tensi Iran-AS\n· Bessent: semua maskapai Iran disetop Rabu\n· Pezeshkian pidato di PBB, 22-28 Sep",
-   "ai_tags": [
-    "유가",
-    "지정학",
-    "제재"
-   ],
-   "ai_tags_id": [
-    "harga minyak",
-    "geopolitik",
-    "sanksi"
-   ]
-  },
-  {
-   "ts": "2026-09-22T17:20:41+07:00",
-   "date": "2026-09-22",
-   "time": "17:20",
-   "src": "CNA",
-   "t": "ECB, EU central banks oppose stablecoin bank deposit rule",
-   "tags": [],
-   "url": "https://www.channelnewsasia.com/business/ecb-eu-central-banks-oppose-stablecoin-bank-deposit-rule-6402091",
-   "g": 1,
-   "img": "https://dam.mediacorp.sg/image/upload/s--Rr8cKgcR--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T102041Z_2_LYNXMPEM8L0ON_RTROPTP_3_ECB-BLOCKCHAIN-PONTES.JPG?itok=x1ssQrXG",
-   "t_ko": "ECB·EU 중앙은행들, 스테이블코인 은행 예치 규정에 반대",
-   "t_id": "ECB dan Bank Sentral UE Tolak Aturan Deposito Bank untuk Stablecoin"
-  },
-  {
    "ts": "2026-09-22T17:20:00+07:00",
    "date": "2026-09-22",
    "time": "17:20",
@@ -18304,18 +18305,6 @@
    "img": "https://static.republika.co.id/uploads/images/detailnews/016456500-1777015739-830-556.jpg",
    "t_ko": "BI 금리결정회의 앞두고 루피아 Rp17,884까지 약세",
    "t_id": "Jelang RDG BI, Rupiah Lanjutkan Pelemahan ke Level Rp 17.884"
-  },
-  {
-   "ts": "2026-09-22T17:17:46+07:00",
-   "date": "2026-09-22",
-   "time": "17:17",
-   "src": "Reuters",
-   "t": "Saudi Arabia restarts East-West oil pipeline, to resume exports from Yanbu, sources say",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNmJidHFzNHlscWlnT2hsWFdKc1hNRFMxOWRnTTRQRHVHbV9tRTJySFJoOGFoZXdNdTIwMngxZlczRmY3dWJxWkNiWTRYclVyT0JoWXQyUHJpNThicmpUNDMwWjNqREdrYmw3Ty1peU9oaEtRdC1GWXE1S0o1eGlrWDZONDhqS0FDbWotZXV1LXBvTEhUWHdlT1BzYU5udjNKTTFXdk1hX0wwVk1yczRTdV94R0p4UUQ1bEViTXJ2S2pEaTVLTFlvdw?oc=5",
-   "g": 1,
-   "t_ko": "사우디아라비아, 동서 송유관 재가동 — Yanbu 원유 수출 재개",
-   "t_id": "Arab Saudi Nyalakan Kembali Pipa Minyak East-West, Ekspor dari Yanbu Berlanjut"
   },
   {
    "ts": "2026-09-22T17:17:07+07:00",
@@ -19844,9 +19833,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.39",
-   "d": 0.03,
-   "ytd": 2.15,
+   "v": "100.41",
+   "d": 0.05,
+   "ytd": 2.17,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19856,9 +19845,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.26",
-   "d": -2.91,
-   "ytd": 57.19,
+   "v": "90.33",
+   "d": -2.84,
+   "ytd": 57.31,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19868,9 +19857,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,351.8",
-   "d": -0.62,
-   "ytd": 0.61,
+   "v": "4,353.3",
+   "d": -0.59,
+   "ytd": 0.64,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -23963,8 +23952,8 @@
   "idx_market": true,
   "idx_from_pc": null,
   "pc_age_min": null,
-  "news_ai_cache": 711,
-  "news_ai_hit": 1069,
+  "news_ai_cache": 710,
+  "news_ai_hit": 1163,
   "on_runner": false,
   "bi": null,
   "hist_days": 51,
@@ -25815,6 +25804,30 @@
    "srcs": 4
   },
   {
+   "ts": "2026-09-22T10:31:09+07:00",
+   "date": "2026-09-22",
+   "time": "10:31",
+   "src": "CNBC Indonesia",
+   "t": "Video: BEI Siap Turunkan Batas Terendah Harga Saham Jadi Rp1",
+   "tags": [],
+   "url": "https://www.cnbcindonesia.com/market/20260922083423-19-769739/video-bei-siap-turunkan-batas-terendah-harga-saham-jadi-rp1",
+   "img": "https://akcdn.detik.net.id/visual/2026/09/22/bei-siap-turunkan-batas-terendah-harga-saham-jadi-rp1-1790047862505_169.png?w=1200&q=90",
+   "score": 409.05,
+   "srcs": 1,
+   "t_ko": "BEI, 주식 최저가 하한 Rp1로 인하 추진",
+   "t_id": "Video: BEI Siap Turunkan Batas Terendah Harga Saham Jadi Rp1",
+   "ai_ko": "· 주식 최저 호가 Rp50→Rp1 인하\n· BEI, 정규시장·현금시장 적용\n· 9월 22일 방송서 공개",
+   "ai_id": "· Batas harga saham Rp50 jadi Rp1\n· BEI, pasar reguler dan tunai\n· Dipaparkan Selasa (22/9/2026)",
+   "ai_tags": [
+    "규제",
+    "거래제도"
+   ],
+   "ai_tags_id": [
+    "regulasi",
+    "aturan bursa"
+   ]
+  },
+  {
    "ts": "2026-09-22T09:19:00+07:00",
    "date": "2026-09-22",
    "time": "09:19",
@@ -25823,49 +25836,24 @@
    "tags": [],
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVA2UjFJM3dkZnhldzYxTHFKc3JKUndzZmw3LUZhR1dUOUQxYWRQanA0bHVPOEhuMk9XWk1uSXFyQXdvWnVXU2Q0ZUtjUktnb2tnLWhCa1ZRS3Vqemt3cFNEMXRqbTU3TnFUM0loWUJxUTc3Z0NOb0tHc09zOVZMOUFEOElkVUVrS3lzdHRib1g2YTJOdjZqYTVWWFk?oc=5",
    "g": 1,
-   "score": 414.0,
-   "srcs": 4,
+   "score": 408.0,
+   "srcs": 1,
    "t_ko": "유가 상승·연준 인사 금리 인상 시사에 금값 하락",
    "t_id": "Harga emas turun, minyak menguat dan pejabat The Fed sinyalkan kenaikan suku bunga"
   },
   {
-   "ts": "2026-09-22T13:29:30+07:00",
+   "ts": "2026-09-22T18:23:00+07:00",
    "date": "2026-09-22",
-   "time": "13:29",
-   "src": "Bloomberg Technoz",
-   "t": "Konsensus Bloomberg: BI Rate Tetap di 5,75%",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122319/konsensus-bloomberg-bi-rate-tetap-di-5-75",
-   "img": "https://images.bloombergtechnoz.com/data/2026/05/image-20260520162706.jpg",
-   "score": 409.15,
-   "srcs": 1,
-   "t_ko": "블룸버그 컨센서스, BI 기준금리 5.75% 동결 전망",
-   "t_id": "Konsensus Bloomberg: BI Rate Tetap di 5,75%",
-   "ai_ko": "· 기준금리 5.75% 동결 전망 우세\n· Bloomberg 설문 이코노미스트 35명 중 32명\n· 9월 통화정책회의 결과 23일 발표, 3명은 25bp 인상 예상",
-   "ai_id": "· 32 dari 35 ekonom: BI Rate tetap 5,75%\n· Survei Bloomberg jelang RDG September\n· 3 ekonom prediksi naik 25 bps ke 6%",
-   "ai_tags": [
-    "기준금리",
-    "통화정책"
-   ],
-   "ai_tags_id": [
-    "BI Rate",
-    "kebijakan moneter"
-   ]
-  },
-  {
-   "ts": "2026-09-22T15:37:04+07:00",
-   "date": "2026-09-22",
-   "time": "15:37",
+   "time": "18:23",
    "src": "WSJ",
-   "t": "Stock Market Today: Oil Sinks Below $100, Lifting Stock Futures",
+   "t": "Gilt Yields Fall After Oil Prices Drop",
    "tags": [],
-   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2026?mod=rss_markets_main",
+   "url": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?mod=rss_markets_main",
    "g": 1,
-   "img": "https://images.wsj.net/im-34062673",
-   "score": 313.5,
-   "srcs": 3,
-   "t_ko": "유가 100달러 아래로 하락, 주가지수 선물 상승",
-   "t_id": "Pasar Saham Hari Ini: Harga Minyak Anjlok di Bawah US$100, Angkat Bursa Saham Berjangka AS"
+   "t_ko": "오일 가격 하락에 영국 국채 금리 하락",
+   "t_id": "Yield gilt turun setelah harga minyak anjlok",
+   "score": 312.0,
+   "srcs": 4
   }
  ],
  "daylog": {

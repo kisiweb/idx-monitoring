@@ -821,6 +821,9 @@ function krwT(v){if(LANG==='id'||v==null||!isFinite(v))return'';
   const b=(DATA&&DATA.fx_basis)?String(DATA.fx_basis).replace(/"/g,''):'';
   return' title="\u2248'+krwShort(v)+(b?' \u00b7 '+b:'')+'"';}
 function idr(v){if(v==null)return'—';const sg_=v<0?'−':'';return`${sg_}${idrShort(v)}`;}
+/* 태그가 없는 자리에 원화 툴팁을 붙일 때 쓰는 래퍼 (2026-09-22: 병기 누락분 일괄 보완) */
+function idrK(v,sign){if(v==null||!isFinite(v))return'—';const a=Math.abs(v);
+  return'<span class="krwh"'+krwT(a)+'>'+(sign?(v>=0?'+':'−'):'')+idrShort(a)+'</span>';}
 /* 순매수 칸 — 부호·금액을 <b> 하나에 담는다. <b> 안에 <span> 을 넣으면 줄이 갈라져
    부호만 큰 글씨로 남는다 (2026-09-21 지적). 원화는 <b> 자체의 말풍선으로 건다. */
 function netB(v,nul){if(v==null)return'<b class="num">'+(nul||'—')+'</b>';
@@ -924,7 +927,7 @@ function wlKey(e){if(e.key==='ArrowDown'){wlSel=Math.min(wlSel+1,wlList.length-1
 function wlPick(i){const x=wlList[i];if(!x)return;wlAdd(x.t);}
 function wlAdd(t){if(!WL.includes(t)){WL.unshift(t);while(WL.length>WL_MAX)WL.pop();wlSave();}$('wlq').value='';$('wlqbox').hidden=true;renderWL();$('wlq').focus();}
 function wlRemove(t){WL=WL.filter(x=>x!==t);wlSave();renderWL();}
-function wlRow(t){const o=findStock(t);const i=WL.indexOf(t);return`<div class="row" draggable="true" ondragstart="wlDS(event,'${t}')" ondragover="wlDO(event)" ondrop="wlDrop(event,'${t}')" onclick="openDr('${t}')"><span class="ord"><i class="${i===0?'off':''}" title="${T('tUp')}" onclick="event.stopPropagation();wlMove('${t}',-1)">▲</i><i class="${i===WL.length-1?'off':''}" title="${T('tDown')}" onclick="event.stopPropagation();wlMove('${t}',1)">▼</i></span>${logo(t,o.n)}<div class="nm"><b>${o.n||t}</b><small>${t}${o.val!=null?' · '+T('turnoverK')+' '+idrShort(o.val):''}${o.fnet!=null?' · '+T('fnet')+' <span class="'+(o.fnet>=0?'up':'dn')+'">'+(o.fnet>=0?'+':'−')+idrShort(o.fnet)+'</span>':''}</small></div><div class="px"><b class="num">${o.px==null?'—':'Rp'+fmt(o.px,0)}</b><small class="num">${pctOf(o)}</small></div><span class="rm" title="${T('tDel')}" onclick="event.stopPropagation();wlRemove('${t}')">×</span></div>`;}
+function wlRow(t){const o=findStock(t);const i=WL.indexOf(t);return`<div class="row" draggable="true" ondragstart="wlDS(event,'${t}')" ondragover="wlDO(event)" ondrop="wlDrop(event,'${t}')" onclick="openDr('${t}')"><span class="ord"><i class="${i===0?'off':''}" title="${T('tUp')}" onclick="event.stopPropagation();wlMove('${t}',-1)">▲</i><i class="${i===WL.length-1?'off':''}" title="${T('tDown')}" onclick="event.stopPropagation();wlMove('${t}',1)">▼</i></span>${logo(t,o.n)}<div class="nm"><b>${o.n||t}</b><small>${t}${o.val!=null?' · '+T('turnoverK')+' '+idrK(o.val):''}${o.fnet!=null?' · '+T('fnet')+' <span class="'+(o.fnet>=0?'up':'dn')+'">'+idrK(o.fnet,1)+'</span>':''}</small></div><div class="px"><b class="num">${o.px==null?'—':'Rp'+fmt(o.px,0)}</b><small class="num">${pctOf(o)}</small></div><span class="rm" title="${T('tDel')}" onclick="event.stopPropagation();wlRemove('${t}')">×</span></div>`;}
 function wlShow(){const rc=$('rank-card'),w=$('wl'),c=$('wl-card');if(!rc||!w||!c)return WL_SHOW;const wide=innerWidth>1280;c.style.height='';c.style.flex='';
   /* 관심 종목이 늘면 이 카드가 열을 밀어 올리고, 열이 커지면 종목 랭킹 카드도 같이 늘어난다(서로 키워주는 되먹임).
      그래서 재기 전에 이 카드를 0으로 접어 랭킹 카드의 제 높이를 확정한 뒤, 거기에 맞춰 높이를 박는다.
@@ -991,7 +994,7 @@ async function liveIndices(){let any=false;for(const s of LIVE_SYMS){const res=a
 }
 
 /* ---------- 렌더: 증시 ---------- */
-function stockRow(o,i,kind){const bad=o.px==null;const sub=kind==='catalyst'?`${o.t} · <span class="evtag">${(LANG==='id'?o.ev_id:o.ev_ko)||''}</span>`:kind==='mcap'?`${o.t} · ${T('mcapR')} ${o.mcap==null?'—':idrShort(o.mcap)}`:kind==='turnover'?`${o.t} · ${T('ratio20')} ${fmt(o.ratio,1)}×`:kind==='volume'?`${o.t} · ${T('volR')} ${fmt(o.vol/1e6,1)}M`:kind==='foreign'?`${o.t}`:`${o.t} · ${T('turnoverK')} ${o.val==null?'—':idrShort(o.val)}`;
+function stockRow(o,i,kind){const bad=o.px==null;const sub=kind==='catalyst'?`${o.t} · <span class="evtag">${(LANG==='id'?o.ev_id:o.ev_ko)||''}</span>`:kind==='mcap'?`${o.t} · ${T('mcapR')} ${idrK(o.mcap)}`:kind==='turnover'?`${o.t} · ${T('ratio20')} ${fmt(o.ratio,1)}×`:kind==='volume'?`${o.t} · ${T('volR')} ${fmt(o.vol/1e6,1)}M`:kind==='foreign'?`${o.t}`:`${o.t} · ${T('turnoverK')} ${o.val==null?'—':idrShort(o.val)}`;
   const right=kind==='foreign'?`<b class="num krwh ${o.fnet>=0?'up':'dn'}"${krwT(o.fnet)}>${o.fnet>=0?'+':'−'}${idrShort(o.fnet)}</b>`
     :`<b class="num">${bad?`<span class="chk">${T('chk')}</span>`:'Rp'+fmt(o.px,0)}</b><small class="num">${pctOf(o)}</small>`;
   const nm=kind==='foreign'?`<b>${o.t}</b><small>${o.n||''}</small>`:`<b>${o.n||o.t}</b><small>${sub}</small>`;
@@ -1038,10 +1041,10 @@ function render(d){DATA=d;IDRKRW=d.idr_per_krw||IDRKRW;const demo=d.mode==='demo
   if(changed('idx',[ixs,LANG,ixAI()]))$('idx').innerHTML=ixs.map(x=>ixCard(x)).join('');
   const adT=(i.adv||0)+(i.dec||0)+(i.unch||0);
   const adBar=adT?`<div class="adbar"><i class="a" style="width:${(i.adv||0)/adT*100}%"></i><i class="d" style="width:${(i.dec||0)/adT*100}%"></i><i class="u" style="width:${(i.unch||0)/adT*100}%"></i></div>`:'';
-  $('kv').innerHTML=[[T('advdec'),`<span class="adv"><span class="up">▲ ${i.adv??'—'}</span><span class="dn">▼ ${i.dec??'—'}</span><span class="flat">— ${i.unch??'—'}</span>${adT?`<span class="pct">${T('advPct')} ${(i.adv/adT*100).toFixed(0)}%</span>`:''}</span>`,'wide',adBar],[T('turnoverK'),idr(i.value_idr),'',i.value_src?`<i class="vsrc" title="${T('vs_'+i.value_src)}"></i>`:''],[T('hilo'),`${fmt(i.high)} / ${fmt(i.low)}`],[T('vol'),i.volume?`${fmt(i.volume/1e9,2)}B`:'—'],[T('ytd'),sg(i.ytd)],[T('m1'),sg(i.m1)],[T('range'),i.high&&i.low?`${fmt(i.high-i.low,2)}p (${fmt((i.high-i.low)/(i.prev||d.indices?.[0]?.prev||1)*100,2)}%)`:'—']].map(([k,v,c,x])=>`<div class="${c||''}"><span>${k}</span><b class="num">${v}</b>${x||''}</div>`).join('');
+  $('kv').innerHTML=[[T('advdec'),`<span class="adv"><span class="up">▲ ${i.adv??'—'}</span><span class="dn">▼ ${i.dec??'—'}</span><span class="flat">— ${i.unch??'—'}</span>${adT?`<span class="pct">${T('advPct')} ${(i.adv/adT*100).toFixed(0)}%</span>`:''}</span>`,'wide',adBar],[T('turnoverK'),idrK(i.value_idr),'',i.value_src?`<i class="vsrc" title="${T('vs_'+i.value_src)}"></i>`:''],[T('hilo'),`${fmt(i.high)} / ${fmt(i.low)}`],[T('vol'),i.volume?`${fmt(i.volume/1e9,2)}B`:'—'],[T('ytd'),sg(i.ytd)],[T('m1'),sg(i.m1)],[T('range'),i.high&&i.low?`${fmt(i.high-i.low,2)}p (${fmt((i.high-i.low)/(i.prev||d.indices?.[0]?.prev||1)*100,2)}%)`:'—']].map(([k,v,c,x])=>`<div class="${c||''}"><span>${k}</span><b class="num">${v}</b>${x||''}</div>`).join('');
   // 외국인
   $('fdate').textContent=i.foreign_date?((i.foreign_date)+' · '+T('prevday')):'';$('fnote').textContent='';
-  $('fx').innerHTML=`<div><span>${T('netbuy')}</span>${netB(fn,'<span class="chk">확인 필요</span>')}</div><div><span>${T('buy')}</span><b class="num">${i.foreign_buy==null?'—':idrShort(i.foreign_buy)}</b></div><div><span>${T('sell')}</span><b class="num">${i.foreign_sell==null?'—':idrShort(i.foreign_sell)}</b></div>`;
+  $('fx').innerHTML=`<div><span>${T('netbuy')}</span>${netB(fn,'<span class="chk">확인 필요</span>')}</div><div><span>${T('buy')}</span><b class="num krwh"${krwT(i.foreign_buy)}>${i.foreign_buy==null?'—':idrShort(i.foreign_buy)}</b></div><div><span>${T('sell')}</span><b class="num krwh"${krwT(i.foreign_sell)}>${i.foreign_sell==null?'—':idrShort(i.foreign_sell)}</b></div>`;
   if(changed('ftop',[d.foreign_top,d.foreign_bottom,(d.fflow||{}).basis,LANG,fswin]))renderFTop();
   renderRank();
   // 시장 뉴스 (티커 없는 거시·정책 기사, 썸네일)
@@ -1069,7 +1072,7 @@ function render(d){DATA=d;IDRKRW=d.idr_per_krw||IDRKRW;const demo=d.mode==='demo
       const bg=v==null?'var(--chip)':(v>=0?`rgba(30,138,92,${0.35+0.65*a})`:`rgba(200,53,47,${0.35+0.65*a})`);
       const pop=`<div class="secpop"><div class="ph">${LANG==='id'?(x.name_id||x.name):x.name} · ${T('secTop')}${swin==='1d'?'':' · '+T('secDay')}</div>${(x.top||[]).map(t=>`<div class="pr" onclick="openDr('${t.t}')"><b>${t.t}</b><span class="nm2">${stockName(t.t)}</span><em class="num ${t.pct>0?'up':t.pct<0?'dn':''}">${t.pct==null?'—':(t.pct>0?'+':'')+t.pct.toFixed(2)+'%'}</em></div>`).join('')}</div>`;
       const _d1=(swin==='1d');
-      return`<div class="sec" style="background:${bg}"><div class="sn">${LANG==='id'?(x.name_id||x.name):x.name}</div><div class="sp num">${v==null?'—':sg(v)}</div>${_d1?`<div class="sm">${T('turnoverK')} ${idrShort(x.val)} · ▲${x.adv} ▼${x.dec} / ${x.n}</div>`:`<div class="sm">${x.n}${T('ngStocks')}</div>`}<div class="st">${(x.top||[]).slice(0,3).map(t=>`<span onclick="openDr('${t.t}')">${t.t}${_d1?` <b class="num">${sg(t.pct)}</b>`:''}</span>`).join('')}</div>${pop}</div>`;}).join('');}
+      return`<div class="sec" style="background:${bg}"><div class="sn">${LANG==='id'?(x.name_id||x.name):x.name}</div><div class="sp num">${v==null?'—':sg(v)}</div>${_d1?`<div class="sm">${T('turnoverK')} ${idrK(x.val)} · ▲${x.adv} ▼${x.dec} / ${x.n}</div>`:`<div class="sm">${x.n}${T('ngStocks')}</div>`}<div class="st">${(x.top||[]).slice(0,3).map(t=>`<span onclick="openDr('${t.t}')">${t.t}${_d1?` <b class="num">${sg(t.pct)}</b>`:''}</span>`).join('')}</div>${pop}</div>`;}).join('');}
   // 주요 지수
   const g=d.global||[];$('gidx-card').hidden=!g.length;
   if(g.length&&changed('gidx',[g,LANG]))$('gidx').innerHTML=g.filter(x=>!/STI|SET/.test(x.sym)).slice(0,6).map(x=>`<div class="gi"><div class="gn">${LANG==='id'?(x.name_id||x.name):x.name}<small>${gidxAsof(x)}</small></div><div class="gv"><b class="num">${fmt(x.px,x.px>1000?0:2)}</b><span class="num ${x.pct>0?'up':x.pct<0?'dn':''}">${sg(x.pct)}</span></div><div class="gs">${spark(x.spark,x.prev)}</div></div>`).join('');
@@ -1254,7 +1257,7 @@ function dcOv(iso,el){const ov=$('dcov');if(!ov)return;
   $('dcovs').textContent=iso>tIso?T('dcFuture'):(r?T('dcTop'):'');
   let h='';
   /* 순서: 그날의 대표 종목 → 일정 → 주요뉴스 3건 → 공시. 모든 티커는 눌러서 종목 드로어로 이어진다 */
-  if(r)h+=`<div class="dcsec"><b>${T('dcTop')}</b><div class="dcrow"><b class="tk" onclick="dcJump('${r.t}')">${r.t}</b><span class="tk" onclick="dcJump('${r.t}')">${r.n||''}</span><em class="num ${r.pct>0?'up':r.pct<0?'dn':''}">${r.pct>0?'+':''}${r.pct}%</em><small>${idrShort(r.val)}</small></div></div>`;
+  if(r)h+=`<div class="dcsec"><b>${T('dcTop')}</b><div class="dcrow"><b class="tk" onclick="dcJump('${r.t}')">${r.t}</b><span class="tk" onclick="dcJump('${r.t}')">${r.n||''}</span><em class="num ${r.pct>0?'up':r.pct<0?'dn':''}">${r.pct>0?'+':''}${r.pct}%</em><small>${idrK(r.val)}</small></div></div>`;
   if(evs.length)h+=`<div class="dcsec"><b>${T('todayEv')}</b>${evs.map(e=>`<div class="dcrow"><small>${e.time||'—'}</small>${e.t&&e.t!=='—'?`<b class="tk" onclick="dcJump('${e.t}')">${e.t}</b>`:''}<span>${stars(e.imp||1)} ${L(e,'title')}</span></div>`).join('')}</div>`;
   const nw=(lg.news||[]).filter(n=>(n.q==null?0:n.q)>=DCQ).slice(0,3);
   if(nw.length)h+=`<div class="dcsec"><b>${T('topNews')}</b>${nw.map(n=>`<div class="dcrow">${n.slot?`<em class="sl ${n.slot}">${T('sl_'+n.slot)}</em>`:''}${(n.tags||[]).slice(0,1).map(t=>`<b class="tk" onclick="dcJump('${t}')">${t}</b>`).join('')}<span>${n.url?`<a href="${n.url}" target="_blank" rel="noopener">${dcHead(n)}</a>`:dcHead(n)}</span><small>${n.src||''}</small></div>`).join('')}</div>`;
@@ -1320,13 +1323,13 @@ function renderFTop(){
   if(fx){
     if(fswin==='1d'){const q=DATA.index||{},fn=q.foreign_net_idr;
       fx.innerHTML='<div><span>'+T('netbuy')+'</span>'+netB(fn,'<span class="chk">확인 필요</span>')+'</div>'
-        +'<div><span>'+T('buy')+'</span><b class="num">'+(q.foreign_buy==null?'\u2014':idrShort(q.foreign_buy))+'</b></div>'
-        +'<div><span>'+T('sell')+'</span><b class="num">'+(q.foreign_sell==null?'\u2014':idrShort(q.foreign_sell))+'</b></div>';
+        +'<div><span>'+T('buy')+'</span><b class="num krwh"'+krwT(q.foreign_buy)+'>'+(q.foreign_buy==null?'\u2014':idrShort(q.foreign_buy))+'</b></div>'
+        +'<div><span>'+T('sell')+'</span><b class="num krwh"'+krwT(q.foreign_sell)+'>'+(q.foreign_sell==null?'\u2014':idrShort(q.foreign_sell))+'</b></div>';
     }else{
       const net=(F.mktv||[])[i], bu=(F.mktbuy||[])[i], se=(F.mktsell||[])[i];
       fx.innerHTML='<div><span>'+T('netbuy')+'</span>'+netB(net)+'</div>'
-        +'<div><span>'+T('buy')+'</span><b class="num">'+(bu==null?'\u2014':idrShort(bu))+'</b></div>'
-        +'<div><span>'+T('sell')+'</span><b class="num">'+(se==null?'\u2014':idrShort(se))+'</b></div>';
+        +'<div><span>'+T('buy')+'</span><b class="num krwh"'+krwT(bu)+'>'+(bu==null?'\u2014':idrShort(bu))+'</b></div>'
+        +'<div><span>'+T('sell')+'</span><b class="num krwh"'+krwT(se)+'>'+(se==null?'\u2014':idrShort(se))+'</b></div>';
     }
   }
 }
@@ -1352,24 +1355,29 @@ function renderFFlow(){const box=$('fflow');if(!box||!DATA)return;
   if(!secs.filter(x=>x.v).length){box.innerHTML=`<div class="empty">${(fwin==='1w'||fwin==='1m')?T('ffNone1w'):T('ffNone')}</div>`;return;}
   secs.sort((a,b)=>b.v-a.v);
   const mx=Math.max.apply(null,secs.map(x=>Math.abs(x.v)))||1;
-  const tin=secs.filter(x=>x.v>0).reduce((a,x)=>a+x.v,0),tout=secs.filter(x=>x.v<0).reduce((a,x)=>a+x.v,0);
-  const net=tin+tout;
-  box.innerHTML='<div class="ffsum"><span>'+T('ffIn')+' <b class="pos">+'+idrShort(tin)+'</b></span>'
-    +'<span>'+T('ffOut')+' <b class="neg">−'+idrShort(Math.abs(tout))+'</b></span>'
-    +'<span style="margin-left:auto">'+T('ffNet')+' <b class="'+(net>=0?'pos':'neg')+'">'+(net>=0?'+':'−')+idrShort(Math.abs(net))+'</b></span></div>'
+  /* 상단 3칸은 그 기간의 시장 전체 매수액 · 매도액 · 순매수액이다 (2026-09-22 지시).
+     예전엔 '순매수 섹터 합 / 순매도 섹터 합' 을 '외국인 순매수 / 외국인 순매도' 라 불러 뜻이 겹쳤다. */
+  const _F=DATA.fflow||{},_IX=DATA.index||{},_FI={'1d':0,'1w':1,'1m':2}[fwin]||0;
+  const _pk=(arr,fb)=>{const v=(arr||[])[_FI];return (fwin==='1d'&&fb!=null)?fb:(v==null?null:v);};
+  const _bu=_pk(_F.mktbuy,_IX.foreign_buy),_se=_pk(_F.mktsell,_IX.foreign_sell);
+  const _nt=(_bu!=null&&_se!=null)?(_bu-_se):_pk(_F.mktv,_IX.foreign_net_idr);
+  const _amt=(v,cls,sign)=>v==null?'<b>—</b>':'<b class="'+cls+' krwh"'+krwT(Math.abs(v))+'>'+(sign?(v>=0?'+':'−'):'')+idrShort(Math.abs(v))+'</b>';
+  box.innerHTML='<div class="ffsum"><span>'+T('buy')+' '+_amt(_bu,'pos')+'</span>'
+    +'<span>'+T('sell')+' '+_amt(_se,'neg')+'</span>'
+    +'<span style="margin-left:auto">'+T('netbuy')+' '+_amt(_nt,(_nt>=0?'pos':'neg'),1)+'</span></div>'
     +secs.map(function(x){
     const w=Math.max(1.5,Math.abs(x.v)/mx*50),pos=x.v>0;
     const lead=(pos?x.b:x.s)[0];
     const pop='<div class="ffpop"><b>'+x.n+'</b>'
-      +'<div class="l"><span>'+T('ffBuy')+'</span><span>'+((x.b.slice(0,3).map(o=>o.t+' '+idrShort(o.fnet)).join(' · '))||'—')+'</span></div>'
-      +'<div class="l"><span>'+T('ffSell')+'</span><span>'+((x.s.slice(0,3).map(o=>o.t+' '+idrShort(Math.abs(o.fnet))).join(' · '))||'—')+'</span></div>'
+      +'<div class="l"><span>'+T('ffBuy')+'</span><span>'+((x.b.slice(0,3).map(o=>o.t+' '+idrK(o.fnet)).join(' · '))||'—')+'</span></div>'
+      +'<div class="l"><span>'+T('ffSell')+'</span><span>'+((x.s.slice(0,3).map(o=>o.t+' '+idrK(o.fnet)).join(' · '))||'—')+'</span></div>'
       +(lead?'<small>'+T('ffLead')+' '+lead.t+' '+(lead.n||'')+' '+(lead.pct>0?'+':'')+lead.pct+'%</small>':'')+'</div>';
     return '<div class="ffrow"><div class="ffn" title="'+x.n+'">'+(FF_SHORT[x.n]||x.n)+'</div>'
       +'<div class="ffbar"><span class="zero"></span><i class="'+(pos?'pos':'neg')+'" style="'+(pos?'left:50%':'right:50%')+';width:'+w+'%"></i>'
       +(lead?('<span class="fflead'+(w<15?' out':'')+'" style="'+(pos
           ?('left:calc(50% + '+(w<15?w:0)+'% + '+(w<15?7:5)+'px)')
           :('right:calc(50% + '+(w<15?w:0)+'% + '+(w<15?7:5)+'px)'))+'">'+lead.t+'</span>'):'')+'</div>'
-      +'<div class="ffv '+(pos?'pos':'neg')+'">'+(pos?'+':'−')+idrShort(Math.abs(x.v))+'</div>'+pop+'</div>';}).join('')
+      +'<div class="ffv '+(pos?'pos':'neg')+'">'+idrK(x.v,1)+'</div>'+pop+'</div>';}).join('')
     +'<div class="ffaxis"><span>← '+T('ffOut')+'</span><span>'+T('ffIn')+' →</span></div>';}
 function annOv(on){annMore=!!on;const ov=$('annov');if(!ov)return;
   ov.hidden=!annMore;document.body.classList.toggle('ovopen',annMore);
@@ -1743,7 +1751,7 @@ function ngFlowBody(){const F=(DATA.ngflow||{})[ngwin];if(!F)return'<div class="
       +'<span>'+T('ngOfAll')+' <b>'+(shr==null?'—':shr.toFixed(1))+'%</b></span>'
       +'<span>'+F.stocks+T('ngStocks')+'</span>'+acc
       +'<span class="ngmb"><i style="width:'+Math.max(1.5,Math.min(100,shr||0)).toFixed(1)+'%"></i>'
-      +'<u>'+T('ngReg')+' '+idrShort(F.reg)+'</u></span></div>'
+      +'<u>'+T('ngReg')+' '+idrK(F.reg)+'</u></span></div>'
     +'<div class="ngsub">'+T('ngTop')+' · '+mmdd(F.from)+'~'+mmdd(F.to)+'</div>'+head+rows;}
 function negoCard(){
   if(ngwin!=='1d')return ngTabs()+ngFlowBody();
@@ -1759,20 +1767,20 @@ function negoCard(){
     +'<div class="h"><b onclick="openDr(\''+top.t+'\')">'+top.t+'</b><span>'+nm(top)+'</span>'
       +(big(top)?'<em class="ngbig">'+T('ngBig')+'</em>':'')+'</div>'
     +'<div class="v"><b class="krwh"'+krwT(top.nrv)+'>'+idrShort(top.nrv)+'</b></div>'
-    +'<div class="m">'+top.nrf+T('ngCnt')+' · '+T('ngPer')+' <b>'+idrShort(top.nrper)+'</b> · '+T('ngShare')+' <b>'+top.nonreg+'%</b>'+(ngAvgTxt(top)?' · <span title="'+T('ngAvgT')+'" style="cursor:help">'+ngAvgTxt(top)+'</span>':'')+'</div>'
+    +'<div class="m">'+top.nrf+T('ngCnt')+' · '+T('ngPer')+' <b>'+idrK(top.nrper)+'</b> · '+T('ngShare')+' <b>'+top.nonreg+'%</b>'+(ngAvgTxt(top)?' · <span title="'+T('ngAvgT')+'" style="cursor:help">'+ngAvgTxt(top)+'</span>':'')+'</div>'
     +ngBar(top.nonreg)
     +'<div class="ngx"><span>0%</span><span>50%</span><span>100%</span></div></div>';
   const rows=rest.map(r=>'<div class="ngr"><span class="tk" onclick="openDr(\''+r.t+'\')"><b>'+r.t+'</b> <i>'+nm(r)+'</i></span>'
     +(big(r)?'<em class="ngbig">'+T('ngBig')+'</em>':'')
     +'<span class="xw">'+ngBar(r.nonreg)+'</span>'
-    +'<b class="amt">'+idrShort(r.nrv)+'</b></div>').join('');
+    +'<b class="amt krwh"'+krwT(r.nrv)+'>'+idrShort(r.nrv)+'</b></div>').join('');
   /* 그날 전체 거래대금에서 장외가 차지하는 비중 — 종목 행과 같은 방식으로 막대를 붙인다 */
   const shr = (reg+nr) ? nr/(reg+nr)*100 : null;
   return ngTabs()+'<div class="ngtop"><b class="big krwh"'+krwT(nr)+'>'+idrShort(nr)+'</b>'
       +'<span>'+T('ngOfAll')+' <b>'+(shr==null?'—':shr.toFixed(1))+'%</b></span>'
       +'<span>'+all.length+T('ngStocks')+'</span>'
       +(shr==null?'':'<span class="ngmb"><i style="width:'+Math.max(1.5,Math.min(100,shr)).toFixed(1)+'%"></i>'
-        +'<u>'+T('ngReg')+' '+idrShort(reg)+'</u></span>')
+        +'<u>'+T('ngReg')+' '+idrK(reg)+'</u></span>')
       +'</div>'
     +hero+rows
     +'<div class="ngft">'+T('ngFt')+'</div>';

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 22:22",
+ "updated": "2026-09-22 22:28",
  "delay_min": 15,
- "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,358 · 21:00 Yahoo",
- "idr_per_krw": 13.1651,
+ "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,357 · 21:00 Yahoo",
+ "idr_per_krw": 13.1716,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16833,11 +16833,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7765.3,
+   "px": 7767.21,
    "prev": 7764.22,
-   "pct": 0.01,
+   "pct": 0.04,
    "mst": 0,
-   "asof": "11:15",
+   "asof": "11:25",
    "live": true,
    "spark": [
     7779.14,
@@ -16861,18 +16861,20 @@
     7765.62,
     7764.1,
     7766.17,
-    7765.3
+    7766.6,
+    7765.36,
+    7767.21
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27226.05,
+   "px": 27230.96,
    "prev": 27122.09,
-   "pct": 0.38,
+   "pct": 0.4,
    "mst": 0,
-   "asof": "11:15",
+   "asof": "11:25",
    "live": true,
    "spark": [
     27223.51,
@@ -16896,18 +16898,20 @@
     27217.88,
     27216.19,
     27226.04,
-    27226.05
+    27238.43,
+    27224.58,
+    27230.96
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51802.89,
+   "px": 51830.02,
    "prev": 52053.88,
-   "pct": -0.48,
+   "pct": -0.43,
    "mst": 0,
-   "asof": "11:15",
+   "asof": "11:25",
    "live": true,
    "spark": [
     52161.89,
@@ -16931,7 +16935,9 @@
     51843.31,
     51812.24,
     51816.02,
-    51802.89
+    51804.01,
+    51808.74,
+    51830.02
    ]
   },
   {
@@ -18005,6 +18011,18 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T22:23:40+07:00",
+   "date": "2026-09-22",
+   "time": "22:23",
+   "src": "CNBC",
+   "t": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+   "g": 1,
+   "t_ko": "Trump, 중간선거 후 Iran이 타협할 것이라 언급 후 유가 보합세",
+   "t_id": "Minyak Tipis Usai Trump Sebut Iran Bakal Sepakat Pasca-Pemilu Midterm"
+  },
+  {
    "ts": "2026-09-22T22:20:15+07:00",
    "date": "2026-09-22",
    "time": "22:20",
@@ -18013,8 +18031,44 @@
    "tags": [],
    "url": "https://www.jawapos.com/energi/2609220555/pertamina-patra-niaga-waspadai-gangguan-pengadaan-minyak-bbm-dan-lpg",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/ilustrasi-spbu-milik-pertamina-patra-niaga-istimewa-2plup.webp",
-   "t_id": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG",
-   "t_ko": "Pertamina Patra Niaga, 유류·BBM·LPG 조달 차질 대비 태세"
+   "t_ko": "Pertamina Patra Niaga, 유류·BBM·LPG 조달 차질 대비 태세",
+   "t_id": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG"
+  },
+  {
+   "ts": "2026-09-22T22:18:36+07:00",
+   "date": "2026-09-22",
+   "time": "22:18",
+   "src": "CNBC",
+   "t": "Trump slams Iran and Cuba, boasts about record in United Nations speech",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
+   "g": 1,
+   "t_ko": "Trump, 유엔 연설에서 Iran과 Cuba 비판 및 업적 과시",
+   "t_id": "Trump Kecam Iran dan Kuba, Pamer Rekor dalam Pidato PBB"
+  },
+  {
+   "ts": "2026-09-22T22:18:09+07:00",
+   "date": "2026-09-22",
+   "time": "22:18",
+   "src": "Bloomberg",
+   "t": "Short-End Treasuries Become Popular Bet on Fed Inflation Win",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/short-end-treasuries-popular-bet-on-fed-inflation-win-video",
+   "g": 1,
+   "t_ko": "연준의 물가 통제 기대에 단기물 국채 인기",
+   "t_id": "Surat Utang Jangka Pendek Jadi Pilihan Favorit Menang Inflasi The Fed"
+  },
+  {
+   "ts": "2026-09-22T22:16:42+07:00",
+   "date": "2026-09-22",
+   "time": "22:16",
+   "src": "CNA",
+   "t": "Trump says US will henceforth call AI 'super intelligence'",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/trump-says-us-will-henceforth-call-ai-super-intelligence-6402846",
+   "g": 1,
+   "t_ko": "Trump, 향후 AI를 'super intelligence'로 지칭하겠다고 발언",
+   "t_id": "Trump Sebut AS Bakal Sebut AI 'Super Intelligence'"
   },
   {
    "ts": "2026-09-22T22:14:14+07:00",
@@ -18037,8 +18091,8 @@
    "tags": [],
    "url": "https://www.jawapos.com/finance/2609220554/519-persen-gen-z-rela-pangkas-anggaran-nongkrong-demi-hobi-olah-raga",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/ilustrasi-padel-pixel-vMmBO.webp",
-   "t_id": "51,9 persen Gen Z Rela Pangkas Anggaran Nongkrong demi Hobi Olah Raga",
-   "t_ko": "Gen Z 51.9%, 운동 취미 위해 외식·모임 예산 축소"
+   "t_ko": "Gen Z 51.9%, 운동 취미 위해 외식·모임 예산 축소",
+   "t_id": "51,9 persen Gen Z Rela Pangkas Anggaran Nongkrong demi Hobi Olah Raga"
   },
   {
    "ts": "2026-09-22T22:13:38+07:00",
@@ -18063,6 +18117,16 @@
    ]
   },
   {
+   "ts": "2026-09-22T22:11:00+07:00",
+   "date": "2026-09-22",
+   "time": "22:11",
+   "src": "Media Indonesia",
+   "t": "BLU Energi Dinilai Berpotensi Tumpang Tindih dengan BUMN",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936425/blu-energi-dinilai-berpotensi-tumpang-tindih-dengan-bumn",
+   "t_ko": "BLU Energi, 국영기업과 사업 중복 우려 제기"
+  },
+  {
    "ts": "2026-09-22T22:08:29+07:00",
    "date": "2026-09-22",
    "time": "22:08",
@@ -18085,6 +18149,19 @@
    "g": 1,
    "t_ko": "미국 제재와 사우디 공급에 러시아산 원유 유입 감소",
    "t_id": "Aliran Minyak Rusia Turun Seiring Sanksi AS dan Bayang-Bayang Pasokan Arab Saudi"
+  },
+  {
+   "ts": "2026-09-22T22:00:59+07:00",
+   "date": "2026-09-22",
+   "time": "22:00",
+   "src": "Yahoo Finance",
+   "t": "Silver Beech’s Investment Thesis for Arthur J. Gallagher (AJG)",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/silver-beech-investment-thesis-arthur-150059517.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/286c07ff7f79e12cbb86f94e0add862f.jpg",
+   "t_ko": "Silver Beech의 Arthur J. Gallagher(AJG) 투자 테제",
+   "t_id": "Tesis Investasi Silver Beech untuk Arthur J. Gallagher (AJG)"
   },
   {
    "ts": "2026-09-22T22:00:18+07:00",
@@ -18142,6 +18219,18 @@
    "g": 1,
    "t_ko": "UN 총회에서 트럼프, 라틴아메리카에 군사력 사용 경고",
    "t_id": "Sidang Umum PBB, Trump Ancam Pakai Kekuatan Militer di Amerika Latin"
+  },
+  {
+   "ts": "2026-09-22T21:48:54+07:00",
+   "date": "2026-09-22",
+   "time": "21:48",
+   "src": "Reuters",
+   "t": "Traders push for discounts for Venezuelan oil as shipping costs soar, sources say",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOVVMaFBzbF9UZE5pd2VoZlZnclpPTjU3SVRDTkFzSjFOWk04VzREVjRnSlFCZTBJV1g0SXRMT3hJeFRwVjNwM2JuLTBVOHJZcndDZTc0bEt6NFlweElqQ3oyWGFtTzBUVDE1dEV4NFE5UnVDbV9IelEzU2dHNzhSQ3lKbVVBNW1pMTdSbTFqV0RCOXd6Z3FfU2NBMU1tUWZPOXItX3d5Z1RQZnRlU3VzLXVveFN2LThhSjdxaXp3?oc=5",
+   "g": 1,
+   "t_ko": "선박 운임 급등 속 트레이더들 베네수엘라산 원유 할인 요구",
+   "t_id": "Traders Desak Diskon Minyak Venezuela Seiring Lonjakan Biaya Kapal"
   },
   {
    "ts": "2026-09-22T21:48:32+07:00",
@@ -18218,18 +18307,6 @@
    "t_id": "Saham GameStop Melonjak Usai CEO Ryan Cohen Borong Saham $26 Juta"
   },
   {
-   "ts": "2026-09-22T21:27:16+07:00",
-   "date": "2026-09-22",
-   "time": "21:27",
-   "src": "CNBC",
-   "t": "Watch: Trump speaks at UN General Assembly",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
-   "g": 1,
-   "t_ko": "트럼프, UN 총회 연설",
-   "t_id": "Tonton: Pidato Trump di Sidang Majelis Umum PBB"
-  },
-  {
    "ts": "2026-09-22T21:21:23+07:00",
    "date": "2026-09-22",
    "time": "21:21",
@@ -18242,19 +18319,6 @@
    "t_id": "Imbal Hasil Obligasi 10 Tahun AS Turun di Bawah 5% Menanti Komentar The Fed"
   },
   {
-   "ts": "2026-09-22T21:20:20+07:00",
-   "date": "2026-09-22",
-   "time": "21:20",
-   "src": "Yahoo Finance",
-   "t": "Benchmark diesel sets new record; futures signaling relief?",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/freightwaves_373/cded958c1e9602777685c2fd51985807.jpg",
-   "t_ko": "기준 경유 가격 최고치 경신 — 선물 시장은 안정 시그널",
-   "t_id": "Benchmark Diesel Cetak Rekor Baru, Kontrak Berjangka Beri Sinyal Lega?"
-  },
-  {
    "ts": "2026-09-22T21:20:00+07:00",
    "date": "2026-09-22",
    "time": "21:20",
@@ -18264,31 +18328,6 @@
    "url": "https://mediaindonesia.com/ekonomi/936405/presiden-prabowo-sambut-pelunasan-utang-blbi-rp2183-triliun-ke-bank-indonesia",
    "t_ko": "Prabowo 대통령, Bank Indonesia에 BLBI 부채 Rp218.3조 상환 환영",
    "t_id": "Presiden Prabowo Sambut Pelunasan Utang BLBI Rp218,3 Triliun ke Bank Indonesia"
-  },
-  {
-   "ts": "2026-09-22T21:19:29+07:00",
-   "date": "2026-09-22",
-   "time": "21:19",
-   "src": "Yahoo Finance",
-   "t": "Stock Market Today: Dow Slips, Oil Stocks Fall On U.S.-Iran Hopes; Homebuilders, Retailers Shine (Live Coverage)",
-   "tags": [],
-   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/ibd.com/e5692e76a00de22721308a6d4522c6ff.jpg",
-   "t_ko": "뉴욕증시, 미-이란 기대감에 다우·정유주 하락 및 홈빌더·유통주 상승",
-   "t_id": "Bursa Saham AS Hari Ini: Dow Turun, Saham Migas Lemah Imbas Harapan AS-Iran; Properti & Ritel Bersinar"
-  },
-  {
-   "ts": "2026-09-22T21:15:00+07:00",
-   "date": "2026-09-22",
-   "time": "21:15",
-   "src": "Media Indonesia",
-   "t": "Macron dan Trump Bahas Keamanan Selat Hormuz, Laut Merah, dan Bantuan Ukraina",
-   "tags": [],
-   "url": "https://mediaindonesia.com/internasional/936403/macron-dan-trump-bahas-keamanan-selat-hormuz-laut-merah-dan-bantuan-ukraina",
-   "g": 1,
-   "t_ko": "Macron·Trump, 호르무즈·홍해 안보 및 우크라이나 지원 논의",
-   "t_id": "Macron dan Trump Bahas Keamanan Selat Hormuz, Laut Merah, dan Bantuan Ukraina"
   },
   {
    "ts": "2026-09-22T21:12:00+07:00",
@@ -18311,31 +18350,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/08/20/jaga-pertumbuhan-ekonomi-nasional-pemerintah-perkuat-sektor-strategis-1787215028622_169.jpeg?w=360&q=90",
    "t_ko": "정부, 섬유산업 사양산업 아님 강조하며 국은에 자금 지원 요청",
    "t_id": "Pemerintah Sebut Tekstil Bukan Industri Sunset, Minta Bank BUMN Dukung Permodalan"
-  },
-  {
-   "ts": "2026-09-22T21:10:34+07:00",
-   "date": "2026-09-22",
-   "time": "21:10",
-   "src": "Bloomberg",
-   "t": "Fed’s Collins Says Rate Hike Will Help Reach Inflation Goal",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/fed-s-collins-says-rate-hike-will-help-return-inflation-to-goal",
-   "g": 1,
-   "t_ko": "Collins 연은 총재, 물가 목표 달성 위해 추가 금리 인상 필요",
-   "t_id": "Collins The Fed Sebut Kenaikan Suku Bunga Bantu Capai Sasaran Inflasi"
-  },
-  {
-   "ts": "2026-09-22T21:10:31+07:00",
-   "date": "2026-09-22",
-   "time": "21:10",
-   "src": "Medcom",
-   "t": "Dari Keripik Tempe hingga Sapu Rayung, 7 Produk UMK Pertamina Naik Kelas di China",
-   "tags": [],
-   "url": "https://www.medcom.id/ekonomi/bisnis/zNAdDX6K-dari-keripik-tempe-hingga-sapu-rayung-7-produk-umk-pertamina-naik-kelas-di-china",
-   "g": 1,
-   "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843802/P6YBkvnrfg.jpeg?w=720",
-   "t_ko": "템페 과자부터 빗자루까지, Pertamina 중소기업 제품 7종 중국 진출",
-   "t_id": "Dari Keripik Tempe hingga Sapu Rayung, 7 Produk UMK Pertamina Naik Kelas di China"
   },
   {
    "ts": "2026-09-22T21:00:00+07:00",
@@ -19338,28 +19352,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2023/10/31/ilustrasi-anak-cerdas-dirikan-perusahaan-ai_169.jpeg?w=360&q=90",
    "t_ko": "Antam, 자금 조달 운용 체질 개선 가속",
    "t_id": "Antam Genjot Transformasi Pengelolaan Pendanaan"
-  },
-  {
-   "ts": "2026-09-22T15:50:21+07:00",
-   "date": "2026-09-22",
-   "time": "15:50",
-   "src": "Jawa Pos",
-   "t": "Mentan Amran Beberkan Skema Pembiayaan Pengembangan Bioetanol, 70 persen Anggaran dari Swasta",
-   "tags": [],
-   "url": "https://www.jawapos.com/energi/2609220113/mentan-amran-beberkan-skema-pembiayaan-pengembangan-bioetanol-70-persen-anggaran-dari-swasta",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/01/14/AMRAN-14-A-3079546239.jpg",
-   "t_ko": "Amran 장관, 바이오에탄올 개발 재원 중 70% 민간 조달 구조 공개",
-   "t_id": "Mentan Amran Beberkan Skema Pembiayaan Pengembangan Bioetanol, 70 persen Anggaran dari Swasta",
-   "ai_ko": "· 바이오에탄올 개발 재원 70%를 민간이 부담\n· 국영기업 우선 배정 후 잔여분 민간 참여\n· 토지 확보 여부가 사업 추진의 관건",
-   "ai_id": "· 70% dana bioetanol dari swasta\n· BUMN diprioritaskan lebih dulu\n· Kepastian lahan jadi kunci proyek",
-   "ai_tags": [
-    "바이오에탄올",
-    "정책"
-   ],
-   "ai_tags_id": [
-    "bioetanol",
-    "kebijakan"
-   ]
   }
  ],
  "kisi_news": [
@@ -19533,9 +19525,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.959%",
-   "d": -0.08,
-   "ytd": 19.12,
+   "v": "4.953%",
+   "d": -0.2,
+   "ytd": 18.98,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19556,9 +19548,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.59",
-   "d": 0.23,
-   "ytd": 2.35,
+   "v": "100.61",
+   "d": 0.25,
+   "ytd": 2.37,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19568,9 +19560,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.22",
-   "d": -1.88,
-   "ytd": 58.86,
+   "v": "91.18",
+   "d": -1.93,
+   "ytd": 58.79,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19580,9 +19572,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,373.0",
-   "d": -0.14,
-   "ytd": 1.1,
+   "v": "4,375.4",
+   "d": -0.08,
+   "ytd": 1.15,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -23674,9 +23666,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 234,
+  "pc_age_min": 240,
   "news_ai_cache": 92,
-  "news_ai_hit": 35,
+  "news_ai_hit": 34,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -25515,18 +25507,18 @@
    "srcs": 2
   },
   {
-   "ts": "2026-09-22T21:10:34+07:00",
+   "ts": "2026-09-22T19:00:00+07:00",
    "date": "2026-09-22",
-   "time": "21:10",
-   "src": "Bloomberg",
-   "t": "Fed’s Collins Says Rate Hike Will Help Reach Inflation Goal",
+   "time": "19:00",
+   "src": "Republika",
+   "t": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
    "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/fed-s-collins-says-rate-hike-will-help-return-inflation-to-goal",
-   "g": 1,
-   "t_ko": "Collins 연은 총재, 물가 목표 달성 위해 추가 금리 인상 필요",
-   "t_id": "Collins The Fed Sebut Kenaikan Suku Bunga Bantu Capai Sasaran Inflasi",
-   "score": 412.0,
-   "srcs": 3
+   "url": "https://ekonomi.republika.co.id/berita/tlrjtg416/bitcoin-tembus-85000-dolar-as-aktivitas-futures-meningkat-di-tengah-sentimen-fed",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/pelaku-bisnis-kripto-nanda-rizal-memantau-grafik-perkembangan-nilai_220312150638-998.jpg",
+   "t_ko": "비트코인 85,000달러 돌파 — 연준 분위기 속 선물 거래 활성화",
+   "t_id": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
+   "score": 411.05,
+   "srcs": 1
   },
   {
    "ts": "2026-09-22T20:09:00+07:00",
@@ -25553,7 +25545,7 @@
    "g": 1,
    "img": "https://s.yimg.com/uu/api/res/1.2/oKXjq3H1JslC0ffQ.G1F8A--~B/aD01NjU4O3c9ODQ4NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/37f22e80-6f8b-4044-abe4-f5cd6fdce5b9",
    "score": 313.5,
-   "srcs": 5,
+   "srcs": 4,
    "t_ko": "뉴욕증시, 유가 하락 속 다우 하락·나스닥·S&P500 상승 — AI 반도체 주도",
    "t_id": "Bursa Saham Hari Ini: Dow Turun, Nasdaq & S&P 500 Menguat Seiring Minyak Turun & Tren AI Dorong Pasar"
   }

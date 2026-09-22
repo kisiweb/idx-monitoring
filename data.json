@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 19:21",
+ "updated": "2026-09-22 19:32",
  "delay_min": 15,
- "fx_basis": "13.17 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,356 · 17:30 Yahoo",
- "idr_per_krw": 13.173,
+ "fx_basis": "13.16 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,358 · 17:30 Yahoo",
+ "idr_per_krw": 13.1583,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17435,6 +17435,20 @@
  },
  "news": [
   {
+   "ts": "2026-09-22T19:11:00+07:00",
+   "date": "2026-09-22",
+   "time": "19:11",
+   "src": "IDX Channel",
+   "t": "BYAN Anjlok 9,7 Persen, Direksi Lego Saham Rp2,47 Miliar",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://www.idxchannel.com/market-news/byan-anjlok-97-persen-direksi-lego-saham-rp247-miliar",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/12/Investor_misterius_-_Saham_-_Freepik_-_12_Mar_26.jpeg",
+   "t_id": "BYAN Anjlok 9,7 Persen, Direksi Lego Saham Rp2,47 Miliar",
+   "t_ko": "BYAN 9.7% 하락 — 임원진 Rp24.7억 규모 주식 매도"
+  },
+  {
    "ts": "2026-09-22T18:09:00+07:00",
    "date": "2026-09-22",
    "time": "18:09",
@@ -17684,20 +17698,6 @@
     "merger",
     "regulasi"
    ]
-  },
-  {
-   "ts": "2026-09-22T15:45:00+07:00",
-   "date": "2026-09-22",
-   "time": "15:45",
-   "src": "IDX Channel",
-   "t": "Saham TRUK Naik 9,94 Persen, Ini Perubahan Pemegang Sahamnya",
-   "tags": [
-    "TRUK"
-   ],
-   "url": "https://www.idxchannel.com/market-news/saham-truk-naik-994-persen-ini-perubahan-pemegang-sahamnya",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2025/04/23/Jika_Saham_Profit_Taking_dan_UMA.jpg",
-   "t_ko": "TRUK 9.94% 상승 — 주요 주주 지분 변동 발생",
-   "t_id": "Saham TRUK Naik 9,94 Persen, Ini Perubahan Pemegang Sahamnya"
   },
   {
    "ts": "2026-09-22T15:31:34+07:00",
@@ -18251,9 +18251,46 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-22T19:20:03.978748+07:00",
+   "ts": "2026-09-22T19:27:32+07:00",
    "date": "2026-09-22",
-   "time": "19:20",
+   "time": "19:27",
+   "src": "Liputan6",
+   "t": "Harga Saham Terendah Rp 1 Berlaku 28 September 2026, Analis: Likuiditas Bakal Lebih Sehat",
+   "tags": [],
+   "url": "https://www.liputan6.com/saham/read/8297163/harga-saham-terendah-rp-1-berlaku-28-september-2026-analis-likuiditas-bakal-lebih-sehat",
+   "img": "https://cdn1-production-images-kly.akamaized.net/rwg8Umv2Q00B2d7IHHysoLhCbXU=/458x2:3303x1605/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-gray-landscape-new.png,573,20,0)/kly-media-production/medias/1505533/original/049196400_1486967389-Pembukaan-Saham2.jpg",
+   "t_id": "Harga Saham Terendah Rp 1 Berlaku 28 September 2026, Analis: Likuiditas Bakal Lebih Sehat",
+   "t_ko": "2026년 9월 28일부터 최저 주가 Rp1 허용 — 유동성 개선 전망"
+  },
+  {
+   "ts": "2026-09-22T19:24:00+07:00",
+   "date": "2026-09-22",
+   "time": "19:24",
+   "src": "MarketWatch",
+   "t": "Wall Street and AI ruined your ‘diversified’ portfolio",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-51471624",
+   "t_ko": "월가와 AI, 다각화 포트폴리오 수익률 악화 주도",
+   "t_id": "Wall Street dan AI Hancurkan Portofolio 'Terdiversifikasi' Anda"
+  },
+  {
+   "ts": "2026-09-22T19:22:16+07:00",
+   "date": "2026-09-22",
+   "time": "19:22",
+   "src": "Bloomberg",
+   "t": "Riskiest Stocks Lose Performance Edge as Interest Rates Climb",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/riskiest-stocks-lose-performance-edge-as-interest-rates-climb",
+   "g": 1,
+   "t_ko": "금리 인상 속 고위험 주식 투자 매력 약화",
+   "t_id": "Saham Berisiko Kehilangan Keunggulan Kinerja Seiring Kenaikan Suku Bunga"
+  },
+  {
+   "ts": "2026-09-22T19:21:52+07:00",
+   "date": "2026-09-22",
+   "time": "19:21",
    "src": "Jawa Pos",
    "t": "Gagalkan Penyelundupan Beras, Suahasil: Menodai Swasembada Pangan Indonesia",
    "tags": [],
@@ -18261,6 +18298,18 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/menteri-keuangan-menkeu-suahasil-nazara-dalam-pelantikan-14-pejabat-di-ruang-lingkup-kementerian-keuangan-dan-komite-stabilitas-sistem-keuangan-kssk-di-kantor-kementerian-keuangan-jakarta-senin-219-dok-djati-waluyo-jawaposcom-qOzpd.webp",
    "t_ko": "Suahasil, 쌀 밀수 적발에 인도네시아 식량 자급자족 훼손 지적",
    "t_id": "Gagalkan Penyelundupan Beras, Suahasil: Nodai Swasembada Pangan RI"
+  },
+  {
+   "ts": "2026-09-22T19:21:40+07:00",
+   "date": "2026-09-22",
+   "time": "19:21",
+   "src": "Jawa Pos",
+   "t": "ASEAN SEDP Elevate Buka Peluang Wirausaha Sosial Asia Tenggara Mengglobal",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220411/asean-sedp-elevate-buka-peluang-wirausaha-sosial-asia-tenggara-mengglobal",
+   "g": 1,
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/asean-sedp-elevate-buka-peluang-wirausaha-sosial-asia-tenggara-istimewa-MFvIP.webp",
+   "t_ko": "ASEAN SEDP Elevate, 동남아 사회적 기업의 글로벌 진출 지원"
   },
   {
    "ts": "2026-09-22T19:17:00+07:00",
@@ -18281,8 +18330,20 @@
    "t": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/936319/bei-ubah-batas-auto-rejection-dan-harga-minimum-saham-rp1-per-28-september-2026",
-   "t_id": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026",
-   "t_ko": "BEI, 2026년 9월 28일부로 상한·하한가 및 최저 호가 1 rupiah로 변경"
+   "t_ko": "BEI, 2026년 9월 28일부로 상한·하한가 및 최저 호가 1 rupiah로 변경",
+   "t_id": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026"
+  },
+  {
+   "ts": "2026-09-22T19:10:01+07:00",
+   "date": "2026-09-22",
+   "time": "19:10",
+   "src": "Bloomberg",
+   "t": "AI Rally Loses Steam, US-China Talks Persist",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/bloomberg-brief-09-22-2026-video",
+   "g": 1,
+   "t_ko": "AI 랠리 주춤한 가운데 미·중 협상 지속",
+   "t_id": "Reli AI Kehilangan Momentum, Pembicaraan AS-China Berlanjut"
   },
   {
    "ts": "2026-09-22T19:09:00+07:00",
@@ -18298,9 +18359,9 @@
    "t_id": "Geser Tesla: Saham Robotika Ini Sudah Punya Pelanggan Bayaran"
   },
   {
-   "ts": "2026-09-22T19:05:12+07:00",
+   "ts": "2026-09-22T19:08:07+07:00",
    "date": "2026-09-22",
-   "time": "19:05",
+   "time": "19:08",
    "src": "FT",
    "t": "Oil falls to $98 as Saudi Arabia signals East-West pipeline reopening",
    "tags": [],
@@ -18309,19 +18370,6 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
    "t_ko": "사우디 동서 송유관 재가동 시사로 유가 98달러로 하락",
    "t_id": "Minyak Turun ke $98 Saat Arab Saudi Isyaratkan Pembukaan Kembali Pipa Timur-Barat"
-  },
-  {
-   "ts": "2026-09-22T19:05:00+07:00",
-   "date": "2026-09-22",
-   "time": "19:05",
-   "src": "Yahoo Finance",
-   "t": "Vertiv vs. Eaton: This AI Infrastructure Stock Is the Better Buy",
-   "tags": [],
-   "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-vs-eaton-ai-infrastructure-120500903.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/3453a64fbfdd7f56ddbd150a24d18fec.jpg",
-   "t_ko": "Vertiv vs Eaton, AI 인프라주 중 더 매력적인 종목은",
-   "t_id": "Vertiv vs Eaton: Saham Infrastruktur AI Mana yang Lebih Layak Dibeli"
   },
   {
    "ts": "2026-09-22T19:02:00+07:00",
@@ -18335,6 +18383,19 @@
    "img": "https://images.mktw.net/im-74714915",
    "t_ko": "Meta, 신규 AI 비서 호평에 13년 만에 최고 월간 상승률 기록",
    "t_id": "Saham Meta Catat Bulan Terbaik dalam 13 Tahun Berkat Asisten AI Baru"
+  },
+  {
+   "ts": "2026-09-22T19:01:55+07:00",
+   "date": "2026-09-22",
+   "time": "19:01",
+   "src": "Yahoo Finance",
+   "t": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage)",
+   "tags": [],
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/c411a8ad8ca8506fe2b3cf09ea960328.jpg",
+   "t_ko": "미국·이란 평화 기대감에 다우 지수 상승 — 유가·국채 금리 하락세 지속",
+   "t_id": "Bursa Saham Hari Ini: Dow Naik Ditopang Harapan Perdamaian AS-Iran; Harga Minyak dan Yield US Treasury Lanjut Turun"
   },
   {
    "ts": "2026-09-22T19:01:16+07:00",
@@ -18359,6 +18420,32 @@
    "img": "https://images.wsj.net/im-96905171",
    "t_ko": "자동차·운송 섹터 동향 정리",
    "t_id": "Rangkuman Auto & Transport: Ulasan Pasar"
+  },
+  {
+   "ts": "2026-09-22T19:00:20+07:00",
+   "date": "2026-09-22",
+   "time": "19:00",
+   "src": "Yahoo Finance",
+   "t": "Okta Stock Rides AI Security Boom Ahead Of Investor Day",
+   "tags": [],
+   "url": "https://www.investors.com/news/technology/okta-stock-rides-ai-security-boom-ahead-of-investor-day/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/330323f05e1f04b2e8f869a9660f5837.jpg",
+   "t_ko": "Okta, 투자자의 날 앞두고 AI 보안 수요로 강세",
+   "t_id": "Saham Okta Melesat Berkat Lonjakan Keamanan AI Jelang Investor Day"
+  },
+  {
+   "ts": "2026-09-22T19:00:20+07:00",
+   "date": "2026-09-22",
+   "time": "19:00",
+   "src": "Yahoo Finance",
+   "t": "How More Pieces Are Falling Into Place For Google's Nvidia AI Chip Challenge",
+   "tags": [],
+   "url": "https://www.investors.com/news/technology/google-stock-tpu-blackstone-cloud-growth-nvidia/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/080219718a07c1e7ff188c1ba5d412d2.jpg",
+   "t_ko": "Google의 NVIDIA AI 칩 추격 가속화",
+   "t_id": "Peluang Google Kian Terbuka Tantang Chip AI Nvidia"
   },
   {
    "ts": "2026-09-22T19:00:00+07:00",
@@ -18468,18 +18555,6 @@
    "t_ko": "Prabowo 대통령, 국가 섬유 산업 강화 촉구"
   },
   {
-   "ts": "2026-09-22T18:54:16+07:00",
-   "date": "2026-09-22",
-   "time": "18:54",
-   "src": "Bloomberg",
-   "t": "US Borrowing Way Too Much Money: Pickering",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/us-borrowing-way-too-much-money-pickering-video",
-   "g": 1,
-   "t_ko": "Pickering, 미국의 과도한 국채 발행 경고",
-   "t_id": "Pickering: Utang AS Sudah Terlalu Besar"
-  },
-  {
    "ts": "2026-09-22T18:53:00+07:00",
    "date": "2026-09-22",
    "time": "18:53",
@@ -18503,57 +18578,6 @@
    "t_id": "Gagal Dapat Bansos Karena Salah Desil? Ini Arti Desil dan Cara Mengubahnya"
   },
   {
-   "ts": "2026-09-22T18:50:50+07:00",
-   "date": "2026-09-22",
-   "time": "18:50",
-   "src": "Bloomberg",
-   "t": "Europe’s Power Exchange Giant EEX Eyes New Weather Futures",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/europe-s-power-exchange-giant-eex-eyes-new-weather-futures",
-   "g": 1,
-   "t_ko": "유럽 전력거래소 EEX, 신규 날씨 선물 상품 출시 추진",
-   "t_id": "Raksasa Bursa Listrik Eropa EEX Lirik Kontrak Berjangka Cuaca"
-  },
-  {
-   "ts": "2026-09-22T18:50:00+07:00",
-   "date": "2026-09-22",
-   "time": "18:50",
-   "src": "WSJ",
-   "t": "Energy & Utilities Roundup: Market Talk",
-   "tags": [],
-   "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-415ce2e2?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-16844321",
-   "t_ko": "에너지·유틸리티 섹터 마켓 토크",
-   "t_id": "Rangkuman Energi & Utilitas: Pembicaraan Pasar"
-  },
-  {
-   "ts": "2026-09-22T18:48:00+07:00",
-   "date": "2026-09-22",
-   "time": "18:48",
-   "src": "MarketWatch",
-   "t": "Financial conditions are tightening. Here’s why stock investors should pay attention.",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/financial-conditions-are-tightening-heres-why-stock-investors-should-pay-attention-a7d12134?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-48361809",
-   "t_ko": "금융 여건 긴축 속 주식 투자자가 주목할 요인",
-   "t_id": "Kondisi Keuangan Mengetat, Alasan Investor Saham Wajib Waspada"
-  },
-  {
-   "ts": "2026-09-22T18:45:00+07:00",
-   "date": "2026-09-22",
-   "time": "18:45",
-   "src": "WSJ",
-   "t": "Tech, Media & Telecom Roundup: Market Talk",
-   "tags": [],
-   "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9ea269b4?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-92361535",
-   "t_ko": "테크·미디어·텔레콤 부문 동향",
-   "t_id": "Teknologi, Media & Telekomunikasi: Market Talk"
-  },
-  {
    "ts": "2026-09-22T18:45:00+07:00",
    "date": "2026-09-22",
    "time": "18:45",
@@ -18564,19 +18588,6 @@
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/08/04/2026_08_04-16_26_00_47607a72-8ff2-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
    "t_ko": "Dony Oskaria, Kopdes 매니저 신분은 BUMN 직원 아님을 해명",
    "t_id": "Dony Oskaria Tegaskan Manajer Kopdes Bukan Pegawai BUMN"
-  },
-  {
-   "ts": "2026-09-22T18:39:50+07:00",
-   "date": "2026-09-22",
-   "time": "18:39",
-   "src": "Yahoo Finance",
-   "t": "Oil and gas PE deals tumble as new platform buyouts dry up",
-   "tags": [],
-   "url": "https://finance.yahoo.com/energy/articles/oil-gas-pe-deals-tumble-113950178.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/pitchbook_790/30b621ceec5b47b4535ca0823ad3f1aa.jpg",
-   "t_ko": "신규 플랫폼 인수 감소로 석유·가스 PE 거래 위축",
-   "t_id": "Kesepakatan PE Migas Anjlok Seiring Seretnya Akuisisi Platform Baru"
   },
   {
    "ts": "2026-09-22T18:37:50+07:00",
@@ -19759,28 +19770,6 @@
    "t_id": "IHSG Tersungkur 1,1% ke 6.313 pada Sesi Pertama"
   },
   {
-   "ts": "2026-09-22T13:29:30+07:00",
-   "date": "2026-09-22",
-   "time": "13:29",
-   "src": "Bloomberg Technoz",
-   "t": "Konsensus Bloomberg: BI Rate Tetap di 5,75%",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122319/konsensus-bloomberg-bi-rate-tetap-di-5-75",
-   "img": "https://images.bloombergtechnoz.com/data/2026/05/image-20260520162706.jpg",
-   "t_ko": "블룸버그 컨센서스: 인도네시아 기준금리 5.75% 동결",
-   "t_id": "Konsensus Bloomberg: BI Rate Tetap di 5,75%",
-   "ai_ko": "· 기준금리 5.75% 동결 전망 우세\n· Bloomberg 설문 이코노미스트 35명 중 32명\n· 9월 통화정책회의 결과 23일 발표, 3명은 25bp 인상 예상",
-   "ai_id": "· 32 dari 35 ekonom: BI Rate tetap 5,75%\n· Survei Bloomberg jelang RDG September\n· 3 ekonom prediksi naik 25 bps ke 6%",
-   "ai_tags": [
-    "기준금리",
-    "통화정책"
-   ],
-   "ai_tags_id": [
-    "BI Rate",
-    "kebijakan moneter"
-   ]
-  },
-  {
    "ts": "2026-09-22T13:22:34+07:00",
    "date": "2026-09-22",
    "time": "13:22",
@@ -20011,9 +20000,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.38",
-   "d": 0.02,
-   "ytd": 2.13,
+   "v": "100.39",
+   "d": 0.03,
+   "ytd": 2.15,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -20023,9 +20012,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.16",
-   "d": -3.02,
-   "ytd": 57.02,
+   "v": "90.47",
+   "d": -2.69,
+   "ytd": 57.56,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -20035,9 +20024,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,361.4",
-   "d": -0.4,
-   "ytd": 0.83,
+   "v": "4,362.7",
+   "d": -0.37,
+   "ytd": 0.86,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -24129,7 +24118,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 53,
+  "pc_age_min": 64,
   "news_ai_cache": 92,
   "news_ai_hit": 55,
   "on_runner": true,
@@ -25939,10 +25928,10 @@
    "t": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/936319/bei-ubah-batas-auto-rejection-dan-harga-minimum-saham-rp1-per-28-september-2026",
-   "t_id": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026",
    "t_ko": "BEI, 2026년 9월 28일부로 상한·하한가 및 최저 호가 1 rupiah로 변경",
-   "score": 429.0,
-   "srcs": 4
+   "t_id": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026",
+   "score": 426.8,
+   "srcs": 3
   },
   {
    "ts": "2026-09-22T15:04:53+07:00",
@@ -25995,43 +25984,33 @@
    "srcs": 3
   },
   {
-   "ts": "2026-09-22T13:29:30+07:00",
+   "ts": "2026-09-22T18:37:50+07:00",
    "date": "2026-09-22",
-   "time": "13:29",
-   "src": "Bloomberg Technoz",
-   "t": "Konsensus Bloomberg: BI Rate Tetap di 5,75%",
+   "time": "18:37",
+   "src": "Jawa Pos",
+   "t": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
    "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122319/konsensus-bloomberg-bi-rate-tetap-di-5-75",
-   "img": "https://images.bloombergtechnoz.com/data/2026/05/image-20260520162706.jpg",
-   "t_ko": "블룸버그 컨센서스: 인도네시아 기준금리 5.75% 동결",
-   "t_id": "Konsensus Bloomberg: BI Rate Tetap di 5,75%",
-   "score": 411.15,
-   "srcs": 1,
-   "ai_ko": "· 기준금리 5.75% 동결 전망 우세\n· Bloomberg 설문 이코노미스트 35명 중 32명\n· 9월 통화정책회의 결과 23일 발표, 3명은 25bp 인상 예상",
-   "ai_id": "· 32 dari 35 ekonom: BI Rate tetap 5,75%\n· Survei Bloomberg jelang RDG September\n· 3 ekonom prediksi naik 25 bps ke 6%",
-   "ai_tags": [
-    "기준금리",
-    "통화정책"
-   ],
-   "ai_tags_id": [
-    "BI Rate",
-    "kebijakan moneter"
-   ]
+   "url": "https://www.jawapos.com/ekonomi/2609220201/bea-cukai-gagalkan-impor-ilegal-30-kontainer-garam-beras-dan-pakaian-bekas-senilai-rp-27-miliar",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/oFwNvShi6HMpFilTS8NeN4zVnyanzDadChdTf40a.webp",
+   "t_ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
+   "t_id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
+   "score": 414.35,
+   "srcs": 3
   },
   {
-   "ts": "2026-09-22T19:05:12+07:00",
+   "ts": "2026-09-22T15:37:04+07:00",
    "date": "2026-09-22",
-   "time": "19:05",
-   "src": "FT",
-   "t": "Oil falls to $98 as Saudi Arabia signals East-West pipeline reopening",
+   "time": "15:37",
+   "src": "WSJ",
+   "t": "Stock Market Today: Oil Sinks Below $100, Lifting Stock Futures",
    "tags": [],
-   "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2026?mod=rss_markets_main",
    "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "사우디 동서 송유관 재가동 시사로 유가 98달러로 하락",
-   "t_id": "Minyak Turun ke $98 Saat Arab Saudi Isyaratkan Pembukaan Kembali Pipa Timur-Barat",
-   "score": 314.5,
-   "srcs": 5
+   "img": "https://images.wsj.net/im-34062673",
+   "score": 315.5,
+   "srcs": 6,
+   "t_ko": "유가 100달러 하회에 주가지수 선물 상승",
+   "t_id": "Bursa Saham Hari Ini: Minyak Anjlok di Bawah $100, Dorong Kontrak Berjangka Saham"
   }
  ],
  "daylog": {
@@ -44984,7 +44963,7 @@
    "alpha": -8.02,
    "vrank": 30,
    "flow": -21.76,
-   "srcs": 4
+   "srcs": 5
   },
   {
    "t": "BSSR",

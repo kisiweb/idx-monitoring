@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 22:05",
+ "updated": "2026-09-22 22:09",
  "delay_min": 15,
  "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,358 · 21:00 Yahoo",
- "idr_per_krw": 13.1669,
+ "idr_per_krw": 13.1673,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16833,11 +16833,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7767.0,
+   "px": 7767.22,
    "prev": 7764.22,
    "pct": 0.04,
    "mst": 0,
-   "asof": "11:00",
+   "asof": "11:05",
    "live": true,
    "spark": [
     7779.14,
@@ -16858,18 +16858,19 @@
     7767.23,
     7765.62,
     7764.87,
-    7767.0
+    7765.62,
+    7767.22
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27228.06,
+   "px": 27223.15,
    "prev": 27122.09,
-   "pct": 0.39,
+   "pct": 0.37,
    "mst": 0,
-   "asof": "11:00",
+   "asof": "11:05",
    "live": true,
    "spark": [
     27223.51,
@@ -16890,18 +16891,19 @@
     27238.25,
     27237.77,
     27228.08,
-    27228.06
+    27217.88,
+    27223.15
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51844.14,
+   "px": 51839.71,
    "prev": 52053.88,
-   "pct": -0.4,
+   "pct": -0.41,
    "mst": 0,
-   "asof": "11:00",
+   "asof": "11:05",
    "live": true,
    "spark": [
     52161.89,
@@ -16922,7 +16924,8 @@
     51837.64,
     51833.16,
     51819.17,
-    51844.14
+    51843.31,
+    51839.71
    ]
   },
   {
@@ -17329,6 +17332,48 @@
    "t_id": "BYAN Anjlok 9,7 Persen, Direksi Lego Saham Rp2,47 Miliar"
   },
   {
+   "ts": "2026-09-22T18:09:00+07:00",
+   "date": "2026-09-22",
+   "time": "18:09",
+   "src": "IDX Channel",
+   "t": "Pengalihan Saham BYAN ke Haji Isam Kantongi Restu Menteri ESDM",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://www.idxchannel.com/market-news/pengalihan-saham-byan-ke-haji-isam-kantongi-restu-menteri-esdm",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2023/11/03/Adu_Saham_Batu_Bara_BYAN_vs_ITMG.jpg",
+   "t_ko": "BYAN의 Haji Isam 측 주식 양도, 에너지광물자원부 장관 승인 획득",
+   "t_id": "Pengalihan Saham BYAN ke Haji Isam Kantongi Restu Menteri ESDM"
+  },
+  {
+   "ts": "2026-09-22T17:45:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:45",
+   "src": "IDX Channel",
+   "t": "Paramita (PBSA) Kantongi Restu Pemegang Saham untuk Stock Split 1:2",
+   "tags": [
+    "PBSA"
+   ],
+   "url": "https://www.idxchannel.com/market-news/paramita-pbsa-kantongi-restu-pemegang-saham-untuk-stock-split-12",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/01/21/bei_idx.jpg",
+   "t_ko": "PBSA, 액면분할 1대 2 주주총회 승인 획득",
+   "t_id": "Paramita (PBSA) Kantongi Restu Pemegang Saham untuk Stock Split 1:2"
+  },
+  {
+   "ts": "2026-09-22T17:37:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:37",
+   "src": "IDX Channel",
+   "t": "Tambah Aset, Dyandra (DYAN) Akuisisi Tanah dan Bangunan Senilai Rp36 Miliar",
+   "tags": [
+    "DYAN"
+   ],
+   "url": "https://www.idxchannel.com/market-news/tambah-aset-dyandra-dyan-akuisisi-tanah-dan-bangunan-senilai-rp36-miliar",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2023/08/23/Dyandra.JPG",
+   "t_ko": "DYAN, Rp36억 규모 토지 및 건물 자산 인수",
+   "t_id": "Tambah Aset, Dyandra (DYAN) Akuisisi Tanah dan Bangunan Senilai Rp36 Miliar"
+  },
+  {
    "ts": "2026-09-22T17:30:00+07:00",
    "date": "2026-09-22",
    "time": "17:30",
@@ -17359,6 +17404,20 @@
    "t_id": "Investor Asing Ramai Lepas Saham Bank Jumbo BMRI, BBCA, dan BBRI, Apa Pemicunya?"
   },
   {
+   "ts": "2026-09-22T17:25:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:25",
+   "src": "IDX Channel",
+   "t": "Telkom (TLKM) Siapkan Data Center Dukung Pemanfaatan AI di Sektor BUMN",
+   "tags": [
+    "TLKM"
+   ],
+   "url": "https://www.idxchannel.com/market-news/telkom-tlkm-siapkan-data-center-dukung-pemanfaatan-ai-di-sektor-bumn",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/22/seno_telkom_tlkm.jpg",
+   "t_ko": "TLKM, 국영기업 AI 활용 지원할 데이터센터 구축 추진",
+   "t_id": "Telkom (TLKM) Siapkan Data Center Dukung Pemanfaatan AI di Sektor BUMN"
+  },
+  {
    "ts": "2026-09-22T16:50:00+07:00",
    "date": "2026-09-22",
    "time": "16:50",
@@ -17371,6 +17430,34 @@
    "img": "https://images.bloombergtechnoz.com/data/2023/02/image-20230203142216.jpg",
    "t_ko": "KPK, Summarecon Bogor 사무소 압수수색 증거물 목록",
    "t_id": "Daftar Bukti yang Disita KPK dari Kantor Summarecon Bogor"
+  },
+  {
+   "ts": "2026-09-22T16:49:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:49",
+   "src": "IDX Channel",
+   "t": "CDIA Tebar Dividen Interim USD10 Juta, Kapan Cair?",
+   "tags": [
+    "CDIA"
+   ],
+   "url": "https://www.idxchannel.com/market-news/cdia-tebar-dividen-interim-usd10-juta-kapan-cair",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2025/06/19/cdia_tpia.jpg",
+   "t_ko": "CDIA, 중간배당 USD1,000만 집행 결정",
+   "t_id": "CDIA Tebar Dividen Interim USD10 Juta, Kapan Cair"
+  },
+  {
+   "ts": "2026-09-22T16:37:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:37",
+   "src": "IDX Channel",
+   "t": "Begini Strategi Sinergi Multi (SMLE) Genjot Pertumbuhan Bisnis di 2026 dan 2027",
+   "tags": [
+    "SMLE"
+   ],
+   "url": "https://www.idxchannel.com/market-news/begini-strategi-sinergi-multi-smle-genjot-pertumbuhan-bisnis-di-2026-dan-2027",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/14/saham_freepik.JPG",
+   "t_ko": "SMLE, 2026~2027년 사업 성장 가속화 전략 발표",
+   "t_id": "Begini Strategi Sinergi Multi (SMLE) Genjot Pertumbuhan Bisnis di 2026 dan 2027"
   },
   {
    "ts": "2026-09-22T16:20:00+07:00",
@@ -17912,9 +17999,9 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-22T22:03:44.784707+07:00",
+   "ts": "2026-09-22T22:08:32.223159+07:00",
    "date": "2026-09-22",
-   "time": "22:03",
+   "time": "22:08",
    "src": "Jawa Pos",
    "t": "Krista Exhibitions Kembali Gelar ALLPrint Indonesia 2026 di JIExpo Kemayoran Jakarta",
    "tags": [],
@@ -17932,6 +18019,18 @@
     "pameran",
     "industri percetakan"
    ]
+  },
+  {
+   "ts": "2026-09-22T22:03:13+07:00",
+   "date": "2026-09-22",
+   "time": "22:03",
+   "src": "Bloomberg",
+   "t": "Russian Oil Flows Dip as US Sanctions, Saudi Supplies Loom",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/russian-oil-flows-dip-as-us-sanctions-saudi-supplies-loom",
+   "g": 1,
+   "t_ko": "미국 제재와 사우디 공급에 러시아산 원유 유입 감소",
+   "t_id": "Aliran Minyak Rusia Turun Seiring Sanksi AS dan Bayang-Bayang Pasokan Arab Saudi"
   },
   {
    "ts": "2026-09-22T22:00:18+07:00",
@@ -17956,6 +18055,18 @@
    ]
   },
   {
+   "ts": "2026-09-22T21:59:30+07:00",
+   "date": "2026-09-22",
+   "time": "21:59",
+   "src": "Bloomberg",
+   "t": "Oaktree’s Marks Says US Displays Total Lack of Fiscal Discipline",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/oaktree-s-marks-says-us-displays-total-lack-of-fiscal-discipline",
+   "g": 1,
+   "t_ko": "Oaktree Howard Marks, 미국의 심각한 재정 규율 결핍 경고",
+   "t_id": "Marks dari Oaktree Sebut AS Alami Defisit Disiplin Fiskal Total"
+  },
+  {
    "ts": "2026-09-22T21:49:00+07:00",
    "date": "2026-09-22",
    "time": "21:49",
@@ -17965,7 +18076,7 @@
    "url": "https://mediaindonesia.com/internasional/936416/sidang-umum-pbb-trump-ancam-pakai-kekuatan-militer-di-amerika-latin",
    "g": 1,
    "t_id": "Sidang Umum PBB, Trump Ancam Pakai Kekuatan Militer di Amerika Latin",
-   "t_ko": "유엔 총회서 Trump, 라틴 아메리카에 군사력 사용 경고"
+   "t_ko": "UN 총회에서 트럼프, 라틴아메리카에 군사력 사용 경고"
   },
   {
    "ts": "2026-09-22T21:48:32+07:00",
@@ -18075,8 +18186,8 @@
    "url": "https://finance.yahoo.com/markets/commodities/articles/benchmark-diesel-sets-record-futures-142020903.html",
    "g": 1,
    "img": "https://media.zenfs.com/en/freightwaves_373/cded958c1e9602777685c2fd51985807.jpg",
-   "t_ko": "디젤 벤치마크 사상 최고가 경신 — 선물 가격은 하락 시그널",
-   "t_id": "Benchmark Diesel Cetak Rekor Baru, Sinyal Harga Berjangka Turun?"
+   "t_ko": "기준 경유 가격 최고치 경신 — 선물 시장은 안정 시그널",
+   "t_id": "Benchmark Diesel Cetak Rekor Baru, Kontrak Berjangka Beri Sinyal Lega?"
   },
   {
    "ts": "2026-09-22T21:20:00+07:00",
@@ -18133,7 +18244,8 @@
    "tags": [],
    "url": "https://finance.detik.com/industri/d-8674724/pemerintah-sebut-tekstil-bukan-sunset-industry-minta-bank-bumn-dukung-modal",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/08/20/jaga-pertumbuhan-ekonomi-nasional-pemerintah-perkuat-sektor-strategis-1787215028622_169.jpeg?w=360&q=90",
-   "t_ko": "정부, 섬유산업 사양산업 아님 강조하며 국은에 자금 지원 요청"
+   "t_ko": "정부, 섬유산업 사양산업 아님 강조하며 국은에 자금 지원 요청",
+   "t_id": "Pemerintah Sebut Tekstil Bukan Industri Sunset, Minta Bank BUMN Dukung Permodalan"
   },
   {
    "ts": "2026-09-22T21:10:34+07:00",
@@ -18185,30 +18297,6 @@
    "img": "https://media.zenfs.com/en/reuters.com/ce4c423329067bfad08fe605761a6605.jpg",
    "t_ko": "Williams 연은 총재, 금리 통제 도구 정상 작동 중 언급",
    "t_id": "Williams The Fed Sebut Perangkat Pengendalian Suku Bunga Berjalan Baik"
-  },
-  {
-   "ts": "2026-09-22T21:05:04+07:00",
-   "date": "2026-09-22",
-   "time": "21:05",
-   "src": "CNBC",
-   "t": "Iran reportedly says it can reopen Strait of Hormuz within 7 days if U.S. eases military pressure",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
-   "g": 1,
-   "t_ko": "이란, 미국 군사 압박 완화 시 7일 내 호르무즈 해협 개방 시사",
-   "t_id": "Iran Dilaporkan Bisa Buka Kembali Selat Hormuz dalam 7 Hari Jika AS Longgarkan Tekanan Militer"
-  },
-  {
-   "ts": "2026-09-22T21:05:00+07:00",
-   "date": "2026-09-22",
-   "time": "21:05",
-   "src": "Bloomberg",
-   "t": "Fed’s Williams Says Treasuries Clearing Moving Ahead of Schedule",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/fed-s-williams-says-treasuries-clearing-moving-ahead-of-schedule",
-   "g": 1,
-   "t_ko": "Fed Williams, 미 국채 소화 순조롭게 진행 중",
-   "t_id": "Williams Sebut Kliring US Treasury Lebih Cepat dari Jadwal"
   },
   {
    "ts": "2026-09-22T21:00:00+07:00",
@@ -18914,6 +19002,18 @@
    "t_id": "RUU Perampasan Aset Masih Tahap Awal, DPR Tetap Janjikan Terbit Tahun Ini"
   },
   {
+   "ts": "2026-09-22T16:57:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:57",
+   "src": "IDX Channel",
+   "t": "MNC Sekuritas Fasilitasi Mahasiswa Universitas Pelita Bangsa Pelajari Industri Pasar Modal",
+   "tags": [],
+   "url": "https://www.idxchannel.com/market-news/mnc-sekuritas-fasilitasi-mahasiswa-universitas-pelita-bangsa-pelajari-industri-pasar-modal",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/22/89451.jpg",
+   "t_ko": "MNC Sekuritas, Pelita Bangsa 대학생 대상 자본시장 교육 지원",
+   "t_id": "MNC Sekuritas Fasilitasi Mahasiswa Universitas Pelita Bangsa Pelajari Pasar Modal"
+  },
+  {
    "ts": "2026-09-22T16:52:08+07:00",
    "date": "2026-09-22",
    "time": "16:52",
@@ -19268,30 +19368,6 @@
     "smelter",
     "baterai"
    ]
-  },
-  {
-   "ts": "2026-09-22T15:42:37+07:00",
-   "date": "2026-09-22",
-   "time": "15:42",
-   "src": "Detik",
-   "t": "Kualitas Tol Bakal Dicek Setiap Kuartal, Operator yang Lalai Disanksi",
-   "tags": [],
-   "url": "https://finance.detik.com/infrastruktur/d-8674149/kualitas-tol-bakal-dicek-setiap-kuartal-operator-yang-lalai-disanksi",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/rapat-bpjt-di-komisi-v-dpr-ri-1790066455652_169.jpeg?w=360&q=90",
-   "t_ko": "유료도로 품질 분기별 점검… 관리 소홀 운영사 제재",
-   "t_id": "Kualitas Tol Bakal Dicek Setiap Kuartal, Operator yang Lalai Disanksi",
-   "ai_ko": "· 고속도로 노면 평탄지수 연 4회 점검 의무화\n· BPJT, 유료도로 사업자 행정제재 도입\n· 2014년 최소서비스기준 시행령 개정 추진",
-   "ai_id": "· Survei IRI wajib empat kali setahun\n· BPJT siapkan sanksi administratif BUJT\n· Revisi Permen PU 16/2014 tentang SPM",
-   "ai_tags": [
-    "규제",
-    "인프라",
-    "도로"
-   ],
-   "ai_tags_id": [
-    "regulasi",
-    "infrastruktur",
-    "jalan tol"
-   ]
   }
  ],
  "kisi_news": [
@@ -19465,9 +19541,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.957%",
-   "d": -0.12,
-   "ytd": 19.07,
+   "v": "4.961%",
+   "d": -0.04,
+   "ytd": 19.17,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19500,9 +19576,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.17",
-   "d": -1.94,
-   "ytd": 58.78,
+   "v": "91.13",
+   "d": -1.98,
+   "ytd": 58.71,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19512,9 +19588,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,359.4",
-   "d": -0.45,
-   "ytd": 0.78,
+   "v": "4,363.7",
+   "d": -0.35,
+   "ytd": 0.88,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20406,31 +20482,13 @@
    "imp": 2,
    "exp": null,
    "prev": "16.30K",
-   "act": "20.00K",
+   "act": null,
    "src": "investing.com",
    "title_ko": "ADP 주간 고용 변화",
    "title_id": "Perubahan Tenaga Kerja Mingguan ADP AS",
-   "sc": 35,
+   "sc": 55,
    "gs": 72,
    "g": "고용",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "time": "20:55",
-   "kind": "macro",
-   "country": "US",
-   "title": "U.S. President Trump Speaks",
-   "imp": 3,
-   "exp": null,
-   "prev": null,
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "트럼프 미 대통령 연설",
-   "title_id": "Presiden AS Trump Berbicara",
-   "sc": 54,
-   "gs": 40,
-   "g": "연준 발언",
    "sub": 0
   },
   {
@@ -23624,9 +23682,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 217,
+  "pc_age_min": 221,
   "news_ai_cache": 92,
-  "news_ai_hit": 37,
+  "news_ai_hit": 36,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -25493,18 +25551,19 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T20:23:00+07:00",
+   "ts": "2026-09-22T21:08:00+07:00",
    "date": "2026-09-22",
-   "time": "20:23",
+   "time": "21:08",
    "src": "WSJ",
-   "t": "Treasury Yields Decline as Oil Falls",
+   "t": "Stocks Get a Lift as Oil Sinks Below $100",
    "tags": [],
-   "url": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?mod=rss_markets_main",
+   "url": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-oil-prices-turn-negative-e19323a8?mod=rss_markets_main",
    "g": 1,
-   "score": 313.0,
-   "srcs": 6,
-   "t_ko": "유가 하락에 국채 금리 하락",
-   "t_id": "Imbal Hasil US Treasury Turun Seiring Harga Minyak Melemah"
+   "img": "https://images.wsj.net/im-28764665",
+   "t_ko": "유가 100달러 아래로 하락하며 증시 상승",
+   "t_id": "Saham Menguat Seiring Harga Minyak Turun di Bawah $100",
+   "score": 314.5,
+   "srcs": 5
   }
  ],
  "daylog": {

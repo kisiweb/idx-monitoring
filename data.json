@@ -1,6 +1,6 @@
 {
  "mode": "live",
- "updated": "2026-09-23 05:34",
+ "updated": "2026-09-23 05:48",
  "delay_min": 15,
  "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 04:45 Yahoo",
  "idr_per_krw": 13.1903,
@@ -17700,6 +17700,18 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T05:35:50+07:00",
+   "date": "2026-09-23",
+   "time": "05:35",
+   "src": "CNBC",
+   "t": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
+   "g": 1,
+   "t_ko": "Berkshire, Lennar 지분 10% 가까이 매입하며 주가 급등",
+   "t_id": "Saham Lennar Melonjak Saat Berkshire Ambil Porsi Hampir 10% di Pengembang yang Tertekan"
+  },
+  {
    "ts": "2026-09-23T05:30:22+07:00",
    "date": "2026-09-23",
    "time": "05:30",
@@ -17896,17 +17908,6 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F383904c5-6bc2-43fe-92b4-35a8c72622df.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
    "t_ko": "트럼프, 미국산 디젤 수출 금지 지지 표명",
    "t_id": "Trump Sebut Akan Dukung Larangan Ekspor Diesel AS"
-  },
-  {
-   "ts": "2026-09-23T04:23:00+07:00",
-   "date": "2026-09-23",
-   "time": "04:23",
-   "src": "Media Indonesia",
-   "t": "Trump Lempar Gertakan Sekaligus Buka Perundingan Rahasia dengan Iran",
-   "tags": [],
-   "url": "https://mediaindonesia.com/internasional/936461/trump-lempar-gertakan-sekaligus-buka-perundingan-rahasia-dengan-iran",
-   "g": 1,
-   "t_ko": "Trump, Iran에 압박과 함께 비밀 협상 창구 개방"
   },
   {
    "ts": "2026-09-23T03:32:47+07:00",
@@ -19237,9 +19238,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.66",
-   "d": -3.56,
-   "ytd": 56.15,
+   "v": "89.63",
+   "d": -3.59,
+   "ytd": 56.1,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19249,9 +19250,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,401.1",
-   "d": 0.5,
-   "ytd": 1.75,
+   "v": "4,402.0",
+   "d": 0.52,
+   "ytd": 1.77,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20452,7 +20453,7 @@
    "imp": 2,
    "exp": "-0.500M",
    "prev": "7.140M",
-   "act": null,
+   "act": "1.786M",
    "src": "investing.com",
    "title_ko": "API 주간 원유 재고",
    "title_id": "Stok Minyak Mentah Mingguan API",
@@ -24312,7 +24313,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 144,
+  "pc_age_min": 158,
   "news_ai_cache": 41,
   "news_ai_hit": 32,
   "on_runner": true,

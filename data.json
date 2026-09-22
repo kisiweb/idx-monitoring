@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 17:19",
+ "updated": "2026-09-22 17:27",
  "delay_min": 15,
  "fx_basis": "13.17 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,356 · 17:00 Yahoo",
- "idr_per_krw": 13.1737,
+ "idr_per_krw": 13.1749,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16455,6 +16455,20 @@
  },
  "news": [
   {
+   "ts": "2026-09-22T17:20:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:20",
+   "src": "CNBC Indonesia",
+   "t": "Diam-Diam Konglomerat Pengendali Saratoga Borong Saham Rp 1,49 M",
+   "tags": [
+    "SRTG"
+   ],
+   "url": "https://www.cnbcindonesia.com/market/20260922153215-17-769927/diam-diam-konglomerat-pengendali-saratoga-borong-saham-rp-149-m",
+   "img": "https://awsimages.detik.net.id/visual/2019/08/08/4b961fce-e698-4980-9a04-176655e51661_169.jpeg?w=1200&q=90",
+   "t_id": "Diam-Diam Konglomerat Pengendali Saratoga Borong Saham Rp 1,49 M",
+   "t_ko": "Saratoga 지배주주, Rp14.9억 규모 지분 은밀 매입"
+  },
+  {
    "ts": "2026-09-22T17:18:05.100719+07:00",
    "date": "2026-09-22",
    "time": "17:18",
@@ -16466,8 +16480,8 @@
    ],
    "url": "https://investasi.kontan.co.id/news/elektrifikasi-armada-jadi-strategi-simak-prospek-saham-bird-dan-weha",
    "t_est": true,
-   "t_id": "Elektrifikasi Armada Jadi Strategi, Simak Prospek Saham BIRD dan WEHA",
-   "t_ko": "BIRD·WEHA, 차량 전동화 전략에 투자의견 주목"
+   "t_ko": "BIRD·WEHA, 차량 전동화 전략에 투자의견 주목",
+   "t_id": "Elektrifikasi Armada Jadi Strategi, Simak Prospek Saham BIRD dan WEHA"
   },
   {
    "ts": "2026-09-22T17:07:25.131762+07:00",
@@ -16677,6 +16691,20 @@
    ]
   },
   {
+   "ts": "2026-09-22T16:20:00+07:00",
+   "date": "2026-09-22",
+   "time": "16:20",
+   "src": "IDNFinancials",
+   "t": "ESDM denies BYAN RKAB revision linked to Haji Isam purchase",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://www.idnfinancials.com/news/69236/esdm-denies-byan-rkab-revision-linked-to-haji-isam-purchase",
+   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/BAHLIL-18092026.jpg",
+   "t_ko": "ESDM, BYAN RKAB 개정 Haji Isam 인수와 무관 — 연관성 부인",
+   "t_id": "ESDM bantah revisi RKAB BYAN terkait pembelian Haji Isam"
+  },
+  {
    "ts": "2026-09-22T16:16:00+07:00",
    "date": "2026-09-22",
    "time": "16:16",
@@ -16752,7 +16780,7 @@
     "SILO"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922100753-17-769778/siloam-mau-caplok-14-perusahaan-pemilik-aset-rs-senilai-rp-69-t",
-   "img": "https://akcdn.detik.net.id/visual/2021/02/10/rs-siloam-cnbc-indonesiatri-susilo_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2021/02/10/rs-siloam-cnbc-indonesiatri-susilo_169.jpeg?w=1200&q=90",
    "t_ko": "Siloam, RS 자산 보유 14개사 Rp6.9조에 인수 추진",
    "t_id": "Siloam Mau Caplok 14 Perusahaan Pemilik Aset RS, Senilai Rp 6,9 T",
    "ai_ko": "· 병원자산 보유 14개사 인수, Rp6.9조 규모\n· Siloam(SILO), First REIT 계열 지분 취득\n· 1단계 8개사 4월 1일 CSPA, 2단계 6개사 풋옵션",
@@ -17088,7 +17116,7 @@
     "JSMR"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922132629-17-769880/jasa-marga--jsmr--kucurkan-pinjaman-rp65-t-ke-anak-usaha",
-   "img": "https://akcdn.detik.net.id/visual/2025/12/12/gerbang-tol-cikampek-utama-1765525894396_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2025/12/12/gerbang-tol-cikampek-utama-1765525894396_169.jpeg?w=1200&q=90",
    "t_ko": "JSMR, 자회사에 Rp6.5조 대출 실행",
    "t_id": "Jasa Marga (JSMR) Kucurkan Pinjaman Rp6,5 T ke Anak Usaha",
    "ai_ko": "· 주주대출 Rp6,546억7,100만 규모 공여\n· Jasa Marga(JSMR) 자회사 JTT→JJC\n· 9월 17일 Bekasi에서 체결, 계열 거래",
@@ -17272,7 +17300,7 @@
     "BYAN"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922121708-17-769850/ihsg-sesi-i-anjlok-111-bayan-resources--byan--jadi-beban-utama",
-   "img": "https://akcdn.detik.net.id/visual/2019/04/30/b28b8b67-b7d3-4828-b44f-3c6e1c2a7526_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2019/04/30/b28b8b67-b7d3-4828-b44f-3c6e1c2a7526_169.jpeg?w=1200&q=90",
    "t_ko": "IHSG 1부 1.11% 급락, BYAN이 주요 하락 요인",
    "t_id": "IHSG Sesi I Anjlok 1,11%, Bayan Resources (BYAN) Jadi Beban Utama",
    "ai_ko": "· IHSG 전장 1.11% 내린 6,313.57\n· Bayan Resources(BYAN) 7.81% 급락 최대 악재, BBRI·BRMS·TLKM·BUMI 하락 기여, AMMN·BBCA·EMAS·ISAT·CPIN 방어\n· 에너지 3.07% 급락 등 537개 종목 약세",
@@ -17352,7 +17380,7 @@
     "SILO"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922092748-17-769769/emiten-grup-lippo-ini-mau-caplok-14-rumah-sakit-nilainya-rp69-t",
-   "img": "https://akcdn.detik.net.id/visual/2021/02/10/rs-siloam-cnbc-indonesiatri-susilo_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2021/02/10/rs-siloam-cnbc-indonesiatri-susilo_169.jpeg?w=1200&q=90",
    "t_ko": "Lippo그룹 계열 상장사, 병원 14곳 Rp6.9조에 인수 추진",
    "t_id": "Emiten Grup Lippo Ini Mau Caplok 14 Rumah Sakit, Nilainya Rp6,9 T",
    "ai_ko": "· Siloam(SILO) 병원 14곳 Rp6.9조 인수 추진\n· Lippo 계열사, First REIT 자회사 지분 매입\n· 임차료 부담 축소 목적, 9월 22일 RUPSLB 승인 대기",
@@ -17379,7 +17407,7 @@
     "WAPO"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922092107-17-769765/harga-naik-ratusan-persen-bei-gembok-saham-wapo-dan-nasi",
-   "img": "https://akcdn.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797019885_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797019885_169.jpeg?w=1200&q=90",
    "t_ko": "주가 수백% 급등에 BEI, WAPO·NASI 거래정지",
    "t_id": "Harga Naik Ratusan Persen, BEI Gembok Saham WAPO dan NASI",
    "ai_ko": "· WAPO·NASI 거래 일시정지\n· BEI, 두 농업 상장사 대상 조치\n· WAPO 한 달 80.42%·NASI 100% 급등",
@@ -17405,7 +17433,7 @@
     "JAWA"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922092658-17-769766/harga-bergerak-liar-bursa-pelototi-saham-jawa",
-   "img": "https://akcdn.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797019138_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797019138_169.jpeg?w=1200&q=90",
    "t_ko": "가격 급변동에 거래소, JAWA 주식 예의주시",
    "t_id": "Harga Bergerak Liar, Bursa Pelototi Saham JAWA",
    "ai_ko": "· JAWA, BEI가 UMA 종목으로 지정\n· 최근 1개월 주가 36.36% 급등\n· 시가 Rp195, 연초 이후 2.51% 하락",
@@ -17487,7 +17515,7 @@
     "BYAN"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922082033-17-769734/intip-5-rekomendasi-saham-yang-potensi-kasih-cuan-hari-ini",
-   "img": "https://akcdn.detik.net.id/visual/2026/09/22/market-1790040032-1790040033009_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2026/09/22/market-1790040032-1790040033009_169.jpeg?w=1200&q=90",
    "t_ko": "오늘의 관심 종목 5선",
    "t_id": "Intip 5 Rekomendasi Saham yang Potensi Kasih Cuan Hari Ini",
    "ai_ko": "· IHSG 0.88% 하락한 6,384.73 마감\n· 외국인 정규장 Rp5,031억 순매도\n· AMMN 상반기 순이익 USD 4.98억 흑자전환",
@@ -17513,7 +17541,7 @@
     "MEDC"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922082334-17-769736/medcoenergi-catat-kinerja-solid-pada-semester-i-2026",
-   "img": "https://akcdn.detik.net.id/visual/2025/09/16/fasilitas-migas-di-blok-corridor-sumatera-selatan-yang-dioperasikan-medco-ep-grissik-ltd-anak-usaha-pt-medco-energi-internasio-1758016642902_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2025/09/16/fasilitas-migas-di-blok-corridor-sumatera-selatan-yang-dioperasikan-medco-ep-grissik-ltd-anak-usaha-pt-medco-energi-internasio-1758016642902_169.jpeg?w=1200&q=90",
    "t_ko": "MedcoEnergi(MEDC), 2026년 상반기 견조한 실적 기록",
    "t_id": "MedcoEnergi Catat Kinerja Solid pada Semester I-2026",
    "ai_ko": "· MEDC 상반기 순이익 USD 2.75억\n· 매출 USD 14.15억, 생산 17만boepd\n· 가스 비중 72%, 생산단가 USD 8.4",
@@ -17540,7 +17568,7 @@
     "BMRI"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922081931-17-769735/ihsg-turun-ke-6300-asing-kompak-lego-10-saham-ini",
-   "img": "https://akcdn.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797019552_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797019552_169.jpeg?w=1200&q=90",
    "t_ko": "IHSG 6,300선 하락 — 외국인 10개 종목 동반 순매도",
    "t_id": "IHSG Turun ke 6.300, Asing Kompak Lego 10 Saham Ini",
    "ai_ko": "· IHSG 0.88% 하락, 6,384.73 마감\n· 거래대금 Rp11.84조로 한산\n· 외국인 Rp5,100억 순매도, 수급 부담",
@@ -17991,6 +18019,54 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T17:25:16+07:00",
+   "date": "2026-09-22",
+   "time": "17:25",
+   "src": "CNBC",
+   "t": "Oil prices reverse gains as United Nations General Assembly meeting lifts hopes for Iran war diplomacy",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+   "g": 1,
+   "t_ko": "유가, UN 총회발 Iran 전쟁 외교 기대에 상승분 반납",
+   "t_id": "Harga Minyak Balik Turun dari Kenaikan, Sidang Majelis Umum PBB Kobarkan Harapan Diplomasi Perang Iran",
+   "ai_ko": "· 국제유가 상승, 이란-미국 긴장 고조\n· Bessent, 수요일부터 이란 항공사 전면 중단 경고\n· Pezeshkian 대통령 뉴욕 UN 연설·정상회담 22~28일",
+   "ai_id": "· Harga minyak naik, tensi Iran-AS\n· Bessent: semua maskapai Iran disetop Rabu\n· Pezeshkian pidato di PBB, 22-28 Sep",
+   "ai_tags": [
+    "유가",
+    "지정학",
+    "제재"
+   ],
+   "ai_tags_id": [
+    "harga minyak",
+    "geopolitik",
+    "sanksi"
+   ]
+  },
+  {
+   "ts": "2026-09-22T17:20:41+07:00",
+   "date": "2026-09-22",
+   "time": "17:20",
+   "src": "CNA",
+   "t": "ECB, EU central banks oppose stablecoin bank deposit rule",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/ecb-eu-central-banks-oppose-stablecoin-bank-deposit-rule-6402091",
+   "g": 1,
+   "img": "https://dam.mediacorp.sg/image/upload/s--Rr8cKgcR--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T102041Z_2_LYNXMPEM8L0ON_RTROPTP_3_ECB-BLOCKCHAIN-PONTES.JPG?itok=x1ssQrXG",
+   "t_ko": "ECB·EU 중앙은행들, 스테이블코인 은행 예치 규정에 반대",
+   "t_id": "ECB dan Bank Sentral UE Tolak Aturan Deposito Bank untuk Stablecoin"
+  },
+  {
+   "ts": "2026-09-22T17:20:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:20",
+   "src": "Media Indonesia",
+   "t": "PLTS 100 GW Jadi Kesempatan Besar bagi Industri Dalam Negeri",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936243/plts-100-gw-jadi-kesempatan-besar-bagi-industri-dalam-negeri",
+   "t_id": "PLTS 100 GW Jadi Kesempatan Besar bagi Industri Dalam Negeri",
+   "t_ko": "태양광 100GW, 국내 산업계에 큰 기회로"
+  },
+  {
    "ts": "2026-09-22T17:18:01+07:00",
    "date": "2026-09-22",
    "time": "17:18",
@@ -17999,8 +18075,8 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlrgm1370/jelang-rdg-bi-rupiah-lanjutkan-pelemahan-ke-level-rp-17884",
    "img": "https://static.republika.co.id/uploads/images/detailnews/016456500-1777015739-830-556.jpg",
-   "t_id": "Jelang RDG BI, Rupiah Lanjutkan Pelemahan ke Level Rp 17.884",
-   "t_ko": "BI 금리결정회의 앞두고 루피아 Rp17,884까지 약세"
+   "t_ko": "BI 금리결정회의 앞두고 루피아 Rp17,884까지 약세",
+   "t_id": "Jelang RDG BI, Rupiah Lanjutkan Pelemahan ke Level Rp 17.884"
   },
   {
    "ts": "2026-09-22T17:17:07+07:00",
@@ -18035,8 +18111,20 @@
    "tags": [],
    "url": "https://www.cnnindonesia.com/ekonomi/20260922104803-92-1406674/amran-beri-rp300-juta-ke-keluarga-asn-korban-penembakan-kkb-papua",
    "img": "https://akcdn.detik.net.id/visual/2026/07/30/amran-luruskan-omongan-prabowo-soal-penggilingan-beras-untung-rp2-t-1785382119842_169.jpeg?w=360&q=90",
-   "t_id": "Amran Beri Rp300 Juta ke Keluarga ASN Korban Penembakan KKB Papua",
-   "t_ko": "Amran, Papua KKB 총격 희생 ASN 유족에 Rp3억 지원"
+   "t_ko": "Amran, Papua KKB 총격 희생 ASN 유족에 Rp3억 지원",
+   "t_id": "Amran Beri Rp300 Juta ke Keluarga ASN Korban Penembakan KKB Papua"
+  },
+  {
+   "ts": "2026-09-22T17:15:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:15",
+   "src": "Media Indonesia",
+   "t": "Pidato Donald Trump di PBB: Klaim Juru Damai di Tengah Perang Iran",
+   "tags": [],
+   "url": "https://mediaindonesia.com/internasional/936241/pidato-donald-trump-di-pbb-klaim-juru-damai-di-tengah-perang-iran",
+   "g": 1,
+   "t_id": "Pidato Donald Trump di PBB: Klaim Juru Damai di Tengah Perang Iran",
+   "t_ko": "Trump, UN 연설서 이란 전쟁 속 평화 중재자 자처"
   },
   {
    "ts": "2026-09-22T17:15:00+07:00",
@@ -18047,8 +18135,21 @@
    "tags": [],
    "url": "https://www.medcom.id/ekonomi/bisnis/0kpq10RK-bingung-saat-naik-lrt-berikut-rute-lengkapnya",
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843685/B4xglW5IUD.webp?w=720",
-   "t_id": "Bingung Saat Naik LRT ? Berikut Rute Lengkapnya",
-   "t_ko": "LRT 탑승 경로 헷갈릴 때 참고할 노선 정리"
+   "t_ko": "LRT 탑승 경로 헷갈릴 때 참고할 노선 정리",
+   "t_id": "Bingung Saat Naik LRT ? Berikut Rute Lengkapnya"
+  },
+  {
+   "ts": "2026-09-22T17:11:00+07:00",
+   "date": "2026-09-22",
+   "time": "17:11",
+   "src": "Yahoo Finance",
+   "t": "Rising Treasury Yields Are Wreaking Havoc on the Bond Market. Here's How It Could Affect Stock Investors.",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/rising-treasury-yields-wreaking-havoc-101100275.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/928eca78fe800450802675d0af5b1b36.jpg",
+   "t_ko": "美국채 금리 급등에 채권시장 요동 — 주식 투자자 영향은",
+   "t_id": "Yield Treasury Melonjak, Hancurkan Pasar Obligasi. Ini Dampaknya ke Investor Saham"
   },
   {
    "ts": "2026-09-22T17:10:01+07:00",
@@ -18083,8 +18184,33 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122345/rupiah-bertanda-tangan-purbaya-jadi-incaran-bi-buka-suara",
    "img": "https://images.bloombergtechnoz.com/data/2026/01/image-20260109163248.jpeg",
-   "t_id": "Rupiah Bertanda Tangan Purbaya Jadi Incaran, BI Buka Suara",
-   "t_ko": "루피아 향방에 Purbaya 발언 주목 — BI 입장 표명"
+   "t_ko": "루피아 향방에 Purbaya 발언 주목 — BI 입장 표명",
+   "t_id": "Rupiah Bertanda Tangan Purbaya Jadi Incaran, BI Buka Suara"
+  },
+  {
+   "ts": "2026-09-22T17:09:49+07:00",
+   "date": "2026-09-22",
+   "time": "17:09",
+   "src": "Bloomberg",
+   "t": "Alibaba Unveils Powerful AI Chip as Meta Revives AI Optimism",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/the-pulse-9-22-2026-video",
+   "g": 1,
+   "t_ko": "Alibaba, 강력한 AI 칩 공개 — Meta도 AI 낙관론 재점화",
+   "t_id": "Alibaba Rilis Chip AI Canggih, Meta Bangkitkan Optimisme AI"
+  },
+  {
+   "ts": "2026-09-22T17:07:40+07:00",
+   "date": "2026-09-22",
+   "time": "17:07",
+   "src": "Yahoo Finance",
+   "t": "Corporate bond buyers get picky with flood of AI debt",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/reuters.com/4c6c79ecd54b55b8b41d35e266c0a7b2.jpg",
+   "t_ko": "AI 관련 회사채 물량 급증에 투자자 선별 강화",
+   "t_id": "Pembeli Obligasi Korporasi Makin Selektif di Tengah Banjir Utang AI"
   },
   {
    "ts": "2026-09-22T17:05:46+07:00",
@@ -18341,28 +18467,6 @@
    "t_id": "Pemerintah Kejar Para Obligor dan Debitur BLBI"
   },
   {
-   "ts": "2026-09-22T16:36:32+07:00",
-   "date": "2026-09-22",
-   "time": "16:36",
-   "src": "CNBC",
-   "t": "U.S. threatens to 'shut down' Iranian airlines as Houthis tighten pressure on oil route",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
-   "g": 1,
-   "t_ko": "미국, Iran 항공사 '운항 중단' 경고 — Houthi 오일 항로 압박 강화",
-   "t_id": "U.S. threatens to 'shut down' Iranian airlines as Houthis tighten pressure on oil route",
-   "ai_ko": "· Houthi 반군, 홍해 Perim Island 장악\n· Bab el-Mandeb·Hormuz 두 요충지 통제 우려\n· Saudi Arabia 원유 수출 우회로 확보 변수",
-   "ai_id": "· Houthi kuasai Pulau Perim di Laut Merah\n· Bab el-Mandeb dan Hormuz terancam\n· Jalur ekspor minyak Saudi terdampak",
-   "ai_tags": [
-    "유가",
-    "지정학"
-   ],
-   "ai_tags_id": [
-    "harga minyak",
-    "geopolitik"
-   ]
-  },
-  {
    "ts": "2026-09-22T16:36:00+07:00",
    "date": "2026-09-22",
    "time": "16:36",
@@ -18372,18 +18476,6 @@
    "url": "https://mediaindonesia.com/politik-dan-hukum/936212/komisi-ii-dpr-targetkan-panja-ruu-pemilu-terbentuk-sebelum-reses-oktober",
    "t_ko": "DPR 제2위원회, 10월 휴회 전 선거법 Panja 구성 목표",
    "t_id": "Komisi II DPR Targetkan Panja RUU Pemilu Terbentuk Sebelum Reses Oktober"
-  },
-  {
-   "ts": "2026-09-22T16:35:51+07:00",
-   "date": "2026-09-22",
-   "time": "16:35",
-   "src": "Bloomberg",
-   "t": "Oil Drops as Traders Track Hormuz Diplomacy Prospects",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/oil-drops-as-traders-track-hormuz-diplomacy-prospects-video",
-   "g": 1,
-   "t_ko": "유가, Hormuz 해협 외교 진전 기대에 하락",
-   "t_id": "Harga Minyak Turun, Pelaku Pasar Cermati Prospek Diplomasi Selat Hormuz"
   },
   {
    "ts": "2026-09-22T16:35:42+07:00",
@@ -18422,18 +18514,6 @@
    "t_id": "Status Manajer Kopdes Merah Putih Bukan Pegawai BUMN, Tapi Biaya Ditanggung Negara"
   },
   {
-   "ts": "2026-09-22T16:32:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:32",
-   "src": "Media Indonesia",
-   "t": "Presiden Iran Tegaskan Pertahankan Sikap Teheran di PBB",
-   "tags": [],
-   "url": "https://mediaindonesia.com/internasional/936211/presiden-iran-tegaskan-pertahankan-sikap-teheran-di-pbb",
-   "g": 1,
-   "t_ko": "이란 대통령, 유엔서 Teheran 입장 고수 강조",
-   "t_id": "Presiden Iran Tegaskan Pertahankan Sikap Teheran di PBB"
-  },
-  {
    "ts": "2026-09-22T16:30:56+07:00",
    "date": "2026-09-22",
    "time": "16:30",
@@ -18455,30 +18535,6 @@
     "IHSG",
     "indeks",
     "sektor"
-   ]
-  },
-  {
-   "ts": "2026-09-22T16:30:24+07:00",
-   "date": "2026-09-22",
-   "time": "16:30",
-   "src": "CNBC",
-   "t": "Oil prices reverse gains as United Nations General Assembly meeting lifts hopes for Iran war diplomacy",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
-   "g": 1,
-   "t_ko": "유가, UN 총회발 Iran 전쟁 외교 기대에 상승분 반납",
-   "t_id": "Harga Minyak Balik Turun dari Kenaikan, Sidang Majelis Umum PBB Kobarkan Harapan Diplomasi Perang Iran",
-   "ai_ko": "· 국제유가 상승, 이란-미국 긴장 고조\n· Bessent, 수요일부터 이란 항공사 전면 중단 경고\n· Pezeshkian 대통령 뉴욕 UN 연설·정상회담 22~28일",
-   "ai_id": "· Harga minyak naik, tensi Iran-AS\n· Bessent: semua maskapai Iran disetop Rabu\n· Pezeshkian pidato di PBB, 22-28 Sep",
-   "ai_tags": [
-    "유가",
-    "지정학",
-    "제재"
-   ],
-   "ai_tags_id": [
-    "harga minyak",
-    "geopolitik",
-    "sanksi"
    ]
   },
   {
@@ -18507,7 +18563,7 @@
     "DSSA"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922162344-17-769959/ihsg-parkir-anjlok-169-di-zona-merah-ini-penyebabnya",
-   "img": "https://akcdn.detik.net.id/visual/2020/11/19/ilustrasi-bursa-efek-indonesia-cnbc-indonesiamuhammad-sabki-1_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2020/11/19/ilustrasi-bursa-efek-indonesia-cnbc-indonesiamuhammad-sabki-1_169.jpeg?w=1200&q=90",
    "t_ko": "IHSG 1.69% 급락, 하락권 마감 배경",
    "t_id": "IHSG Parkir Anjlok 1,69% di Zona Merah, Ini Penyebabnya",
    "ai_ko": "· IHSG 107.68p 하락한 6,277.04 마감\n· Bayan(BYAN)·BBRI·DSSA·DCII·BRMS 지수 압박\n· 에너지 -3.9%, Bank Indonesia 금리회의 대기",
@@ -18560,18 +18616,6 @@
    "t_id": "IFG Life Sudah Bayar Klaim Rp 9,4 Triliun"
   },
   {
-   "ts": "2026-09-22T16:28:02+07:00",
-   "date": "2026-09-22",
-   "time": "16:28",
-   "src": "Bloomberg",
-   "t": "Nvidia’s Stock Is Flashing a Warning Sign as Valuation Falls",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/nvidia-s-stock-is-flashing-a-warning-sign-as-valuation-falls",
-   "g": 1,
-   "t_ko": "Nvidia, 밸류에이션 하락에 경고 신호 점등",
-   "t_id": "Saham Nvidia Kibarkan Sinyal Waspada saat Valuasi Turun"
-  },
-  {
    "ts": "2026-09-22T16:27:00+07:00",
    "date": "2026-09-22",
    "time": "16:27",
@@ -18581,19 +18625,6 @@
    "url": "https://mediaindonesia.com/ekonomi/936208/electricity-connect-2026-dorong-inovasi-100-gw-dan-transisi-energi-nasional",
    "t_ko": "Electricity Connect 2026, 100GW 혁신·에너지 전환 추진",
    "t_id": "Electricity Connect 2026: Dorong Inovasi 100 GW dan Transisi Energi Nasional"
-  },
-  {
-   "ts": "2026-09-22T16:26:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:26",
-   "src": "IDX Channel",
-   "t": "Rupiah Melemah ke Rp17.884, Pasar Antisipasi Kenaikan Bunga The Fed",
-   "tags": [],
-   "url": "https://www.idxchannel.com/market-news/rupiah-melemah-ke-rp17884-pasar-antisipasi-kenaikan-bunga-the-fed",
-   "g": 1,
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/09/Rupiah_sindonews.JPG",
-   "t_ko": "루피아 Rp17,884로 약세 — 연준 금리 인상 경계감",
-   "t_id": "Rupiah Melemah ke Rp17.884, Pasar Antisipasi Kenaikan Bunga The Fed"
   },
   {
    "ts": "2026-09-22T16:26:00+07:00",
@@ -18667,29 +18698,6 @@
    ]
   },
   {
-   "ts": "2026-09-22T16:20:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:20",
-   "src": "Media Indonesia",
-   "t": "Tingkatkan Kesejahteraan Pekerja Migran Perempuan dengan Optimalisasi Remitansi",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936199/tingkatkan-kesejahteraan-pekerja-migran-perempuan-dengan-optimalisasi-remitansi",
-   "t_ko": "송금 최적화로 여성 이주노동자 복지 향상",
-   "t_id": "Tingkatkan Kesejahteraan Pekerja Migran Perempuan dengan Optimalisasi Remitansi",
-   "ai_ko": "· 2025년 이주노동자 송금 USD 172억\n· Bank Indonesia 집계, 여성 비중 63.13%\n· Women's World Banking·KP2MI 지수 개발 협약",
-   "ai_id": "· Remitansi PMI 2025 capai US$ 17,2 miliar\n· Data BI, 63,13% calon PMI perempuan\n· Women's World Banking dan KP2MI susun IRDI",
-   "ai_tags": [
-    "송금",
-    "정책",
-    "고용"
-   ],
-   "ai_tags_id": [
-    "remitansi",
-    "kebijakan",
-    "ketenagakerjaan"
-   ]
-  },
-  {
    "ts": "2026-09-22T16:19:45+07:00",
    "date": "2026-09-22",
    "time": "16:19",
@@ -18700,29 +18708,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/05/13/badan-pengaturan-bumn-dok-kemenkopcom-SWOVI.webp",
    "t_ko": "경제 전문가, BUMN 구조조정으로 비효율 축소 기대",
    "t_id": "Ekonom Senior Nilai Penataan BUMN Bisa Pangkas Inefisiensi"
-  },
-  {
-   "ts": "2026-09-22T16:16:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:16",
-   "src": "Media Indonesia",
-   "t": "Energi Bersih Berkelanjutan Bawa Ekonomi Petani dan Nelayan Melenting",
-   "tags": [],
-   "url": "https://mediaindonesia.com/nusantara/936198/energi-bersih-berkelanjutan-bawa-ekonomi-petani-dan-nelayan-melenting",
-   "t_ko": "청정에너지 지속 확대로 농어민 경제 활력",
-   "t_id": "Energi Bersih Berkelanjutan Bawa Ekonomi Petani dan Nelayan Melenting",
-   "ai_ko": "· 태양광 발전 7기 총 6.54kWp 가동, 연 2회 수확 전환\n· Cilacap Kalijaran 마을 농민 25ha 경작, Pertamina Patra Niaga RU Cilacap·Politeknik Negeri Cilacap 협력\n· 2023년 도입 후 관개비 Rp80만 절감, 건기 수확 소득 Rp2,960만",
-   "ai_id": "· 7 unit PLTS total 6,54 kWp sejak 2023\n· Petani Kalijaran, Cilacap, garap 25 hektare\n· Panen 2 kali setahun, hemat biaya Rp800 ribu",
-   "ai_tags": [
-    "재생에너지",
-    "농업",
-    "Pertamina"
-   ],
-   "ai_tags_id": [
-    "energi surya",
-    "pertanian",
-    "Pertamina"
-   ]
   },
   {
    "ts": "2026-09-22T16:11:44+07:00",
@@ -19100,7 +19085,7 @@
    "t": "Jadi Saingan RI, Bursa Saham Vietnam Naik Kelas ke Emerging Market",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260922150019-17-769921/jadi-saingan-ri-bursa-saham-vietnam-naik-kelas-ke-emerging-market",
-   "img": "https://akcdn.detik.net.id/visual/2026/07/10/hanoi-stock-exchange-1783651676578_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2026/07/10/hanoi-stock-exchange-1783651676578_169.jpeg?w=1200&q=90",
    "t_ko": "베트남 증시 신흥시장 승격 — 인도네시아엔 새 경쟁자",
    "t_id": "Jadi Saingan RI, Bursa Saham Vietnam Naik Kelas ke Emerging Market",
    "ai_ko": "· 베트남 증시, FTSE 신흥시장 편입\n· 최대 USD 60억(Rp106.8조) 자금 유입 전망\n· 9월 10% 시작, 2027년까지 4단계 반영",
@@ -19220,7 +19205,7 @@
    "t": "Utang BLBI Lunas, Menkeu Suahasil Tetap Kejar Para Obligor!",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260922152121-17-769925/utang-blbi-lunas-menkeu-suahasil-tetap-kejar-para-obligor",
-   "img": "https://akcdn.detik.net.id/visual/2026/09/22/menteri-keuangan-suahasil-nazara-menyampaikan-keterangan-pers-terkait-pelunasan-hutang-blbl-di-istana-merdeka-jakarta-selasa-2-1790061829716_169.png?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2026/09/22/menteri-keuangan-suahasil-nazara-menyampaikan-keterangan-pers-terkait-pelunasan-hutang-blbl-di-istana-merdeka-jakarta-selasa-2-1790061829716_169.png?w=1200&q=90",
    "t_ko": "BLBI 부채 상환 완료에도 Menkeu Suahasil, 채무자 추적 지속",
    "t_id": "Utang BLBI Lunas, Menkeu Suahasil Tetap Kejar Para Obligor!",
    "ai_ko": "· BLBI 채무자·채권보유자 상환 추심 지속\n· Suahasil Nazara 재무장관, PUPN이 승계\n· BLBI 대정부 채무 상환 완료에도 청구권 유지",
@@ -19268,7 +19253,7 @@
    "t": "1.435 Balpres Ilegal Hampir Masuk RI, Ternyata dari Malaysia",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260922141950-17-769909/1435-balpres-ilegal-hampir-masuk-ri-ternyata-dari-malaysia",
-   "img": "https://akcdn.detik.net.id/visual/2026/09/22/sejumlah-barang-bukti-ditampilkan-dalam-konferensi-pers-penindakan-impor-ilegal-beras-garam-dan-balpres-di-kantor-pusat-bea-cu-1790045878603_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2026/09/22/sejumlah-barang-bukti-ditampilkan-dalam-konferensi-pers-penindakan-impor-ilegal-beras-garam-dan-balpres-di-kantor-pusat-bea-cu-1790045878603_169.jpeg?w=1200&q=90",
    "t_ko": "구제의류 1,435건 밀반입 적발 — Malaysia산",
    "t_id": "1.435 Balpres Ilegal Hampir Masuk RI, Ternyata dari Malaysia",
    "ai_ko": "· 밀수 중고의류 1,435베일 적발, Rp80억대\n· 관세청, Serdang Bedagai·Tanjung Priok서\n· 8월 14일·9월 17일 단속, 용의자 1명 입건",
@@ -19396,7 +19381,7 @@
    "t": "Rupiah Ditutup Melemah 0,14%, Dolar AS Naik ke Rp17.850",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260922145129-17-769919/rupiah-ditutup-melemah-014-dolar-as-naik-ke-rp17850",
-   "img": "https://akcdn.detik.net.id/visual/2026/07/08/petugas-menjunjukkan-uang-pecahan-dolar-amerika-serikat-as-dan-rupiah-di-dolar-asia-money-changer-jakarta-rabu-872026-1783496342314_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2026/07/08/petugas-menjunjukkan-uang-pecahan-dolar-amerika-serikat-as-dan-rupiah-di-dolar-asia-money-changer-jakarta-rabu-872026-1783496342314_169.jpeg?w=1200&q=90",
    "t_ko": "루피아 0.14% 약세 마감, 달러 Rp17,850로 상승",
    "t_id": "Rupiah Ditutup Melemah 0,14%, Dolar AS Naik ke Rp17.850",
    "ai_ko": "· 루피아 0.14% 약세, USD당 Rp17,850\n· 달러지수 100.481로 0.05% 상승\n· Bank Indonesia 금리 결정 23일 발표",
@@ -19492,7 +19477,7 @@
    "t": "Menkeu Suahasil Lapor Prabowo, Utang BLBI Akhirnya Lunas Tuntas",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260922145128-17-769917/menkeu-suahasil-lapor-prabowo-utang-blbi-akhirnya-lunas-tuntas",
-   "img": "https://akcdn.detik.net.id/visual/2026/09/22/menteri-keuangan-suahasil-nazara-menyampaikan-keterangan-pers-terkait-pelunasan-hutang-blbl-di-istana-merdeka-jakarta-selasa-2-1790061829639_169.png?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2026/09/22/menteri-keuangan-suahasil-nazara-menyampaikan-keterangan-pers-terkait-pelunasan-hutang-blbl-di-istana-merdeka-jakarta-selasa-2-1790061829639_169.png?w=1200&q=90",
    "t_ko": "Menkeu Suahasil, Prabowo에 BLBI 부채 완전 상환 보고",
    "t_id": "Menkeu Suahasil Lapor Prabowo, Utang BLBI Akhirnya Lunas Tuntas",
    "ai_ko": "· BLBI·리캡 채권 Rp640조 전액 상환 완료\n· 재무부, Bank Indonesia 대상 채무 종결\n· BLBI Rp218.3조는 8월 24일, 리캡 Rp422.63조는 2020년 7월 완납",
@@ -19694,7 +19679,7 @@
    "t": "Video: Dorong Pertumbuhan Nasabah Baru, Asuransi Gaet Segmen Mahasiswa",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260922140822-19-769903/video-dorong-pertumbuhan-nasabah-baru-asuransi-gaet-segmen-mahasiswa",
-   "img": "https://akcdn.detik.net.id/visual/2026/09/22/pertumbuhan-lewat-nasabah-baru-asuransi-jiwa-gaet-mahasiswa-pakai-teknologi-1790061019678_169.png?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2026/09/22/pertumbuhan-lewat-nasabah-baru-asuransi-jiwa-gaet-mahasiswa-pakai-teknologi-1790061019678_169.png?w=1200&q=90",
    "t_ko": "영상 — 보험업계, 대학생 시장 공략해 신규 고객 확대",
    "t_id": "Video: Dorong Pertumbuhan Nasabah Baru, Asuransi Gaet Segmen Mahasiswa",
    "ai_ko": "· 보험업 총자산 Rp957.07조, 2.54% 증가\n· OJK 집계, Sun Life Indonesia 언급\n· 2026년 7월 기준, 낮은 침투율이 배경",
@@ -19718,7 +19703,7 @@
    "t": "IHSG Merah Sendirian di Antara Bursa Lain, Ini Kata Analis",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260922133839-17-769885/ihsg-merah-sendirian-di-antara-bursa-lain-ini-kata-analis",
-   "img": "https://akcdn.detik.net.id/visual/2019/08/08/b2852ebd-0b64-4632-9952-f9b07a5c2d30_169.jpeg?w=1200&q=90",
+   "img": "https://awsimages.detik.net.id/visual/2019/08/08/b2852ebd-0b64-4632-9952-f9b07a5c2d30_169.jpeg?w=1200&q=90",
    "t_ko": "IHSG 나홀로 하락, 애널리스트 진단은",
    "t_id": "IHSG Merah Sendirian di Antara Bursa Lain, Ini Kata Analis",
    "ai_ko": "· IHSG 1.11% 하락, 6,313.57 마감\n· 에너지 3.07%·부동산 1.5% 하락 주도\n· Bank Indonesia 금리 결정 대기·루피아 약세",
@@ -19889,6 +19874,28 @@
     "kebijakan",
     "sepatu"
    ]
+  },
+  {
+   "ts": "2026-09-22T14:08:09+07:00",
+   "date": "2026-09-22",
+   "time": "14:08",
+   "src": "Republika",
+   "t": "Uang Rupiah Kertas Bertanda Tangan Purbaya dan Perry Diburu, Ini Respons Bank Indonesia",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlr7tl490/uang-rupiah-kertas-bertanda-tangan-purbaya-dan-perry-diburu-ini-respons-bank-indonesia",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/016797200-1789452655-830-556.jpg",
+   "t_ko": "Purbaya·Perry 서명 신권 인기 쇄도 — Bank Indonesia 입장 표명",
+   "t_id": "Uang Rupiah Kertas Bertanda Tangan Purbaya dan Perry Diburu, Ini Respons Bank Indonesia",
+   "ai_ko": "· Rp10만 지폐 수집 수요 급증, 법정통화 유효\n· Bank Indonesia, Purbaya·Perry 서명 지폐\n· 9월 22일, 두 인사 퇴임으로 화제",
+   "ai_id": "· Uang Rp100.000 diburu kolektor\n· BI: tetap alat pembayaran sah\n· 22/9, viral usai Purbaya lengser",
+   "ai_tags": [
+    "통화",
+    "중앙은행"
+   ],
+   "ai_tags_id": [
+    "rupiah",
+    "bank sentral"
+   ]
   }
  ],
  "kisi_news": [
@@ -20051,8 +20058,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.17",
-   "d": 2.5,
-   "ytd": 13.39,
+   "d": 2.51,
+   "ytd": 13.41,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -20085,9 +20092,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.32",
-   "d": -0.03,
-   "ytd": 2.08,
+   "v": "100.38",
+   "d": 0.02,
+   "ytd": 2.13,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -20097,9 +20104,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.38",
-   "d": -3.86,
-   "ytd": 55.66,
+   "v": "89.63",
+   "d": -3.59,
+   "ytd": 56.1,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -20109,9 +20116,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,373.6",
-   "d": -0.13,
-   "ytd": 1.11,
+   "v": "4,368.4",
+   "d": -0.24,
+   "ytd": 0.99,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -24205,7 +24212,7 @@
   "idx_from_pc": null,
   "pc_age_min": null,
   "news_ai_cache": 711,
-  "news_ai_hit": 235,
+  "news_ai_hit": 348,
   "on_runner": false,
   "bi": null,
   "hist_days": 51,
@@ -26057,6 +26064,20 @@
    ]
   },
   {
+   "ts": "2026-09-22T09:19:00+07:00",
+   "date": "2026-09-22",
+   "time": "09:19",
+   "src": "Reuters",
+   "t": "Gold slips as oil gains and Fed officials signal rate hikes",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVA2UjFJM3dkZnhldzYxTHFKc3JKUndzZmw3LUZhR1dUOUQxYWRQanA0bHVPOEhuMk9XWk1uSXFyQXdvWnVXU2Q0ZUtjUktnb2tnLWhCa1ZRS3Vqemt3cFNEMXRqbTU3TnFUM0loWUJxUTc3Z0NOb0tHc09zOVZMOUFEOElkVUVrS3lzdHRib1g2YTJOdjZqYTVWWFk?oc=5",
+   "g": 1,
+   "score": 414.0,
+   "srcs": 6,
+   "t_ko": "유가 상승·연준 인사 금리 인상 시사에 금값 하락",
+   "t_id": "Harga emas turun, minyak menguat dan pejabat The Fed sinyalkan kenaikan suku bunga"
+  },
+  {
    "ts": "2026-09-22T15:47:00+07:00",
    "date": "2026-09-22",
    "time": "15:47",
@@ -26083,20 +26104,6 @@
    "srcs": 3
   },
   {
-   "ts": "2026-09-22T09:19:00+07:00",
-   "date": "2026-09-22",
-   "time": "09:19",
-   "src": "Reuters",
-   "t": "Gold slips as oil gains and Fed officials signal rate hikes",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVA2UjFJM3dkZnhldzYxTHFKc3JKUndzZmw3LUZhR1dUOUQxYWRQanA0bHVPOEhuMk9XWk1uSXFyQXdvWnVXU2Q0ZUtjUktnb2tnLWhCa1ZRS3Vqemt3cFNEMXRqbTU3TnFUM0loWUJxUTc3Z0NOb0tHc09zOVZMOUFEOElkVUVrS3lzdHRib1g2YTJOdjZqYTVWWFk?oc=5",
-   "g": 1,
-   "score": 410.0,
-   "srcs": 2,
-   "t_ko": "유가 상승·연준 인사 금리 인상 시사에 금값 하락",
-   "t_id": "Harga emas turun, minyak menguat dan pejabat The Fed sinyalkan kenaikan suku bunga"
-  },
-  {
    "ts": "2026-09-22T16:52:46+07:00",
    "date": "2026-09-22",
    "time": "16:52",
@@ -26109,7 +26116,7 @@
    "t_ko": "유가 1% 하락, Iran 7일 내 Hormuz 재개방설",
    "t_id": "Harga Minyak Turun 1% usai Kabar Iran Bisa Buka Kembali Selat Hormuz dalam Tujuh Hari",
    "score": 316.5,
-   "srcs": 5
+   "srcs": 6
   }
  ],
  "daylog": {
@@ -45086,7 +45093,7 @@
    "alpha": -3.37,
    "vrank": 27,
    "flow": -18.42,
-   "srcs": 4
+   "srcs": 5
   },
   {
    "t": "ULTJ",

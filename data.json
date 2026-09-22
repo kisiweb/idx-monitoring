@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 22:28",
+ "updated": "2026-09-22 22:34",
  "delay_min": 15,
  "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,357 · 21:00 Yahoo",
- "idr_per_krw": 13.1716,
+ "idr_per_krw": 13.1714,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16833,11 +16833,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7767.21,
+   "px": 7761.68,
    "prev": 7764.22,
-   "pct": 0.04,
+   "pct": -0.03,
    "mst": 0,
-   "asof": "11:25",
+   "asof": "11:30",
    "live": true,
    "spark": [
     7779.14,
@@ -16863,18 +16863,19 @@
     7766.17,
     7766.6,
     7765.36,
-    7767.21
+    7763.81,
+    7761.68
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27230.96,
+   "px": 27215.45,
    "prev": 27122.09,
-   "pct": 0.4,
+   "pct": 0.34,
    "mst": 0,
-   "asof": "11:25",
+   "asof": "11:30",
    "live": true,
    "spark": [
     27223.51,
@@ -16900,18 +16901,19 @@
     27226.04,
     27238.43,
     27224.58,
-    27230.96
+    27226.37,
+    27215.45
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51830.02,
+   "px": 51765.22,
    "prev": 52053.88,
-   "pct": -0.43,
+   "pct": -0.55,
    "mst": 0,
-   "asof": "11:25",
+   "asof": "11:30",
    "live": true,
    "spark": [
     52161.89,
@@ -16937,7 +16939,8 @@
     51816.02,
     51804.01,
     51808.74,
-    51830.02
+    51791.35,
+    51765.22
    ]
   },
   {
@@ -17274,6 +17277,20 @@
   }
  },
  "news": [
+  {
+   "ts": "2026-09-22T22:28:00+07:00",
+   "date": "2026-09-22",
+   "time": "22:28",
+   "src": "Katadata",
+   "t": "PGE Mulai Pengeboran Sumur Kedua untuk PLTP Lumut Balai Unit 3",
+   "tags": [
+    "PGEO"
+   ],
+   "url": "https://katadata.co.id/berita/energi/6ab29e8812ba4/pge-mulai-pengeboran-sumur-kedua-untuk-pltp-lumut-balai-unit-3",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2020/01/15/2020_01_15-20_11_50_45867b9c15c9fb009763f72c5c021748_620x413_thumb.jpg",
+   "t_id": "PGE Mulai Pengeboran Sumur Kedua untuk PLTP Lumut Balai Unit 3",
+   "t_ko": "Pertamina Geothermal Energy(PGE), Lumut Balai Unit 3 지열발전소 2호기 시추 착수"
+  },
   {
    "ts": "2026-09-22T20:46:41+07:00",
    "date": "2026-09-22",
@@ -18117,14 +18134,28 @@
    ]
   },
   {
+   "ts": "2026-09-22T22:12:17+07:00",
+   "date": "2026-09-22",
+   "time": "22:12",
+   "src": "Yahoo Finance",
+   "t": "Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/article/intel-stock-up-25-in-last-5-days-on-cpu-demand-as-ai-agents-gain-traction-151217555.html",
+   "g": 1,
+   "img": "https://s.yimg.com/os/creatr-uploaded-images/2026-06/95b30cc0-6357-11f1-b9d6-d417e35707d1",
+   "t_ko": "Intel, AI 에이전트 확산 속 CPU 수요에 5일간 25% 급등",
+   "t_id": "Saham Intel Naik 25% dalam 5 Hari Terakhir, Ditopang Permintaan CPU Seiring Tren Agen AI"
+  },
+  {
    "ts": "2026-09-22T22:11:00+07:00",
    "date": "2026-09-22",
    "time": "22:11",
    "src": "Media Indonesia",
-   "t": "BLU Energi Dinilai Berpotensi Tumpang Tindih dengan BUMN",
+   "t": "Biaya Logistik Indonesia Terlalu Tinggi, Ganggu Efisiensi Industri",
    "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936425/blu-energi-dinilai-berpotensi-tumpang-tindih-dengan-bumn",
-   "t_ko": "BLU Energi, 국영기업과 사업 중복 우려 제기"
+   "url": "https://mediaindonesia.com/ekonomi/936425/biaya-logistik-indonesia-terlalu-tinggi-ganggu-efisiensi-industri",
+   "t_ko": "인도네시아 높은 물류비용, 산업 효율성 저해",
+   "t_id": "Biaya Logistik RI Terlalu Tinggi, Ganggu Efisiensi Industri"
   },
   {
    "ts": "2026-09-22T22:08:29+07:00",
@@ -18137,6 +18168,19 @@
    "g": 1,
    "t_ko": "Williams 연준 총재, 중앙 청산 전환 시기 앞당겨질 것",
    "t_id": "The Fed Williams: Peralihan ke Kliring Sentral Lebih Cepat dari Jadwal"
+  },
+  {
+   "ts": "2026-09-22T22:06:51+07:00",
+   "date": "2026-09-22",
+   "time": "22:06",
+   "src": "Yahoo Finance",
+   "t": "Corporate bond buyers get picky with flood of AI debt",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/reuters.com/8f6f739a1c86ac74fb0cea81ab867d24.jpg",
+   "t_ko": "AI 채권 쏟아지며 회사채 투자자 옥석 가리기 심화",
+   "t_id": "Pembeli Obligasi Korporasi Selektif di Tengah Banjir Utang AI"
   },
   {
    "ts": "2026-09-22T22:03:13+07:00",
@@ -18194,7 +18238,8 @@
    "tags": [],
    "url": "https://finance.detik.com/energi/d-8674772/pertamina-buka-suara-soal-isu-orang-luar-intervensi-pengadaan-bbm-lpg",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/05/05/gedung-pertamina-1777965806138_169.jpeg?w=360&q=90",
-   "t_ko": "Pertamina, 외부 인사의 BBM·LPG 조달 개입설에 입장 표명"
+   "t_ko": "Pertamina, 외부 인사의 BBM·LPG 조달 개입설에 입장 표명",
+   "t_id": "Pertamina Buka Suara soal Isu Intervensi Pengadaan BBM-LPG"
   },
   {
    "ts": "2026-09-22T21:59:30+07:00",
@@ -18241,7 +18286,8 @@
    "tags": [],
    "url": "https://finance.detik.com/industri/d-8674761/industri-tekstil-bakal-dapat-tax-holiday",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/04/15/melihat-pameran-mesin-produksi-tekstil-di-jiexpo-kemayoran-1776240166100_169.jpeg?w=360&q=90",
-   "t_ko": "섬유 산업, 세제 혜택(Tax Holiday) 적용 전망"
+   "t_ko": "섬유 산업, 세제 혜택(Tax Holiday) 적용 전망",
+   "t_id": "Industri Tekstil Segera Raih Tax Holiday"
   },
   {
    "ts": "2026-09-22T21:44:04+07:00",
@@ -18294,31 +18340,6 @@
    "t_id": "Minyak Turun Seiring Sinyal Arab Saudi Buka Kembali Pipa Timur-Barat"
   },
   {
-   "ts": "2026-09-22T21:28:27+07:00",
-   "date": "2026-09-22",
-   "time": "21:28",
-   "src": "Yahoo Finance",
-   "t": "GameStop stock jumps as CEO Ryan Cohen buys $26 million in shares",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/article/gamestop-stock-jumps-as-ceo-ryan-cohen-buys-26-million-in-shares-142827905.html",
-   "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/eGAAgoDqInFGfYBSTh5O_A--~B/aD0zMzM0O3c9NTAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/bd98dfb1-0b4a-4784-b7f2-632fe31b57eb",
-   "t_ko": "GameStop, Ryan Cohen CEO의 2,600만 달러 규모 주식 매입에 급등",
-   "t_id": "Saham GameStop Melonjak Usai CEO Ryan Cohen Borong Saham $26 Juta"
-  },
-  {
-   "ts": "2026-09-22T21:21:23+07:00",
-   "date": "2026-09-22",
-   "time": "21:21",
-   "src": "CNBC",
-   "t": "10-year Treasury yield slips further below 5% as traders await Fed comments",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
-   "g": 1,
-   "t_ko": "연준 발언 주시 속 10년물 미 국채 금리 5% 아래로 하락",
-   "t_id": "Imbal Hasil Obligasi 10 Tahun AS Turun di Bawah 5% Menanti Komentar The Fed"
-  },
-  {
    "ts": "2026-09-22T21:20:00+07:00",
    "date": "2026-09-22",
    "time": "21:20",
@@ -18360,7 +18381,8 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122366/update-bumn-tekstil-perusahaan-baru-sumber-dana-belum-diungkap",
    "img": "https://images.bloombergtechnoz.com/data/2024/10/image-20241031091749.jpg",
-   "t_ko": "국영 섬유사 개편: 신설 법인 자금 조달원 미공개"
+   "t_ko": "국영 섬유사 개편: 신설 법인 자금 조달원 미공개",
+   "t_id": "Update BUMN Tekstil: Perusahaan Baru, Sumber Pendanaan Belum Terungkap"
   },
   {
    "ts": "2026-09-22T20:50:59+07:00",
@@ -18431,7 +18453,8 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122328/proyeksi-ekonom-soal-rupiah-akhir-2026-rp17-600-rp18-000-us",
    "img": "https://images.bloombergtechnoz.com/data/2026/07/image-20260727171645.jpeg",
-   "t_ko": "2026년 말 환율 전망 — USD당 Rp17,600~Rp18,000"
+   "t_ko": "2026년 말 환율 전망 — USD당 Rp17,600~Rp18,000",
+   "t_id": "Proyeksi Rupiah Akhir 2026: Rp17.600-Rp18.000/US$"
   },
   {
    "ts": "2026-09-22T20:34:36+07:00",
@@ -18466,7 +18489,8 @@
    "tags": [],
    "url": "https://finance.detik.com/industri/d-8674657/prabowo-mau-genjot-industri-tekstil-begini-caranya",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/04/15/melihat-pameran-mesin-produksi-tekstil-di-jiexpo-kemayoran-1776240166364_169.jpeg?w=360&q=90",
-   "t_ko": "Prabowo 대통령, 섬유 산업 육성 방안 추진"
+   "t_ko": "Prabowo 대통령, 섬유 산업 육성 방안 추진",
+   "t_id": "Prabowo Genjot Industri Tekstil, Ini Strateginya"
   },
   {
    "ts": "2026-09-22T20:26:04+07:00",
@@ -19525,9 +19549,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.953%",
-   "d": -0.2,
-   "ytd": 18.98,
+   "v": "4.955%",
+   "d": -0.16,
+   "ytd": 19.02,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19548,9 +19572,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.61",
-   "d": 0.25,
-   "ytd": 2.37,
+   "v": "100.56",
+   "d": 0.2,
+   "ytd": 2.32,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19560,9 +19584,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.18",
-   "d": -1.93,
-   "ytd": 58.79,
+   "v": "91.29",
+   "d": -1.81,
+   "ytd": 58.99,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19572,9 +19596,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,375.4",
-   "d": -0.08,
-   "ytd": 1.15,
+   "v": "4,374.1",
+   "d": -0.11,
+   "ytd": 1.12,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -23666,7 +23690,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 240,
+  "pc_age_min": 246,
   "news_ai_cache": 92,
   "news_ai_hit": 34,
   "on_runner": true,
@@ -25535,19 +25559,19 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T15:06:25+07:00",
+   "ts": "2026-09-22T21:36:04+07:00",
    "date": "2026-09-22",
-   "time": "15:06",
-   "src": "Yahoo Finance",
-   "t": "Stock market today: Dow slips, Nasdaq and S&P 500 drift higher as oil retreats, AI trade powers market",
+   "time": "21:36",
+   "src": "FT",
+   "t": "Oil falls as Saudi Arabia signals East-West pipeline reopening",
    "tags": [],
-   "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+   "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
    "g": 1,
-   "img": "https://s.yimg.com/uu/api/res/1.2/oKXjq3H1JslC0ffQ.G1F8A--~B/aD01NjU4O3c9ODQ4NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/37f22e80-6f8b-4044-abe4-f5cd6fdce5b9",
-   "score": 313.5,
-   "srcs": 4,
-   "t_ko": "뉴욕증시, 유가 하락 속 다우 하락·나스닥·S&P500 상승 — AI 반도체 주도",
-   "t_id": "Bursa Saham Hari Ini: Dow Turun, Nasdaq & S&P 500 Menguat Seiring Minyak Turun & Tren AI Dorong Pasar"
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "사우디아라비아 동서 송유관 재가동 시그널에 유가 하락",
+   "t_id": "Minyak Turun Seiring Sinyal Arab Saudi Buka Kembali Pipa Timur-Barat",
+   "score": 312.5,
+   "srcs": 4
   }
  ],
  "daylog": {

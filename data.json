@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 13:17",
+ "updated": "2026-09-22 13:20",
  "delay_min": 15,
- "fx_basis": "13.15 IDR/KRW · USD/IDR 17,860 · USD/KRW 1,358 · 12:45 Yahoo",
- "idr_per_krw": 13.1478,
+ "fx_basis": "13.14 IDR/KRW · USD/IDR 17,860 · USD/KRW 1,359 · 12:45 Yahoo",
+ "idr_per_krw": 13.1408,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -354,7 +354,7 @@
   "volume": null,
   "value_src": "yahoo",
   "rank_src": "Yahoo 15분 지연 · 833종목 · 외국인·공시 PC 09-22 13:11",
-  "rank_asof": "13:14",
+  "rank_asof": "13:19",
   "rank_date": "2026-09-22",
   "adv": 160,
   "dec": 537,
@@ -17718,11 +17718,11 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 7045.78,
+   "px": 7050.49,
    "prev": 6988.87,
-   "pct": 0.81,
+   "pct": 0.88,
    "mst": 0,
-   "asof": "14:50",
+   "asof": "14:55",
    "live": true,
    "spark": [
     7169.01,
@@ -17795,7 +17795,8 @@
     7018.8,
     7009.45,
     7031.79,
-    7045.78
+    7045.78,
+    7050.49
    ]
   },
   {
@@ -17883,9 +17884,9 @@
    "sym": "^HSI",
    "name": "항셍",
    "name_id": "Hang Seng",
-   "px": 25129.92,
+   "px": 25112.96,
    "prev": 25042.71,
-   "pct": 0.35,
+   "pct": 0.28,
    "mst": 0,
    "asof": "14:00",
    "live": true,
@@ -17934,7 +17935,7 @@
     25142.59,
     25135.29,
     25134.49,
-    25129.92
+    25112.96
    ]
   }
  ],
@@ -19087,7 +19088,7 @@
    "url": "https://ekonomi.republika.co.id/berita/tlr586490/bea-cukai-tindak-impor-ilegal-beras-dan-garam-ini-respons-mentan",
    "img": "https://static.republika.co.id/uploads/images/detailnews/033009500-1790052228-830-556.jpg",
    "t_id": "Bea Cukai Tindak Impor Ilegal Beras dan Garam, Ini Respons Mentan",
-   "t_ko": "불법 쌀·소금 수입 적발에 장관 대응"
+   "t_ko": "세관, 불법 쌀·소금 수입 단속 — 농림장관 입장"
   },
   {
    "ts": "2026-09-22T13:10:00+07:00",
@@ -19099,7 +19100,7 @@
    "url": "https://mediaindonesia.com/internasional/936101/harga-minyak-menguat-di-tengah-pudarnya-harapan-dialog-as-iran",
    "g": 1,
    "t_id": "Harga Minyak Menguat di Tengah Pudarnya Harapan Dialog AS-Iran",
-   "t_ko": "미·이란 대화 기대 후퇴에 유가 상승"
+   "t_ko": "미·이란 대화 기대 약화 속 유가 상승"
   },
   {
    "ts": "2026-09-22T13:07:35+07:00",
@@ -19110,7 +19111,7 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122315/ri-kaji-sanksi-dmo-batu-bara-stop-60-hari-tahan-rkab-cabut-iup",
    "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260922130503.jpg",
-   "t_ko": "인도네시아, DMO 위반탄광 60일 정지·RKAB 보류·IUP 취소 검토",
+   "t_ko": "인도네시아, 석탄 DMO 제재 검토 — 60일 정지·RKAB 보류·IUP 취소",
    "ai_ko": "· DMO 미달 시 조업정지 60일·IUP 취소 검토\n· ESDM, 석탄 광산업체 RKAB 승인 보류 방침\n· 내수 공급의무 미이행 제재 강화, 9/22 보도",
    "ai_id": "· DMO gagal: setop 60 hari, cabut IUP\n· ESDM juga tahan persetujuan RKAB\n· Diungkap ke Argus Media, Selasa (22/9)",
    "ai_tags": [
@@ -19122,7 +19123,8 @@
     "batu bara",
     "regulasi",
     "ekspor"
-   ]
+   ],
+   "t_id": "RI Kaji Sanksi DMO Batu Bara: Setop 60 Hari, Tahan RKAB, Cabut IUP"
   },
   {
    "ts": "2026-09-22T13:07:23+07:00",
@@ -19133,7 +19135,7 @@
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673799/suahasil-sebut-baju-bekas-impor-ilegal-bikin-tukang-jahit-industri-babak-belur",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/bea-cukai-ungkap-impor-beras-garam-hingga-baju-bekas-senilai-rp27-m-1790050976490_169.jpeg?w=360&q=90",
-   "t_ko": "Suahasil, 불법 중고 의류 수입이 재단사·제조업 타격 지적",
+   "t_ko": "Suahasil, 불법 수입 중고 의류가 재단사·산업계 타격 언급",
    "ai_ko": "· 8~9월 밀수 적발 Rp273억, 중고의류 Rp114억\n· Bea Cukai 적발, Suahasil Nazara 재무장관 발표\n· 봉제·섬유산업 잠식 지적, 9/22 기자회견",
    "ai_id": "· Balpres Rp11.4 miliar dari Rp27.3 miliar\n· Menkeu Suahasil Nazara di Bea Cukai\n· Tukang jahit-industri tekstil rugi, 22/9",
    "ai_tags": [
@@ -19145,7 +19147,8 @@
     "penyelundupan",
     "tekstil",
     "regulasi"
-   ]
+   ],
+   "t_id": "Suahasil Sebut Baju Bekas Impor Ilegal Bikin Tukang Jahit-Industri Babak Belur"
   },
   {
    "ts": "2026-09-22T13:06:08+07:00",
@@ -19172,6 +19175,18 @@
    ]
   },
   {
+   "ts": "2026-09-22T13:05:33+07:00",
+   "date": "2026-09-22",
+   "time": "13:05",
+   "src": "Bloomberg",
+   "t": "Saudis Tell Asian Refiners They Can Soon Pick Up Oil From Yanbu",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/saudis-tell-asian-refiners-they-can-soon-pick-up-oil-from-yanbu",
+   "g": 1,
+   "t_ko": "사우디, 아시아 정유사에 야부 항구 원유 선적 허용 방침",
+   "t_id": "Saudi Beri Lampu Hijau Kilang Asia Ambil Minyak dari Yanbu"
+  },
+  {
    "ts": "2026-09-22T13:01:30+07:00",
    "date": "2026-09-22",
    "time": "13:01",
@@ -19180,8 +19195,8 @@
    "tags": [],
    "url": "https://www.bloomberg.com/news/articles/2026-09-22/stock-at-heart-of-turkish-fund-crisis-ejected-from-top-indexes",
    "g": 1,
-   "t_ko": "튀르키예 펀드 위기 핵심 주식, 주요 지수서 퇴출",
-   "t_id": "Saham Pusat Krisis Dana Turki Didepak dari Indeks Utama"
+   "t_ko": "튀르키예 펀드 위기 핵심 종목, 주요 지수에서 제외",
+   "t_id": "Saham Pemicu Krisis Dana Turki Didepak dari Indeks Utama"
   },
   {
    "ts": "2026-09-22T12:58:00+07:00",
@@ -19323,7 +19338,8 @@
     "kurs",
     "kebijakan moneter",
     "harga minyak"
-   ]
+   ],
+   "t_id": "Harga Minyak Tekan Rupiah, BI Intensifkan Intervensi Valuta Asing"
   },
   {
    "ts": "2026-09-22T12:40:00+07:00",
@@ -19405,7 +19421,8 @@
     "etanol",
     "pertanian",
     "kebijakan"
-   ]
+   ],
+   "t_id": "Amran Targetkan Penanaman Bahan Baku Etanol Dimulai Tahun Depan"
   },
   {
    "ts": "2026-09-22T12:30:08+07:00",
@@ -19720,18 +19737,6 @@
    "g": 1,
    "t_ko": "Goldman Sachs Drayton, 아태지역 M&A 호황 2027년까지 지속 전망",
    "t_id": "Drayton Goldman: Booming Kesepakatan APAC Bisa Berlanjut hingga '27"
-  },
-  {
-   "ts": "2026-09-22T11:51:54+07:00",
-   "date": "2026-09-22",
-   "time": "11:51",
-   "src": "Bloomberg",
-   "t": "Sinology’s Rothman: China, US Seek Stability in Ties",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/sinology-s-rothman-china-us-seek-stability-in-ties-video",
-   "g": 1,
-   "t_ko": "Sinology Rothman, 미중 관계 안정 추구 전망",
-   "t_id": "Rothman Sinology: China-AS Kejar Stabilitas Hubungan"
   },
   {
    "ts": "2026-09-22T11:44:22+07:00",
@@ -20690,19 +20695,7 @@
    "url": "https://www.jawapos.com/ekonomi/2609220110/kadar-nikel-makin-rendah-industri-smelter-indonesia-hadapi-tantangan-baru",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/sekretaris-jenderal-asosiasi-penambang-nikel-indonesia-apni-rizal-kasli-nanda-prayogajawaposcom-qXpex.webp",
    "t_ko": "니켈 품위 하락에 인도네시아 제련 업계 신규 악재 직면",
-   "t_id": "Kadar Nikel Menurun, Industri Smelter Indonesia Hadapi Tantangan Baru",
-   "ai_ko": "· 니켈 광석 품위 저하로 제련 부담\n· 고품위 사프롤라이트는 RKEF로 처리\n· 리모나이트 HPAL은 배터리 소재 공급",
-   "ai_id": "· Kadar nikel turun, smelter tertekan\n· Saprolit kadar tinggi diolah via RKEF\n· Limonit HPAL pasok bahan baku baterai",
-   "ai_tags": [
-    "니켈",
-    "제련",
-    "배터리"
-   ],
-   "ai_tags_id": [
-    "nikel",
-    "smelter",
-    "baterai"
-   ]
+   "t_id": "Kadar Nikel Menurun, Industri Smelter Indonesia Hadapi Tantangan Baru"
   },
   {
    "ts": "2026-09-22T08:31:42+07:00",
@@ -20714,19 +20707,7 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122280/investor-asing-lepas-10-saham-ini-seret-ihsg-ke-zona-merah",
    "img": "https://images.bloombergtechnoz.com/data/2026/06/image-20260604121604.jpeg",
    "t_ko": "외국인 투자자 10대 매도 종목, IHSG 하락세 주도",
-   "t_id": "Investor Asing Lepas 10 Saham Ini, Seret IHSG ke Zona Merah",
-   "ai_ko": "· 외국인 Bank Mandiri(BMRI) Rp1,406억 순매도\n· IHSG 56.44p 내린 6,384, 전체 순매도 Rp5,100억\n· BMRI 1.41% 하락한 Rp4,200, Timah(TINS)는 순매수 1위",
-   "ai_id": "· Asing net sell BMRI Rp140,61 miliar\n· IHSG turun 56,44 poin ke 6.384\n· TINS net buy Rp50,02 miliar, +3,16%",
-   "ai_tags": [
-    "외국인",
-    "은행주",
-    "증시"
-   ],
-   "ai_tags_id": [
-    "asing",
-    "saham bank",
-    "IHSG"
-   ]
+   "t_id": "Investor Asing Lepas 10 Saham Ini, Seret IHSG ke Zona Merah"
   },
   {
    "ts": "2026-09-22T08:31:09+07:00",
@@ -20738,19 +20719,7 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122283/rangkuman-rekomendasi-saham-hari-ini-22-september-2026",
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105723.jpeg",
    "t_ko": "9월 22일 증권사 추천 종목 요약",
-   "t_id": "Rangkuman Rekomendasi Saham Hari Ini, 22 September 2026",
-   "ai_ko": "· IHSG 0.88% 내린 6,384, 장중 저점 부근 마감\n· 인프라 1.37%·필수소비재 0.94%·에너지 0.93% 하락\n· 하락 354종목 대 상승 280종목, 지수 약세 주도",
-   "ai_id": "· IHSG ditutup -0,88% di 6.384\n· Infrastruktur -1,37%, energi -0,93%\n· 354 saham turun, 280 saham naik",
-   "ai_tags": [
-    "증시",
-    "업종",
-    "약세"
-   ],
-   "ai_tags_id": [
-    "IHSG",
-    "sektor",
-    "koreksi"
-   ]
+   "t_id": "Rangkuman Rekomendasi Saham Hari Ini, 22 September 2026"
   },
   {
    "ts": "2026-09-22T08:30:26+07:00",
@@ -20762,19 +20731,7 @@
    "url": "https://finance.detik.com/energi/d-8673093/bisakah-bensin-dibuat-dari-batu-bara-sesuai-keinginan-prabowo",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/18/prabowo-subianto-dalam-video-presiden-prabowo-menjawab-ketegasan-kebijakan-tantangan-dan-masa-depan-indonesiapada-kanal-youtub-1789701833303_169.png?w=360&q=90",
    "t_ko": "프라보워 요구대로 석탄으로 휘발유 생산 가능할까",
-   "t_id": "Bisakah Bensin Dibuat dari Batu Bara Sesuai Keinginan Prabowo?",
-   "ai_ko": "· 정부, 석탄 액화 휘발유 생산 추진\n· 남아공 Sasol은 하루 30만배럴 생산\n· 기술 파트너 국가는 평가 단계",
-   "ai_id": "· Pemerintah dorong bensin dari batu bara\n· Sasol Afrika Selatan 300 ribu barel/hari\n· Mitra teknologi masih tahap evaluasi",
-   "ai_tags": [
-    "석탄",
-    "에너지정책",
-    "정유"
-   ],
-   "ai_tags_id": [
-    "batu bara",
-    "kebijakan energi",
-    "BBM"
-   ]
+   "t_id": "Bisakah Bensin Dibuat dari Batu Bara Sesuai Keinginan Prabowo?"
   },
   {
    "ts": "2026-09-22T08:30:00+07:00",
@@ -20786,19 +20743,7 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122282/ri-mau-bikin-bensin-dari-batu-bara-bakal-lebih-kompleks-dari-dme",
    "img": "https://images.bloombergtechnoz.com/data/2026/05/image-20260505114941.jpg",
    "t_ko": "인도네시아, DME보다 복잡한 석탄 액화 휘발유 생산 추진",
-   "t_id": "RI Mau Bikin Bensin dari Batu Bara, Bakal Lebih Kompleks dari DME",
-   "ai_ko": "· Prabowo 대통령, 석탄 액화(CTL) 휘발유 생산 추진\n· Pushep, DME 가스화보다 난이도 훨씬 높다고 평가\n· 대규모 투자비와 사업 경제성이 최대 과제, 석탄업종 관련",
-   "ai_id": "· Prabowo dorong bensin dari batu bara\n· Pushep: CTL jauh lebih kompleks dari DME\n· Tantangan utama investasi dan keekonomian",
-   "ai_tags": [
-    "석탄",
-    "정책",
-    "다운스트림"
-   ],
-   "ai_tags_id": [
-    "batu bara",
-    "kebijakan",
-    "hilirisasi"
-   ]
+   "t_id": "RI Mau Bikin Bensin dari Batu Bara, Bakal Lebih Kompleks dari DME"
   },
   {
    "ts": "2026-09-22T08:29:37+07:00",
@@ -20810,19 +20755,7 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122276/rupiah-berisiko-tertekan-lagi-pasar-menanti-jurus-bi",
    "img": "https://images.bloombergtechnoz.com/data/2026/06/image-20260619194151.jpg",
    "t_ko": "루피아 추가 약세 위험 속 BI 대응 주시",
-   "t_id": "Rupiah Berisiko Tertekan, Pasar Menanti Jurus BI",
-   "ai_ko": "· 루피아 NDF Rp17,904/USD까지 약세\n· 미국 금리 3.75~4%로 25bp 인상, 국채금리·달러 상승\n· 내일 BI 금리 5.75% 동결 전망, 유가 USD 100 부담",
-   "ai_id": "· Rupiah NDF sentuh Rp17.904/US$\n· The Fed naikkan bunga 25 bps ke 3,75-4%\n· BI Rate diprediksi tetap 5,75%",
-   "ai_tags": [
-    "환율",
-    "금리",
-    "유가"
-   ],
-   "ai_tags_id": [
-    "rupiah",
-    "BI Rate",
-    "harga minyak"
-   ]
+   "t_id": "Rupiah Berisiko Tertekan, Pasar Menanti Jurus BI"
   },
   {
    "ts": "2026-09-22T08:20:00+07:00",
@@ -20833,20 +20766,7 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122279/ekonom-defisit-0-93-tak-otomatis-cerminkan-kesehatan-fiskal",
    "img": "https://images.bloombergtechnoz.com/data/2025/10/image-20251014165420.jpg",
-   "t_ko": "전문가, 0.93% 적자가 재정 건전성 직접 반영 아님",
-   "ai_ko": "· 8월 재정적자 GDP 대비 0.93%\n· 기초재정수지 Rp154조 흑자\n· Indef, 세수 질·지출 효율 점검 필요 지적",
-   "ai_id": "· Defisit fiskal Agustus 0,93% PDB\n· Keseimbangan primer surplus Rp154 triliun\n· Indef soroti kualitas penerimaan-belanja",
-   "ai_tags": [
-    "재정",
-    "거시",
-    "APBN"
-   ],
-   "ai_tags_id": [
-    "fiskal",
-    "makro",
-    "APBN"
-   ],
-   "t_id": "Ekonom: Defisit 0,93% Tak Otomatis Cerminkan Kesehatan Fiskal"
+   "t_ko": "전문가, 0.93% 적자가 재정 건전성 직접 반영 아님"
   },
   {
    "ts": "2026-09-22T08:15:04+07:00",
@@ -20858,19 +20778,7 @@
    "url": "https://finance.detik.com/fintech/d-8673320/harga-bitcoin-terbang-ke-rp-1-53-m-tertinggi-sejak-januari",
    "img": "https://akcdn.detik.net.id/community/media/visual/2023/04/11/bitcoin_169.jpeg?w=360&q=90",
    "t_ko": "비트코인 Rp1.53조 돌파하며 1월 이후 최고가 경신",
-   "t_id": "Harga Bitcoin Terbang ke Rp 1,53 M, Tertinggi Sejak Januari",
-   "ai_ko": "· Bitcoin USD 86,000 돌파, 1월 말 이후 최고\n· 1주 8%·3개월 34% 상승, 연초 대비 하락\n· Strategy·Coinbase 등 관련주 동반 상승",
-   "ai_id": "· Bitcoin tembus US$86.000\n· Naik 8% sepekan, 34% 3 bulan\n· Saham Strategy, Coinbase menguat",
-   "ai_tags": [
-    "비트코인",
-    "가상자산",
-    "관련주"
-   ],
-   "ai_tags_id": [
-    "bitcoin",
-    "kripto",
-    "saham kripto"
-   ]
+   "t_id": "Harga Bitcoin Terbang ke Rp 1,53 M, Tertinggi Sejak Januari"
   },
   {
    "ts": "2026-09-22T08:10:00+07:00",
@@ -20882,19 +20790,7 @@
    "url": "https://www.idnfinancials.com/news/69207/bi-rate-decision-to-set-jci-direction-watch-these-levels",
    "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/BIRATE-IHSG-22092026.jpg",
    "t_ko": "기준금리 결정에 따른 IHSG 방향성 주목 — 주요 지지선 점검",
-   "t_id": "Keputusan Suku Bunga BI Setir Arah IHSG, Cermati Level Ini",
-   "ai_ko": "· JCI 6,384.73, 0.88% 하락 마감\n· 외국인 Rp5,031억 순매도\n· 유가 USD 100, BI 금리결정 대기",
-   "ai_id": "· IHSG tutup 6.384,73, turun 0,88%\n· Asing net sell Rp503,12 miliar\n· Minyak USD 100, pasar tunggu putusan BI",
-   "ai_tags": [
-    "증시",
-    "외국인",
-    "유가"
-   ],
-   "ai_tags_id": [
-    "IHSG",
-    "asing",
-    "minyak"
-   ]
+   "t_id": "Keputusan Suku Bunga BI Setir Arah IHSG, Cermati Level Ini"
   },
   {
    "ts": "2026-09-22T08:00:09+07:00",
@@ -21240,8 +21136,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.14",
-   "d": 2.27,
-   "ytd": 13.14,
+   "d": 2.23,
+   "ytd": 13.1,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -21274,9 +21170,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.41",
-   "d": -0.04,
-   "ytd": 2.17,
+   "v": "100.43",
+   "d": -0.02,
+   "ytd": 2.19,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -21298,9 +21194,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,353.9",
-   "d": -0.69,
-   "ytd": 0.65,
+   "v": "4,354.0",
+   "d": -0.68,
+   "ytd": 0.66,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -21322,9 +21218,9 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,410",
-   "d": 0.34,
-   "ytd": -1.63,
+   "v": "16,411",
+   "d": 0.35,
+   "ytd": -1.62,
    "inv": false,
    "note": "investing.com · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
@@ -23511,19 +23407,7 @@
    "title_id": "Jadwal Dividen Tunai Interim (Koreksi)",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
-   "rk": 104,
-   "ai_ko": "· BSSR 주당 배당금 IDR 406.1609 및 총액 USD 60,000,000 결의\n· 배당락일 2026년 9월 30일, 지급일 2026년 10월 9일\n· 주주 환원 제고 및 투자 매력도 확대",
-   "ai_id": "· Pembagian dividen USD 60.000.000 dan IDR 406,1609 per saham\n· Cum date 30 September 2026 dan tanggal pembayaran 09 Oktober 2026\n· Peningkatan imbal hasil bagi pemegang saham",
-   "ai_tags": [
-    "BSSR",
-    "배당",
-    "주주환원"
-   ],
-   "ai_tags_id": [
-    "BSSR",
-    "Dividen",
-    "Pemegang Saham"
-   ]
+   "rk": 104
   },
   {
    "ts": "2026-09-21T18:31:44+07:00",
@@ -23537,19 +23421,7 @@
    "title_id": "Jadwal Dividen Tunai Interim",
    "kind_ko": "자사주·배당",
    "kind_id": "Buyback/Dividen",
-   "rk": 100,
-   "ai_ko": "· BSSR, 총액 USD 60,000,000 및 주당 USD 406.1609의 중간배당 결정\n· 배당락일 정규·협상시장 2026년 9월 30일, 지급일 2026년 10월 9일\n· 견조한 순이익 바탕의 주주환원으로 투자 매력도 제고",
-   "ai_id": "· BSSR bagikan dividen interim USD 60.000.000, DPS USD 406,1609\n· Ex date pasar reguler 30 September 2026, bayar 9 Oktober 2026\n· Imbal hasil menarik bagi investor",
-   "ai_tags": [
-    "BSSR",
-    "중간배당",
-    "배당락일"
-   ],
-   "ai_tags_id": [
-    "BSSR",
-    "dividen interim",
-    "ex date"
-   ]
+   "rk": 100
   },
   {
    "ts": "2026-09-21T23:55:55+07:00",
@@ -23563,19 +23435,7 @@
    "title_id": "Penyampaian Laporan Keuangan Interim Auditan",
    "kind_ko": "실적",
    "kind_id": "Laporan Keuangan",
-   "rk": 98,
-   "ai_ko": "· MEDC 2026년 상반기 감사보고서 제출\n· 2026년 6월 30일 기준 회계기간 대상\n· 에너지 부문 실적 투명성 제고",
-   "ai_id": "· Penyampaian laporan keuangan MEDC\n· Periode berakhir 30 Juni 2026\n· Keterbukaan sektor energi",
-   "ai_tags": [
-    "MEDC",
-    "감사보고서",
-    "실적공시"
-   ],
-   "ai_tags_id": [
-    "MEDC",
-    "laporan keuangan",
-    "kinerja"
-   ]
+   "rk": 98
   },
   {
    "ts": "2026-09-21T11:57:55+07:00",
@@ -23590,20 +23450,6 @@
    "kind_ko": "실적",
    "kind_id": "Laporan Keuangan",
    "rk": 98
-  },
-  {
-   "ts": "2026-09-22T13:11:39+07:00",
-   "date": "2026-09-22",
-   "time": "13:11",
-   "t": "VICO",
-   "type": "STOCK",
-   "title": "Keterbukaan Informasi terkait Aksi Korporasi - Dividen Tunai - 22092026",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0a48d83eb1_5cf5c693f9.pdf",
-   "title_ko": "기업공시 — 현금배당 (2026년 9월 22일)",
-   "title_id": "Keterbukaan Informasi Aksi Korporasi: Dividen Tunai - 22092026",
-   "kind_ko": "자사주·배당",
-   "kind_id": "Buyback/Dividen",
-   "rk": 96
   },
   {
    "ts": "2026-09-21T06:57:37+07:00",
@@ -24304,6 +24150,20 @@
    "rk": 28
   },
   {
+   "ts": "2026-09-22T09:51:20+07:00",
+   "date": "2026-09-22",
+   "time": "09:51",
+   "t": "VICO",
+   "type": "STOCK",
+   "title": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b134757b35_21dd1889e8.pdf",
+   "title_ko": "임시주주총회 의사록 요약",
+   "title_id": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa",
+   "kind_ko": "주총결과",
+   "kind_id": "Risalah RUPS",
+   "rk": 28
+  },
+  {
    "ts": "2026-09-21T20:00:38+07:00",
    "date": "2026-09-21",
    "time": "20:00",
@@ -24389,20 +24249,6 @@
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/937b4683c1_a3678f5f95.pdf",
    "title_ko": "주주총회 소집공고 게재 증빙 제출",
    "title_id": "Penyampaian Bukti Iklan Panggilan RUPS",
-   "kind_ko": "주총결과",
-   "kind_id": "Risalah RUPS",
-   "rk": 24
-  },
-  {
-   "ts": "2026-09-22T09:51:20+07:00",
-   "date": "2026-09-22",
-   "time": "09:51",
-   "t": "VICO",
-   "type": "STOCK",
-   "title": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/b134757b35_21dd1889e8.pdf",
-   "title_ko": "임시주주총회 의사록 요약",
-   "title_id": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa",
    "kind_ko": "주총결과",
    "kind_id": "Risalah RUPS",
    "rk": 24
@@ -24682,6 +24528,20 @@
    "rk": 20
   },
   {
+   "ts": "2026-09-22T10:19:52+07:00",
+   "date": "2026-09-22",
+   "time": "10:19",
+   "t": "VICO",
+   "type": "STOCK",
+   "title": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa (KOREKSI)",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cb9b1a9ac_15e0b021ac.pdf",
+   "title_ko": "임시주주총회 의사록 요약(정정)",
+   "title_id": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa (KOREKSI)",
+   "kind_ko": "주총결과",
+   "kind_id": "Risalah RUPS",
+   "rk": 18
+  },
+  {
    "ts": "2026-09-21T19:19:49+07:00",
    "date": "2026-09-21",
    "time": "19:19",
@@ -24778,20 +24638,6 @@
    "kind_ko": "지분변동",
    "kind_id": "Kepemilikan",
    "rk": 16
-  },
-  {
-   "ts": "2026-09-22T10:19:52+07:00",
-   "date": "2026-09-22",
-   "time": "10:19",
-   "t": "VICO",
-   "type": "STOCK",
-   "title": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa (KOREKSI)",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cb9b1a9ac_15e0b021ac.pdf",
-   "title_ko": "임시주주총회 의사록 요약(정정)",
-   "title_id": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa (KOREKSI)",
-   "kind_ko": "주총결과",
-   "kind_id": "Risalah RUPS",
-   "rk": 14
   },
   {
    "ts": "2026-09-21T19:21:24+07:00",
@@ -25144,6 +24990,20 @@
    "rk": 0
   },
   {
+   "ts": "2026-09-19T13:01:15+07:00",
+   "date": "2026-09-19",
+   "time": "13:01",
+   "t": "WINR",
+   "type": "STOCK",
+   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19092026-7762-00.pdf-0.pdf",
+   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
+   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+   "kind_ko": "지분변동",
+   "kind_id": "Kepemilikan",
+   "rk": 0
+  },
+  {
    "ts": "2026-09-21T09:55:52+07:00",
    "date": "2026-09-21",
    "time": "09:55",
@@ -25162,7 +25022,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 13:11",
-  "pc_age_min": 6,
+  "pc_age_min": 9,
   "news_ai_cache": 153,
   "news_ai_hit": 102,
   "on_runner": true,
@@ -26901,9 +26761,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "미국 증시 강세에 장 초반 상승했으나, 인도네시아 중앙은행(BI) Rapat Dewan Gubernur 대기 속 에너지주와 대형주 매물 출회로 IHSG 1.11% 약세 거래 중.",
-   "id": "Didorong penguatan bursa AS, IHSG sempat menguat di awal sesi sebelum berbalik melemah 1,11% di tengah aksi tunggu RDG BI serta tekanan pada saham energi dan berkapitalisasi besar.",
-   "ts": "2026-09-22T13:17:01.403477+07:00"
+   "ko": "BI 기준금리 결정(RDG BI) 앞둔 경계감과 국영 은행주(BBRI 등) 약세에 IHSG 1.11% 하락세.",
+   "id": "IHSG melemah 1,11% di tengah sikap hati-hati menjelang RDG BI dan pelemahan saham bank BUMN seperti BBRI.",
+   "ts": "2026-09-22T13:20:45.762064+07:00"
   }
  },
  "top_day": "2026-09-22",
@@ -27013,19 +26873,7 @@
    "score": 316.5,
    "srcs": 4,
    "t_ko": "유가 USD 100선 안정 속 트럼프-이란 회담 가능성 주시",
-   "t_id": "Harga Minyak Stabil di US$ 100, Pasar Nantikan Potensi Pertemuan Trump-Iran",
-   "ai_ko": "· Brent USD 100.37, WTI USD 95.95로 안정\n· 직전 4거래일 8% 급락, 연초 대비로는 60% 넘게 상승\n· Saudi 수출 재개로 중동 공급 우려 완화",
-   "ai_id": "· Brent stabil USD100,37, WTI USD95,95\n· Empat sesi sebelumnya merosot hampir 8%\n· Ekspor Saudi pulih, kekhawatiran pasokan mereda",
-   "ai_tags": [
-    "유가",
-    "지정학",
-    "원자재"
-   ],
-   "ai_tags_id": [
-    "harga minyak",
-    "geopolitik",
-    "komoditas"
-   ]
+   "t_id": "Harga Minyak Stabil di US$ 100, Pasar Nantikan Potensi Pertemuan Trump-Iran"
   }
  ],
  "daylog": {
@@ -27598,6 +27446,16 @@
      "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/3cfe8014c6_aeafdcc36f.pdf",
      "time": "13:48",
      "q": 84
+    },
+    {
+     "t": "WINR",
+     "ko": "상장법인 주식 보유 및 지분 변동 보고",
+     "id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+     "kind_ko": "지분변동",
+     "kind_id": "Kepemilikan",
+     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19092026-7762-00.pdf-0.pdf",
+     "time": "13:01",
+     "q": 0
     }
    ]
   },
@@ -27824,16 +27682,6 @@
      "q": 100
     },
     {
-     "t": "VICO",
-     "ko": "기업공시 — 현금배당 (2026년 9월 22일)",
-     "id": "Keterbukaan Informasi Aksi Korporasi: Dividen Tunai - 22092026",
-     "kind_ko": "자사주·배당",
-     "kind_id": "Buyback/Dividen",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/0a48d83eb1_5cf5c693f9.pdf",
-     "time": "13:11",
-     "q": 96
-    },
-    {
      "t": "SCNP",
      "ko": "SCNP, 2026년 재무제표 감사 위한 외부감사인 선임 공시",
      "id": "Laporan Informasi atau Fakta Material terkait Penunjukan Akuntan Publik dan Kantor Akuntan Publik (AP dan KAP) Dalam Rangka Pelaksanaan Kegiatan Audit Laporan Keuangan Tahun 2026 PT. Selaras Citra Nusantara Perkasa Tbk",
@@ -27842,40 +27690,16 @@
      "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/7d7ab44f03_b6804d53cf.pdf",
      "time": "10:08",
      "q": 72
-    }
-   ]
-  },
-  "2026-09-10": {
-   "ann": [
-    {
-     "t": "BUMI",
-     "ko": "거래소 조회공시 요구에 대한 답변",
-     "id": "Penjelasan atas Permintaan Penjelasan Bursa",
-     "kind_ko": "조회공시",
-     "kind_id": "Penjelasan Bursa",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/5d22e77149_12e6084dc3.pdf",
-     "time": "19:12",
-     "q": 85
     },
     {
-     "t": "MGLV",
-     "ko": "유상증자(HMETD) 추진 기업정보 공시 — 9월10일",
-     "id": "Keterbukaan Informasi Aksi Korporasi - Rencana Penambahan Modal dengan HMETD - 10 Sep 2026",
-     "kind_ko": "유상증자",
-     "kind_id": "Rights Issue",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/881c3a5b7b_ce2450a4f0.pdf",
-     "time": "19:13",
-     "q": 90
-    },
-    {
-     "t": "SMDR",
-     "ko": "거래소 조회공시 요구에 대한 답변",
-     "id": "Penjelasan atas Permintaan Penjelasan Bursa",
-     "kind_ko": "조회공시",
-     "kind_id": "Penjelasan Bursa",
-     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/241bd87170_44053c6d09.pdf",
-     "time": "20:55",
-     "q": 85
+     "t": "TPIA",
+     "ko": "보도자료 — CASS, Back Office에서 Strategic Business Partner로 Chandra Asri Group 전환 지원",
+     "id": "Siaran Pers - Dari Back Office ke Strategic Business Partner, CASS Dukung Transformasi Chandra Asri Group",
+     "kind_ko": null,
+     "kind_id": null,
+     "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/150f02ac64_02168aed41.pdf",
+     "time": "04:29",
+     "q": 66
     }
    ]
   }

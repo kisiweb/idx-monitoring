@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 01:18",
+ "updated": "2026-09-23 01:33",
  "delay_min": 15,
- "fx_basis": "13.15 IDR/KRW · USD/IDR 17,850 · USD/KRW 1,358 · 00:45 Yahoo",
- "idr_per_krw": 13.1451,
+ "fx_basis": "13.14 IDR/KRW · USD/IDR 17,850 · USD/KRW 1,359 · 00:45 Yahoo",
+ "idr_per_krw": 13.1389,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16542,11 +16542,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7769.92,
+   "px": 7770.62,
    "prev": 7764.22,
-   "pct": 0.07,
+   "pct": 0.08,
    "mst": 0,
-   "asof": "14:15",
+   "asof": "14:30",
    "live": true,
    "spark": [
     7779.14,
@@ -16606,18 +16606,21 @@
     7768.68,
     7771.07,
     7769.55,
-    7769.92
+    7770.98,
+    7773.2,
+    7771.61,
+    7770.62
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27246.22,
+   "px": 27248.84,
    "prev": 27122.09,
-   "pct": 0.46,
+   "pct": 0.47,
    "mst": 0,
-   "asof": "14:15",
+   "asof": "14:30",
    "live": true,
    "spark": [
     27223.51,
@@ -16677,18 +16680,21 @@
     27226.05,
     27244.21,
     27241.88,
-    27246.22
+    27248.65,
+    27258.7,
+    27250.8,
+    27248.84
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51865.29,
+   "px": 51875.13,
    "prev": 52053.88,
-   "pct": -0.36,
+   "pct": -0.34,
    "mst": 0,
-   "asof": "14:15",
+   "asof": "14:30",
    "live": true,
    "spark": [
     52161.89,
@@ -16748,7 +16754,10 @@
     51881.64,
     51884.87,
     51861.33,
-    51865.29
+    51872.51,
+    51890.49,
+    51873.07,
+    51875.13
    ]
   },
   {
@@ -17852,9 +17861,69 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-23T01:17:01+07:00",
+   "ts": "2026-09-23T01:32:06+07:00",
    "date": "2026-09-23",
-   "time": "01:17",
+   "time": "01:32",
+   "src": "CNBC",
+   "t": "U.S. strikes Greenland deal at UN to expand military presence at Arctic outposts",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
+   "g": 1,
+   "t_ko": "미국, 유엔서 그린란드 협정 체결해 북극 군사 주둔 확대",
+   "t_id": "AS Capai Kesepakatan Greenland di PBB untuk Perluas Kehadiran Militer di Kutub Utara",
+   "ai_ko": "· 미국, Greenland 안보 영구 관리권 확보\n· 미국·Denmark·Greenland 3국 협정 서명\n· Narsarsuaq 기지 재가동·Mestersvig 주둔",
+   "ai_id": "· AS dapat kendali permanen keamanan Greenland\n· Perjanjian AS-Denmark-Greenland diteken\n· Pangkalan Narsarsuaq dibuka, ada di Mestersvig",
+   "ai_tags": [
+    "지정학",
+    "안보",
+    "미국"
+   ],
+   "ai_tags_id": [
+    "geopolitik",
+    "keamanan",
+    "AS"
+   ]
+  },
+  {
+   "ts": "2026-09-23T01:31:22+07:00",
+   "date": "2026-09-23",
+   "time": "01:31",
+   "src": "CNBC",
+   "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+   "g": 1,
+   "t_ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
+   "t_id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan"
+  },
+  {
+   "ts": "2026-09-23T01:29:57+07:00",
+   "date": "2026-09-23",
+   "time": "01:29",
+   "src": "CNBC",
+   "t": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+   "g": 1,
+   "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
+   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
+  },
+  {
+   "ts": "2026-09-23T01:28:28+07:00",
+   "date": "2026-09-23",
+   "time": "01:28",
+   "src": "CNBC",
+   "t": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+   "g": 1,
+   "t_ko": "Anthropic·OpenAI, 속도 조절 요구 이후 첫 저가형 모델 출시",
+   "t_id": "Anthropic dan OpenAI Luncurkan Model Lebih Murah dalam Rilis Perdana Sejak Seruan Perlambatan"
+  },
+  {
+   "ts": "2026-09-23T01:24:57+07:00",
+   "date": "2026-09-23",
+   "time": "01:24",
    "src": "CNBC",
    "t": "Trump slams Iran and Cuba, defends AI growth and recounts record in UN speech",
    "tags": [],
@@ -17862,6 +17931,18 @@
    "g": 1,
    "t_ko": "Trump, UN 연설서 이란·쿠바 비판 및 AI 성장 지지",
    "t_id": "Trump Kecam Iran-Kuba, Bela Pertumbuhan AI dan Pamer Rekor di PBB"
+  },
+  {
+   "ts": "2026-09-23T01:14:55+07:00",
+   "date": "2026-09-23",
+   "time": "01:14",
+   "src": "Bloomberg",
+   "t": "Meta’s Muse Drags Down Stocks That Depend on ‘Consumer Inertia’",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/meta-s-muse-drags-down-stocks-that-depend-on-consumer-inertia",
+   "g": 1,
+   "t_ko": "Meta Muse 등장에 소비자기존관성 의존 기업 주가 하락",
+   "t_id": "Muse Meta Seret Saham Bergantung pada Kelembapan Konsumen"
   },
   {
    "ts": "2026-09-23T01:14:00+07:00",
@@ -17889,6 +17970,19 @@
    "t_id": "Tak Ada Rekor Saham Baru, Tak Masalah: Trader Opsi Pasang Taruhan di Emiten Ini"
   },
   {
+   "ts": "2026-09-23T01:09:07+07:00",
+   "date": "2026-09-23",
+   "time": "01:09",
+   "src": "FT",
+   "t": "Trump says US officials met with Iranian team",
+   "tags": [],
+   "url": "https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ee8d153-f861-445a-9582-74c7448286c0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "트럼프, 미국 관료들이 이란 대표단과 회동했다고 밝혀",
+   "t_id": "Trump Sebut Pejabat AS Bertemu Tim Iran"
+  },
+  {
    "ts": "2026-09-23T01:08:25+07:00",
    "date": "2026-09-23",
    "time": "01:08",
@@ -17899,18 +17993,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2025/09/18/MARWAN-18-3007534139.jpg",
    "t_ko": "에너지 부문 공공서비스청 계획 취약… 전문가들 전력 공급 차질 경고",
    "t_id": "Rencana BLU Sektor Energi Rawan, Pengamat Ingatkan Risiko Listrik"
-  },
-  {
-   "ts": "2026-09-23T01:06:03+07:00",
-   "date": "2026-09-23",
-   "time": "01:06",
-   "src": "CNBC",
-   "t": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-   "g": 1,
-   "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
-   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
   },
   {
    "ts": "2026-09-23T00:52:00+07:00",
@@ -17999,68 +18081,6 @@
    "g": 1,
    "t_ko": "트럼프, 유엔서 CNN에 '취재 자격 없다'며 날 세워",
    "t_id": "Trump Semprot CNN di PBB: 'Anda Seharusnya Tidak di Sini Meliput Saya'"
-  },
-  {
-   "ts": "2026-09-23T00:30:27+07:00",
-   "date": "2026-09-23",
-   "time": "00:30",
-   "src": "CNBC",
-   "t": "Altman and Amodei expected to join UN Security Council meeting about AI",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/altman-amodei-unga-ai-safety.html",
-   "g": 1,
-   "t_ko": "Altman·Amodei, UN 안보리 AI 회의 참석 예정",
-   "t_id": "Altman dan Amodei Dijadwalkan Hadiri Rapat Dewan Keamanan PBB Bahas AI"
-  },
-  {
-   "ts": "2026-09-23T00:15:48+07:00",
-   "date": "2026-09-23",
-   "time": "00:15",
-   "src": "FT",
-   "t": "EU to lift sanctions on two Russian oligarchs",
-   "tags": [],
-   "url": "https://www.ft.com/content/760091dd-20be-4152-aa0d-561475a99ee8?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3e07606f-c534-4e98-9b0c-02f92853ebeb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "EU, 러시아 올리고르크 2명 제재 해제",
-   "t_id": "Uni Eropa Cabut Sanksi Dua Oligarki Rusia"
-  },
-  {
-   "ts": "2026-09-23T00:14:29+07:00",
-   "date": "2026-09-23",
-   "time": "00:14",
-   "src": "Bloomberg",
-   "t": "Private Credit's Default Disconnect",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/private-credit-s-default-disconnect-video",
-   "g": 1,
-   "t_ko": "프라이빗 크레디트(Private Credit) 부실 지연 문제",
-   "t_id": "Kesenjangan Gagal Bayar Kredit Swasta"
-  },
-  {
-   "ts": "2026-09-23T00:06:12+07:00",
-   "date": "2026-09-23",
-   "time": "00:06",
-   "src": "FT",
-   "t": "Trump threatens to ‘annihilate’ Iran in combative UN speech",
-   "tags": [],
-   "url": "https://www.ft.com/content/1434496d-0eaf-4270-8ad3-87724cd3721e?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc6f1f0c2-4396-4ef4-9bfe-052d3155a7cb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "Trump, UN 연설에서 이란 상대로 강경 경고",
-   "t_id": "Trump Ancam 'Hancurkan' Iran dalam Pidato PBB yang Agresif"
-  },
-  {
-   "ts": "2026-09-23T00:05:29+07:00",
-   "date": "2026-09-23",
-   "time": "00:05",
-   "src": "Bloomberg",
-   "t": "Broader Growth Can Drive Stocks Higher: UBS's Hoffmann",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/broader-growth-can-drive-stocks-higher-ubs-s-hoffmann-video",
-   "g": 1,
-   "t_ko": "UBS Hoffmann, 경제 성장세 확대로 증시 상승 전망",
-   "t_id": "Pertumbuhan Lebih Luas Dapat Dorong Saham Lebih Tinggi: Hoffmann UBS"
   },
   {
    "ts": "2026-09-22T23:52:08+07:00",
@@ -19376,8 +19396,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.14",
-   "d": 2.27,
-   "ytd": 13.14,
+   "d": 2.25,
+   "ytd": 13.12,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19387,9 +19407,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.959%",
-   "d": -0.08,
-   "ytd": 19.12,
+   "v": "4.951%",
+   "d": -0.24,
+   "ytd": 18.93,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19410,9 +19430,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.61",
-   "d": 0.25,
-   "ytd": 2.37,
+   "v": "100.60",
+   "d": 0.24,
+   "ytd": 2.36,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19422,9 +19442,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.79",
-   "d": -3.42,
-   "ytd": 56.37,
+   "v": "90.30",
+   "d": -2.87,
+   "ytd": 57.26,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19434,9 +19454,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,393.3",
-   "d": 0.32,
-   "ytd": 1.57,
+   "v": "4,396.1",
+   "d": 0.39,
+   "ytd": 1.63,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19474,11 +19494,11 @@
    "d": -0.18,
    "ytd": 20.72,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
   }
  ],
  "curve": {
@@ -23528,9 +23548,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 410,
+  "pc_age_min": 425,
   "news_ai_cache": 92,
-  "news_ai_hit": 34,
+  "news_ai_hit": 35,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -26232,16 +26252,16 @@
   "2026-09-23": {
    "news": [
     {
-     "t": "Tech-Stocks Rise as Oil Sinks Below $100",
-     "ko": "유가 100달러 하회 속 기술주 상승",
-     "id": "Saham Teknologi Naik Saat Minyak Anjlok di Bawah $100",
+     "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+     "ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
+     "id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan",
      "ai_ko": "",
      "ai_id": "",
-     "src": "WSJ",
-     "url": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-oil-prices-turn-negative-e19323a8?mod=rss_markets_main",
-     "time": "01:14",
+     "src": "CNBC",
+     "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+     "time": "01:31",
      "tags": [],
-     "sc": 310.0,
+     "sc": 311.0,
      "slot": "global",
      "q": 85
     },
@@ -26262,16 +26282,16 @@
      "q": 57
     },
     {
-     "t": "Investors Demand Highest Yield at Two-Year U.S. Treasury Auction Since 2024",
-     "ko": "미국 2년물 국채 입찰, 2024년 이후 최고 금리 기록",
-     "id": "Investor Tuntut Imbal Hasil Tertinggi pada Lelang US Treasury 2 Tahun Sejak 2024",
+     "t": "Tech-Stocks Rise as Oil Sinks Below $100",
+     "ko": "유가 100달러 하회 속 기술주 상승",
+     "id": "Saham Teknologi Naik Saat Minyak Anjlok di Bawah $100",
      "ai_ko": "",
      "ai_id": "",
      "src": "WSJ",
-     "url": "https://www.wsj.com/finance/investing/investors-demand-highest-yield-at-two-year-u-s-treasury-auction-since-2024-2daca035?mod=rss_markets_main",
-     "time": "00:42",
+     "url": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-oil-prices-turn-negative-e19323a8?mod=rss_markets_main",
+     "time": "01:14",
      "tags": [],
-     "sc": 309.0,
+     "sc": 310.0,
      "slot": "global",
      "q": 85
     }

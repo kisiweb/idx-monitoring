@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 21:50",
+ "updated": "2026-09-22 21:55",
  "delay_min": 15,
  "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,358 · 21:00 Yahoo",
- "idr_per_krw": 13.1661,
+ "idr_per_krw": 13.1671,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16833,11 +16833,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7764.33,
+   "px": 7765.51,
    "prev": 7764.22,
-   "pct": 0.0,
+   "pct": 0.02,
    "mst": 0,
-   "asof": "10:45",
+   "asof": "10:50",
    "live": true,
    "spark": [
     7779.14,
@@ -16855,18 +16855,19 @@
     7768.44,
     7765.92,
     7764.01,
-    7764.33
+    7767.23,
+    7765.51
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27216.61,
+   "px": 27232.27,
    "prev": 27122.09,
-   "pct": 0.35,
+   "pct": 0.41,
    "mst": 0,
-   "asof": "10:45",
+   "asof": "10:50",
    "live": true,
    "spark": [
     27223.51,
@@ -16884,18 +16885,19 @@
     27264.78,
     27231.04,
     27213.53,
-    27216.61
+    27238.25,
+    27232.27
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51837.02,
+   "px": 51838.17,
    "prev": 52053.88,
-   "pct": -0.42,
+   "pct": -0.41,
    "mst": 0,
-   "asof": "10:45",
+   "asof": "10:50",
    "live": true,
    "spark": [
     52161.89,
@@ -16913,7 +16915,8 @@
     51792.75,
     51840.89,
     51831.47,
-    51837.02
+    51837.64,
+    51838.17
    ]
   },
   {
@@ -18013,6 +18016,64 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T21:54:45.042213+07:00",
+   "date": "2026-09-22",
+   "time": "21:54",
+   "src": "Jawa Pos",
+   "t": "Heboh Uang Rupiah Tanda Tangan Purbaya, BI Pastikan Cetakan 2026 Sah Digunakan",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220311/heboh-uang-rupiah-tanda-tangan-purbaya-bi-pastikan-cetakan-2026-sah-digunakan",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/pecahan-rp-100000-tahun-emisi-te-2022-yang-memuat-tanda-tangan-purbaya-dan-perry-warjiyo-sebagai-gubernur-bank-indonesia-bi-threads-at-christopherkeju-fxOBK.webp",
+   "t_ko": "Purbaya 서명 루피아화 논란 속 BI, 2026년 발행분 정상 사용 확인",
+   "t_id": "Heboh Uang Rupiah Tanda Tangan Purbaya, BI Pastikan Cetakan 2026 Sah",
+   "ai_ko": "· 2026년 발행권 법정통화로 유효\n· Bank Indonesia 공식 확인\n· Purbaya·Perry Warjiyo 서명 논란 진화",
+   "ai_id": "· Uang cetak 2026 sah sebagai alat bayar\n· Penegasan dari Bank Indonesia\n· Tanda tangan Purbaya dan Perry Warjiyo",
+   "ai_tags": [
+    "통화",
+    "Bank Indonesia"
+   ],
+   "ai_tags_id": [
+    "rupiah",
+    "Bank Indonesia"
+   ]
+  },
+  {
+   "ts": "2026-09-22T21:48:32+07:00",
+   "date": "2026-09-22",
+   "time": "21:48",
+   "src": "Detik",
+   "t": "Industri Tekstil Bakal Dapat Tax Holiday",
+   "tags": [],
+   "url": "https://finance.detik.com/industri/d-8674761/industri-tekstil-bakal-dapat-tax-holiday",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/04/15/melihat-pameran-mesin-produksi-tekstil-di-jiexpo-kemayoran-1776240166100_169.jpeg?w=360&q=90",
+   "t_ko": "섬유 산업, 세제 혜택(Tax Holiday) 적용 전망"
+  },
+  {
+   "ts": "2026-09-22T21:44:04+07:00",
+   "date": "2026-09-22",
+   "time": "21:44",
+   "src": "Bloomberg",
+   "t": "Goldman's Snider Expects Double-Digit S&P Earnings Growth",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/goldman-s-snider-expects-double-digit-earnings-growth-video",
+   "g": 1,
+   "t_ko": "Goldman Sachs Snider, S&P 500 두 자릿수 순이익 증가 전망",
+   "t_id": "Snider Goldman Prediksi Pertumbuhan Laba S&P Dua Digit"
+  },
+  {
+   "ts": "2026-09-22T21:41:26+07:00",
+   "date": "2026-09-22",
+   "time": "21:41",
+   "src": "Yahoo Finance",
+   "t": "Why Scorpio Tankers Stock Dropped Today",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/why-scorpio-tankers-stock-dropped-144126436.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/7fb7f339f2afa6d2b1862cfd8630a7bc.jpg",
+   "t_ko": "Scorpio Tankers 주가 하락 배경",
+   "t_id": "Alasan Saham Scorpio Tankers Anjlok Hari Ini"
+  },
+  {
    "ts": "2026-09-22T21:38:43+07:00",
    "date": "2026-09-22",
    "time": "21:38",
@@ -18036,6 +18097,19 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2020/11/08/siap-siap-tol-cimanggis-cibitung-bakal-segera-dibuka-2_169.jpeg?w=360&q=90",
    "t_ko": "유료도로 개발기금 관리청 신설 및 역할 확정",
    "t_id": "Balai Pengelolaan Dana Pengembangan Jalan Tol Dibentuk, Ini Fungsinya"
+  },
+  {
+   "ts": "2026-09-22T21:36:04+07:00",
+   "date": "2026-09-22",
+   "time": "21:36",
+   "src": "FT",
+   "t": "Oil falls as Saudi Arabia signals East-West pipeline reopening",
+   "tags": [],
+   "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "사우디아라비아 동서 송유관 재가동 시그널에 유가 하락",
+   "t_id": "Minyak Turun Seiring Sinyal Arab Saudi Buka Kembali Pipa Timur-Barat"
   },
   {
    "ts": "2026-09-22T21:28:27+07:00",
@@ -18230,42 +18304,6 @@
    "t_ko": "국영 섬유사 개편: 신설 법인 자금 조달원 미공개"
   },
   {
-   "ts": "2026-09-22T20:58:24+07:00",
-   "date": "2026-09-22",
-   "time": "20:58",
-   "src": "Bloomberg",
-   "t": "Big Take: How Much Is the Hormuz Blockade Costing the US?",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/how-much-is-the-hormuz-blockade-costing-the-us-video",
-   "g": 1,
-   "t_ko": "호르무즈 해협 봉쇄로 인한 미국의 경제적 비용 분석",
-   "t_id": "Big Take: Berapa Biaya Blokade Selat Hormuz bagi AS?"
-  },
-  {
-   "ts": "2026-09-22T20:56:19+07:00",
-   "date": "2026-09-22",
-   "time": "20:56",
-   "src": "CNBC",
-   "t": "U.S. strikes Greenland deal for 'permanent control over security,' will send forces to Danish dogsled outpost and reopen Cold War base: Report",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-greenland-security-deal-military-bases-.html",
-   "g": 1,
-   "t_ko": "미국, 그린란드 안보 영구 통제권 확보 합의 — 덴마크 기지에 병력 배치 및 냉전기 기지 재가동",
-   "t_id": "AS Caplok Kesepakatan Greenland untuk Kontrol Keamanan Permanen, Kirim Pasukan dan Buka Kembali Pangkalan Perang Dingin",
-   "ai_ko": "· 미국, Greenland 안보 영구 관리권 확보\n· 미국·Denmark·Greenland 3국 협정 서명\n· Narsarsuaq 기지 재가동·Mestersvig 주둔",
-   "ai_id": "· AS dapat kendali permanen keamanan Greenland\n· Perjanjian AS-Denmark-Greenland diteken\n· Pangkalan Narsarsuaq dibuka, ada di Mestersvig",
-   "ai_tags": [
-    "지정학",
-    "안보",
-    "미국"
-   ],
-   "ai_tags_id": [
-    "geopolitik",
-    "keamanan",
-    "AS"
-   ]
-  },
-  {
    "ts": "2026-09-22T20:50:59+07:00",
    "date": "2026-09-22",
    "time": "20:50",
@@ -18300,18 +18338,6 @@
    "img": "https://static.republika.co.id/uploads/images/detailnews/091077300-1785491430-830-556.jpg",
    "t_ko": "자본시장 투자자 52% 증가 — 거래 플랫폼 안정성 대두",
    "t_id": "Investor Pasar Modal Tumbuh 52 Persen, Keandalan Platform Transaksi Jadi Perhatian"
-  },
-  {
-   "ts": "2026-09-22T20:47:12+07:00",
-   "date": "2026-09-22",
-   "time": "20:47",
-   "src": "CNBC",
-   "t": "September surge or October offload? Jobs experts weigh in on this fall’s hiring trends",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/september-surge-october-offload-jobs-experts-on-fall-2026-hiring-trends.html",
-   "g": 1,
-   "t_ko": "가을철 고용 시장 동향 진단 — 9월 급등 혹은 10월 매도",
-   "t_id": "Lonjakan September atau Jual Oktober? Pakar Ketenagakerjaan Soroti Tren Perekrutan Musim Ini"
   },
   {
    "ts": "2026-09-22T20:45:53+07:00",
@@ -19333,54 +19359,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/dengan-dukungan-pnm-bu-dewi-nasabah-pnm-mekaar-di-sukmajaya-depok-bersama-anggota-kelompoknya-menanam-pakcoy-kangkung-dan-bayam-di-lingkungan-tempat-tinggal-mereka-istimewa-Zm6DW.webp",
    "t_ko": "PNM은 Agro Urban Madani 프로그램을 통해 도시 복도를 식량 공급원으로 전환합니다.",
    "t_id": "PNM Sulap Lorong Kota Menjadi Sumber Pangan Lewat Program Agro Urban Madani"
-  },
-  {
-   "ts": "2026-09-22T15:43:23+07:00",
-   "date": "2026-09-22",
-   "time": "15:43",
-   "src": "Jawa Pos",
-   "t": "Kadar Nikel Makin Rendah, Industri Smelter Indonesia Hadapi Tantangan Baru",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220110/kadar-nikel-makin-rendah-industri-smelter-indonesia-hadapi-tantangan-baru",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/sekretaris-jenderal-asosiasi-penambang-nikel-indonesia-apni-rizal-kasli-nanda-prayogajawaposcom-qXpex.webp",
-   "t_ko": "니켈 품위 하락에 인도네시아 제련 업계 신규 악재 직면",
-   "t_id": "Kadar Nikel Menurun, Industri Smelter Indonesia Hadapi Tantangan Baru",
-   "ai_ko": "· 니켈 광석 품위 저하로 제련 부담\n· 고품위 사프롤라이트는 RKEF로 처리\n· 리모나이트 HPAL은 배터리 소재 공급",
-   "ai_id": "· Kadar nikel turun, smelter tertekan\n· Saprolit kadar tinggi diolah via RKEF\n· Limonit HPAL pasok bahan baku baterai",
-   "ai_tags": [
-    "니켈",
-    "제련",
-    "배터리"
-   ],
-   "ai_tags_id": [
-    "nikel",
-    "smelter",
-    "baterai"
-   ]
-  },
-  {
-   "ts": "2026-09-22T15:42:37+07:00",
-   "date": "2026-09-22",
-   "time": "15:42",
-   "src": "Detik",
-   "t": "Kualitas Tol Bakal Dicek Setiap Kuartal, Operator yang Lalai Disanksi",
-   "tags": [],
-   "url": "https://finance.detik.com/infrastruktur/d-8674149/kualitas-tol-bakal-dicek-setiap-kuartal-operator-yang-lalai-disanksi",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/rapat-bpjt-di-komisi-v-dpr-ri-1790066455652_169.jpeg?w=360&q=90",
-   "t_ko": "유료도로 품질 분기별 점검… 관리 소홀 운영사 제재",
-   "t_id": "Kualitas Tol Bakal Dicek Setiap Kuartal, Operator yang Lalai Disanksi",
-   "ai_ko": "· 고속도로 노면 평탄지수 연 4회 점검 의무화\n· BPJT, 유료도로 사업자 행정제재 도입\n· 2014년 최소서비스기준 시행령 개정 추진",
-   "ai_id": "· Survei IRI wajib empat kali setahun\n· BPJT siapkan sanksi administratif BUJT\n· Revisi Permen PU 16/2014 tentang SPM",
-   "ai_tags": [
-    "규제",
-    "인프라",
-    "도로"
-   ],
-   "ai_tags_id": [
-    "regulasi",
-    "infrastruktur",
-    "jalan tol"
-   ]
   }
  ],
  "kisi_news": [
@@ -19577,9 +19555,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.51",
-   "d": 0.15,
-   "ytd": 2.27,
+   "v": "100.57",
+   "d": 0.21,
+   "ytd": 2.32,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19589,9 +19567,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.71",
-   "d": -2.43,
-   "ytd": 57.98,
+   "v": "91.56",
+   "d": -1.52,
+   "ytd": 59.46,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19601,9 +19579,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,365.9",
-   "d": -0.3,
-   "ytd": 0.93,
+   "v": "4,355.6",
+   "d": -0.54,
+   "ytd": 0.69,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -23695,9 +23673,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 202,
+  "pc_age_min": 207,
   "news_ai_cache": 92,
-  "news_ai_hit": 37,
+  "news_ai_hit": 35,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -25498,28 +25476,28 @@
  "top_day": "2026-09-22",
  "top_news": [
   {
-   "ts": "2026-09-22T14:08:09+07:00",
+   "ts": "2026-09-22T21:54:45.042213+07:00",
    "date": "2026-09-22",
-   "time": "14:08",
-   "src": "Republika",
-   "t": "Uang Rupiah Kertas Bertanda Tangan Purbaya dan Perry Diburu, Ini Respons Bank Indonesia",
+   "time": "21:54",
+   "src": "Jawa Pos",
+   "t": "Heboh Uang Rupiah Tanda Tangan Purbaya, BI Pastikan Cetakan 2026 Sah Digunakan",
    "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlr7tl490/uang-rupiah-kertas-bertanda-tangan-purbaya-dan-perry-diburu-ini-respons-bank-indonesia",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/016797200-1789452655-830-556.jpg",
-   "score": 412.55,
-   "srcs": 3,
-   "t_ko": "Purbaya·Perry 서명 루피아 지폐 수집 열풍에 인도네시아은행(BI) 입장 표명",
-   "t_id": "Uang Rupiah Kertas Bertanda Tangan Purbaya dan Perry Diburu, Ini Respons Bank Indonesia",
-   "ai_ko": "· Rp10만 지폐 수집 수요 급증, 법정통화 유효\n· Bank Indonesia, Purbaya·Perry 서명 지폐\n· 9월 22일, 두 인사 퇴임으로 화제",
-   "ai_id": "· Uang Rp100.000 diburu kolektor\n· BI: tetap alat pembayaran sah\n· 22/9, viral usai Purbaya lengser",
+   "url": "https://www.jawapos.com/ekonomi/2609220311/heboh-uang-rupiah-tanda-tangan-purbaya-bi-pastikan-cetakan-2026-sah-digunakan",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/pecahan-rp-100000-tahun-emisi-te-2022-yang-memuat-tanda-tangan-purbaya-dan-perry-warjiyo-sebagai-gubernur-bank-indonesia-bi-threads-at-christopherkeju-fxOBK.webp",
+   "t_ko": "Purbaya 서명 루피아화 논란 속 BI, 2026년 발행분 정상 사용 확인",
+   "t_id": "Heboh Uang Rupiah Tanda Tangan Purbaya, BI Pastikan Cetakan 2026 Sah",
+   "ai_ko": "· 2026년 발행권 법정통화로 유효\n· Bank Indonesia 공식 확인\n· Purbaya·Perry Warjiyo 서명 논란 진화",
+   "ai_id": "· Uang cetak 2026 sah sebagai alat bayar\n· Penegasan dari Bank Indonesia\n· Tanda tangan Purbaya dan Perry Warjiyo",
    "ai_tags": [
     "통화",
-    "중앙은행"
+    "Bank Indonesia"
    ],
    "ai_tags_id": [
     "rupiah",
-    "bank sentral"
-   ]
+    "Bank Indonesia"
+   ],
+   "score": 414.65,
+   "srcs": 3
   },
   {
    "ts": "2026-09-22T18:37:50+07:00",
@@ -25576,7 +25554,7 @@
    "t_ko": "유가 100달러 아래로 하락하며 증시 상승",
    "t_id": "Saham Menguat Seiring Harga Minyak Turun di Bawah $100",
    "score": 314.5,
-   "srcs": 7
+   "srcs": 4
   }
  ],
  "daylog": {

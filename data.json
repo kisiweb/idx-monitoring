@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 20:05",
+ "updated": "2026-09-22 20:11",
  "delay_min": 15,
- "fx_basis": "13.15 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,359 · 17:30 Yahoo",
- "idr_per_krw": 13.1475,
+ "fx_basis": "13.15 IDR/KRW · USD/IDR 17,865 · USD/KRW 1,358 · 17:30 Yahoo",
+ "idr_per_krw": 13.1536,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -18181,9 +18181,33 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-22T20:04:13.228112+07:00",
+   "ts": "2026-09-22T20:09:00+07:00",
    "date": "2026-09-22",
-   "time": "20:04",
+   "time": "20:09",
+   "src": "Republika",
+   "t": "Ada Wacana Peralihan Payroll ASN dari BPD ke Himbara, Begini Sikap OJK",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlrm02349/ada-wacana-peralihan-payroll-asn-dari-bpd-ke-himbara-begini-sikap-ojk",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/_260908220239-141.png",
+   "t_id": "Ada Wacana Peralihan Payroll ASN dari BPD ke Himbara, Begini Sikap OJK",
+   "t_ko": "지방은행에서 Himbara로 공무원 급여 이체 추진 — OJK 입장"
+  },
+  {
+   "ts": "2026-09-22T20:08:00+07:00",
+   "date": "2026-09-22",
+   "time": "20:08",
+   "src": "Medcom",
+   "t": "Peluang Besar di Balik Kiriman Berat",
+   "tags": [],
+   "url": "https://www.medcom.id/ekonomi/bisnis/zNAdDX3K-peluang-besar-di-balik-kiriman-berat",
+   "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843790/aWsAK0QVL6.jpeg?w=720",
+   "t_id": "Peluang Besar di Balik Kiriman Berat",
+   "t_ko": "화물 운송 시장 성장 잠재력 확대"
+  },
+  {
+   "ts": "2026-09-22T20:06:08+07:00",
+   "date": "2026-09-22",
+   "time": "20:06",
    "src": "Jawa Pos",
    "t": "Menkeu Suahasil Minta Bea Cukai Perkuat 3 Elemen Ini untuk Bendah Impor Ilegal",
    "tags": [],
@@ -18191,6 +18215,30 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/17/1fYKFUeniGOc5z25Ayl9ddfRAK50eT6NEE67JGST.webp",
    "t_ko": "Suahasil 차관, 불법 수입품 통제를 위해 관세청에 3대 요소 강화 주문",
    "t_id": "Menkeu Suahasil Minta Bea Cukai Perkuat 3 Elemen Ini untuk Bendah Impor Ilegal"
+  },
+  {
+   "ts": "2026-09-22T20:04:00+07:00",
+   "date": "2026-09-22",
+   "time": "20:04",
+   "src": "Katadata",
+   "t": "Prabowo Minta Bank Himbara Biayai Industri Tekstil untuk Peremajaan Mesin",
+   "tags": [],
+   "url": "https://katadata.co.id/berita/nasional/6ab27cc08044a/prabowo-minta-bank-himbara-biayai-industri-tekstil-untuk-peremajaan-mesin",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/04/16/2026_04_16-12_04_00_c73a3780-3960-11f1-9348-0242ac120002_620x413_thumb.jpg",
+   "t_id": "Prabowo Minta Bank Himbara Biayai Industri Tekstil untuk Peremajaan Mesin",
+   "t_ko": "Prabowo, Himbara 은행에 방직 산업 노후 설비 교체 자금 지원 요청"
+  },
+  {
+   "ts": "2026-09-22T20:01:00+07:00",
+   "date": "2026-09-22",
+   "time": "20:01",
+   "src": "Katadata",
+   "t": "Bahlil Tawarkan PLTA Mamberamo 23 GW, Ini Profil Sungai Raksasa Papua",
+   "tags": [],
+   "url": "https://katadata.co.id/ekonomi-hijau/energi-baru/6ab27c2bca8a3/bahlil-tawarkan-plta-mamberamo-23-gw-ini-profil-sungai-raksasa-papua",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2025/08/27/2025_08_27-20_47_00_ba7e8a94-83c4-11f0-9ef6-2f0b0bf05855_620x413_thumb.jpg",
+   "t_id": "Bahlil Tawarkan PLTA Mamberamo 23 GW, Ini Profil Sungai Raksasa Papua",
+   "t_ko": "Bahlil, 23GW Mamberamo 수력발전소 제안 — 파푸아 대형 하천 현황"
   },
   {
    "ts": "2026-09-22T20:00:28+07:00",
@@ -18205,6 +18253,19 @@
    "t_id": "10 Hal Utama yang Perlu Dicermati di Pasar Saham Selasa"
   },
   {
+   "ts": "2026-09-22T19:57:01+07:00",
+   "date": "2026-09-22",
+   "time": "19:57",
+   "src": "Yahoo Finance",
+   "t": "The Fed Just Gave Berkshire a Raise. Here’s How Big It Is.",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/stocks/articles/fed-just-gave-berkshire-raise-125701755.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/motleyfool.com/be79a83c71167dfc4b77911e4e45c707.jpg",
+   "t_ko": "연준 금리 정책으로 Berkshire Hathaway 수익 확대 전망",
+   "t_id": "The Fed Beri 'Durian Batang' ke Berkshire, Begini Besarannya"
+  },
+  {
    "ts": "2026-09-22T19:56:37+07:00",
    "date": "2026-09-22",
    "time": "19:56",
@@ -18215,6 +18276,19 @@
    "g": 1,
    "t_ko": "이란, 미국 군사 압박 완화 시 7일 내 호르무즈 해협 개방 시사",
    "t_id": "Iran Dilaporkan Bisa Buka Kembali Selat Hormuz dalam 7 Hari Jika AS Longgarkan Tekanan Militer"
+  },
+  {
+   "ts": "2026-09-22T19:55:25+07:00",
+   "date": "2026-09-22",
+   "time": "19:55",
+   "src": "Yahoo Finance",
+   "t": "Stock Market Today: Dow Rises On U.S.-Iran Peace Hopes; Oil Prices, Treasury Yields Extend Losses (Live Coverage)",
+   "tags": [],
+   "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/ibd.com/c411a8ad8ca8506fe2b3cf09ea960328.jpg",
+   "t_ko": "뉴욕증시, 미-이란 평화 기대에 다우 상승·유가·국채금리 하락",
+   "t_id": "Bursa Saham Hari Ini: Dow Naik Ditopang Harapan Damai AS-Iran; Minyak & Yield Obligasi Lanjut Turun"
   },
   {
    "ts": "2026-09-22T19:53:05+07:00",
@@ -18249,8 +18323,8 @@
    "tags": [],
    "url": "https://www.medcom.id/ekonomi/ekonomi-digital/xkEdeZrb-bank-ingatkan-belanja-pakai-ai-bisa-buka-celah-penipuan-dan-kebocoran-data",
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843784/XCFai4VJpn.jpg?w=720",
-   "t_id": "Bank Ingatkan Belanja Pakai AI Bisa Buka Celah Penipuan dan Kebocoran Data",
-   "t_ko": "은행권, AI 쇼핑 활용이 사기 및 데이터 유출 취약점 악용 경고"
+   "t_ko": "은행권, AI 쇼핑 활용이 사기 및 데이터 유출 취약점 악용 경고",
+   "t_id": "Bank Ingatkan Belanja Pakai AI Bisa Buka Celah Penipuan dan Kebocoran Data"
   },
   {
    "ts": "2026-09-22T19:50:24+07:00",
@@ -18272,8 +18346,8 @@
    "tags": [],
    "url": "https://katadata.co.id/berita/energi/6ab2795a05f5c/bahlil-promosikan-pembangunan-data-center-di-indonesia-harga-listrik-kompetitif",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/07/09/Bahlil_Lahadalia-2026_07_09-16_32_22_77fceb56d2727b95a53848d0d52cf1ed_620x413_thumb.png",
-   "t_id": "Bahlil Promosikan Pembangunan Data Center di Indonesia: Harga Listrik Kompetitif",
-   "t_ko": "Bahlil, 인도네시아 데이터센터 건립 홍보 — 경쟁력 있는 전기요금"
+   "t_ko": "Bahlil, 인도네시아 데이터센터 건립 홍보 — 경쟁력 있는 전기요금",
+   "t_id": "Bahlil Promosikan Pembangunan Data Center di Indonesia: Harga Listrik Kompetitif"
   },
   {
    "ts": "2026-09-22T19:45:15+07:00",
@@ -18296,7 +18370,21 @@
    "tags": [],
    "url": "https://mediaindonesia.com/internasional/936346/dua-ketakutan-pemimpin-teluk-bertemu-donald-trump-apa-itu",
    "g": 1,
-   "t_ko": "걸프 지역 지도자들의 Donald Trump 상대 두려움 — 핵심 쟁점"
+   "t_ko": "걸프 지역 지도자들의 Donald Trump 상대 두려움 — 핵심 쟁점",
+   "t_id": "Dua Ketakutan Pemimpin Teluk Jumpa Donald Trump, Apa Itu?"
+  },
+  {
+   "ts": "2026-09-22T19:44:20+07:00",
+   "date": "2026-09-22",
+   "time": "19:44",
+   "src": "Yahoo Finance",
+   "t": "Apple May Return to Servers With Its Own AI Chips. Nvidia Could Still Get Paid",
+   "tags": [],
+   "url": "https://finance.yahoo.com/technology/ai/articles/apple-may-return-servers-own-124420628.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/insidermonkey.com/07c0b7e7d56cc1de166e2a28043049b3.jpg",
+   "t_ko": "Apple, 자체 AI 칩 서버 도입 추진…Nvidia는 계속 수혜 전망",
+   "t_id": "Apple Berpeluang Masuk Pasar Server via Chip AI Sendiri, Nvidia Tetap Diuntungkan"
   },
   {
    "ts": "2026-09-22T19:43:53+07:00",
@@ -18330,7 +18418,21 @@
    "t": "Disahkan DPR, Baleg Beberkan 9 Poin Krusial UU Pengaturan Reforma Agraria",
    "tags": [],
    "url": "https://mediaindonesia.com/politik-dan-hukum/936342/disahkan-dpr-baleg-beberkan-9-poin-krusial-uu-pengaturan-reforma-agraria",
-   "t_ko": "DPR, 토지개혁법 개정안 9대 핵심 포인트 의결"
+   "t_ko": "DPR, 토지개혁법 개정안 9대 핵심 포인트 의결",
+   "t_id": "Disahkan DPR, Baleg Ungkap 9 Poin Krusial UU Reforma Agraria"
+  },
+  {
+   "ts": "2026-09-22T19:41:26+07:00",
+   "date": "2026-09-22",
+   "time": "19:41",
+   "src": "Yahoo Finance",
+   "t": "BMW CEO sees risk of cheap Chinese cars in Europe but opposes tariffs",
+   "tags": [],
+   "url": "https://finance.yahoo.com/news/bmw-ceo-sees-risk-cheap-124126317.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/reuters.com/305e3c1146b71b1823d458dd850d4dcb.jpg",
+   "t_ko": "BMW CEO, 유럽 내 저가 중국산 자동차 리스크 경고 및 관세 반대",
+   "t_id": "CEO BMW Waspada Risiko Mobil Murah China di Eropa tapi Tolak Tarif"
   },
   {
    "ts": "2026-09-22T19:40:15+07:00",
@@ -18343,19 +18445,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/direktur-utama-pt-indodana-multi-finance-mira-wibowo-bersama-banking-director-pt-bank-hsbc-indonesia-steve-andoko-seusai-penendatanganan-kerja-sama-pembiayaan-indodana-istimewa-MabbY.webp",
    "t_ko": "Indodana Finance, HSBC Indonesia로부터 Rp7,000억 조달",
    "t_id": "Indodana Finance Terima Pendanaan Rp700 Miliar dari HSBC Indonesia"
-  },
-  {
-   "ts": "2026-09-22T19:38:01+07:00",
-   "date": "2026-09-22",
-   "time": "19:38",
-   "src": "Yahoo Finance",
-   "t": "MongoDB Director Hope Cochran Sells 1,000 Shares",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-director-hope-cochran-sells-123801052.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/motleyfool.com/c2be141052df25b8d0a87e7be03c304c.png",
-   "t_ko": "MongoDB Hope Cochran 이사, 주식 1,000주 매도",
-   "t_id": "Direktur MongoDB Hope Cochran Jual 1.000 Saham"
   },
   {
    "ts": "2026-09-22T19:36:00+07:00",
@@ -18390,7 +18479,8 @@
    "tags": [],
    "url": "https://finance.detik.com/infrastruktur/d-8674619/sempat-terputus-banjir-bandang-ruas-jalan-padang-solok-sudah-dapat-dilalui",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/jalan-solok-padang-1790080458278_169.jpeg?w=360&q=90",
-   "t_ko": "급홍수로 끊겼던 Padang-Solok 구간 도로 통행 재개"
+   "t_ko": "급홍수로 끊겼던 Padang-Solok 구간 도로 통행 재개",
+   "t_id": "Sempat Putus Banjir Bandang, Jalur Padang-Solok Bisa Dilalui"
   },
   {
    "ts": "2026-09-22T19:33:00+07:00",
@@ -18400,8 +18490,8 @@
    "t": "Ekonom Ingatkan Pelunasan Utang BLBI ke BI bukan Berarti Tagihan Obligor Tuntas",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/936338/ekonom-ingatkan-pelunasan-utang-blbi-ke-bi-bukan-berarti-tagihan-obligor-tuntas",
-   "t_id": "Ekonom Ingatkan Pelunasan Utang BLBI ke BI bukan Berarti Tagihan Obligor Tuntas",
-   "t_ko": "경제학자, BI의 BLBI 부채 상환이 채무자 의무 종결 의미는 아님 경고"
+   "t_ko": "경제학자, BI의 BLBI 부채 상환이 채무자 의무 종결 의미는 아님 경고",
+   "t_id": "Ekonom Ingatkan Pelunasan Utang BLBI ke BI bukan Berarti Tagihan Obligor Tuntas"
   },
   {
    "ts": "2026-09-22T19:32:16+07:00",
@@ -18502,18 +18592,6 @@
    "t_id": "Wall Street dan AI Hancurkan Portofolio 'Terdiversifikasi' Anda"
   },
   {
-   "ts": "2026-09-22T19:22:16+07:00",
-   "date": "2026-09-22",
-   "time": "19:22",
-   "src": "Bloomberg",
-   "t": "Riskiest Stocks Lose Performance Edge as Interest Rates Climb",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/riskiest-stocks-lose-performance-edge-as-interest-rates-climb",
-   "g": 1,
-   "t_ko": "금리 상승에 고위험 주식 투자 매력 저하",
-   "t_id": "Saham Berisiko Kehilangan Keunggulan Kinerja Saat Suku Bunga Naik"
-  },
-  {
    "ts": "2026-09-22T19:21:52+07:00",
    "date": "2026-09-22",
    "time": "19:21",
@@ -18526,18 +18604,6 @@
    "t_id": "Gagalkan Penyelundupan Beras, Suahasil: Nodai Swasembada Pangan RI"
   },
   {
-   "ts": "2026-09-22T19:21:40+07:00",
-   "date": "2026-09-22",
-   "time": "19:21",
-   "src": "Jawa Pos",
-   "t": "ASEAN SEDP Elevate Buka Peluang Wirausaha Sosial Asia Tenggara Mengglobal",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220411/asean-sedp-elevate-buka-peluang-wirausaha-sosial-asia-tenggara-mengglobal",
-   "g": 1,
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/asean-sedp-elevate-buka-peluang-wirausaha-sosial-asia-tenggara-istimewa-MFvIP.webp",
-   "t_ko": "ASEAN SEDP Elevate, 동남아 사회적 기업의 글로벌 진출 기회 확대"
-  },
-  {
    "ts": "2026-09-22T19:17:00+07:00",
    "date": "2026-09-22",
    "time": "19:17",
@@ -18546,7 +18612,8 @@
    "tags": [],
    "url": "https://katadata.co.id/berita/energi/6ab271dcf3615/bahlil-respons-temuan-mobil-mewah-modifikasi-tangki-bbm-hingga-700-liter",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/17/2026_09_17-21_10_00_c91a39f4-b2cf-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
-   "t_ko": "Bahlil, 연료탱크 개조 고급차 700리터 불법 주유 적발에 입장 표명"
+   "t_ko": "Bahlil, 연료탱크 개조 고급차 700리터 불법 주유 적발에 입장 표명",
+   "t_id": "Bahlil Respons Temuan Mobil Mewah Modifikasi Tangki BBM 700 Liter"
   },
   {
    "ts": "2026-09-22T19:16:34+07:00",
@@ -18561,29 +18628,6 @@
    "t_id": "4.322 Penerima Bansos di Bengkulu Terindikasi Judi Online, Dinsos Turun Verifikasi"
   },
   {
-   "ts": "2026-09-22T19:11:00+07:00",
-   "date": "2026-09-22",
-   "time": "19:11",
-   "src": "Media Indonesia",
-   "t": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936319/bei-ubah-batas-auto-rejection-dan-harga-minimum-saham-rp1-per-28-september-2026",
-   "t_ko": "BEI, 2026년 9월 28일부로 상한·하한가 및 최저 호가 1 rupiah로 변경",
-   "t_id": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026"
-  },
-  {
-   "ts": "2026-09-22T19:10:01+07:00",
-   "date": "2026-09-22",
-   "time": "19:10",
-   "src": "Bloomberg",
-   "t": "AI Rally Loses Steam, US-China Talks Persist",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/bloomberg-brief-09-22-2026-video",
-   "g": 1,
-   "t_ko": "AI 랠리 주춤 속 미중 대화 국면 지속",
-   "t_id": "Reli AI Kehilangan Tenaga, Perundingan AS-China Berlanjut"
-  },
-  {
    "ts": "2026-09-22T19:01:16+07:00",
    "date": "2026-09-22",
    "time": "19:01",
@@ -18592,7 +18636,8 @@
    "tags": [],
    "url": "https://finance.detik.com/infrastruktur/d-8674583/diminta-prabowo-bantu-perpanjang-lrt-jakarta-danantara-buka-suara",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/04/coo-danantara-dony-oskaria-dan-direksi-ihc-1788531353185_169.jpeg?w=360&q=90",
-   "t_ko": "Prabowo, Danantara에 자카르타 경전철 연장 지원 요청"
+   "t_ko": "Prabowo, Danantara에 자카르타 경전철 연장 지원 요청",
+   "t_id": "Diminta Prabowo Perpanjang LRT Jakarta, Danantara Buka Suara"
   },
   {
    "ts": "2026-09-22T19:00:00+07:00",
@@ -18989,18 +19034,6 @@
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260922162228-907.png",
    "t_ko": "무역부, 디지털 무역 생태계 정비 및 소비자 보호 강화",
    "t_id": "Kemendag Perkuat Tata Kelola Perdagangan Digital dan Perlindungan Konsumen"
-  },
-  {
-   "ts": "2026-09-22T16:35:00+07:00",
-   "date": "2026-09-22",
-   "time": "16:35",
-   "src": "Katadata",
-   "t": "RUU Reforma Agraria Disahkan, Prabowo Akan Batasi Kepemilikan Tanah",
-   "tags": [],
-   "url": "https://katadata.co.id/berita/nasional/6ab24bd394be2/ruu-reforma-agraria-disahkan-prabowo-akan-batasi-kepemilikan-tanah",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2024/08/23/2024_08_23-13_10_01_c7c18f56-6116-11ef-9f0e-0242ac120006_620x413_thumb.jpg",
-   "t_ko": "토지개혁법안 통과로 프라보소 대통령 토지 소유 제한 추진",
-   "t_id": "RUU Reforma Agraria Disahkan, Prabowo Akan Batasi Kepemilikan Tanah"
   },
   {
    "ts": "2026-09-22T16:34:48+07:00",
@@ -19701,42 +19734,6 @@
     "rupiah",
     "bank sentral"
    ]
-  },
-  {
-   "ts": "2026-09-22T14:07:52+07:00",
-   "date": "2026-09-22",
-   "time": "14:07",
-   "src": "Detik",
-   "t": "BP BUMN Puji Kinerja Bulog, Serapan Beras Capai 3,9 Juta Ton",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673922/bp-bumn-puji-kinerja-bulog-serapan-beras-capai-3-9-juta-ton",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/bp-bumn-1790072878104.jpeg?w=360&q=90",
-   "t_ko": "국영기업청(BP BUMN), Bulog 실적 칭찬 — 쌀 수매량 390만 톤 달성",
-   "t_id": "BP BUMN Puji Kinerja Bulog, Serapan Beras Tembus 3,9 Juta Ton",
-   "ai_ko": "· Bulog 쌀 환산 390만톤 매입, 목표 400만톤의 99%\n· BP BUMN이 Bulog 실적 평가\n· 10~12월 식량지원 99.7만톤 배분 예정",
-   "ai_id": "· Bulog serap 3,9 juta ton setara beras, 99%\n· BP BUMN apresiasi kinerja Perum Bulog\n· Penyaluran Okt-Des 2026 sebesar 997 ribu ton",
-   "ai_tags": [
-    "식량",
-    "국영기업",
-    "정책"
-   ],
-   "ai_tags_id": [
-    "pangan",
-    "BUMN",
-    "kebijakan"
-   ]
-  },
-  {
-   "ts": "2026-09-22T13:59:51+07:00",
-   "date": "2026-09-22",
-   "time": "13:59",
-   "src": "Detik",
-   "t": "Dony Oskaria Tegaskan Manajer Kopdes Bukan Berstatus Pegawai BUMN",
-   "tags": [],
-   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8673907/dony-oskaria-tegaskan-manajer-kopdes-bukan-berstatus-pegawai-bumn",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/06/26/dony-oskaria-1782464979960_169.jpeg?w=360&q=90",
-   "t_ko": "Dony Oskaria, Kopdes 매니저는 국영기업 직원 아님을 강조",
-   "t_id": "Dony Oskaria Tegaskan Manajer Kopdes Bukan Pegawai BUMN"
   }
  ],
  "kisi_news": [
@@ -19910,9 +19907,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.941%",
-   "d": -0.44,
-   "ytd": 18.69,
+   "v": "4.949%",
+   "d": -0.28,
+   "ytd": 18.88,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19945,9 +19942,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.33",
-   "d": -2.84,
-   "ytd": 57.31,
+   "v": "90.47",
+   "d": -2.69,
+   "ytd": 57.56,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19957,9 +19954,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,369.9",
-   "d": -0.21,
-   "ytd": 1.02,
+   "v": "4,371.5",
+   "d": -0.17,
+   "ytd": 1.06,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -24051,7 +24048,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 97,
+  "pc_age_min": 103,
   "news_ai_cache": 92,
   "news_ai_hit": 54,
   "on_runner": true,
@@ -25854,19 +25851,6 @@
  "top_day": "2026-09-22",
  "top_news": [
   {
-   "ts": "2026-09-22T19:11:00+07:00",
-   "date": "2026-09-22",
-   "time": "19:11",
-   "src": "Media Indonesia",
-   "t": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936319/bei-ubah-batas-auto-rejection-dan-harga-minimum-saham-rp1-per-28-september-2026",
-   "t_ko": "BEI, 2026년 9월 28일부로 상한·하한가 및 최저 호가 1 rupiah로 변경",
-   "t_id": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026",
-   "score": 426.8,
-   "srcs": 3
-  },
-  {
    "ts": "2026-09-22T15:04:53+07:00",
    "date": "2026-09-22",
    "time": "15:04",
@@ -25931,18 +25915,33 @@
    "srcs": 3
   },
   {
-   "ts": "2026-09-22T19:45:15+07:00",
+   "ts": "2026-09-22T19:00:00+07:00",
    "date": "2026-09-22",
-   "time": "19:45",
-   "src": "CNBC",
-   "t": "10-year Treasury yield slips further below 5% as traders await Fed comments",
+   "time": "19:00",
+   "src": "Republika",
+   "t": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
+   "url": "https://ekonomi.republika.co.id/berita/tlrjtg416/bitcoin-tembus-85000-dolar-as-aktivitas-futures-meningkat-di-tengah-sentimen-fed",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/pelaku-bisnis-kripto-nanda-rizal-memantau-grafik-perkembangan-nilai_220312150638-998.jpg",
+   "t_ko": "비트코인 85,000달러 돌파 — 연준 분위기 속 선물 거래 활성화",
+   "t_id": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
+   "score": 411.05,
+   "srcs": 1
+  },
+  {
+   "ts": "2026-09-22T15:37:04+07:00",
+   "date": "2026-09-22",
+   "time": "15:37",
+   "src": "WSJ",
+   "t": "Stock Market Today: Oil Sinks Below $100, Lifting Stock Futures",
+   "tags": [],
+   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2026?mod=rss_markets_main",
    "g": 1,
-   "t_ko": "연준 발언 주시 속 10년물 미 국채 금리 5% 아래로 하락",
-   "t_id": "Imbal Hasil Obligasi 10 Tahun AS Turun di Bawah 5% Menanti Komentar The Fed",
-   "score": 316.0,
-   "srcs": 3
+   "img": "https://images.wsj.net/im-34062673",
+   "score": 315.5,
+   "srcs": 6,
+   "t_ko": "유가 100달러 하회에 주가지수 선물 상승",
+   "t_id": "Bursa Saham Hari Ini: Minyak Anjlok di Bawah $100, Dorong Kontrak Berjangka Saham"
   }
  ],
  "daylog": {
@@ -26683,46 +26682,48 @@
   "2026-09-22": {
    "news": [
     {
-     "t": "10-year Treasury yield slips further below 5% as traders await Fed comments",
-     "ko": "연준 발언 주시 속 10년물 미 국채 금리 5% 아래로 하락",
-     "id": "Imbal Hasil Obligasi 10 Tahun AS Turun di Bawah 5% Menanti Komentar The Fed",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "CNBC",
-     "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
-     "time": "19:45",
+     "t": "Harga Minyak Stabil di US$ 100, Pasar Nantikan Potensi Pertemuan Trump-Iran",
+     "ko": "유가 USD 100 안정 — 시장은 Trump-Iran 회동 가능성 주시",
+     "id": "Harga Minyak Stabil di US$ 100, Pasar Nantikan Potensi Pertemuan Trump-Iran",
+     "ai_ko": "· Brent USD 100.37, WTI USD 95.95로 안정\n· 직전 4거래일 8% 급락, 연초 대비로는 60% 넘게 상승\n· Saudi 수출 재개로 중동 공급 우려 완화",
+     "ai_id": "· Brent stabil USD100,37, WTI USD95,95\n· Empat sesi sebelumnya merosot hampir 8%\n· Ekspor Saudi pulih, kekhawatiran pasokan mereda",
+     "src": "Katadata",
+     "url": "https://katadata.co.id/berita/energi/6ab1eb43c751b/harga-minyak-stabil-di-us-100-pasar-nantikan-potensi-pertemuan-trump-iran",
+     "time": "09:43",
      "tags": [],
-     "sc": 316.0,
+     "sc": 318.5,
      "slot": "global",
-     "q": 85
+     "q": 86
     },
     {
-     "t": "SMMA raises stake in Summit Oto Finance to 15% after capital injection",
-     "ko": "SMMA, 증자 참여로 Summit Oto Finance 지분 15%로 확대",
-     "id": "SMMA Tambah Kepemilikan di Summit Oto Finance Jadi 15% Usai Suntik Modal",
-     "ai_ko": "· Summit Oto Finance 지분 15%로 확대\n· Sinar Mas Multiartha(SMMA), Rp99.3억 출자\n· POJK 47/2020 내국인 지분 요건 충족",
-     "ai_id": "· Kepemilikan di SOF naik jadi 15%\n· SMMA suntik modal Rp9,93 miliar\n· Penuhi POJK 47/2020 saham lokal",
-     "src": "IDNFinancials",
-     "url": "https://www.idnfinancials.com/news/69233/smma-raises-stake-in-summit-oto-finance-to-15-after-capital-injection",
-     "time": "15:45",
+     "t": "AMMN Catat Laba US$ 497,9 Juta, BYAN Dapat Tambahan Kuota Batu Bara",
+     "ko": "AMMN 순이익 US$ 497.9백만 기록, BYAN 석탄 쿼터 추가 확보",
+     "id": "AMMN Catat Laba US$ 497,9 Juta, BYAN Dapat Tambahan Kuota Batu Bara",
+     "ai_ko": "· AMMN 상반기 순이익 USD 4.979억\n· 매출 USD 20.5억, 전년비 1,024% 증가\n· 금 생산 목표 34% 상향 775koz",
+     "ai_id": "· AMMN laba bersih US$497,93 juta\n· Penjualan US$2,05 miliar, naik 1.024%\n· Guidance emas naik 34% jadi 775 koz",
+     "src": "Detik",
+     "url": "https://finance.detik.com/bursa-dan-valas/d-8673373/ammn-catat-laba-us-497-9-juta-byan-dapat-tambahan-kuota-batu-bara",
+     "time": "08:31",
      "tags": [
-      "SMMA"
+      "AMMN",
+      "BYAN",
+      "IFII"
      ],
      "sc": 217.8,
      "slot": "stock",
      "q": 82
     },
     {
-     "t": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026",
-     "ko": "BEI, 2026년 9월 28일부로 상한·하한가 및 최저 호가 1 rupiah로 변경",
-     "id": "BEI Ubah Batas Auto Rejection dan Harga Minimum Saham Rp1 per 28 September 2026",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "Media Indonesia",
-     "url": "https://mediaindonesia.com/ekonomi/936319/bei-ubah-batas-auto-rejection-dan-harga-minimum-saham-rp1-per-28-september-2026",
-     "time": "19:11",
+     "t": "Video: BEI Siap Turunkan Batas Terendah Harga Saham Jadi Rp1",
+     "ko": "BEI, 주식 최저가 하한 Rp1로 인하 추진",
+     "id": "Video: BEI Siap Turunkan Batas Terendah Harga Saham Jadi Rp1",
+     "ai_ko": "· 주식 최저 호가 Rp50→Rp1 인하\n· BEI, 정규시장·현금시장 적용\n· 9월 22일 방송서 공개",
+     "ai_id": "· Batas harga saham Rp50 jadi Rp1\n· BEI, pasar reguler dan tunai\n· Dipaparkan Selasa (22/9/2026)",
+     "src": "CNBC Indonesia",
+     "url": "https://www.cnbcindonesia.com/market/20260922083423-19-769739/video-bei-siap-turunkan-batas-terendah-harga-saham-jadi-rp1",
+     "time": "10:31",
      "tags": [],
-     "sc": 426.8,
+     "sc": 419.8,
      "slot": "macro",
      "q": 94
     }

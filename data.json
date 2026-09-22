@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 01:04",
+ "updated": "2026-09-23 01:09",
  "delay_min": 15,
- "fx_basis": "13.14 IDR/KRW · USD/IDR 17,850 · USD/KRW 1,358 · 00:45 Yahoo",
- "idr_per_krw": 13.1429,
+ "fx_basis": "13.15 IDR/KRW · USD/IDR 17,850 · USD/KRW 1,358 · 00:45 Yahoo",
+ "idr_per_krw": 13.1468,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -127,14 +127,14 @@
   "prev": 6384.73,
   "ytd": -27.4,
   "m1": -3.45,
-  "value_idr": 10207230758414.494,
+  "value_idr": 10157894074647.828,
   "volume": null,
   "value_src": "yahoo",
   "rank_src": "Yahoo 15분 지연 · 828종목 · 종가 · 외국인·공시 PC 09-22 18:28",
   "rank_asof": null,
   "rank_date": "2026-09-21",
-  "adv": 294,
-  "dec": 371,
+  "adv": 293,
+  "dec": 372,
   "unch": 163,
   "foreign_net_idr": -664231103677.8579,
   "foreign_buy": 3656941427563.906,
@@ -468,22 +468,6 @@
    "live": 0
   },
   {
-   "t": "BAJA",
-   "n": "Saranacentral Bajatama",
-   "px": 436.0,
-   "prev": 350.0,
-   "pct": 24.57,
-   "val": 51409071600.0,
-   "vol": 124779300.0,
-   "sh": 1800000000,
-   "mcap": 784800000000.0,
-   "hi": 436.0,
-   "lo": 364.0,
-   "ratio": 8.8,
-   "fnet": -319551152.6908752,
-   "live": 0
-  },
-  {
    "t": "INTD",
    "n": "Inter-Delta",
    "px": 306.0,
@@ -513,6 +497,22 @@
    "lo": 121.0,
    "ratio": 18.8,
    "fnet": -195515990.17357984,
+   "live": 0
+  },
+  {
+   "t": "COIN",
+   "n": "Indokripto Koin Semesta",
+   "px": 850.0,
+   "prev": 755.0,
+   "pct": 12.58,
+   "val": 148822839666.6667,
+   "vol": 179665400.0,
+   "sh": 14705882400,
+   "mcap": 12500000040000.0,
+   "hi": 860.0,
+   "lo": 775.0,
+   "ratio": 2.4,
+   "fnet": -5946719657.745211,
    "live": 0
   }
  ],
@@ -1864,22 +1864,6 @@
    "nrf": 2,
    "nrper": 2800000000,
    "nonreg": 11
-  },
-  {
-   "t": "BAJA",
-   "n": "Saranacentral Bajatama",
-   "px": 436.0,
-   "prev": 350.0,
-   "pct": 24.57,
-   "val": 51409071600.0,
-   "vol": 124779300.0,
-   "sh": 1800000000,
-   "mcap": 784800000000.0,
-   "hi": 436.0,
-   "lo": 364.0,
-   "ratio": 8.8,
-   "fnet": -319551152.6908752,
-   "live": 0
   },
   {
    "t": "ARKO",
@@ -6040,6 +6024,22 @@
    "lo": 670.0,
    "ratio": 0.4,
    "fnet": 240247106.88437265,
+   "live": 0
+  },
+  {
+   "t": "BEST",
+   "n": "Bekasi Fajar Industrial Estate",
+   "px": 121.0,
+   "prev": 124.0,
+   "pct": -2.42,
+   "val": 2072387833.3333333,
+   "vol": 16940500.0,
+   "sh": 9647311150,
+   "mcap": 1167324649150.0,
+   "hi": 125.0,
+   "lo": 121.0,
+   "ratio": 0.2,
+   "fnet": 226615506.35988495,
    "live": 0
   },
   {
@@ -15017,11 +15017,11 @@
   {
    "name": "기초소재",
    "name_id": "Barang Baku",
-   "n": 93,
-   "adv": 33,
+   "n": 92,
+   "adv": 32,
    "dec": 47,
-   "val": 2633456192133.333,
-   "mcap": 1543740005804433.0,
+   "val": 2582047120533.333,
+   "mcap": 1542955205804433.0,
    "top": [
     {
      "t": "AMMN",
@@ -15064,8 +15064,8 @@
      "pct": -2.06
     }
    ],
-   "fnet": -198912774394,
-   "pct": -0.61,
+   "fnet": -198593223241,
+   "pct": -0.62,
    "fbuy_top": [
     {
      "t": "MDKA",
@@ -15106,11 +15106,11 @@
      "pct": -9.73
     }
    ],
-   "fnet_1w": -563694837364,
+   "fnet_1w": -563375286211,
    "flow_days": 4,
    "flow_from": "2026-09-17",
    "flow_to": "2026-09-22",
-   "fnet_1m": -364076337976,
+   "fnet_1m": -363756786823,
    "flow_days_1m": 21,
    "win_from": "2026-09-17",
    "win_to": "2026-09-23",
@@ -15745,11 +15745,11 @@
   {
    "name": "부동산",
    "name_id": "Properti",
-   "n": 79,
+   "n": 80,
    "adv": 27,
-   "dec": 35,
-   "val": 477611437499.9999,
-   "mcap": 438887984379888.0,
+   "dec": 36,
+   "val": 479683825333.3332,
+   "mcap": 440055309029038.0,
    "top": [
     {
      "t": "MPRO",
@@ -15792,8 +15792,8 @@
      "pct": -1.75
     }
    ],
-   "fnet": 21130400500,
-   "pct": 0.55,
+   "fnet": 21357016006,
+   "pct": 0.54,
    "fbuy_top": [
     {
      "t": "PANI",
@@ -15834,11 +15834,11 @@
      "pct": -3.6
     }
    ],
-   "fnet_1w": -67953361846,
+   "fnet_1w": -67726746340,
    "flow_days": 4,
    "flow_from": "2026-09-17",
    "flow_to": "2026-09-22",
-   "fnet_1m": -247010366875,
+   "fnet_1m": -246783751369,
    "flow_days_1m": 21,
    "win_from": "2026-09-17",
    "win_to": "2026-09-23",
@@ -16526,11 +16526,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7768.34,
+   "px": 7769.56,
    "prev": 7764.22,
-   "pct": 0.05,
+   "pct": 0.07,
    "mst": 0,
-   "asof": "14:00",
+   "asof": "14:05",
    "live": true,
    "spark": [
     7779.14,
@@ -16587,18 +16587,19 @@
     7764.59,
     7770.68,
     7771.26,
-    7768.34
+    7768.68,
+    7769.56
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27227.58,
+   "px": 27238.31,
    "prev": 27122.09,
-   "pct": 0.39,
+   "pct": 0.43,
    "mst": 0,
-   "asof": "14:00",
+   "asof": "14:05",
    "live": true,
    "spark": [
     27223.51,
@@ -16655,18 +16656,19 @@
     27205.79,
     27235.75,
     27243.35,
-    27227.58
+    27226.05,
+    27238.31
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51869.35,
+   "px": 51867.82,
    "prev": 52053.88,
-   "pct": -0.35,
+   "pct": -0.36,
    "mst": 0,
-   "asof": "14:00",
+   "asof": "14:05",
    "live": true,
    "spark": [
     52161.89,
@@ -16723,7 +16725,8 @@
     51825.41,
     51876.73,
     51879.41,
-    51869.35
+    51881.64,
+    51867.82
    ]
   },
   {
@@ -17060,6 +17063,19 @@
   }
  },
  "news": [
+  {
+   "ts": "2026-09-23T01:00:00+07:00",
+   "date": "2026-09-23",
+   "time": "01:00",
+   "src": "IDX Channel",
+   "t": "Perkuat Infrastruktur Digital, Telkom (TLKM) Jalin Kerja Sama dengan China Unicom",
+   "tags": [
+    "TLKM"
+   ],
+   "url": "https://www.idxchannel.com/market-news/perkuat-infrastruktur-digital-telkom-tlkm-jalin-kerja-sama-dengan-china-unicom",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/22/telkom_tlkm_china_unicom.jpg",
+   "t_ko": "TLKM, 디지털 인프라 강화를 위해 China Unicom과 협력 체결"
+  },
   {
    "ts": "2026-09-23T00:05:00+07:00",
    "date": "2026-09-23",
@@ -17814,9 +17830,9 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-23T01:03:46.943640+07:00",
+   "ts": "2026-09-23T01:08:25+07:00",
    "date": "2026-09-23",
-   "time": "01:03",
+   "time": "01:08",
    "src": "Jawa Pos",
    "t": "Rencana BLU Sektor Energi Dinilai Rawan, Pengamat Ingatkan Risiko Gangguan Listrik",
    "tags": [],
@@ -17824,6 +17840,18 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2025/09/18/MARWAN-18-3007534139.jpg",
    "t_ko": "에너지 부문 공공서비스청 계획 취약… 전문가들 전력 공급 차질 경고",
    "t_id": "Rencana BLU Sektor Energi Rawan, Pengamat Ingatkan Risiko Listrik"
+  },
+  {
+   "ts": "2026-09-23T01:06:03+07:00",
+   "date": "2026-09-23",
+   "time": "01:06",
+   "src": "CNBC",
+   "t": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+   "g": 1,
+   "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
+   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
   },
   {
    "ts": "2026-09-23T00:52:00+07:00",
@@ -17835,8 +17863,8 @@
    "url": "https://www.marketwatch.com/story/defending-against-dangerous-ai-should-be-a-national-priority-and-we-need-more-ai-to-do-it-049e1c88?mod=mw_rss_topstories",
    "g": 1,
    "img": "https://images.mktw.net/im-93612339",
-   "t_ko": "위험한 AI 방어가 국가적 우선순위 — 이를 위해 더 많은 AI 필요",
-   "t_id": "Pertahanan dari AI Berbahaya Harus Jadi Prioritas Nasional — dan Butuh Lebih Banyak AI"
+   "t_ko": "위험한 AI 방어가 국가적 과제 — 해결책은 더 많은 AI",
+   "t_id": "Pertahanan AI Berbahaya Jadi Prioritas Nasional, Butuh Lebih Banyak AI"
   },
   {
    "ts": "2026-09-23T00:50:00+07:00",
@@ -17848,20 +17876,8 @@
    "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-thinks-rocket-lab-175000792.html",
    "g": 1,
    "img": "https://media.zenfs.com/en/motleyfool.com/d448382f51061051b2a409e2ba3d6fab.png",
-   "t_ko": "Wall Street, Rocket Lab 매수 의견 제시 속 신중론 제기",
+   "t_ko": "월가, Rocket Lab 매수 의견 — 신중론 제기 배경",
    "t_id": "Wall Street Nilai Rocket Lab Layak Dibeli, Ini Alasan Saya Ragu"
-  },
-  {
-   "ts": "2026-09-23T00:45:12+07:00",
-   "date": "2026-09-23",
-   "time": "00:45",
-   "src": "CNBC",
-   "t": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-   "g": 1,
-   "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
-   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
   },
   {
    "ts": "2026-09-23T00:42:00+07:00",
@@ -17899,8 +17915,8 @@
    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
    "g": 1,
    "img": "https://media.zenfs.com/en/ibd.com/7a05a458b9640a5cefaa93bc55d1115a.jpg",
-   "t_ko": "미 증시 — 트럼프의 이란 위협에 다우 하락 및 헬스케어 약세",
-   "t_id": "Bursa Saham Hari Ini: Dow Anjlok Seiring Ancaman Trump ke Iran; Saham Diagnostik Medis Ambruk"
+   "t_ko": "미 증권시장, 트럼프의 이란 위협에 다우 급락 — 의료 진단株 약세",
+   "t_id": "Bursa Saham Hari Ini: Dow Anjlok Saat Trump Ancam Iran; Saham Diagnostik Medis Merosot"
   },
   {
    "ts": "2026-09-23T00:36:28+07:00",
@@ -17924,8 +17940,8 @@
    "url": "https://www.ft.com/content/99ba134a-6252-45f3-b312-07b8752a5a98?syn-25a6b1a6=1",
    "g": 1,
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F396f2209-556b-4e83-898a-82dc40f6a98a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "미국, 아랍 동맹과 호르무즈 우회용 100억 달러 기금 제안",
-   "t_id": "AS Usulkan Dana USD 10 Miliar dengan Sekutu Arab untuk Lewati Selat Hormuz"
+   "t_ko": "미국, 호르무즈 우회 위해 아랍 동맹국과 100억 달러 펀드 제안",
+   "t_id": "AS Usulkan Dana Rp152 T dengan Sekutu Arab untuk Lewati Selat Hormuz"
   },
   {
    "ts": "2026-09-23T00:32:47+07:00",
@@ -18885,18 +18901,6 @@
    "t_id": "RUU Perampasan Aset Masih Tahap Awal, DPR Tetap Janjikan Terbit Tahun Ini"
   },
   {
-   "ts": "2026-09-22T16:57:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "IDX Channel",
-   "t": "MNC Sekuritas Fasilitasi Mahasiswa Universitas Pelita Bangsa Pelajari Industri Pasar Modal",
-   "tags": [],
-   "url": "https://www.idxchannel.com/market-news/mnc-sekuritas-fasilitasi-mahasiswa-universitas-pelita-bangsa-pelajari-industri-pasar-modal",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/22/89451.jpg",
-   "t_ko": "MNC Sekuritas, Pelita Bangsa 대학생 대상 자본시장 교육 지원",
-   "t_id": "MNC Sekuritas Fasilitasi Mahasiswa Universitas Pelita Bangsa Pelajari Pasar Modal"
-  },
-  {
    "ts": "2026-09-22T16:50:01+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -19169,6 +19173,28 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2023/10/31/ilustrasi-anak-cerdas-dirikan-perusahaan-ai_169.jpeg?w=360&q=90",
    "t_ko": "Antam, 자금 조달 운용 체질 개선 가속",
    "t_id": "Antam Genjot Transformasi Pengelolaan Pendanaan"
+  },
+  {
+   "ts": "2026-09-22T15:50:21+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Jawa Pos",
+   "t": "Mentan Amran Beberkan Skema Pembiayaan Pengembangan Bioetanol, 70 persen Anggaran dari Swasta",
+   "tags": [],
+   "url": "https://www.jawapos.com/energi/2609220113/mentan-amran-beberkan-skema-pembiayaan-pengembangan-bioetanol-70-persen-anggaran-dari-swasta",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/01/14/AMRAN-14-A-3079546239.jpg",
+   "t_ko": "Amran 장관, 바이오에탄올 개발 재원 중 70% 민간 조달 구조 공개",
+   "t_id": "Mentan Amran Beberkan Skema Pembiayaan Pengembangan Bioetanol, 70 persen Anggaran dari Swasta",
+   "ai_ko": "· 바이오에탄올 개발 재원 70%를 민간이 부담\n· 국영기업 우선 배정 후 잔여분 민간 참여\n· 토지 확보 여부가 사업 추진의 관건",
+   "ai_id": "· 70% dana bioetanol dari swasta\n· BUMN diprioritaskan lebih dulu\n· Kepastian lahan jadi kunci proyek",
+   "ai_tags": [
+    "바이오에탄올",
+    "정책"
+   ],
+   "ai_tags_id": [
+    "bioetanol",
+    "kebijakan"
+   ]
   }
  ],
  "kisi_news": [
@@ -19331,8 +19357,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.14",
-   "d": 2.25,
-   "ytd": 13.12,
+   "d": 2.28,
+   "ytd": 13.15,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19342,9 +19368,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.974%",
-   "d": 0.22,
-   "ytd": 19.48,
+   "v": "4.963%",
+   "d": 0.0,
+   "ytd": 19.22,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19365,9 +19391,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.61",
-   "d": 0.25,
-   "ytd": 2.37,
+   "v": "100.60",
+   "d": 0.24,
+   "ytd": 2.36,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19377,9 +19403,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.42",
-   "d": -2.74,
-   "ytd": 57.47,
+   "v": "89.62",
+   "d": -3.6,
+   "ytd": 56.08,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19389,9 +19415,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,384.8",
-   "d": 0.13,
-   "ytd": 1.37,
+   "v": "4,387.0",
+   "d": 0.18,
+   "ytd": 1.42,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19429,11 +19455,11 @@
    "d": -0.18,
    "ytd": 20.72,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
   }
  ],
  "curve": {
@@ -23483,9 +23509,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 396,
+  "pc_age_min": 401,
   "news_ai_cache": 92,
-  "news_ai_hit": 33,
+  "news_ai_hit": 34,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -25352,17 +25378,18 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T09:08:00+07:00",
+   "ts": "2026-09-22T22:46:15+07:00",
    "date": "2026-09-22",
    "time": "09/22",
-   "src": "Reuters",
-   "t": "Nasdaq sets record high on AI optimism, oil drops below $100",
+   "src": "CNA",
+   "t": "Nasdaq sets record high on AI optimism, oil drops below $100",
    "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYNkdDWExac0tiSmtsc3Exd0ZHOTVDZFJCbTRtZW9jM3hTLU84b3JWbHQ1WmZsUE5pSmUzTHBFUXQzaHBnb01UQXV5ZUljTFl2cS1fbHhFMUtDblA3NHRjeXRzbEpYMjNZempPSmRPbEpIajV0T1BuRDl1SQ?oc=5",
+   "url": "https://www.channelnewsasia.com/business/nasdaq-sets-record-high-ai-optimism-oil-drops-below-100-6401081",
    "g": 1,
-   "score": 316.0,
+   "img": "https://dam.mediacorp.sg/image/upload/s--q7WF2-lv--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T155749Z_1_LYNXMPEM8L1AJ_RTROPTP_3_USA-FED-STOCKS.JPG?itok=wKr1aYdN",
+   "score": 315.5,
    "srcs": 5,
-   "t_ko": "AI 낙관론에 나스닥 사상 최고가 경신 — 유가는 100달러 아래로 하락",
+   "t_ko": "AI 낙관론에 나스닥 최고가 경신 및 유가 100달러 하회",
    "t_id": "Nasdaq Cetak Rekor Tertinggi Ditopang Optimisme AI, Minyak Anjlok di Bawah $100"
   }
  ],
@@ -26186,6 +26213,36 @@
   "2026-09-23": {
    "news": [
     {
+     "t": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
+     "ko": "미 증권시장, 트럼프의 이란 위협에 다우 급락 — 의료 진단株 약세",
+     "id": "Bursa Saham Hari Ini: Dow Anjlok Saat Trump Ancam Iran; Saham Diagnostik Medis Merosot",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "Yahoo Finance",
+     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
+     "time": "00:38",
+     "tags": [],
+     "sc": 312.0,
+     "slot": "global",
+     "q": 85
+    },
+    {
+     "t": "Perkuat Infrastruktur Digital, Telkom (TLKM) Jalin Kerja Sama dengan China Unicom",
+     "ko": "TLKM, 디지털 인프라 강화를 위해 China Unicom과 협력 체결",
+     "id": "",
+     "ai_ko": "",
+     "ai_id": "",
+     "src": "IDX Channel",
+     "url": "https://www.idxchannel.com/market-news/perkuat-infrastruktur-digital-telkom-tlkm-jalin-kerja-sama-dengan-china-unicom",
+     "time": "01:00",
+     "tags": [
+      "TLKM"
+     ],
+     "sc": 209.8,
+     "slot": "stock",
+     "q": 57
+    },
+    {
      "t": "Dow Jones Tech Titan Amazon Eyes Buy Point Amid Battle With Key Support Level",
      "ko": "Dow Jones 기술주 Amazon, 주요 지지선 공방 속 매수점 근접",
      "id": "Raksasa Teknologi Dow Jones Amazon Bidik Titik Beli di Tengah Pertarungan Level Support Utama",
@@ -26194,36 +26251,6 @@
      "src": "Yahoo Finance",
      "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-amazon-stock-amzn-key-level/?src=A00220&yptr=yahoo",
      "time": "00:26",
-     "tags": [],
-     "sc": 309.0,
-     "slot": "global",
-     "q": 85
-    },
-    {
-     "t": "MKNT Gelar Private Placement Rp1,02 Triliun, Libatkan 5 Investor Individu",
-     "ko": "MKNT, 개인투자자 5인 대상 Rp1.02조 규모 제3자배정 유상증자 실시",
-     "id": "MKNT Gelar Private Placement Rp1,02 Triliun, Libatkan 5 Investor Individu",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "IDX Channel",
-     "url": "https://www.idxchannel.com/market-news/mknt-gelar-private-placement-rp102-triliun-libatkan-5-investor-individu",
-     "time": "00:05",
-     "tags": [
-      "MKNT"
-     ],
-     "sc": 216.8,
-     "slot": "stock",
-     "q": 57
-    },
-    {
-     "t": "Stock Market Today: Dow Skids As Trump Threatens Iran; Medical Diagnostics Plays Swoon (Live Coverage)",
-     "ko": "미 증시 — 트럼프의 이란 위협에 다우 하락 및 헬스케어 약세",
-     "id": "Bursa Saham Hari Ini: Dow Anjlok Seiring Ancaman Trump ke Iran; Saham Diagnostik Medis Ambruk",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "Yahoo Finance",
-     "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
-     "time": "00:38",
      "tags": [],
      "sc": 309.0,
      "slot": "global",
@@ -44387,7 +44414,7 @@
    "s_conc": 85,
    "s_flow": 59,
    "alpha": 5.26,
-   "vrank": 84,
+   "vrank": 83,
    "flow": -5.93,
    "srcs": 0
   },
@@ -44476,8 +44503,8 @@
    "ratio": 3.3,
    "ev_ko": "가격·수급 이상",
    "ev_id": "Harga & arus dana",
-   "hl": "시장 대비 +26.47%p · 거래대금 50위 · 20일 평균 3.3배 · 외국인 5일 +11.5%",
-   "hl_id": "vs pasar +26.47%p · nilai transaksi #50 · 3.3x rata 20 hari · asing 5 hari +11.5%",
+   "hl": "시장 대비 +26.47%p · 거래대금 49위 · 20일 평균 3.3배 · 외국인 5일 +11.5%",
+   "hl_id": "vs pasar +26.47%p · nilai transaksi #49 · 3.3x rata 20 hari · asing 5 hari +11.5%",
    "url": "",
    "score": 57.9,
    "s_news": 0,
@@ -44487,7 +44514,7 @@
    "s_conc": 100,
    "s_flow": 100,
    "alpha": 26.47,
-   "vrank": 50,
+   "vrank": 49,
    "flow": 11.46,
    "srcs": 0
   },
@@ -44501,8 +44528,8 @@
    "ratio": 4.1,
    "ev_ko": "가격·수급 이상",
    "ev_id": "Harga & arus dana",
-   "hl": "시장 대비 +7.77%p · 20일 평균 4.1배 · 외국인 5일 +6.8%",
-   "hl_id": "vs pasar +7.77%p · 4.1x rata 20 hari · asing 5 hari +6.8%",
+   "hl": "시장 대비 +7.77%p · 거래대금 99위 · 20일 평균 4.1배 · 외국인 5일 +6.8%",
+   "hl_id": "vs pasar +7.77%p · nilai transaksi #99 · 4.1x rata 20 hari · asing 5 hari +6.8%",
    "url": "",
    "score": 57.4,
    "s_news": 0,
@@ -44512,7 +44539,7 @@
    "s_conc": 100,
    "s_flow": 68,
    "alpha": 7.77,
-   "vrank": null,
+   "vrank": 99,
    "flow": 6.75,
    "srcs": 0
   },
@@ -44551,8 +44578,8 @@
    "ratio": 2.7,
    "ev_ko": "가격·수급 이상",
    "ev_id": "Harga & arus dana",
-   "hl": "시장 대비 +4.23%p · 거래대금 68위 · 20일 평균 2.7배 · 외국인 5일 +15.8%",
-   "hl_id": "vs pasar +4.23%p · nilai transaksi #68 · 2.7x rata 20 hari · asing 5 hari +15.8%",
+   "hl": "시장 대비 +4.23%p · 거래대금 67위 · 20일 평균 2.7배 · 외국인 5일 +15.8%",
+   "hl_id": "vs pasar +4.23%p · nilai transaksi #67 · 2.7x rata 20 hari · asing 5 hari +15.8%",
    "url": "",
    "score": 55.0,
    "s_news": 0,
@@ -44562,7 +44589,7 @@
    "s_conc": 85,
    "s_flow": 100,
    "alpha": 4.23,
-   "vrank": 68,
+   "vrank": 67,
    "flow": 15.83,
    "srcs": 0
   },

@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 06:08",
+ "updated": "2026-09-23 06:18",
  "delay_min": 15,
  "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 04:45 Yahoo",
- "idr_per_krw": 13.194,
+ "idr_per_krw": 13.1927,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -86,6 +86,12 @@
     17878.0,
     17878.0,
     17878.0,
+    17850.0,
+    17878.0,
+    17878.0,
+    17878.0,
+    17878.0,
+    17878.0,
     17878.0
    ],
    "inv": true,
@@ -123,15 +129,15 @@
   "prev": 6384.73,
   "ytd": -27.4,
   "m1": -3.45,
-  "value_idr": 13126579742133.334,
+  "value_idr": 13126377649433.334,
   "volume": null,
   "value_src": "yahoo",
-  "rank_src": "Yahoo 15분 지연 · 830종목 · 종가 · 외국인·공시 PC 09-23 03:10",
+  "rank_src": "Yahoo 15분 지연 · 829종목 · 종가 · 외국인·공시 PC 09-23 03:10",
   "rank_asof": null,
   "rank_date": "2026-09-22",
   "adv": 148,
   "dec": 556,
-  "unch": 126,
+  "unch": 125,
   "foreign_net_idr": -664231103677.8579,
   "foreign_buy": 3656941427563.906,
   "foreign_sell": 4321172531241.7637,
@@ -11218,23 +11224,6 @@
    "_c": 172086000000.0
   },
   {
-   "t": "BCIP",
-   "n": "Bumi Citra Permai",
-   "px": 59.0,
-   "prev": 59.0,
-   "pct": 0.0,
-   "val": 202092700.0,
-   "vol": 3425300.0,
-   "sh": 1429915525,
-   "mcap": 84365015975.0,
-   "hi": 60.0,
-   "lo": 58.0,
-   "ratio": 0.5,
-   "fnet": -717181.4147665898,
-   "live": 0,
-   "_c": 0.0
-  },
-  {
    "t": "LRNA",
    "n": "Eka Sari Lorena Transport",
    "px": 220.0,
@@ -16412,11 +16401,11 @@
   {
    "name": "부동산",
    "name_id": "Properti",
-   "n": 80,
+   "n": 79,
    "adv": 15,
    "dec": 51,
-   "val": 504619261433.3334,
-   "mcap": 430802142594632.0,
+   "val": 504417168733.3334,
+   "mcap": 430717777578657.0,
    "top": [
     {
      "t": "MPRO",
@@ -16459,8 +16448,8 @@
      "pct": 0.89
     }
    ],
-   "fnet": 21357016006,
-   "pct": -2.0,
+   "fnet": 21357733187,
+   "pct": -2.01,
    "fbuy_top": [
     {
      "t": "PANI",
@@ -16501,11 +16490,11 @@
      "pct": -3.73
     }
    ],
-   "fnet_1w": -67726746340,
+   "fnet_1w": -67726029159,
    "flow_days": 4,
    "flow_from": "2026-09-17",
    "flow_to": "2026-09-22",
-   "fnet_1m": -246783751369,
+   "fnet_1m": -246783034188,
    "flow_days_1m": 21,
    "win_from": "2026-09-17",
    "win_to": "2026-09-23",
@@ -17788,6 +17777,23 @@
  },
  "news": [
   {
+   "ts": "2026-09-23T06:12:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:12",
+   "src": "Katadata",
+   "t": "IHSG Rawan Terkoreksi, Saham TPIA, EMAS, AMRT, dan ISAT Jadi Rekomendasi Analis",
+   "tags": [
+    "AMRT",
+    "EMAS",
+    "ISAT",
+    "TPIA"
+   ],
+   "url": "https://katadata.co.id/finansial/bursa/6ab30b4340ea3/ihsg-rawan-terkoreksi-saham-tpia-emas-amrt-dan-isat-jadi-rekomendasi-analis",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/08/14/2026_08_14-19_34_00_a80a53c0-97e5-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
+   "t_id": "IHSG Rawan Terkoreksi, Saham TPIA, EMAS, AMRT, dan ISAT Jadi Rekomendasi Analis",
+   "t_ko": "IHSG 조종 압력 심화 — TPIA·EMAS·AMRT·ISAT 투자의견 제시"
+  },
+  {
    "ts": "2026-09-23T06:01:24+07:00",
    "date": "2026-09-23",
    "time": "06:01",
@@ -17798,8 +17804,8 @@
    ],
    "url": "https://www.liputan6.com/saham/read/8297468/direktur-bayan-resources-lepas-185200-saham-byan",
    "img": "https://cdn1-production-images-kly.akamaized.net/gXHwvjdxqNEKrN1reOfK2rsnCVM=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3953141/original/057037400_1646466239-Mining.jpg",
-   "t_id": "Direktur Bayan Resources Lepas 185.200 Saham BYAN",
-   "t_ko": "Bayan Resources(BYAN) 이사, BYAN 주식 18만5,200주 매도"
+   "t_ko": "Bayan Resources(BYAN) 이사, BYAN 주식 18만5,200주 매도",
+   "t_id": "Direktur Bayan Resources Lepas 185.200 Saham BYAN"
   },
   {
    "ts": "2026-09-23T06:00:00+07:00",
@@ -17812,8 +17818,8 @@
    ],
    "url": "https://www.idxchannel.com/market-news/saham-bakrie-plantations-unsp-keluar-dari-papan-fca",
    "img": "https://img.idxchannel.com/media/439/images/idx/2024/11/29/bei_idx.jpg",
-   "t_id": "Saham Bakrie Plantations (UNSP) Keluar dari Papan FCA",
-   "t_ko": "UNSP, FCA 명단에서 제외"
+   "t_ko": "UNSP, FCA 명단에서 제외",
+   "t_id": "Saham Bakrie Plantations (UNSP) Keluar dari Papan FCA"
   },
   {
    "ts": "2026-09-23T05:10:00+07:00",
@@ -18556,6 +18562,19 @@
    "t_id": "Transisi ke Kecepatan Cahaya Pangkas Konsumsi Daya Pusat Data?"
   },
   {
+   "ts": "2026-09-23T06:02:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:02",
+   "src": "Katadata",
+   "t": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/bursa/6ab309153b170/wall-street-bergerak-variatif-harga-minyak-turun-di-tengah-kabar-damai-as-iran",
+   "g": 1,
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/10/12/Wall_Street-2023_10_12-05_51_11_8074be86ec350e0281213fa81ef24863_620x413_thumb.png",
+   "t_id": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran",
+   "t_ko": "미국·이란 휴전 소식에 유가 하락 속 월가 혼조세"
+  },
+  {
    "ts": "2026-09-23T06:01:28+07:00",
    "date": "2026-09-23",
    "time": "06:01",
@@ -18573,12 +18592,12 @@
    "date": "2026-09-23",
    "time": "06:00",
    "src": "Bloomberg",
-   "t": "India's Dixon Tech Eyes Growth Beyond SmartphonesQ",
+   "t": "India's Dixon Tech Eyes Growth Beyond Smartphones",
    "tags": [],
    "url": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
    "g": 1,
-   "t_ko": "인도 Dixon Tech, 스마트폰 넘어 성장 동력 다각화 추진",
-   "t_id": "Dixon Tech Incar Pertumbuhan di Luar Ponsel Pintar"
+   "t_ko": "Dixon Tech, 스마트폰 넘어 성장 동력 확보 추진",
+   "t_id": "Dixon Tech India Bidik Pertumbuhan di Luar Ponsel Pintar"
   },
   {
    "ts": "2026-09-23T06:00:00+07:00",
@@ -18590,8 +18609,8 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122371/ai-dorong-saham-teknologi-naik-nasdaq-dekati-rekor-sejak-juni",
    "g": 1,
    "img": "https://images.bloombergtechnoz.com/data/2023/02/image-20230201170657.jpg",
-   "t_id": "AI Dorong Saham Teknologi Naik, Nasdaq Dekati Rekor Sejak Juni",
-   "t_ko": "AI 수혜에 기술주 상승 — Nasdaq 6월 이후 최고치 경신 임박"
+   "t_ko": "AI 수혜에 기술주 상승 — Nasdaq 6월 이후 최고치 경신 임박",
+   "t_id": "AI Dorong Saham Teknologi Naik, Nasdaq Dekati Rekor Sejak Juni"
   },
   {
    "ts": "2026-09-23T06:00:00+07:00",
@@ -18615,8 +18634,8 @@
    "tags": [],
    "url": "https://mediaindonesia.com/internasional/936479/pemerintah-trump-berencana-terima-17500-pengungsi-kulit-putih-afrika-selatan-pada-tahun-fiskal-2027",
    "g": 1,
-   "t_id": "Pemerintah Trump Berencana Terima 17.500 Pengungsi Kulit Putih Afrika Selatan pada Tahun Fiskal 2027",
-   "t_ko": "트럼프 행정부, 2027 회계연도에 남아프리카공화국 백인 난민 1만7,500명 수용 계획"
+   "t_ko": "트럼프 행정부, 2027 회계연도에 남아프리카공화국 백인 난민 1만7,500명 수용 계획",
+   "t_id": "Pemerintah Trump Berencana Terima 17.500 Pengungsi Kulit Putih Afrika Selatan pada Tahun Fiskal 2027"
   },
   {
    "ts": "2026-09-23T05:55:00+07:00",
@@ -18665,6 +18684,18 @@
    "g": 1,
    "img": "https://images.bloombergtechnoz.com/data/2026/07/image-20260709124934.jpg",
    "t_ko": "미국·이란 협상 기대감 확산에 유가 하락"
+  },
+  {
+   "ts": "2026-09-23T05:25:27+07:00",
+   "date": "2026-09-23",
+   "time": "05:25",
+   "src": "Reuters",
+   "t": "Nasdaq reaches record high close, AI stocks rally",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
+   "g": 1,
+   "t_ko": "Nasdaq, AI 관련주 랠리에 힘입어 최고가 마감",
+   "t_id": "Nasdaq Cetak Rekor Penutupan Tertinggi, Saham AI Menguat"
   },
   {
    "ts": "2026-09-23T05:20:15+07:00",
@@ -18737,31 +18768,6 @@
    "g": 1,
    "t_ko": "9월 23일 국제유가 동향 및 분석",
    "t_id": "Berita & Analisis Pasar Minyak Terbaru 23 Sep"
-  },
-  {
-   "ts": "2026-09-23T04:52:39+07:00",
-   "date": "2026-09-23",
-   "time": "04:52",
-   "src": "Bloomberg",
-   "t": "Anthony Scaramucci's \"All the Wrong Moves\"",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/anthony-scaramucci-s-all-the-wrong-moves-video",
-   "g": 1,
-   "t_ko": "Anthony Scaramucci의 잘못된 투자 행보 진단",
-   "t_id": "Semua Langkah Keliru Anthony Scaramucci"
-  },
-  {
-   "ts": "2026-09-23T04:44:00+07:00",
-   "date": "2026-09-23",
-   "time": "04:44",
-   "src": "MarketWatch",
-   "t": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
-   "tags": [],
-   "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
-   "g": 1,
-   "img": "https://images.mktw.net/im-49923360",
-   "t_ko": "Nasdaq 최고가 경신에 조정 대기 대신 매수 시그널 확산",
-   "t_id": "Lonjakan Cepat Nasdaq ke Rekor Tertinggi Kirim Pesan ke Investor: Jangan Tunggu Koreksi untuk Beli"
   },
   {
    "ts": "2026-09-23T03:32:47+07:00",
@@ -20080,9 +20086,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.65",
-   "d": -3.57,
-   "ytd": 56.13,
+   "v": "89.71",
+   "d": -3.51,
+   "ytd": 56.23,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -20092,9 +20098,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,400.6",
-   "d": 0.49,
-   "ytd": 1.73,
+   "v": "4,401.3",
+   "d": 0.51,
+   "ytd": 1.75,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20116,15 +20122,15 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,576",
-   "d": 1.36,
-   "ytd": -0.63,
+   "v": "16,528",
+   "d": 1.07,
+   "ytd": -0.92,
    "inv": false,
-   "note": "investing.com · 연초 16,682",
+   "note": "investing.com · 09/22 마지막 값 · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
    "k_id": "Nikel LME (US$/t)",
-   "note_ko": "investing.com · 연초 16,682",
-   "note_id": "investing.com · Awal tahun 16,682"
+   "note_ko": "investing.com · 09/22 마지막 값 · 연초 16,682",
+   "note_id": "investing.com · 09/22 nilai terakhir · Awal tahun 16,682"
   },
   {
    "k": "CPO (MYR/t)",
@@ -25155,7 +25161,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 178,
+  "pc_age_min": 188,
   "news_ai_cache": 41,
   "news_ai_hit": 31,
   "on_runner": true,
@@ -26950,9 +26956,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "BYAN 주식 매각 소식과 대형 은행주(BBRI) 약세 속 에너지 및 금융주 중심의 매도세 출회로 IHSG 1.69% 하락 거래 중.",
-   "id": "IHSG diperdagangkan melemah 1,69% di tengah aksi jual saham energi dan keuangan, dipicu oleh kabar penjualan saham BYAN dan pelemahan saham bank besar (BBRI).",
-   "ts": "2026-09-23T06:08:20.544632+07:00"
+   "ko": "BYAN 이사 지분 매각 및 대형 은행주(BBRI) 약세 등 전면적인 하락세에 힘입어 IHSG 1.69% 하락 거래 중.",
+   "id": "IHSG diperdagangkan melemah 1,69% ditekan oleh penurunan di seluruh lini, dipimpin oleh aksi pelemahan saham BYAN akibat penjualan saham oleh direksi serta pelemahan saham bank besar (BBRI).",
+   "ts": "2026-09-23T06:18:30.319483+07:00"
   }
  },
  "top_day": "2026-09-23",
@@ -27871,14 +27877,14 @@
   "2026-09-23": {
    "news": [
     {
-     "t": "The Nasdaq’s rapid rise to a record is sending a message to investors: Don’t wait for a pullback to buy",
-     "ko": "Nasdaq 최고가 경신에 조정 대기 대신 매수 시그널 확산",
-     "id": "Lonjakan Cepat Nasdaq ke Rekor Tertinggi Kirim Pesan ke Investor: Jangan Tunggu Koreksi untuk Beli",
+     "t": "Harga Minyak Susut Menyusul Optimisme Perundingan AS & Iran",
+     "ko": "미국·이란 협상 기대감 확산에 유가 하락",
+     "id": "",
      "ai_ko": "",
      "ai_id": "",
-     "src": "MarketWatch",
-     "url": "https://www.marketwatch.com/story/the-nasdaqs-rapid-rise-to-a-record-is-sending-a-message-to-investors-dont-wait-for-a-pullback-to-buy-5f533ed8?mod=mw_rss_topstories",
-     "time": "04:44",
+     "src": "Bloomberg Technoz",
+     "url": "https://www.bloombergtechnoz.com/detail-news/122370/harga-minyak-susut-menyusul-optimisme-perundingan-as-iran",
+     "time": "05:30",
      "tags": [],
      "sc": 309.0,
      "slot": "global",

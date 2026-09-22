@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 22:09",
+ "updated": "2026-09-22 22:22",
  "delay_min": 15,
  "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,358 · 21:00 Yahoo",
- "idr_per_krw": 13.1673,
+ "idr_per_krw": 13.1651,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16833,11 +16833,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7767.22,
+   "px": 7765.3,
    "prev": 7764.22,
-   "pct": 0.04,
+   "pct": 0.01,
    "mst": 0,
-   "asof": "11:05",
+   "asof": "11:15",
    "live": true,
    "spark": [
     7779.14,
@@ -16859,18 +16859,20 @@
     7765.62,
     7764.87,
     7765.62,
-    7767.22
+    7764.1,
+    7766.17,
+    7765.3
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27223.15,
+   "px": 27226.05,
    "prev": 27122.09,
-   "pct": 0.37,
+   "pct": 0.38,
    "mst": 0,
-   "asof": "11:05",
+   "asof": "11:15",
    "live": true,
    "spark": [
     27223.51,
@@ -16892,18 +16894,20 @@
     27237.77,
     27228.08,
     27217.88,
-    27223.15
+    27216.19,
+    27226.04,
+    27226.05
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51839.71,
+   "px": 51802.89,
    "prev": 52053.88,
-   "pct": -0.41,
+   "pct": -0.48,
    "mst": 0,
-   "asof": "11:05",
+   "asof": "11:15",
    "live": true,
    "spark": [
     52161.89,
@@ -16925,7 +16929,9 @@
     51833.16,
     51819.17,
     51843.31,
-    51839.71
+    51812.24,
+    51816.02,
+    51802.89
    ]
   },
   {
@@ -17999,9 +18005,45 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-22T22:08:32.223159+07:00",
+   "ts": "2026-09-22T22:20:15+07:00",
    "date": "2026-09-22",
-   "time": "22:08",
+   "time": "22:20",
+   "src": "Jawa Pos",
+   "t": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG",
+   "tags": [],
+   "url": "https://www.jawapos.com/energi/2609220555/pertamina-patra-niaga-waspadai-gangguan-pengadaan-minyak-bbm-dan-lpg",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/ilustrasi-spbu-milik-pertamina-patra-niaga-istimewa-2plup.webp",
+   "t_id": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG",
+   "t_ko": "Pertamina Patra Niaga, 유류·BBM·LPG 조달 차질 대비 태세"
+  },
+  {
+   "ts": "2026-09-22T22:14:14+07:00",
+   "date": "2026-09-22",
+   "time": "22:14",
+   "src": "Detik",
+   "t": "Situasi Global Memanas, Pertamina Perkuat Pasokan BBM-LPG",
+   "tags": [],
+   "url": "https://finance.detik.com/energi/d-8674786/situasi-global-memanas-pertamina-perkuat-pasokan-bbm-lpg",
+   "g": 1,
+   "img": "https://akcdn.detik.net.id/community/media/visual/2021/07/16/gedung-pertamina-pusat_169.jpeg?w=360&q=90",
+   "t_ko": "글로벌 정세 불안에 Pertamina, BBM·LPG 공급망 강화"
+  },
+  {
+   "ts": "2026-09-22T22:14:08+07:00",
+   "date": "2026-09-22",
+   "time": "22:14",
+   "src": "Jawa Pos",
+   "t": "51,9 persen Gen Z Rela Pangkas Anggaran Nongkrong demi Hobi Olah Raga",
+   "tags": [],
+   "url": "https://www.jawapos.com/finance/2609220554/519-persen-gen-z-rela-pangkas-anggaran-nongkrong-demi-hobi-olah-raga",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/ilustrasi-padel-pixel-vMmBO.webp",
+   "t_id": "51,9 persen Gen Z Rela Pangkas Anggaran Nongkrong demi Hobi Olah Raga",
+   "t_ko": "Gen Z 51.9%, 운동 취미 위해 외식·모임 예산 축소"
+  },
+  {
+   "ts": "2026-09-22T22:13:38+07:00",
+   "date": "2026-09-22",
+   "time": "22:13",
    "src": "Jawa Pos",
    "t": "Krista Exhibitions Kembali Gelar ALLPrint Indonesia 2026 di JIExpo Kemayoran Jakarta",
    "tags": [],
@@ -18019,6 +18061,18 @@
     "pameran",
     "industri percetakan"
    ]
+  },
+  {
+   "ts": "2026-09-22T22:08:29+07:00",
+   "date": "2026-09-22",
+   "time": "22:08",
+   "src": "Bloomberg",
+   "t": "Fed's Williams Says Shift to Central Clearing Ahead of Schedule",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-22/fed-s-williams-treasuries-clearing-ahead-of-schedule-video",
+   "g": 1,
+   "t_ko": "Williams 연준 총재, 중앙 청산 전환 시기 앞당겨질 것",
+   "t_id": "The Fed Williams: Peralihan ke Kliring Sentral Lebih Cepat dari Jadwal"
   },
   {
    "ts": "2026-09-22T22:03:13+07:00",
@@ -18055,6 +18109,17 @@
    ]
   },
   {
+   "ts": "2026-09-22T21:59:36+07:00",
+   "date": "2026-09-22",
+   "time": "21:59",
+   "src": "Detik",
+   "t": "Pertamina Buka Suara soal Isu Orang Luar Intervensi Pengadaan BBM-LPG",
+   "tags": [],
+   "url": "https://finance.detik.com/energi/d-8674772/pertamina-buka-suara-soal-isu-orang-luar-intervensi-pengadaan-bbm-lpg",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/05/05/gedung-pertamina-1777965806138_169.jpeg?w=360&q=90",
+   "t_ko": "Pertamina, 외부 인사의 BBM·LPG 조달 개입설에 입장 표명"
+  },
+  {
    "ts": "2026-09-22T21:59:30+07:00",
    "date": "2026-09-22",
    "time": "21:59",
@@ -18075,8 +18140,8 @@
    "tags": [],
    "url": "https://mediaindonesia.com/internasional/936416/sidang-umum-pbb-trump-ancam-pakai-kekuatan-militer-di-amerika-latin",
    "g": 1,
-   "t_id": "Sidang Umum PBB, Trump Ancam Pakai Kekuatan Militer di Amerika Latin",
-   "t_ko": "UN 총회에서 트럼프, 라틴아메리카에 군사력 사용 경고"
+   "t_ko": "UN 총회에서 트럼프, 라틴아메리카에 군사력 사용 경고",
+   "t_id": "Sidang Umum PBB, Trump Ancam Pakai Kekuatan Militer di Amerika Latin"
   },
   {
    "ts": "2026-09-22T21:48:32+07:00",
@@ -18273,32 +18338,6 @@
    "t_id": "Dari Keripik Tempe hingga Sapu Rayung, 7 Produk UMK Pertamina Naik Kelas di China"
   },
   {
-   "ts": "2026-09-22T21:08:00+07:00",
-   "date": "2026-09-22",
-   "time": "21:08",
-   "src": "WSJ",
-   "t": "Stocks Get a Lift as Oil Sinks Below $100",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-oil-prices-turn-negative-e19323a8?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-28764665",
-   "t_ko": "유가 100달러 아래로 하락하며 증시 상승",
-   "t_id": "Saham Menguat Seiring Harga Minyak Turun di Bawah $100"
-  },
-  {
-   "ts": "2026-09-22T21:07:42+07:00",
-   "date": "2026-09-22",
-   "time": "21:07",
-   "src": "Yahoo Finance",
-   "t": "Fed's Williams says rate-control toolkit is working well",
-   "tags": [],
-   "url": "https://finance.yahoo.com/economy/policy/articles/feds-williams-says-rate-control-140742644.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/reuters.com/ce4c423329067bfad08fe605761a6605.jpg",
-   "t_ko": "Williams 연은 총재, 금리 통제 도구 정상 작동 중 언급",
-   "t_id": "Williams The Fed Sebut Perangkat Pengendalian Suku Bunga Berjalan Baik"
-  },
-  {
    "ts": "2026-09-22T21:00:00+07:00",
    "date": "2026-09-22",
    "time": "21:00",
@@ -18379,17 +18418,6 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122328/proyeksi-ekonom-soal-rupiah-akhir-2026-rp17-600-rp18-000-us",
    "img": "https://images.bloombergtechnoz.com/data/2026/07/image-20260727171645.jpeg",
    "t_ko": "2026년 말 환율 전망 — USD당 Rp17,600~Rp18,000"
-  },
-  {
-   "ts": "2026-09-22T20:38:00+07:00",
-   "date": "2026-09-22",
-   "time": "20:38",
-   "src": "Media Indonesia",
-   "t": "Pengawasan Distribusi BBM Bersubsidi Perlu Diperketat, Ini Alasannya",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936386/pengawasan-distribusi-bbm-bersubsidi-perlu-diperketat-ini-alasannya",
-   "t_ko": "보조금 연료 유통 관리 강화 필요성 대두",
-   "t_id": "Pengawasan Distribusi BBM Bersubsidi Perlu Diperketat, Ini Alasannya"
   },
   {
    "ts": "2026-09-22T20:34:36+07:00",
@@ -19332,42 +19360,6 @@
     "bioetanol",
     "kebijakan"
    ]
-  },
-  {
-   "ts": "2026-09-22T15:45:00+07:00",
-   "date": "2026-09-22",
-   "time": "15:45",
-   "src": "Jawa Pos",
-   "t": "PNM Sulap Lorong Kota Menjadi Sumber Pangan Lewat Program Agro Urban Madani",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220431/pnm-sulap-lorong-kota-menjadi-sumber-pangan-lewat-program-agro-urban-madani",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/dengan-dukungan-pnm-bu-dewi-nasabah-pnm-mekaar-di-sukmajaya-depok-bersama-anggota-kelompoknya-menanam-pakcoy-kangkung-dan-bayam-di-lingkungan-tempat-tinggal-mereka-istimewa-Zm6DW.webp",
-   "t_ko": "PNM은 Agro Urban Madani 프로그램을 통해 도시 복도를 식량 공급원으로 전환합니다.",
-   "t_id": "PNM Sulap Lorong Kota Menjadi Sumber Pangan Lewat Program Agro Urban Madani"
-  },
-  {
-   "ts": "2026-09-22T15:43:23+07:00",
-   "date": "2026-09-22",
-   "time": "15:43",
-   "src": "Jawa Pos",
-   "t": "Kadar Nikel Makin Rendah, Industri Smelter Indonesia Hadapi Tantangan Baru",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220110/kadar-nikel-makin-rendah-industri-smelter-indonesia-hadapi-tantangan-baru",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/sekretaris-jenderal-asosiasi-penambang-nikel-indonesia-apni-rizal-kasli-nanda-prayogajawaposcom-qXpex.webp",
-   "t_ko": "니켈 품위 하락에 인도네시아 제련 업계 신규 악재 직면",
-   "t_id": "Kadar Nikel Menurun, Industri Smelter Indonesia Hadapi Tantangan Baru",
-   "ai_ko": "· 니켈 광석 품위 저하로 제련 부담\n· 고품위 사프롤라이트는 RKEF로 처리\n· 리모나이트 HPAL은 배터리 소재 공급",
-   "ai_id": "· Kadar nikel turun, smelter tertekan\n· Saprolit kadar tinggi diolah via RKEF\n· Limonit HPAL pasok bahan baku baterai",
-   "ai_tags": [
-    "니켈",
-    "제련",
-    "배터리"
-   ],
-   "ai_tags_id": [
-    "nikel",
-    "smelter",
-    "baterai"
-   ]
   }
  ],
  "kisi_news": [
@@ -19541,9 +19533,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.961%",
-   "d": -0.04,
-   "ytd": 19.17,
+   "v": "4.959%",
+   "d": -0.08,
+   "ytd": 19.12,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19564,9 +19556,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.57",
-   "d": 0.21,
-   "ytd": 2.33,
+   "v": "100.59",
+   "d": 0.23,
+   "ytd": 2.35,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19576,9 +19568,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "91.13",
-   "d": -1.98,
-   "ytd": 58.71,
+   "v": "91.22",
+   "d": -1.88,
+   "ytd": 58.86,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19588,9 +19580,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,363.7",
-   "d": -0.35,
-   "ytd": 0.88,
+   "v": "4,373.0",
+   "d": -0.14,
+   "ytd": 1.1,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -23682,9 +23674,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 221,
+  "pc_age_min": 234,
   "news_ai_cache": 92,
-  "news_ai_hit": 36,
+  "news_ai_hit": 35,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -25509,20 +25501,6 @@
    "srcs": 3
   },
   {
-   "ts": "2026-09-22T21:10:34+07:00",
-   "date": "2026-09-22",
-   "time": "21:10",
-   "src": "Bloomberg",
-   "t": "Fed’s Collins Says Rate Hike Will Help Reach Inflation Goal",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/fed-s-collins-says-rate-hike-will-help-return-inflation-to-goal",
-   "g": 1,
-   "t_ko": "Collins 연은 총재, 물가 목표 달성 위해 추가 금리 인상 필요",
-   "t_id": "Collins The Fed Sebut Kenaikan Suku Bunga Bantu Capai Sasaran Inflasi",
-   "score": 414.0,
-   "srcs": 4
-  },
-  {
    "ts": "2026-09-22T18:37:50+07:00",
    "date": "2026-09-22",
    "time": "18:37",
@@ -25535,6 +25513,20 @@
    "t_id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
    "score": 412.15,
    "srcs": 2
+  },
+  {
+   "ts": "2026-09-22T21:10:34+07:00",
+   "date": "2026-09-22",
+   "time": "21:10",
+   "src": "Bloomberg",
+   "t": "Fed’s Collins Says Rate Hike Will Help Reach Inflation Goal",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/fed-s-collins-says-rate-hike-will-help-return-inflation-to-goal",
+   "g": 1,
+   "t_ko": "Collins 연은 총재, 물가 목표 달성 위해 추가 금리 인상 필요",
+   "t_id": "Collins The Fed Sebut Kenaikan Suku Bunga Bantu Capai Sasaran Inflasi",
+   "score": 412.0,
+   "srcs": 3
   },
   {
    "ts": "2026-09-22T20:09:00+07:00",
@@ -25551,19 +25543,19 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T21:08:00+07:00",
+   "ts": "2026-09-22T15:06:25+07:00",
    "date": "2026-09-22",
-   "time": "21:08",
-   "src": "WSJ",
-   "t": "Stocks Get a Lift as Oil Sinks Below $100",
+   "time": "15:06",
+   "src": "Yahoo Finance",
+   "t": "Stock market today: Dow slips, Nasdaq and S&P 500 drift higher as oil retreats, AI trade powers market",
    "tags": [],
-   "url": "https://www.wsj.com/finance/stocks/ai-stock-rally-loses-steam-oil-prices-turn-negative-e19323a8?mod=rss_markets_main",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
    "g": 1,
-   "img": "https://images.wsj.net/im-28764665",
-   "t_ko": "유가 100달러 아래로 하락하며 증시 상승",
-   "t_id": "Saham Menguat Seiring Harga Minyak Turun di Bawah $100",
-   "score": 314.5,
-   "srcs": 5
+   "img": "https://s.yimg.com/uu/api/res/1.2/oKXjq3H1JslC0ffQ.G1F8A--~B/aD01NjU4O3c9ODQ4NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/37f22e80-6f8b-4044-abe4-f5cd6fdce5b9",
+   "score": 313.5,
+   "srcs": 5,
+   "t_ko": "뉴욕증시, 유가 하락 속 다우 하락·나스닥·S&P500 상승 — AI 반도체 주도",
+   "t_id": "Bursa Saham Hari Ini: Dow Turun, Nasdaq & S&P 500 Menguat Seiring Minyak Turun & Tren AI Dorong Pasar"
   }
  ],
  "daylog": {

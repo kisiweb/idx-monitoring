@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 04:20",
+ "updated": "2026-09-23 04:33",
  "delay_min": 15,
- "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 03:00 Yahoo",
- "idr_per_krw": 13.191,
+ "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 04:30 Yahoo",
+ "idr_per_krw": 13.1915,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -89,10 +89,12 @@
     17850.0,
     17878.0,
     17878.0,
+    17878.0,
+    17878.0,
     17878.0
    ],
    "inv": true,
-   "asof": "03:00",
+   "asof": "04:30",
    "high": 17878.0,
    "low": 17808.0,
    "src": "yahoo"
@@ -17697,6 +17699,55 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T04:30:00+07:00",
+   "date": "2026-09-23",
+   "time": "04:30",
+   "src": "MarketWatch",
+   "t": "Sandisk’s stock is rising: Why one analyst says AI could help it reach new heights",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/sandisks-stock-is-rising-why-one-analyst-says-ai-could-help-it-reach-new-heights-5541ded8?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-75636714",
+   "t_ko": "Sandisk 주가 상승 — AI 수혜로 신고가 도달 전망",
+   "t_id": "Saham Sandisk Melesat: Analis Sebut AI Bawa Rekor Baru"
+  },
+  {
+   "ts": "2026-09-23T04:27:00+07:00",
+   "date": "2026-09-23",
+   "time": "04:27",
+   "src": "MarketWatch",
+   "t": "Want to bet on risky, high-beta stocks? Why you should wait for mid-October.",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/want-to-bet-on-risky-high-beta-stocks-why-you-should-wait-for-this-week-in-october-d9094820?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-19305643",
+   "t_ko": "고배타 고위험 주식 투자, 10월 중순까지 대기 권고",
+   "t_id": "Ingin Masuk Saham High-Beta Berisiko? Ini Alasan Tunggu Pertengahan Oktober"
+  },
+  {
+   "ts": "2026-09-23T04:25:42+07:00",
+   "date": "2026-09-23",
+   "time": "04:25",
+   "src": "CNBC",
+   "t": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+   "g": 1,
+   "t_ko": "Royal Caribbean, Sandals 지분 50% 인수에 30억 달러 규모 계약 임박",
+   "t_id": "Royal Caribbean Dekati Kesepakatan $3 Miliar untuk Kuasai 50% Saham Sandals"
+  },
+  {
+   "ts": "2026-09-23T04:23:00+07:00",
+   "date": "2026-09-23",
+   "time": "04:23",
+   "src": "Media Indonesia",
+   "t": "Trump Lempar Gertakan Sekaligus Buka Perundingan Rahasia dengan Iran",
+   "tags": [],
+   "url": "https://mediaindonesia.com/internasional/936461/trump-lempar-gertakan-sekaligus-buka-perundingan-rahasia-dengan-iran",
+   "g": 1,
+   "t_ko": "Trump, Iran에 압박과 함께 비밀 협상 창구 개방"
+  },
+  {
    "ts": "2026-09-23T04:15:51+07:00",
    "date": "2026-09-23",
    "time": "04:15",
@@ -17846,56 +17897,6 @@
    "g": 1,
    "t_ko": "Chagos·Falkland 분쟁 속 영국 총리 Andy Burnham, Trump 강경 대응 대비",
    "t_id": "Sengketa Kepulauan Chagos dan Falkland, PM Inggris Andy Burnham Siap Hadapi Sikap Keras Trump"
-  },
-  {
-   "ts": "2026-09-23T03:49:25+07:00",
-   "date": "2026-09-23",
-   "time": "03:49",
-   "src": "CNBC",
-   "t": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
-   "g": 1,
-   "t_ko": "Cisco, 성장 우려에 Piper Sandler 목표가 하향으로 주가 5% 하락",
-   "t_id": "Saham Cisco Anjlok 5% Usai Piper Sandler Pangkas Target Harga di Tengah Kekhawatiran Pertumbuhan"
-  },
-  {
-   "ts": "2026-09-23T03:47:00+07:00",
-   "date": "2026-09-23",
-   "time": "03:47",
-   "src": "WSJ",
-   "t": "Meta’s Muse Comes for Financial Stocks",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/investing/metas-muse-comes-for-financial-stocks-17bdf11a?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-05973138",
-   "t_ko": "Meta의 Muse, 금융주로 영역 확대",
-   "t_id": "Muse Meta Incar Saham Keuangan"
-  },
-  {
-   "ts": "2026-09-23T03:43:48+07:00",
-   "date": "2026-09-23",
-   "time": "03:43",
-   "src": "CNBC",
-   "t": "A top chip stock analyst sees big things for Nvidia, Broadcom. How his case aligns with ours",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/a-top-chip-stock-analyst-sees-big-things-for-nvidia-broadcom-how-his-case-aligns-with-ours.html",
-   "g": 1,
-   "t_ko": "반도체 애널리스트, Nvidia·Broadcom 낙관론 제시",
-   "t_id": "Analis Saham Semikonduktor Unggulkan Nvidia dan Broadcom, Ini Alasannya"
-  },
-  {
-   "ts": "2026-09-23T03:41:13+07:00",
-   "date": "2026-09-23",
-   "time": "03:41",
-   "src": "BBC",
-   "t": "Trump says he would back ban on diesel exports",
-   "tags": [],
-   "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-   "g": 1,
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c38/live/f49ca2e0-b6c3-11f1-8a9f-c7141bd7738d.jpg",
-   "t_ko": "Trump, 디젤 수출 금지 지지 표명",
-   "t_id": "Trump Sebut Akan Dukung Larangan Ekspor Diesel"
   },
   {
    "ts": "2026-09-23T03:32:47+07:00",
@@ -19190,9 +19191,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "13.19",
-   "d": 2.68,
-   "ytd": 13.59,
+   "v": "13.18",
+   "d": 2.59,
+   "ytd": 13.5,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19225,9 +19226,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.54",
-   "d": 0.18,
-   "ytd": 2.29,
+   "v": "100.55",
+   "d": 0.19,
+   "ytd": 2.31,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -24312,7 +24313,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 70,
+  "pc_age_min": 83,
   "news_ai_cache": 41,
   "news_ai_hit": 32,
   "on_runner": true,
@@ -27029,8 +27030,8 @@
    "news": [
     {
      "t": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-     "ko": "Royal Caribbean, Sandals 지분 50% 인수 USD 30억 거래 임박",
-     "id": "Royal Caribbean Mendekati Kesepakatan US$3 Miliar Ambil 50% Saham Sandals",
+     "ko": "Royal Caribbean, Sandals 지분 50% 인수에 30억 달러 규모 계약 임박",
+     "id": "Royal Caribbean Dekati Kesepakatan $3 Miliar untuk Kuasai 50% Saham Sandals",
      "ai_ko": "",
      "ai_id": "",
      "src": "CNBC",

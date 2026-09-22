@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 22:34",
+ "updated": "2026-09-22 22:39",
  "delay_min": 15,
- "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,357 · 21:00 Yahoo",
- "idr_per_krw": 13.1714,
+ "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,358 · 21:00 Yahoo",
+ "idr_per_krw": 13.1691,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16833,11 +16833,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7761.68,
+   "px": 7758.69,
    "prev": 7764.22,
-   "pct": -0.03,
+   "pct": -0.07,
    "mst": 0,
-   "asof": "11:30",
+   "asof": "11:35",
    "live": true,
    "spark": [
     7779.14,
@@ -16864,18 +16864,19 @@
     7766.6,
     7765.36,
     7763.81,
-    7761.68
+    7760.65,
+    7758.69
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27215.45,
+   "px": 27197.52,
    "prev": 27122.09,
-   "pct": 0.34,
+   "pct": 0.28,
    "mst": 0,
-   "asof": "11:30",
+   "asof": "11:35",
    "live": true,
    "spark": [
     27223.51,
@@ -16902,18 +16903,19 @@
     27238.43,
     27224.58,
     27226.37,
-    27215.45
+    27214.51,
+    27197.52
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51765.22,
+   "px": 51738.78,
    "prev": 52053.88,
-   "pct": -0.55,
+   "pct": -0.61,
    "mst": 0,
-   "asof": "11:30",
+   "asof": "11:35",
    "live": true,
    "spark": [
     52161.89,
@@ -16940,7 +16942,8 @@
     51804.01,
     51808.74,
     51791.35,
-    51765.22
+    51738.57,
+    51738.78
    ]
   },
   {
@@ -17278,6 +17281,20 @@
  },
  "news": [
   {
+   "ts": "2026-09-22T22:30:00+07:00",
+   "date": "2026-09-22",
+   "time": "22:30",
+   "src": "Detik",
+   "t": "Efek El Nino, Kapasitas PLTA di Sulawesi Berkurang hingga 650 MW",
+   "tags": [
+    "BESS"
+   ],
+   "url": "https://finance.detik.com/energi/d-8674607/efek-el-nino-kapasitas-plta-di-sulawesi-berkurang-hingga-650-mw",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2023/07/30/plta-balambano-di-luwu-timur_169.mpo?w=360&q=90",
+   "t_id": "Efek El Nino, Kapasitas PLTA di Sulawesi Berkurang hingga 650 MW",
+   "t_ko": "술라웨시 엘니뇨 여파로 수력 발전 용량 650MW 감소"
+  },
+  {
    "ts": "2026-09-22T22:28:00+07:00",
    "date": "2026-09-22",
    "time": "22:28",
@@ -17288,8 +17305,8 @@
    ],
    "url": "https://katadata.co.id/berita/energi/6ab29e8812ba4/pge-mulai-pengeboran-sumur-kedua-untuk-pltp-lumut-balai-unit-3",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2020/01/15/2020_01_15-20_11_50_45867b9c15c9fb009763f72c5c021748_620x413_thumb.jpg",
-   "t_id": "PGE Mulai Pengeboran Sumur Kedua untuk PLTP Lumut Balai Unit 3",
-   "t_ko": "Pertamina Geothermal Energy(PGE), Lumut Balai Unit 3 지열발전소 2호기 시추 착수"
+   "t_ko": "Pertamina Geothermal Energy(PGE), Lumut Balai Unit 3 지열발전소 2호기 시추 착수",
+   "t_id": "PGE Mulai Pengeboran Sumur Kedua untuk PLTP Lumut Balai Unit 3"
   },
   {
    "ts": "2026-09-22T20:46:41+07:00",
@@ -18052,6 +18069,32 @@
    "t_id": "Pertamina Patra Niaga Waspadai Gangguan Pengadaan Minyak, BBM, dan LPG"
   },
   {
+   "ts": "2026-09-22T22:19:13+07:00",
+   "date": "2026-09-22",
+   "time": "22:19",
+   "src": "FT",
+   "t": "EU to lift sanctions on two Russian oligarchs",
+   "tags": [],
+   "url": "https://www.ft.com/content/760091dd-20be-4152-aa0d-561475a99ee8?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3e07606f-c534-4e98-9b0c-02f92853ebeb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "EU, 러시아 올리고르크 2명 제재 해제",
+   "t_id": "Uni Eropa Cabut Sanksi Dua Oligarki Rusia"
+  },
+  {
+   "ts": "2026-09-22T22:18:53+07:00",
+   "date": "2026-09-22",
+   "time": "22:18",
+   "src": "FT",
+   "t": "Saudi Arabia signals East-West pipeline reopening",
+   "tags": [],
+   "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "사우디아라비아, 동서 송유관 재가동 시사",
+   "t_id": "Arab Saudi Isyaratkan Pembukaan Kembali Pipa Timur-Barat"
+  },
+  {
    "ts": "2026-09-22T22:18:36+07:00",
    "date": "2026-09-22",
    "time": "22:18",
@@ -18145,6 +18188,19 @@
    "img": "https://s.yimg.com/os/creatr-uploaded-images/2026-06/95b30cc0-6357-11f1-b9d6-d417e35707d1",
    "t_ko": "Intel, AI 에이전트 확산 속 CPU 수요에 5일간 25% 급등",
    "t_id": "Saham Intel Naik 25% dalam 5 Hari Terakhir, Ditopang Permintaan CPU Seiring Tren Agen AI"
+  },
+  {
+   "ts": "2026-09-22T22:11:43+07:00",
+   "date": "2026-09-22",
+   "time": "22:11",
+   "src": "Yahoo Finance",
+   "t": "Saudi Arabia restarts East-West oil pipeline, sources say",
+   "tags": [],
+   "url": "https://finance.yahoo.com/news/saudi-arabia-restarts-east-west-100845429.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/reuters.com/f535ba39e629f631bd870a5dbf356571.jpg",
+   "t_ko": "사우디아라비아, 동서 송유관 운영 재개 — 소식통",
+   "t_id": "Arab Saudi Mulai Kembali Operasikan Pipa Minyak Timur-Barat, Kata Sumber"
   },
   {
    "ts": "2026-09-22T22:11:00+07:00",
@@ -18290,31 +18346,6 @@
    "t_id": "Industri Tekstil Segera Raih Tax Holiday"
   },
   {
-   "ts": "2026-09-22T21:44:04+07:00",
-   "date": "2026-09-22",
-   "time": "21:44",
-   "src": "Bloomberg",
-   "t": "Goldman's Snider Expects Double-Digit S&P Earnings Growth",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/goldman-s-snider-expects-double-digit-earnings-growth-video",
-   "g": 1,
-   "t_ko": "Goldman Sachs Snider, S&P 500 두 자릿수 순이익 증가 전망",
-   "t_id": "Snider Goldman Prediksi Pertumbuhan Laba S&P Dua Digit"
-  },
-  {
-   "ts": "2026-09-22T21:38:43+07:00",
-   "date": "2026-09-22",
-   "time": "21:38",
-   "src": "Yahoo Finance",
-   "t": "Trump Accounts could help lower-income families most. Few have signed up.",
-   "tags": [],
-   "url": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html",
-   "g": 1,
-   "img": "https://s.yimg.com/os/creatr-uploaded-images/2026-01/d7f4ab20-fc73-11f0-9bee-71b2784d1a5e",
-   "t_ko": "Trump(트럼프) 계좌제도, 저소득층에 가장 유리하나 가입자 미미",
-   "t_id": "Akun Trump Bantu Keluarga Berpenghasilan Rendah, Minat Masih Minim"
-  },
-  {
    "ts": "2026-09-22T21:37:41+07:00",
    "date": "2026-09-22",
    "time": "21:37",
@@ -18325,19 +18356,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2020/11/08/siap-siap-tol-cimanggis-cibitung-bakal-segera-dibuka-2_169.jpeg?w=360&q=90",
    "t_ko": "유료도로 개발기금 관리청 신설 및 역할 확정",
    "t_id": "Balai Pengelolaan Dana Pengembangan Jalan Tol Dibentuk, Ini Fungsinya"
-  },
-  {
-   "ts": "2026-09-22T21:36:04+07:00",
-   "date": "2026-09-22",
-   "time": "21:36",
-   "src": "FT",
-   "t": "Oil falls as Saudi Arabia signals East-West pipeline reopening",
-   "tags": [],
-   "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "사우디아라비아 동서 송유관 재가동 시그널에 유가 하락",
-   "t_id": "Minyak Turun Seiring Sinyal Arab Saudi Buka Kembali Pipa Timur-Barat"
   },
   {
    "ts": "2026-09-22T21:20:00+07:00",
@@ -19549,9 +19567,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.955%",
-   "d": -0.16,
-   "ytd": 19.02,
+   "v": "4.959%",
+   "d": -0.08,
+   "ytd": 19.12,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -19572,9 +19590,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.56",
-   "d": 0.2,
-   "ytd": 2.32,
+   "v": "100.60",
+   "d": 0.24,
+   "ytd": 2.36,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19596,9 +19614,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,374.1",
-   "d": -0.11,
-   "ytd": 1.12,
+   "v": "4,371.6",
+   "d": -0.17,
+   "ytd": 1.06,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20490,13 +20508,31 @@
    "imp": 2,
    "exp": null,
    "prev": "16.30K",
-   "act": null,
+   "act": "20.00K",
    "src": "investing.com",
    "title_ko": "ADP 주간 고용 변화",
    "title_id": "Perubahan Tenaga Kerja Mingguan ADP AS",
-   "sc": 55,
+   "sc": 35,
    "gs": 72,
    "g": "고용",
+   "sub": 0
+  },
+  {
+   "date": "2026-09-22",
+   "time": "20:55",
+   "kind": "macro",
+   "country": "US",
+   "title": "U.S. President Trump Speaks",
+   "imp": 3,
+   "exp": null,
+   "prev": null,
+   "act": null,
+   "src": "investing.com",
+   "title_ko": "트럼프 미 대통령 연설",
+   "title_id": "Presiden AS Trump Berbicara",
+   "sc": 54,
+   "gs": 40,
+   "g": "연준 발언",
    "sub": 0
   },
   {
@@ -23690,7 +23726,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 246,
+  "pc_age_min": 251,
   "news_ai_cache": 92,
   "news_ai_hit": 34,
   "on_runner": true,
@@ -25517,20 +25553,6 @@
    "srcs": 3
   },
   {
-   "ts": "2026-09-22T18:37:50+07:00",
-   "date": "2026-09-22",
-   "time": "18:37",
-   "src": "Jawa Pos",
-   "t": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220201/bea-cukai-gagalkan-impor-ilegal-30-kontainer-garam-beras-dan-pakaian-bekas-senilai-rp-27-miliar",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/oFwNvShi6HMpFilTS8NeN4zVnyanzDadChdTf40a.webp",
-   "t_ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
-   "t_id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
-   "score": 412.15,
-   "srcs": 2
-  },
-  {
    "ts": "2026-09-22T19:00:00+07:00",
    "date": "2026-09-22",
    "time": "19:00",
@@ -25542,6 +25564,20 @@
    "t_ko": "비트코인 85,000달러 돌파 — 연준 분위기 속 선물 거래 활성화",
    "t_id": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
    "score": 411.05,
+   "srcs": 1
+  },
+  {
+   "ts": "2026-09-22T18:37:50+07:00",
+   "date": "2026-09-22",
+   "time": "18:37",
+   "src": "Jawa Pos",
+   "t": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220201/bea-cukai-gagalkan-impor-ilegal-30-kontainer-garam-beras-dan-pakaian-bekas-senilai-rp-27-miliar",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/oFwNvShi6HMpFilTS8NeN4zVnyanzDadChdTf40a.webp",
+   "t_ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
+   "t_id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
+   "score": 409.95,
    "srcs": 1
   },
   {
@@ -25559,18 +25595,17 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-22T21:36:04+07:00",
+   "ts": "2026-09-22T22:23:40+07:00",
    "date": "2026-09-22",
-   "time": "21:36",
-   "src": "FT",
-   "t": "Oil falls as Saudi Arabia signals East-West pipeline reopening",
+   "time": "22:23",
+   "src": "CNBC",
+   "t": "Oil little changed after Trump tells UN that Iran will make a deal after midterm elections",
    "tags": [],
-   "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
+   "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
    "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "사우디아라비아 동서 송유관 재가동 시그널에 유가 하락",
-   "t_id": "Minyak Turun Seiring Sinyal Arab Saudi Buka Kembali Pipa Timur-Barat",
-   "score": 312.5,
+   "t_ko": "Trump, 중간선거 후 Iran이 타협할 것이라 언급 후 유가 보합세",
+   "t_id": "Minyak Tipis Usai Trump Sebut Iran Bakal Sepakat Pasca-Pemilu Midterm",
+   "score": 314.0,
    "srcs": 4
   }
  ],

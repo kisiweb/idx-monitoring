@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 03:48",
+ "updated": "2026-09-23 04:06",
  "delay_min": 15,
- "fx_basis": "13.19 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 03:00 Yahoo",
- "idr_per_krw": 13.1893,
+ "fx_basis": "13.20 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,355 · 03:00 Yahoo",
+ "idr_per_krw": 13.1976,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -126,14 +126,14 @@
   "prev": 6384.73,
   "ytd": -27.4,
   "m1": -3.45,
-  "value_idr": 13123031103966.668,
+  "value_idr": 13126579742133.334,
   "volume": null,
   "value_src": "yahoo",
-  "rank_src": "Yahoo 15분 지연 · 829종목 · 종가 · 외국인·공시 PC 09-23 03:10",
+  "rank_src": "Yahoo 15분 지연 · 830종목 · 종가 · 외국인·공시 PC 09-23 03:10",
   "rank_asof": null,
   "rank_date": "2026-09-22",
   "adv": 148,
-  "dec": 555,
+  "dec": 556,
   "unch": 126,
   "foreign_net_idr": -664231103677.8579,
   "foreign_buy": 3656941427563.906,
@@ -5348,6 +5348,22 @@
    "lo": 515.0,
    "ratio": 0.3,
    "fnet": 685739037.2688376,
+   "live": 0
+  },
+  {
+   "t": "AISA",
+   "n": "FKS Food Sejahtera",
+   "px": 124.0,
+   "prev": 133.0,
+   "pct": -6.77,
+   "val": 3548638166.666667,
+   "vol": 28238500.0,
+   "sh": 9311800000,
+   "mcap": 1154663200000.0,
+   "hi": 131.0,
+   "lo": 122.0,
+   "ratio": 1.2,
+   "fnet": -116277496.09115215,
    "live": 0
   },
   {
@@ -15111,6 +15127,110 @@
    "flow_to_1m": "2026-09-22"
   },
   {
+   "name": "필수소비재",
+   "name_id": "Konsumen Primer",
+   "n": 120,
+   "adv": 26,
+   "dec": 70,
+   "val": 1052544409233.3337,
+   "mcap": 1021712697314949.0,
+   "top": [
+    {
+     "t": "ICBP",
+     "pct": -2.21
+    },
+    {
+     "t": "HMSP",
+     "pct": 0
+    },
+    {
+     "t": "UNVR",
+     "pct": 0
+    },
+    {
+     "t": "INDF",
+     "pct": -1.07
+    },
+    {
+     "t": "AMRT",
+     "pct": -0.76
+    },
+    {
+     "t": "CPIN",
+     "pct": 0.96
+    },
+    {
+     "t": "PGUN",
+     "pct": -4.81
+    },
+    {
+     "t": "TAPG",
+     "pct": -5.99
+    },
+    {
+     "t": "CMRY",
+     "pct": 0.45
+    },
+    {
+     "t": "GGRM",
+     "pct": 0.28
+    }
+   ],
+   "fnet": 109280229913,
+   "pct": -1.34,
+   "fbuy_top": [
+    {
+     "t": "TAPG",
+     "n": "Triputra Agro Persada",
+     "fnet": 37164179196,
+     "pct": -5.99
+    },
+    {
+     "t": "LSIP",
+     "n": "PP London Sumatra Indonesia",
+     "fnet": 21792110148,
+     "pct": -3.36
+    },
+    {
+     "t": "AALI",
+     "n": "Astra Agro Lestari",
+     "fnet": 18968857367,
+     "pct": -5.99
+    }
+   ],
+   "fsell_top": [
+    {
+     "t": "ULTJ",
+     "n": "Ultrajaya Milk Industry & Trading Company",
+     "fnet": -10176436419,
+     "pct": -1.9
+    },
+    {
+     "t": "MYOR",
+     "n": "Mayora Indah",
+     "fnet": -5614550809,
+     "pct": -1.66
+    },
+    {
+     "t": "JPFA",
+     "n": "JAPFA Comfeed Indonesia",
+     "fnet": -2614837030,
+     "pct": -1.76
+    }
+   ],
+   "fnet_1w": 99370822029,
+   "flow_days": 4,
+   "flow_from": "2026-09-17",
+   "flow_to": "2026-09-22",
+   "fnet_1m": -805797639400,
+   "flow_days_1m": 21,
+   "win_from": "2026-09-17",
+   "win_to": "2026-09-23",
+   "win_from_1m": "2026-08-23",
+   "flow_from_1m": "2026-08-24",
+   "flow_to_1m": "2026-09-22"
+  },
+  {
    "name": "인프라",
    "name_id": "Infrastruktur",
    "n": 55,
@@ -15207,110 +15327,6 @@
    "flow_from": "2026-09-17",
    "flow_to": "2026-09-22",
    "fnet_1m": -1401540273122,
-   "flow_days_1m": 21,
-   "win_from": "2026-09-17",
-   "win_to": "2026-09-23",
-   "win_from_1m": "2026-08-23",
-   "flow_from_1m": "2026-08-24",
-   "flow_to_1m": "2026-09-22"
-  },
-  {
-   "name": "필수소비재",
-   "name_id": "Konsumen Primer",
-   "n": 119,
-   "adv": 26,
-   "dec": 69,
-   "val": 1048995771066.6671,
-   "mcap": 1020558034114949.0,
-   "top": [
-    {
-     "t": "ICBP",
-     "pct": -2.21
-    },
-    {
-     "t": "HMSP",
-     "pct": 0
-    },
-    {
-     "t": "UNVR",
-     "pct": 0
-    },
-    {
-     "t": "INDF",
-     "pct": -1.07
-    },
-    {
-     "t": "AMRT",
-     "pct": -0.76
-    },
-    {
-     "t": "CPIN",
-     "pct": 0.96
-    },
-    {
-     "t": "PGUN",
-     "pct": -4.81
-    },
-    {
-     "t": "TAPG",
-     "pct": -5.99
-    },
-    {
-     "t": "CMRY",
-     "pct": 0.45
-    },
-    {
-     "t": "GGRM",
-     "pct": 0.28
-    }
-   ],
-   "fnet": 109396507409,
-   "pct": -1.34,
-   "fbuy_top": [
-    {
-     "t": "TAPG",
-     "n": "Triputra Agro Persada",
-     "fnet": 37164179196,
-     "pct": -5.99
-    },
-    {
-     "t": "LSIP",
-     "n": "PP London Sumatra Indonesia",
-     "fnet": 21792110148,
-     "pct": -3.36
-    },
-    {
-     "t": "AALI",
-     "n": "Astra Agro Lestari",
-     "fnet": 18968857367,
-     "pct": -5.99
-    }
-   ],
-   "fsell_top": [
-    {
-     "t": "ULTJ",
-     "n": "Ultrajaya Milk Industry & Trading Company",
-     "fnet": -10176436419,
-     "pct": -1.9
-    },
-    {
-     "t": "MYOR",
-     "n": "Mayora Indah",
-     "fnet": -5614550809,
-     "pct": -1.66
-    },
-    {
-     "t": "JPFA",
-     "n": "JAPFA Comfeed Indonesia",
-     "fnet": -2614837030,
-     "pct": -1.76
-    }
-   ],
-   "fnet_1w": 99487099525,
-   "flow_days": 4,
-   "flow_from": "2026-09-17",
-   "flow_to": "2026-09-22",
-   "fnet_1m": -805681361904,
    "flow_days_1m": 21,
    "win_from": "2026-09-17",
    "win_to": "2026-09-23",
@@ -17681,6 +17697,133 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T04:02:00+07:00",
+   "date": "2026-09-23",
+   "time": "04:02",
+   "src": "WSJ",
+   "t": "Basic Materials Roundup: Market Talk",
+   "tags": [],
+   "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-8962d0c7?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-41645439",
+   "t_ko": "소재 섹터 동향 — 시장 전망",
+   "t_id": "Rangkuman Sektor Material Dasar: Pasar Membahas"
+  },
+  {
+   "ts": "2026-09-23T04:02:00+07:00",
+   "date": "2026-09-23",
+   "time": "04:02",
+   "src": "WSJ",
+   "t": "Health Care Roundup: Market Talk",
+   "tags": [],
+   "url": "https://www.wsj.com/business/health-care-roundup-market-talk-2f40e335?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-28660363",
+   "t_ko": "헬스케어 부문 동향",
+   "t_id": "Fokus Kesehatan: Market Talk"
+  },
+  {
+   "ts": "2026-09-23T03:57:24+07:00",
+   "date": "2026-09-23",
+   "time": "03:57",
+   "src": "Bloomberg",
+   "t": "Oil Traders Bet on Price Drop at Record Pace as Disruptions Ease",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/oil-traders-bet-on-price-drop-at-record-pace-as-disruptions-ease",
+   "g": 1,
+   "t_ko": "공급 차질 완화 속 유가 하락 베팅 역대 최대치 경신",
+   "t_id": "Trader Minyak Pasang Posisi Jual di Rekor Tertinggi Seiring Meredanya Gangguan"
+  },
+  {
+   "ts": "2026-09-23T03:57:00+07:00",
+   "date": "2026-09-23",
+   "time": "03:57",
+   "src": "WSJ",
+   "t": "Energy & Utilities Roundup: Market Talk",
+   "tags": [],
+   "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-415ce2e2?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-16844321",
+   "t_ko": "에너지·유틸리티 섹터 마켓 토크",
+   "t_id": "Rangkuman Energi & Utilitas: Pembicaraan Pasar"
+  },
+  {
+   "ts": "2026-09-23T03:56:00+07:00",
+   "date": "2026-09-23",
+   "time": "03:56",
+   "src": "WSJ",
+   "t": "Financial Services Roundup: Market Talk",
+   "tags": [],
+   "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-f25d3281?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-03838137",
+   "t_ko": "금융권 동향 — 시장 전망",
+   "t_id": "Rangkuman Jasa Keuangan: Sinyal Pasar"
+  },
+  {
+   "ts": "2026-09-23T03:54:00+07:00",
+   "date": "2026-09-23",
+   "time": "03:54",
+   "src": "MarketWatch",
+   "t": "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
+   "tags": [],
+   "url": "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
+   "g": 1,
+   "img": "https://images.mktw.net/im-20070537",
+   "t_ko": "Apple, 5조 달러 클럽 가입해 Nvidia 뒤를 이을 전망",
+   "t_id": "Alasan Apple Segera Susul Nvidia Masuk Klub Eksklusif USD 5 Triliun"
+  },
+  {
+   "ts": "2026-09-23T03:51:29+07:00",
+   "date": "2026-09-23",
+   "time": "03:51",
+   "src": "CNA",
+   "t": "Financial stocks fall with AI and flattening yield curve in focus",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/financial-stocks-fall-ai-and-flattening-yield-curve-in-focus-6403396",
+   "g": 1,
+   "img": "https://dam.mediacorp.sg/image/upload/s--5y6AqFFC--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-22T205129Z_1_LYNXMPEM8L1PT_RTROPTP_3_USA-STOCKS.JPG?itok=rCQRYXud",
+   "t_ko": "금융주, AI 확산 및 일드커브 평탄화 주목 속 하락",
+   "t_id": "Saham Keuangan Turun di Tengah Sorotan AI dan Kurva Imbal Hasil Mendatar"
+  },
+  {
+   "ts": "2026-09-23T03:51:00+07:00",
+   "date": "2026-09-23",
+   "time": "03:51",
+   "src": "Media Indonesia",
+   "t": "Sengketa Kepulauan Chagos dan Falkland, PM Inggris Andy Burnham Siap Hadapi Sikap Keras Trump",
+   "tags": [],
+   "url": "https://mediaindonesia.com/internasional/936459/sengketa-kepulauan-chagos-dan-falkland-pm-inggris-andy-burnham-siap-hadapi-sikap-keras-trump",
+   "g": 1,
+   "t_id": "Sengketa Kepulauan Chagos dan Falkland, PM Inggris Andy Burnham Siap Hadapi Sikap Keras Trump",
+   "t_ko": "차고스·포클랜드 분쟁 속 영국 총리 Andy Burnham, 트럼프 강경 대응 대비"
+  },
+  {
+   "ts": "2026-09-23T03:49:25+07:00",
+   "date": "2026-09-23",
+   "time": "03:49",
+   "src": "CNBC",
+   "t": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
+   "g": 1,
+   "t_ko": "Cisco, 성장 우려에 Piper Sandler 목표가 하향으로 주가 5% 하락",
+   "t_id": "Saham Cisco Anjlok 5% Usai Piper Sandler Pangkas Target Harga di Tengah Kekhawatiran Pertumbuhan"
+  },
+  {
+   "ts": "2026-09-23T03:47:00+07:00",
+   "date": "2026-09-23",
+   "time": "03:47",
+   "src": "WSJ",
+   "t": "Meta’s Muse Comes for Financial Stocks",
+   "tags": [],
+   "url": "https://www.wsj.com/finance/investing/metas-muse-comes-for-financial-stocks-17bdf11a?mod=rss_markets_main",
+   "g": 1,
+   "img": "https://images.wsj.net/im-05973138",
+   "t_ko": "Meta의 Muse, 금융주 영역으로 진입",
+   "t_id": "Muse Meta Incar Saham Sektor Keuangan"
+  },
+  {
    "ts": "2026-09-23T03:43:48+07:00",
    "date": "2026-09-23",
    "time": "03:43",
@@ -17691,6 +17834,19 @@
    "g": 1,
    "t_ko": "반도체 애널리스트, Nvidia·Broadcom 낙관론 제시",
    "t_id": "Analis Saham Semikonduktor Unggulkan Nvidia dan Broadcom, Ini Alasannya"
+  },
+  {
+   "ts": "2026-09-23T03:41:13+07:00",
+   "date": "2026-09-23",
+   "time": "03:41",
+   "src": "BBC",
+   "t": "Trump says he would back ban on diesel exports",
+   "tags": [],
+   "url": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+   "g": 1,
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c38/live/f49ca2e0-b6c3-11f1-8a9f-c7141bd7738d.jpg",
+   "t_ko": "트럼프, 디젤 수출 금지 지지 표명",
+   "t_id": "Trump Sebut Akan Dukung Larangan Ekspor Diesel"
   },
   {
    "ts": "2026-09-23T03:40:00+07:00",
@@ -17755,118 +17911,6 @@
    "t_id": "Trader Borong Lindung Nilai untuk Siklus Kenaikan Suku Bunga The Fed yang Lebih Lambat"
   },
   {
-   "ts": "2026-09-23T03:28:13+07:00",
-   "date": "2026-09-23",
-   "time": "03:28",
-   "src": "FT",
-   "t": "Nasdaq 100 hits new high as ‘AI Fomo’ returns",
-   "tags": [],
-   "url": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4cf806ae-29cb-4091-8799-06e1396c125e.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "AI 포모 확산 속 Nasdaq 100 신고가 경신",
-   "t_id": "Nasdaq 100 Cetak Rekor Tertinggi Seiring Kembalinya 'FOMO AI'"
-  },
-  {
-   "ts": "2026-09-23T03:23:00+07:00",
-   "date": "2026-09-23",
-   "time": "03:23",
-   "src": "WSJ",
-   "t": "U.S. Stocks Mixed as AI Buzz Stokes Tech Gains",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-ai-buzz-stokes-tech-gains-7d1bf50b?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-76377399",
-   "t_ko": "뉴욕증시, AI 열풍 속 기술주 강세로 혼조세 마감",
-   "t_id": "Bursa US Mixed Ditopang Demam AI Dorong Sektor Teknologi"
-  },
-  {
-   "ts": "2026-09-23T03:12:01+07:00",
-   "date": "2026-09-23",
-   "time": "03:12",
-   "src": "FT",
-   "t": "Trump says he would back US diesel export ban",
-   "tags": [],
-   "url": "https://www.ft.com/content/22d1154b-8bea-4f8d-bfc4-5db7761d3612?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F383904c5-6bc2-43fe-92b4-35a8c72622df.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "트럼프, 미국산 디젤 수출 금지 지지 표명",
-   "t_id": "Trump Sebut Akan Dukung Larangan Ekspor Diesel AS"
-  },
-  {
-   "ts": "2026-09-23T03:06:00+07:00",
-   "date": "2026-09-23",
-   "time": "03:06",
-   "src": "WSJ",
-   "t": "Treasury Yields Little Changed",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?mod=rss_markets_main",
-   "g": 1,
-   "t_ko": "미 국채 수익률 보합세 기록",
-   "t_id": "Imbal Hasil US Treasury Cenderung Mendatar"
-  },
-  {
-   "ts": "2026-09-23T03:02:40+07:00",
-   "date": "2026-09-23",
-   "time": "03:02",
-   "src": "Bloomberg",
-   "t": "Risk Landscape is 'Fairly Perilous' Says AXIS CEO Vince Tizzio",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-22/risk-landscape-is-fairly-perilous-says-axis-ceo-tizzio-video",
-   "g": 1,
-   "t_ko": "AXIS CEO Vince Tizzio, 글로벌 리스크 환경 다소 위험 진단",
-   "t_id": "Lanskap Risiko Cukup Berbahaya, Kata CEO AXIS Vince Tizzio"
-  },
-  {
-   "ts": "2026-09-23T03:01:29+07:00",
-   "date": "2026-09-23",
-   "time": "03:01",
-   "src": "Reuters",
-   "t": "Nasdaq reaches record high close, AI stocks rally",
-   "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUI2bTZ5ZFhnZUozYjg5LXM1WHhuT24xUS0zYmRRZkViWVBreE05ZTNMWFBDSGhHTXUyQ3ZyMWhsUFdxSUlxUXVUUXVHWGRVelg3Z2RuVXo3bndwaXJfRXhEUEFERFNSUVZoaDNERnFxdnhuNkxLdVhnNDRpRGhxYndETzVJdVNnZXJESmpMNmw5QVFQODFGY2w2NzVCcFl0bXBSNjRaTQ?oc=5",
-   "g": 1,
-   "t_ko": "Nasdaq, AI 관련주 랠리에 힘입어 최고가 마감",
-   "t_id": "Nasdaq Cetak Rekor Penutupan Tertinggi, Saham AI Menguat"
-  },
-  {
-   "ts": "2026-09-23T03:00:05+07:00",
-   "date": "2026-09-23",
-   "time": "03:00",
-   "src": "FT",
-   "t": "Top UK graft prosecutors joined Trump’s Venezuela oil baron during Swiss probe",
-   "tags": [],
-   "url": "https://www.ft.com/content/f2f37449-f9c7-4556-9f97-4cca735980e4?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe2756405-1cce-4122-b37c-a4885c7abf2a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "영국 반부패 검사, 스위스 조사 당시 트럼프의 베네수엘라 석유상과 동행",
-   "t_id": "Jaksa Anti-Korupsi Inggris Bergabung dengan Raja Minyak Venezuela Era Trump dalam Penyelidikan di Swiss"
-  },
-  {
-   "ts": "2026-09-23T02:59:05+07:00",
-   "date": "2026-09-23",
-   "time": "02:59",
-   "src": "CNBC",
-   "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-   "g": 1,
-   "t_ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
-   "t_id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan"
-  },
-  {
-   "ts": "2026-09-23T02:51:13+07:00",
-   "date": "2026-09-23",
-   "time": "02:51",
-   "src": "CNBC",
-   "t": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
-   "g": 1,
-   "t_ko": "Royal Caribbean, Sandals 지분 50% 인수에 30억 달러 규모 계약 임박",
-   "t_id": "Royal Caribbean Dekati Kesepakatan $3 Miliar untuk Kuasai 50% Saham Sandals"
-  },
-  {
    "ts": "2026-09-23T02:43:33+07:00",
    "date": "2026-09-23",
    "time": "02:43",
@@ -17879,18 +17923,6 @@
    "t_id": "Kamar Khusus Perpajakan di MA Lebih Memberikan Kepastian Hukum Bagi Wajib Pajak"
   },
   {
-   "ts": "2026-09-23T02:43:21+07:00",
-   "date": "2026-09-23",
-   "time": "02:43",
-   "src": "CNBC",
-   "t": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
-   "g": 1,
-   "t_ko": "Anthropic·OpenAI, 속도 조절 요구 이후 첫 저가형 모델 출시",
-   "t_id": "Anthropic dan OpenAI Luncurkan Model Lebih Murah dalam Rilis Perdana Sejak Seruan Perlambatan"
-  },
-  {
    "ts": "2026-09-23T02:40:15+07:00",
    "date": "2026-09-23",
    "time": "02:40",
@@ -17901,18 +17933,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/direktur-utama-pt-indodana-multi-finance-mira-wibowo-bersama-banking-director-pt-bank-hsbc-indonesia-steve-andoko-seusai-penendatanganan-kerja-sama-pembiayaan-indodana-istimewa-MabbY.webp",
    "t_ko": "Indodana Finance, HSBC Indonesia로부터 Rp7,000억 조달",
    "t_id": "Indodana Finance Terima Pendanaan Rp700 Miliar dari HSBC Indonesia"
-  },
-  {
-   "ts": "2026-09-23T02:30:03+07:00",
-   "date": "2026-09-23",
-   "time": "02:30",
-   "src": "CNBC",
-   "t": "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-   "g": 1,
-   "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
-   "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
   },
   {
    "ts": "2026-09-23T02:00:00+07:00",
@@ -19218,9 +19238,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.95",
-   "d": -3.25,
-   "ytd": 56.65,
+   "v": "89.81",
+   "d": -3.4,
+   "ytd": 56.41,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19230,9 +19250,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,396.3",
-   "d": 0.39,
-   "ytd": 1.63,
+   "v": "4,397.3",
+   "d": 0.42,
+   "ytd": 1.66,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19254,15 +19274,15 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,576",
-   "d": 1.36,
-   "ytd": -0.63,
+   "v": "16,528",
+   "d": 1.07,
+   "ytd": -0.92,
    "inv": false,
-   "note": "investing.com · 연초 16,682",
+   "note": "investing.com · 09/22 마지막 값 · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
    "k_id": "Nikel LME (US$/t)",
-   "note_ko": "investing.com · 연초 16,682",
-   "note_id": "investing.com · Awal tahun 16,682"
+   "note_ko": "investing.com · 09/22 마지막 값 · 연초 16,682",
+   "note_id": "investing.com · 09/22 nilai terakhir · Awal tahun 16,682"
   },
   {
    "k": "CPO (MYR/t)",
@@ -24293,7 +24313,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 38,
+  "pc_age_min": 57,
   "news_ai_cache": 41,
   "news_ai_hit": 32,
   "on_runner": true,
@@ -27009,16 +27029,16 @@
   "2026-09-23": {
    "news": [
     {
-     "t": "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-     "ko": "Royal Caribbean, Sandals 지분 50% 인수에 30억 달러 규모 계약 임박",
-     "id": "Royal Caribbean Dekati Kesepakatan $3 Miliar untuk Kuasai 50% Saham Sandals",
+     "t": "Oil Traders Bet on Price Drop at Record Pace as Disruptions Ease",
+     "ko": "공급 차질 완화 속 유가 하락 베팅 역대 최대치 경신",
+     "id": "Trader Minyak Pasang Posisi Jual di Rekor Tertinggi Seiring Meredanya Gangguan",
      "ai_ko": "",
      "ai_id": "",
-     "src": "CNBC",
-     "url": "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
-     "time": "02:51",
+     "src": "Bloomberg",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-22/oil-traders-bet-on-price-drop-at-record-pace-as-disruptions-ease",
+     "time": "03:57",
      "tags": [],
-     "sc": 316.0,
+     "sc": 309.0,
      "slot": "global",
      "q": 85
     },

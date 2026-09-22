@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 02:03",
+ "updated": "2026-09-23 02:08",
  "delay_min": 15,
- "fx_basis": "13.16 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,358 · 01:45 Yahoo",
- "idr_per_krw": 13.1647,
+ "fx_basis": "13.17 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,358 · 01:45 Yahoo",
+ "idr_per_krw": 13.1654,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -16541,11 +16541,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7768.12,
+   "px": 7769.73,
    "prev": 7764.22,
-   "pct": 0.05,
+   "pct": 0.07,
    "mst": 0,
-   "asof": "15:00",
+   "asof": "15:05",
    "live": true,
    "spark": [
     7779.14,
@@ -16614,18 +16614,19 @@
     7771.59,
     7770.87,
     7767.44,
-    7768.12
+    7768.97,
+    7769.73
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27235.42,
+   "px": 27242.03,
    "prev": 27122.09,
-   "pct": 0.42,
+   "pct": 0.44,
    "mst": 0,
-   "asof": "15:00",
+   "asof": "15:05",
    "live": true,
    "spark": [
     27223.51,
@@ -16694,18 +16695,19 @@
     27247.06,
     27243.69,
     27232.25,
-    27235.42
+    27238.74,
+    27242.03
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51892.98,
+   "px": 51903.95,
    "prev": 52053.88,
-   "pct": -0.31,
+   "pct": -0.29,
    "mst": 0,
-   "asof": "15:00",
+   "asof": "15:05",
    "live": true,
    "spark": [
     52161.89,
@@ -16774,7 +16776,8 @@
     51897.45,
     51899.78,
     51878.5,
-    51892.98
+    51896.89,
+    51903.95
    ]
   },
   {
@@ -17878,9 +17881,9 @@
  ],
  "market_news": [
   {
-   "ts": "2026-09-23T02:01:45+07:00",
+   "ts": "2026-09-23T02:03:49+07:00",
    "date": "2026-09-23",
-   "time": "02:01",
+   "time": "02:03",
    "src": "CNBC",
    "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
    "tags": [],
@@ -17893,13 +17896,25 @@
    "ts": "2026-09-23T02:00:39+07:00",
    "date": "2026-09-23",
    "time": "02:00",
+   "src": "Bloomberg",
+   "t": "Canada’s Transport Overhaul Aims to Boost Trade With Europe, Asia",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/canada-s-transport-overhaul-aims-to-boost-trade-with-europe-asia",
+   "g": 1,
+   "t_ko": "캐나다 교통망 개편, 유럽·아시아 교역 확대 추진",
+   "t_id": "Rombak Sektor Transportasi Kanada Bidik Dongkrak Perdagangan dengan Eropa dan Asia"
+  },
+  {
+   "ts": "2026-09-23T02:00:39+07:00",
+   "date": "2026-09-23",
+   "time": "02:00",
    "src": "CNBC",
    "t": "Trump slams Iran and Cuba, defends AI growth in boastful UN speech",
    "tags": [],
    "url": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
    "g": 1,
-   "t_ko": "Trump, UN 연설에서 이란·쿠바 비판 및 AI 성장에 자부심 표명",
-   "t_id": "Trump Kecam Iran dan Kuba, Bela Pertumbuhan AI dalam Pidato PBB yang Sombong"
+   "t_ko": "트럼프, UN 연설에서 이란·쿠바 비판 및 AI 성장 강조",
+   "t_id": "Trump Kecam Iran dan Kuba serta Bela Pertumbuhan AI dalam Pidato PBB"
   },
   {
    "ts": "2026-09-23T02:00:00+07:00",
@@ -17911,8 +17926,8 @@
    "url": "https://www.marketwatch.com/story/the-bond-market-is-flashing-a-warning-for-stocks-these-sectors-are-already-wobbling-015dc707?mod=mw_rss_topstories",
    "g": 1,
    "img": "https://images.mktw.net/im-56782998",
-   "t_ko": "증시 경고등 켠 채권시장 속 흔들리는 주요 섹터",
-   "t_id": "Pasar Obligasi Beri Sinyal Peringatan untuk Saham, Sektor Ini Mulai Goyah"
+   "t_ko": "채권시장, 주식시장에 경고등 — 이미 흔들리는 관련 섹터",
+   "t_id": "Pasar Obligasi Beri Sinyal Peringatan bagi Saham, Sektor Ini Mulai Goyah"
   },
   {
    "ts": "2026-09-23T02:00:00+07:00",
@@ -17924,7 +17939,7 @@
    "url": "https://katadata.co.id/berita/industri/6ab2d03360f1e/sebanyak-409-penerbangan-terdampak-karhutla-kalimantan-pada-14-20-september",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/12/2026_09_12-20_50_00_967c1ff2-aec0-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
    "t_id": "Sebanyak 409 Penerbangan Terdampak Karhutla Kalimantan pada 14-20 September",
-   "t_ko": "9월 14~20일 칼리만탄 산불로 항공편 409편 결항·지연"
+   "t_ko": "칼리만탄 산불로 9월 14~20일 항공편 409편 차질"
   },
   {
    "ts": "2026-09-23T01:57:01+07:00",
@@ -17937,6 +17952,18 @@
    "g": 1,
    "t_ko": "Trump, Microsoft·Amazon 각 2,500만 달러어치 포함 7월 거래 1,100건 이상 공개",
    "t_id": "Trump Ungkap Lebih dari 1.100 Transaksi Jul, Termasuk Penjualan Microsoft dan Amazon Masing-Masing hingga $25 Juta"
+  },
+  {
+   "ts": "2026-09-23T01:53:33+07:00",
+   "date": "2026-09-23",
+   "time": "01:53",
+   "src": "Bloomberg",
+   "t": "Derailed IPO Plans Rattle US Market Ahead of Anthropic Debut",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/derailed-ipo-plans-rattle-us-market-ahead-of-anthropic-debut",
+   "g": 1,
+   "t_ko": "Anthropic 상장 앞두고 IPO 철회 계획으로 흔들리는 미국 증시",
+   "t_id": "Rencana IPO yang Gagal Guncang Pasar AS Menjelang Debut Anthropic"
   },
   {
    "ts": "2026-09-23T01:51:44+07:00",
@@ -17971,7 +17998,7 @@
    "tags": [],
    "url": "https://www.channelnewsasia.com/business/trump-bought-and-sold-shares-in-musks-spacex-in-july-financial-disclosure-shows-6403201",
    "g": 1,
-   "t_ko": "재산 공개로 드러난 7월 트럼프의 Musk SpaceX 주식 거래",
+   "t_ko": "재산 공개로 드러난 7월 트럼프의 SpaceX 주식 거래",
    "t_id": "Trump Beli dan Jual Saham SpaceX Milik Musk pada Jul, Ungkap Laporan Keuangan"
   },
   {
@@ -17984,7 +18011,7 @@
    "url": "https://www.bloomberg.com/news/videos/2026-09-22/ireland-s-mcentee-talks-tariffs-us-relations-and-china-video",
    "g": 1,
    "t_ko": "아일랜드 McEntee 장관, 관세 및 대미·대중 관계 논의",
-   "t_id": "McEntee dari Irlandia Bahas Tarif, Hubungan AS dan China"
+   "t_id": "McEntee dari Irlandia Bahas Tarif, Hubungan AS, dan China"
   },
   {
    "ts": "2026-09-23T01:46:34+07:00",
@@ -18071,31 +18098,6 @@
    "img": "https://images.wsj.net/im-28764665",
    "t_ko": "유가 100달러 하회 속 기술주 상승",
    "t_id": "Saham Teknologi Naik Saat Minyak Anjlok di Bawah $100"
-  },
-  {
-   "ts": "2026-09-23T01:09:32+07:00",
-   "date": "2026-09-23",
-   "time": "01:09",
-   "src": "CNBC",
-   "t": "No new stock highs, no problem: Options traders bet they're coming in these names",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/no-new-stock-highs-no-problem-options-traders-bet-theyre-coming-in-these-names.html",
-   "g": 1,
-   "t_ko": "신고가 종목 부재 속 옵션 트레이더들의 강세 베팅 지속",
-   "t_id": "Tak Ada Rekor Saham Baru, Tak Masalah: Trader Opsi Pasang Taruhan di Emiten Ini"
-  },
-  {
-   "ts": "2026-09-23T01:09:07+07:00",
-   "date": "2026-09-23",
-   "time": "01:09",
-   "src": "FT",
-   "t": "Scott Bessent says US is ‘examining’ ban on diesel exports",
-   "tags": [],
-   "url": "https://www.ft.com/content/16d676c9-94c4-4df1-8fa6-56966b2c9aa7",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6ee8d153-f861-445a-9582-74c7448286c0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "Scott Bessent, 미국 디젤 수출 금지 검토 시사",
-   "t_id": "Scott Bessent Sebut AS \"Kaji\" Larangan Ekspor Diesel"
   },
   {
    "ts": "2026-09-23T01:08:25+07:00",
@@ -19401,7 +19403,7 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.15",
-   "d": 2.37,
+   "d": 2.38,
    "ytd": 13.26,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
@@ -19435,9 +19437,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.60",
-   "d": 0.24,
-   "ytd": 2.36,
+   "v": "100.61",
+   "d": 0.25,
+   "ytd": 2.37,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19447,9 +19449,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.58",
-   "d": -2.57,
-   "ytd": 57.75,
+   "v": "90.71",
+   "d": -2.43,
+   "ytd": 57.98,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19459,9 +19461,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,390.3",
-   "d": 0.26,
-   "ytd": 1.5,
+   "v": "4,388.7",
+   "d": 0.22,
+   "ytd": 1.46,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -23553,7 +23555,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-22 18:28",
-  "pc_age_min": 455,
+  "pc_age_min": 460,
   "news_ai_cache": 92,
   "news_ai_hit": 34,
   "on_runner": true,
@@ -26264,7 +26266,7 @@
      "ai_id": "",
      "src": "CNBC",
      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-     "time": "02:01",
+     "time": "02:03",
      "tags": [],
      "sc": 311.0,
      "slot": "global",

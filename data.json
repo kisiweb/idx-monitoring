@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-22 21:18",
+ "updated": "2026-09-22 21:28",
  "delay_min": 15,
- "fx_basis": "13.18 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,356 · 21:00 Yahoo",
- "idr_per_krw": 13.1797,
+ "fx_basis": "13.18 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,357 · 21:00 Yahoo",
+ "idr_per_krw": 13.1769,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -15980,11 +15980,11 @@
    "sym": "^GSPC",
    "name": "S&P 500",
    "name_id": "S&P500",
-   "px": 7771.86,
+   "px": 7768.53,
    "prev": 7764.22,
-   "pct": 0.1,
+   "pct": 0.06,
    "mst": 0,
-   "asof": "10:15",
+   "asof": "10:25",
    "live": true,
    "spark": [
     7779.14,
@@ -15996,18 +15996,20 @@
     7771.52,
     7768.6,
     7774.05,
-    7771.86
+    7769.57,
+    7768.7,
+    7768.53
    ]
   },
   {
    "sym": "^IXIC",
    "name": "나스닥",
    "name_id": "Nasdaq",
-   "px": 27261.79,
+   "px": 27238.53,
    "prev": 27122.09,
-   "pct": 0.52,
+   "pct": 0.43,
    "mst": 0,
-   "asof": "10:15",
+   "asof": "10:25",
    "live": true,
    "spark": [
     27223.51,
@@ -16019,18 +16021,20 @@
     27219.96,
     27215.23,
     27253.06,
-    27261.79
+    27241.72,
+    27240.57,
+    27238.53
    ]
   },
   {
    "sym": "^DJI",
    "name": "다우",
    "name_id": "Dow Jones",
-   "px": 51866.38,
+   "px": 51849.73,
    "prev": 52053.88,
-   "pct": -0.36,
+   "pct": -0.39,
    "mst": 0,
-   "asof": "10:15",
+   "asof": "10:25",
    "live": true,
    "spark": [
     52161.89,
@@ -16042,7 +16046,9 @@
     52007.51,
     51937.1,
     51920.15,
-    51866.38
+    51864.8,
+    51850.53,
+    51849.73
    ]
   },
   {
@@ -17142,6 +17148,65 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-22T21:24:57+07:00",
+   "date": "2026-09-22",
+   "time": "21:24",
+   "src": "CNBC",
+   "t": "Watch: Trump speaks at UN General Assembly",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/trump-un-speech-today.html",
+   "g": 1,
+   "t_ko": "트럼프, UN 총회 연설",
+   "t_id": "Tonton: Pidato Trump di Sidang Majelis Umum PBB"
+  },
+  {
+   "ts": "2026-09-22T21:21:23+07:00",
+   "date": "2026-09-22",
+   "time": "21:21",
+   "src": "CNBC",
+   "t": "10-year Treasury yield slips further below 5% as traders await Fed comments",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
+   "g": 1,
+   "t_ko": "연준 발언 주시 속 10년물 미 국채 금리 5% 아래로 하락",
+   "t_id": "Imbal Hasil Obligasi 10 Tahun AS Turun di Bawah 5% Menanti Komentar The Fed"
+  },
+  {
+   "ts": "2026-09-22T21:15:00+07:00",
+   "date": "2026-09-22",
+   "time": "21:15",
+   "src": "Media Indonesia",
+   "t": "Macron dan Trump Bahas Keamanan Selat Hormuz, Laut Merah, dan Bantuan Ukraina",
+   "tags": [],
+   "url": "https://mediaindonesia.com/internasional/936403/macron-dan-trump-bahas-keamanan-selat-hormuz-laut-merah-dan-bantuan-ukraina",
+   "g": 1,
+   "t_id": "Macron dan Trump Bahas Keamanan Selat Hormuz, Laut Merah, dan Bantuan Ukraina",
+   "t_ko": "Macron·Trump, 호르무즈·홍해 안보 및 우크라이나 지원 논의"
+  },
+  {
+   "ts": "2026-09-22T21:12:00+07:00",
+   "date": "2026-09-22",
+   "time": "21:12",
+   "src": "Media Indonesia",
+   "t": "Transisi Energi Dorong Perubahan Teknologi Jaringan Listrik",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936404/transisi-energi-dorong-perubahan-teknologi-jaringan-listrik",
+   "t_ko": "에너지 전환에 따른 전력망 기술 변화"
+  },
+  {
+   "ts": "2026-09-22T21:11:19+07:00",
+   "date": "2026-09-22",
+   "time": "21:11",
+   "src": "Yahoo Finance",
+   "t": "Scaramucci Says Bitcoin Doesn’t Need the Clarity Act. He Says Bessent’s Bond Move Is What’s Really Driving the Rally.",
+   "tags": [],
+   "url": "https://finance.yahoo.com/markets/crypto/articles/scaramucci-says-bitcoin-doesn-t-141119675.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/24_7_wall_st__718/f073d5da27c2a7ba47fec6245740601b.jpg",
+   "t_ko": "Scaramucci, 비트코인 규제 명확성 불필요… Bessent 채권 운용이 랠리 견인",
+   "t_id": "Scaramucci Sebut Bitcoin Tak Butuh Clarity Act, Kebijakan Obligasi Bessent Jadi Pendorong Reli"
+  },
+  {
    "ts": "2026-09-22T21:11:04+07:00",
    "date": "2026-09-22",
    "time": "21:11",
@@ -17165,6 +17230,19 @@
    "t_id": "Collins Sebut Kenaikan Suku Bunga Bantu Kembalikan Inflasi ke Target"
   },
   {
+   "ts": "2026-09-22T21:10:31+07:00",
+   "date": "2026-09-22",
+   "time": "21:10",
+   "src": "Medcom",
+   "t": "Dari Keripik Tempe hingga Sapu Rayung, 7 Produk UMK Pertamina Naik Kelas di China",
+   "tags": [],
+   "url": "https://www.medcom.id/ekonomi/bisnis/zNAdDX6K-dari-keripik-tempe-hingga-sapu-rayung-7-produk-umk-pertamina-naik-kelas-di-china",
+   "g": 1,
+   "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843802/P6YBkvnrfg.jpeg?w=720",
+   "t_id": "Dari Keripik Tempe hingga Sapu Rayung, 7 Produk UMK Pertamina Naik Kelas di China",
+   "t_ko": "템페 과자부터 빗자루까지, Pertamina 중소기업 제품 7종 중국 진출"
+  },
+  {
    "ts": "2026-09-22T21:08:00+07:00",
    "date": "2026-09-22",
    "time": "21:08",
@@ -17176,6 +17254,19 @@
    "img": "https://images.wsj.net/im-28764665",
    "t_ko": "유가 100달러 아래로 하락하며 증시 상승",
    "t_id": "Saham Menguat Seiring Harga Minyak Turun di Bawah $100"
+  },
+  {
+   "ts": "2026-09-22T21:07:42+07:00",
+   "date": "2026-09-22",
+   "time": "21:07",
+   "src": "Yahoo Finance",
+   "t": "Fed's Williams says rate-control toolkit is working well",
+   "tags": [],
+   "url": "https://finance.yahoo.com/economy/policy/articles/feds-williams-says-rate-control-140742644.html",
+   "g": 1,
+   "img": "https://media.zenfs.com/en/reuters.com/ce4c423329067bfad08fe605761a6605.jpg",
+   "t_ko": "Williams 연은 총재, 금리 통제 도구 정상 작동 중 언급",
+   "t_id": "Williams The Fed Sebut Perangkat Pengendalian Suku Bunga Berjalan Baik"
   },
   {
    "ts": "2026-09-22T21:05:04+07:00",
@@ -17200,6 +17291,18 @@
    "g": 1,
    "t_ko": "Fed Williams, 미 국채 소화 순조롭게 진행 중",
    "t_id": "Williams Sebut Kliring US Treasury Lebih Cepat dari Jadwal"
+  },
+  {
+   "ts": "2026-09-22T21:04:12+07:00",
+   "date": "2026-09-22",
+   "time": "21:04",
+   "src": "Bloomberg",
+   "t": "Pimco Trims Underweight on Long US Bonds as Yields Top 5%",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/pimco-trims-underweight-on-long-us-bonds-as-yields-top-5",
+   "g": 1,
+   "t_ko": "Pimco, 미국 국채 금리 5% 상회에 장기채 비중축소 축소",
+   "t_id": "Pimco Pangkas Posisi Underweight Obligasi Panjang AS Seiring Imbal Hasil Tembus 5%"
   },
   {
    "ts": "2026-09-22T21:00:00+07:00",
@@ -17259,18 +17362,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/wakil-bupati-purworejo-dion-agasi-setiabudi-menjenguk-langsung-korban-dugaan-kasus-keracunan-radar-jogja-pVxOU.webp",
    "t_ko": "Purworejo 학생 294명 무상급식 추정 식중독 — SPPG 주방 즉각 폐쇄",
    "t_id": "294 Siswa di Purworejo Keracunan Usai Diduga Makan MBG, Dapur SPPG Langsung Ditutup"
-  },
-  {
-   "ts": "2026-09-22T20:48:52+07:00",
-   "date": "2026-09-22",
-   "time": "20:48",
-   "src": "CNBC",
-   "t": "10-year Treasury yield slips further below 5% as traders await Fed comments",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
-   "g": 1,
-   "t_ko": "연준 발언 주시 속 10년물 미 국채 금리 5% 아래로 하락",
-   "t_id": "Imbal Hasil Obligasi 10 Tahun AS Turun di Bawah 5% Menanti Komentar The Fed"
   },
   {
    "ts": "2026-09-22T20:48:46+07:00",
@@ -17392,18 +17483,6 @@
    "t_id": "Ada 81.171 Lowongan Kerja di Karirhub"
   },
   {
-   "ts": "2026-09-22T20:35:50+07:00",
-   "date": "2026-09-22",
-   "time": "20:35",
-   "src": "Bloomberg",
-   "t": "Hedge Funds Pull Back From the Basis Trade as Bond Gaps Vanish",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-22/hedge-funds-pull-back-from-favorite-trade-as-bond-gaps-vanish",
-   "g": 1,
-   "t_ko": "헤지펀드, 채권 금리 격차 축소로 베이시스 트레이드 축소",
-   "t_id": "Hedge Funds Tarik Diri dari Basis Trade Saat Kesenjangan Obligasi Menyusut"
-  },
-  {
    "ts": "2026-09-22T20:34:36+07:00",
    "date": "2026-09-22",
    "time": "20:34",
@@ -17426,31 +17505,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
    "t_ko": "재무부, BI에 대한 Rp218.3조 채권 상환 완료 — BLBI 채무자 추징권 유지",
    "t_id": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan"
-  },
-  {
-   "ts": "2026-09-22T20:30:53+07:00",
-   "date": "2026-09-22",
-   "time": "20:30",
-   "src": "CNBC",
-   "t": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html",
-   "g": 1,
-   "t_ko": "트럼프, 젤렌스키에 에너지 휴전 압박… 러시아 우크라이나 전쟁으로 유가 통제 상실 언급",
-   "t_id": "Trump Bakal Tekan Zelenskyy untuk Gencatan Senjata Energi, Sebut Rusia 'Kehilangan Kendali' Atas Minyak Akibat Perang Ukraina"
-  },
-  {
-   "ts": "2026-09-22T20:30:00+07:00",
-   "date": "2026-09-22",
-   "time": "20:30",
-   "src": "Yahoo Finance",
-   "t": "Goldman Sachs says 'lower happiness' — not the economy — explains why consumer confidence hit its second-lowest level",
-   "tags": [],
-   "url": "https://finance.yahoo.com/economy/articles/goldman-sachs-says-lower-happiness-133000625.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/moneywise_327/e06d3c96c58ca283eadc8d077b4e7adc.jpg",
-   "t_ko": "Goldman Sachs, 소비심리 급락 원인은 경제가 아닌 불행감",
-   "t_id": "Goldman Sachs Sebut \"Kebahagiaan Rendah\" Bukan Ekonomi Jadi Alasan Keyakinan Konsumen Anjlok"
   },
   {
    "ts": "2026-09-22T20:30:00+07:00",
@@ -17498,44 +17552,6 @@
    "t_id": "Jakarta Disebut Milik Indonesia, Ini Alasan Danantara Dilibatkan Bangun LRT"
   },
   {
-   "ts": "2026-09-22T20:25:32+07:00",
-   "date": "2026-09-22",
-   "time": "20:25",
-   "src": "FT",
-   "t": "Oil falls to $98 as Saudi Arabia signals East-West pipeline reopening",
-   "tags": [],
-   "url": "https://www.ft.com/content/5b4f8738-3b93-40c8-88d6-08c8ea684e83?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a3ada78-d050-475f-8bba-c869b36e0899.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "사우디 동서 송유관 재가동 시사로 유가 98달러로 하락",
-   "t_id": "Minyak Turun ke $98 Saat Arab Saudi Isyaratkan Pembukaan Kembali Pipa Timur-Barat"
-  },
-  {
-   "ts": "2026-09-22T20:25:00+07:00",
-   "date": "2026-09-22",
-   "time": "20:25",
-   "src": "Yahoo Finance",
-   "t": "Binance Investigated By U.S. For Potential Sanctions Violations",
-   "tags": [],
-   "url": "https://finance.yahoo.com/markets/crypto/articles/binance-investigated-u-potential-sanctions-132500534.html",
-   "g": 1,
-   "img": "https://media.zenfs.com/en/cryptoprowl_304/31d4d9bc2473deef4080404db90313f7.jpg",
-   "t_ko": "미국, 제재 위반 혐의로 Binance 조사",
-   "t_id": "Binance Diselidiki AS Terkait Potensi Pelanggaran Sanksi"
-  },
-  {
-   "ts": "2026-09-22T20:23:00+07:00",
-   "date": "2026-09-22",
-   "time": "20:23",
-   "src": "WSJ",
-   "t": "Treasury Yields Decline as Oil Falls",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?mod=rss_markets_main",
-   "g": 1,
-   "t_ko": "유가 하락에 국채 금리 하락",
-   "t_id": "Imbal Hasil US Treasury Turun Seiring Harga Minyak Melemah"
-  },
-  {
    "ts": "2026-09-22T20:22:34+07:00",
    "date": "2026-09-22",
    "time": "20:22",
@@ -17558,17 +17574,6 @@
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/08/14/Konferensi_Pers_Nota_Keuangan_dan_RAPBN_2027_Foto_KatadataFauza-2026_08_14-21_01_17_8e1f07faee803f79a1c539b037f35721_620x413_thumb.jpg",
    "t_ko": "Danantara, 신규 국영 섬유사 설립해 상·하류 통합 추진",
    "t_id": "Danantara Siapkan BUMN Baru Sektor Tekstil, Integrasikan Hulu ke Hilir"
-  },
-  {
-   "ts": "2026-09-22T20:14:00+07:00",
-   "date": "2026-09-22",
-   "time": "20:14",
-   "src": "Media Indonesia",
-   "t": "DPR Sebut Aspirasi Pengemudi Ojol Bakal Jadi Pembahasan RUU Perlindungan Ketenagakerjaan",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936362/dpr-sebut-aspirasi-pengemudi-ojol-bakal-jadi-pembahasan-ruu-perlindungan-ketenagakerjaan",
-   "t_ko": "DPR, 온라인 오토바이 기사 요구사항 근로자보호법안에 반영 방침",
-   "t_id": "DPR Sebut Aspirasi Pengemudi Ojol Bakal Jadi Pembahasan RUU Perlindungan Ketenagakerjaan"
   },
   {
    "ts": "2026-09-22T20:09:00+07:00",
@@ -18698,8 +18703,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.18",
-   "d": 2.6,
-   "ytd": 13.51,
+   "d": 2.57,
+   "ytd": 13.47,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -18709,9 +18714,9 @@
   },
   {
    "k": "UST 10Y",
-   "v": "4.949%",
-   "d": -0.28,
-   "ytd": 18.88,
+   "v": "4.953%",
+   "d": -0.2,
+   "ytd": 18.98,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 4.163",
    "k_ko": "UST 10Y",
@@ -18732,9 +18737,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.49",
-   "d": 0.13,
-   "ytd": 2.25,
+   "v": "100.51",
+   "d": 0.15,
+   "ytd": 2.27,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -18744,9 +18749,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.80",
-   "d": -2.33,
-   "ytd": 58.13,
+   "v": "90.66",
+   "d": -2.48,
+   "ytd": 57.89,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -18756,9 +18761,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,367.2",
-   "d": -0.27,
-   "ytd": 0.96,
+   "v": "4,371.1",
+   "d": -0.18,
+   "ytd": 1.05,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -19650,31 +19655,13 @@
    "imp": 2,
    "exp": null,
    "prev": "16.30K",
-   "act": "20.00K",
+   "act": null,
    "src": "investing.com",
    "title_ko": "ADP 주간 고용 변화",
    "title_id": "Perubahan Tenaga Kerja Mingguan ADP AS",
-   "sc": 35,
+   "sc": 55,
    "gs": 72,
    "g": "고용",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "time": "20:55",
-   "kind": "macro",
-   "country": "US",
-   "title": "U.S. President Trump Speaks",
-   "imp": 3,
-   "exp": null,
-   "prev": null,
-   "act": null,
-   "src": "investing.com",
-   "title_ko": "트럼프 미 대통령 연설",
-   "title_id": "Presiden AS Trump Berbicara",
-   "sc": 54,
-   "gs": 40,
-   "g": "연준 발언",
    "sub": 0
   },
   {
@@ -24671,6 +24658,20 @@
  "top_day": "2026-09-22",
  "top_news": [
   {
+   "ts": "2026-09-22T09:19:00+07:00",
+   "date": "2026-09-22",
+   "time": "09:19",
+   "src": "Reuters",
+   "t": "Gold slips as Fed officials signal rate hikes",
+   "tags": [],
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVA2UjFJM3dkZnhldzYxTHFKc3JKUndzZmw3LUZhR1dUOUQxYWRQanA0bHVPOEhuMk9XWk1uSXFyQXdvWnVXU2Q0ZUtjUktnb2tnLWhCa1ZRS3Vqemt3cFNEMXRqbTU3TnFUM0loWUJxUTc3Z0NOb0tHc09zOVZMOUFEOElkVUVrS3lzdHRib1g2YTJOdjZqYTVWWFk?oc=5",
+   "g": 1,
+   "score": 413.0,
+   "srcs": 4,
+   "t_ko": "연준 인사들 금리 인상 시사에 금 가격 하락",
+   "t_id": "Emas Tergelincir Seiring Sinyal Kenaikan Suku Bunga The Fed"
+  },
+  {
    "ts": "2026-09-22T14:08:09+07:00",
    "date": "2026-09-22",
    "time": "14:08",
@@ -24709,32 +24710,18 @@
    "srcs": 2
   },
   {
-   "ts": "2026-09-22T09:19:00+07:00",
+   "ts": "2026-09-22T13:18:31+07:00",
    "date": "2026-09-22",
-   "time": "09:19",
-   "src": "Reuters",
-   "t": "Gold slips as Fed officials signal rate hikes",
+   "time": "13:18",
+   "src": "Liputan6",
+   "t": "BEI Gelar RUPSLB 28 Oktober 2026, Apa Agendanya?",
    "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbVA2UjFJM3dkZnhldzYxTHFKc3JKUndzZmw3LUZhR1dUOUQxYWRQanA0bHVPOEhuMk9XWk1uSXFyQXdvWnVXU2Q0ZUtjUktnb2tnLWhCa1ZRS3Vqemt3cFNEMXRqbTU3TnFUM0loWUJxUTc3Z0NOb0tHc09zOVZMOUFEOElkVUVrS3lzdHRib1g2YTJOdjZqYTVWWFk?oc=5",
-   "g": 1,
-   "score": 409.0,
-   "srcs": 2,
-   "t_ko": "연준 인사들 금리 인상 시사에 금 가격 하락",
-   "t_id": "Emas Tergelincir Seiring Sinyal Kenaikan Suku Bunga The Fed"
-  },
-  {
-   "ts": "2026-09-22T20:09:00+07:00",
-   "date": "2026-09-22",
-   "time": "20:09",
-   "src": "Republika",
-   "t": "Ada Wacana Peralihan Payroll ASN dari BPD ke Himbara, Begini Sikap OJK",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlrm02349/ada-wacana-peralihan-payroll-asn-dari-bpd-ke-himbara-begini-sikap-ojk",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260908220239-141.png",
-   "t_ko": "지방은행에서 Himbara로 공무원 급여 이체 추진 — OJK 입장",
-   "t_id": "Ada Wacana Peralihan Payroll ASN dari BPD ke Himbara, Begini Sikap OJK",
-   "score": 408.95,
-   "srcs": 1
+   "url": "https://www.liputan6.com/saham/read/8296818/bei-gelar-rupslb-28-oktober-2026-apa-agendanya",
+   "img": "https://cdn0-production-images-kly.akamaized.net/YYSwg5n1VLwVqp5Z9oEsL4Qbjy4=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/6384504/original/070523100_1779259803-Direktur_Utama_KPEI_Iding_Pardi-20_Mei_2026a.jpeg",
+   "score": 409.35,
+   "srcs": 3,
+   "t_ko": "BEI, 2026년 10월 28일 임시주주총회 개최 예정",
+   "t_id": "BEI Gelar RUPSLB 28 Oktober 2026, Apa Agendanya"
   },
   {
    "ts": "2026-09-22T21:08:00+07:00",

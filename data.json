@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 07:18",
+ "updated": "2026-09-23 07:34",
  "delay_min": 15,
- "fx_basis": "13.25 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,349 · 04:45 Yahoo",
- "idr_per_krw": 13.2523,
+ "fx_basis": "13.26 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,348 · 04:45 Yahoo",
+ "idr_per_krw": 13.2638,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -119,7 +119,7 @@
    "inv": true,
    "unit": "bp",
    "asof": "PHEI · 09/22",
-   "spark_stale": "investing.com · 09/15"
+   "spark_stale": "PHEI · 09/22"
   }
  ],
  "index": {
@@ -17472,18 +17472,16 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 7017.91,
-   "prev": 7007.72,
-   "pct": 0.15,
-   "mst": 3,
-   "asof": "09/21",
-   "live": false,
+   "px": 7129.19,
+   "prev": 7037.46,
+   "pct": 1.3,
+   "mst": 0,
+   "asof": "09:10",
+   "live": true,
    "spark": [
-    6627.26,
-    6717.97,
-    6715.41,
-    6894.23,
-    7007.72
+    7137.49,
+    7126.42,
+    7129.19
    ]
   },
   {
@@ -17727,6 +17725,34 @@
  },
  "news": [
   {
+   "ts": "2026-09-23T07:20:00+07:00",
+   "date": "2026-09-23",
+   "time": "07:20",
+   "src": "IDNFinancials",
+   "t": "CDIA to distribute US$10 million interim dividend; schedule released",
+   "tags": [
+    "CDIA"
+   ],
+   "url": "https://www.idnfinancials.com/news/69242/cdia-to-distribute-us10million-interim-dividend-schedule-released",
+   "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/CDIA-03112025.jpg",
+   "t_ko": "CDIA, 1,000만 달러 규모 중간배당 실시 및 일정 확정",
+   "t_id": "CDIA Bagikan Dividen Interim US$10 Juta, Jadwal Dirilis"
+  },
+  {
+   "ts": "2026-09-23T07:07:00+07:00",
+   "date": "2026-09-23",
+   "time": "07:07",
+   "src": "Katadata",
+   "t": "Direktur BYAN Pelan-Pelan Jual Rp 2,4 Miliar Saham Jelang Haji Isam Resmi Masuk",
+   "tags": [
+    "BYAN"
+   ],
+   "url": "https://katadata.co.id/finansial/bursa/6ab318457c251/direktur-byan-pelan-pelan-jual-rp-2-4-miliar-saham-jelang-haji-isam-resmi-masuk",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2021/12/30/PT_Bayan_Resources_Tbk_BYAN-2021_12_30-11_33_00_778adbca313f3c19647cb5a2200c2f2b_620x413_thumb.jpg",
+   "t_id": "Direktur BYAN Pelan-Pelan Jual Rp 2,4 Miliar Saham Jelang Haji Isam Resmi Masuk",
+   "t_ko": "BYAN 이사, Haji Isam 인수 임박 속 주식 Rp24억 원 매각"
+  },
+  {
    "ts": "2026-09-23T06:59:40+07:00",
    "date": "2026-09-23",
    "time": "06:59",
@@ -17756,6 +17782,23 @@
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/23/nikel_-_gettty_images_-_22_sept_26.jpg",
    "t_ko": "INCO·MBMA·NCKL, 니켈 광석 기준가격(HPM) 개편에 따른 전망 분석",
    "t_id": "Menakar Prospek INCO, MBMA, NCKL di Tengah Revisi HPM Limonit"
+  },
+  {
+   "ts": "2026-09-23T06:12:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:12",
+   "src": "Katadata",
+   "t": "IHSG Rawan Terkoreksi, Saham TPIA, EMAS, AMRT, dan ISAT Jadi Rekomendasi Analis",
+   "tags": [
+    "AMRT",
+    "EMAS",
+    "ISAT",
+    "TPIA"
+   ],
+   "url": "https://katadata.co.id/finansial/bursa/6ab30b4340ea3/ihsg-rawan-terkoreksi-saham-tpia-emas-amrt-dan-isat-jadi-rekomendasi-analis",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/08/14/2026_08_14-19_34_00_a80a53c0-97e5-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
+   "t_ko": "IHSG 조종 압력 심화 — TPIA·EMAS·AMRT·ISAT 투자의견 제시",
+   "t_id": "IHSG Rawan Terkoreksi, Saham TPIA, EMAS, AMRT, dan ISAT Jadi Rekomendasi Analis"
   },
   {
    "ts": "2026-09-23T06:01:24+07:00",
@@ -17953,22 +17996,6 @@
    "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/GOTO-22092026.jpg",
    "t_ko": "GOTO, 핵심 안건 2건 심의 위해 임시주주총회 참석 인원 80명 제한",
    "t_id": "GOTO Batasi Kehadiran RUPSLB di Angka 80 untuk Dua Agenda Utama"
-  },
-  {
-   "ts": "2026-09-22T17:27:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Katadata",
-   "t": "Investor Asing Ramai Lepas Saham Bank Jumbo BMRI, BBCA, dan BBRI, Apa Pemicunya?",
-   "tags": [
-    "BBCA",
-    "BBRI",
-    "BMRI"
-   ],
-   "url": "https://katadata.co.id/finansial/bursa/6ab258022f1d8/investor-asing-ramai-lepas-saham-bank-jumbo-bmri-bbca-dan-bbri-apa-pemicunya",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/06/08/IHSG_kembali_ditutup_melemah_ke_level_5342_Foto_KatadataFauza_Sy-2026_06_08-17_48_01_7a52cca2efab744648edec05cc36728f_620x413_thumb.jpg",
-   "t_ko": "외국인, BMRI·BBCA·BBRI 등 대형 은행주 동반 순매도 배경",
-   "t_id": "Investor Asing Ramai Lepas Saham Bank Jumbo BMRI, BBCA, dan BBRI, Apa Pemicunya?"
   },
   {
    "ts": "2026-09-22T16:50:00+07:00",
@@ -18441,35 +18468,32 @@
     "asing",
     "lindung nilai"
    ]
-  },
-  {
-   "ts": "2026-09-19T06:02:41+07:00",
-   "date": "2026-09-19",
-   "time": "09/19",
-   "src": "Liputan6",
-   "t": "Emiten SILO Bakal Akuisisi 14 Perusahaan Rumah Sakit",
-   "tags": [
-    "SILO"
-   ],
-   "url": "https://www.liputan6.com/saham/read/8294856/emiten-silo-bakal-akuisisi-14-perusahaan-rumah-sakit",
-   "img": "https://cdn0-production-images-kly.akamaized.net/kzzBGSTmGmANzJZhAXRiTDWCZPQ=/488x0:3309x1589/673x379/filters:quality(75):strip_icc():format(webp):watermark(kly-media-production/assets/images/watermarks/liputan6/watermark-gray-landscape-new.png,573,20,0)/kly-media-production/medias/1040537/original/091207600_1446442504-20151102-IHSG-Masih-Berkutat-di-Zona-Merah-Jakarta4.jpg",
-   "t_ko": "SILO 발행자는 14개 병원 회사를 인수할 예정",
-   "t_id": "Emiten SILO Bakal Akuisisi 14 Perusahaan Rumah Sakit",
-   "ai_ko": "· SILO, 병원 자산 보유 14개사 인수 추진\n· First REIT 자회사서 2단계로 매입\n· 자기자본 50% 초과 중대 거래, 임차료 부담 축소",
-   "ai_id": "· SILO akuisisi 14 perusahaan rumah sakit\n· Beli dari anak usaha First REIT, dua tahap\n· Transaksi material, di atas 50% ekuitas",
-   "ai_tags": [
-    "M&A",
-    "병원",
-    "임차료"
-   ],
-   "ai_tags_id": [
-    "akuisisi",
-    "rumah sakit",
-    "beban sewa"
-   ]
   }
  ],
  "market_news": [
+  {
+   "ts": "2026-09-23T07:32:47+07:00",
+   "date": "2026-09-23",
+   "time": "07:32",
+   "src": "Jawa Pos",
+   "t": "Pemerintah Lunasi Utang BLBI, Ekonom: Tak Berarti Tagihan Obligor Tuntas",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609230019/pemerintah-lunasi-utang-blbi-ekonom-tak-berarti-tagihan-obligor-tuntas",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
+   "t_ko": "정부, BLBI 부채 상환 완료 — 경제 전문가 \"채무자 추심 종료 의미 아님\""
+  },
+  {
+   "ts": "2026-09-23T07:27:41+07:00",
+   "date": "2026-09-23",
+   "time": "07:27",
+   "src": "Liputan6",
+   "t": "IHSG Menguji Posisi 6.258, Cek Rekomendasi Saham 23 September 2026",
+   "tags": [],
+   "url": "https://www.liputan6.com/saham/read/8297497/ihsg-menguji-posisi-6258-cek-rekomendasi-saham-23-september-2026",
+   "img": "https://cdn0-production-images-kly.akamaized.net/AWZph8pCbJyiMusqFF0g5JUR9wE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3893146/original/099183700_1641196873-20220103-Pembukaan_Awal_Tahun_2022_IHSG_Menguat-3.jpg",
+   "t_id": "IHSG Menguji Posisi 6.258, Cek Rekomendasi Saham 23 September 2026",
+   "t_ko": "IHSG 6,258 선 테스트 — 2026년 9월 23일 투자의견 정리"
+  },
   {
    "ts": "2026-09-23T07:08:00+07:00",
    "date": "2026-09-23",
@@ -18479,8 +18503,8 @@
    "tags": [],
    "url": "https://www.idxchannel.com/market-news/ihsg-hari-ini-berpotensi-teknikal-rebound-ke-6300-6320-intip-enam-saham-pilihan",
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/07/25/IHSG.jpeg",
-   "t_id": "IHSG Hari Ini Berpotensi Teknikal Rebound ke 6.300-6.320, Intip Enam Saham Pilihan",
-   "t_ko": "IHSG, 6,300~6,320선 기술적 반등 전망 — 주요 6개 종목 추천"
+   "t_ko": "IHSG, 6,300~6,320선 기술적 반등 전망 — 주요 6개 종목 추천",
+   "t_id": "IHSG Hari Ini Berpotensi Teknikal Rebound ke 6.300-6.320, Intip Enam Saham Pilihan"
   },
   {
    "ts": "2026-09-23T07:01:29+07:00",
@@ -18497,12 +18521,36 @@
    "ts": "2026-09-23T07:00:00+07:00",
    "date": "2026-09-23",
    "time": "07:00",
+   "src": "Bloomberg",
+   "t": "Asia to Face Sustained Inflation Pressure Into 2027, ADB Warns",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-23/asia-to-face-sustained-inflation-pressure-into-2027-adb-warns",
+   "g": 1,
+   "t_ko": "ADB, 아시아 지역 2027년까지 고물가 압력 지속 경고",
+   "t_id": "ADB Peringatkan Asia Hadapi Tekanan Inflasi Berkelanjutan hingga 2027"
+  },
+  {
+   "ts": "2026-09-23T07:00:00+07:00",
+   "date": "2026-09-23",
+   "time": "07:00",
    "src": "Republika",
    "t": "Pengawasan Distribusi Solar Bersubsidi Perlu Diperkuat",
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlrv8f416/pengawasan-distribusi-solar-bersubsidi-perlu-diperkuat",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260915102016-968.png",
    "t_ko": "보조금 지급 디젤유 유통망 감시 강화 필요성"
+  },
+  {
+   "ts": "2026-09-23T06:59:44+07:00",
+   "date": "2026-09-23",
+   "time": "06:59",
+   "src": "Bloomberg",
+   "t": "China’s AI Trade Favors Global Winners Over Local Champions",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions",
+   "g": 1,
+   "t_ko": "중국 AI 시장, 현지 기업보다 글로벌 수혜주 중심으로 성장",
+   "t_id": "Perdagangan AI China Untungkan Pemenang Global Ketimbang Lokal"
   },
   {
    "ts": "2026-09-23T06:56:44+07:00",
@@ -18602,6 +18650,18 @@
    "t_ko": "규제 개편 없이는 제로 오돌(ODOL) 정책 시행 난항 전망"
   },
   {
+   "ts": "2026-09-23T06:35:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:35",
+   "src": "Katadata",
+   "t": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/bursa/6ab310b01550b/apa-itu-batas-bawah-harga-saham-rp-1-berlaku-28-september-bagaimana-aturannya",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/09/15/Apa_Itu_Investasi_Saham-2023_09_15-10_45_16_d6703d677a21df7dba8bd2301ba2b797_620x413_thumb.png",
+   "t_ko": "9월 28일 도입 주가 하한선 Rp 1 규정의 주요 내용",
+   "t_id": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?"
+  },
+  {
    "ts": "2026-09-23T06:25:00+07:00",
    "date": "2026-09-23",
    "time": "06:25",
@@ -18637,6 +18697,19 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f83/live/bddd95b0-a12a-11f1-aed2-8d6da8d75094.jpg",
    "t_ko": "빛의 속도로의 전환이 데이터센터 전력 소비 절감할까",
    "t_id": "Transisi ke Kecepatan Cahaya Pangkas Konsumsi Daya Pusat Data?"
+  },
+  {
+   "ts": "2026-09-23T06:02:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:02",
+   "src": "Katadata",
+   "t": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/bursa/6ab309153b170/wall-street-bergerak-variatif-harga-minyak-turun-di-tengah-kabar-damai-as-iran",
+   "g": 1,
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/10/12/Wall_Street-2023_10_12-05_51_11_8074be86ec350e0281213fa81ef24863_620x413_thumb.png",
+   "t_ko": "미국·이란 휴전 소식에 유가 하락 속 월가 혼조세",
+   "t_id": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran"
   },
   {
    "ts": "2026-09-23T06:01:28+07:00",
@@ -18702,17 +18775,6 @@
    "t_id": "Pemerintah Trump Berencana Terima 17.500 Pengungsi Kulit Putih Afrika Selatan pada Tahun Fiskal 2027"
   },
   {
-   "ts": "2026-09-23T05:59:00+07:00",
-   "date": "2026-09-23",
-   "time": "05:59",
-   "src": "Media Indonesia",
-   "t": "Worcas Group Bidik Pasar Global Lewat Diversifikasi Sektor Bisnis",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936492/worcas-group-bidik-pasar-global-lewat-diversifikasi-sektor-bisnis",
-   "g": 1,
-   "t_ko": "Worcas Group, 사업 다각화로 글로벌 시장 공략 추진"
-  },
-  {
    "ts": "2026-09-23T05:55:00+07:00",
    "date": "2026-09-23",
    "time": "05:55",
@@ -18722,31 +18784,6 @@
    "url": "https://finance.detik.com/moneter/d-8674635/uang-rupiah-bertanda-tangan-purbaya-diburu-warga",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/ilustrasi-rupiah-1790057101049_169.jpeg?w=360&q=90",
    "t_ko": "Purbaya 서명 루피아화 지폐 수집 열풍"
-  },
-  {
-   "ts": "2026-09-23T05:51:00+07:00",
-   "date": "2026-09-23",
-   "time": "05:51",
-   "src": "WSJ",
-   "t": "$5 Billion Flurry of Nearly Identical Kalshi Trades Draws Scrutiny",
-   "tags": [],
-   "url": "https://www.wsj.com/finance/currencies/5-billion-flurry-of-nearly-identical-kalshi-trades-draws-scrutiny-fa53289d?mod=rss_markets_main",
-   "g": 1,
-   "img": "https://images.wsj.net/im-71277077",
-   "t_ko": "Kalshi 내 동일한 규모의 50억 달러 거래 러시로 규제 당국 주목",
-   "t_id": "Lonjakan Perdagangan Kalshi Senilai $5 Miliar yang Nyaris Identik Picu Sorotan"
-  },
-  {
-   "ts": "2026-09-23T05:35:50+07:00",
-   "date": "2026-09-23",
-   "time": "05:35",
-   "src": "CNBC",
-   "t": "Lennar shares pop as Berkshire builds almost a 10% stake in beleaguered homebuilder",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/lennar-shares-pop-as-berkshire-builds-almost-a-10percent-stake-in-beleaguered-homebuilder.html",
-   "g": 1,
-   "t_ko": "Berkshire, Lennar 지분 10% 가까이 매입하며 주가 급등",
-   "t_id": "Saham Lennar Melonjak Saat Berkshire Ambil Porsi Hampir 10% di Pengembang yang Tertekan"
   },
   {
    "ts": "2026-09-23T05:20:15+07:00",
@@ -19249,18 +19286,6 @@
    "t_id": "Bahlil Tawarkan PLTA Mamberamo 23 GW, Ini Profil Sungai Raksasa Papua"
   },
   {
-   "ts": "2026-09-22T19:50:37+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Medcom",
-   "t": "Bank Ingatkan Belanja Pakai AI Bisa Buka Celah Penipuan dan Kebocoran Data",
-   "tags": [],
-   "url": "https://www.medcom.id/ekonomi/ekonomi-digital/xkEdeZrb-bank-ingatkan-belanja-pakai-ai-bisa-buka-celah-penipuan-dan-kebocoran-data",
-   "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843784/XCFai4VJpn.jpg?w=720",
-   "t_ko": "은행권, AI 쇼핑 활용이 사기 및 데이터 유출 취약점 악용 경고",
-   "t_id": "Bank Ingatkan Belanja Pakai AI Bisa Buka Celah Penipuan dan Kebocoran Data"
-  },
-  {
    "ts": "2026-09-22T19:50:24+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -19525,18 +19550,6 @@
    "t_id": "Pembatasan Pertalite untuk Desil 9-10 Berlanjut? Ini Jawaban Bahlil"
   },
   {
-   "ts": "2026-09-22T17:44:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Katadata",
-   "t": "Prabowo Panggil Dirjen Bea Cukai ke Istana, Apa yang Dibahas?",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/makro/6ab25c291a0a9/prabowo-panggil-dirjen-bea-cukai-ke-istana-apa-yang-dibahas",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/06/09/2026_06_09-18_26_00_9e84c730-6401-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
-   "t_ko": "Prabowo, 관세청장을 대통령궁으로 소집해 현안 논의",
-   "t_id": "Prabowo Panggil Dirjen Bea Cukai ke Istana, Apa yang Dibahas?"
-  },
-  {
    "ts": "2026-09-22T17:42:45+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -19547,18 +19560,6 @@
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105619.jpeg",
    "t_ko": "내일 BI 기준금리 발표 앞두고 IHSG 1.69% 하락",
    "t_id": "IHSG Anjlok 1,69% Jelang Pengumuman Suku Bunga BI Besok"
-  },
-  {
-   "ts": "2026-09-22T17:38:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Katadata",
-   "t": "Impor Emas Cina Cetak Rekor Tembus 1.000 Ton, Bank Sentral Masih Gencar Borong",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/makro/6ab25aa33b7bf/impor-emas-cina-cetak-rekor-tembus-1000-ton-bank-sentral-masih-gencar-borong",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2025/10/03/Harga_Emas_Antam_Hari_ini_3_Oktober_2025-2025_10_03-11_29_02_429ae3724ce65a322dace99845374edd_620x413_thumb.jpeg",
-   "t_ko": "중국 금 수입 1,000톤 넘어 사상 최고 — 중앙은행 매입 지속",
-   "t_id": "Impor Emas Cina Tembus Rekor 1.000 Ton, Bank Sentral Terus Borong"
   },
   {
    "ts": "2026-09-22T17:30:00+07:00",
@@ -19643,18 +19644,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/05/10/anak-usaha-pt-pertamina-persero-tugu-insurance-mencatatkan-laba-bersih-sebesar-rp-26562-miliar-serta-total-aset-senilai-rp-2969-triliun-pada-kuartal-i-tahun-2026-antara-yl54d.webp",
    "t_ko": "투구인수보험, 20탄 상반기 순이익 76.87% 급증하며 탄탄한 실적",
    "t_id": "Kinerja Semester I 2026 Tugu Insurance Tumbuh Solid, Laba Naik 76,87 Persen"
-  },
-  {
-   "ts": "2026-09-22T17:00:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Katadata",
-   "t": "RUU Perampasan Aset Masih Tahap Awal, DPR Tetap Janjikan Terbit Tahun Ini",
-   "tags": [],
-   "url": "https://katadata.co.id/berita/nasional/6ab251cc77551/ruu-perampasan-aset-masih-tahap-awal-dpr-tetap-janjikan-terbit-tahun-ini",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/22/2026_09_22-13_09_00_0f4a4664-b652-11f1-9607-0242ac12000a_620x413_thumb.jpg",
-   "t_ko": "자산몰수법안 초기 단계이나 하원 연내 제정 약속",
-   "t_id": "RUU Perampasan Aset Masih Tahap Awal, DPR Tetap Janjikan Terbit Tahun Ini"
   },
   {
    "ts": "2026-09-22T16:50:01+07:00",
@@ -19799,6 +19788,18 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/07/09/bahlil-lahadalia-1783585268296_169.jpeg?w=360&q=90",
    "t_ko": "Bahlil, 태양광 발전 입찰 축소 및 역량 갖춘 기업 수의계약 추진",
    "t_id": "Pangkas Tender PLTS, Bahlil Ingin Perusahaan Kompeten Ditunjuk Langsung"
+  },
+  {
+   "ts": "2026-09-22T16:02:15+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Republika",
+   "t": "Mendag Dorong UMKM Perkuat Sertifikasi Halal dan Legalitas Usaha",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlrd3r423/mendag-dorong-umkm-perkuat-sertifikasi-halal-dan-legalitas-usaha",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922120240-962.png",
+   "t_ko": "무역부, 중소기업 할랄 인증 및 사업 적법성 강화 촉구",
+   "t_id": "Mendag Dorong UMKM Perkuat Sertifikasi Halal dan Legalitas Usaha"
   }
  ],
  "kisi_news": [
@@ -19995,7 +19996,7 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.57",
+   "v": "100.58",
    "d": 0.22,
    "ytd": 2.34,
    "inv": false,
@@ -20007,9 +20008,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.70",
-   "d": -3.52,
-   "ytd": 56.22,
+   "v": "89.85",
+   "d": -3.36,
+   "ytd": 56.48,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -20019,9 +20020,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,401.4",
-   "d": 0.51,
-   "ytd": 1.75,
+   "v": "4,399.3",
+   "d": 0.46,
+   "ytd": 1.7,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20043,15 +20044,15 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,576",
-   "d": 1.36,
-   "ytd": -0.63,
+   "v": "16,528",
+   "d": 1.07,
+   "ytd": -0.92,
    "inv": false,
-   "note": "investing.com · 연초 16,682",
+   "note": "investing.com · 09/22 마지막 값 · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
    "k_id": "Nikel LME (US$/t)",
-   "note_ko": "investing.com · 연초 16,682",
-   "note_id": "investing.com · Awal tahun 16,682"
+   "note_ko": "investing.com · 09/22 마지막 값 · 연초 16,682",
+   "note_id": "investing.com · 09/22 nilai terakhir · Awal tahun 16,682"
   },
   {
    "k": "CPO (MYR/t)",
@@ -21222,7 +21223,7 @@
    "imp": 2,
    "exp": "-0.500M",
    "prev": "7.140M",
-   "act": "1.786M",
+   "act": null,
    "src": "investing.com",
    "title_ko": "API 주간 원유 재고",
    "title_id": "Stok Minyak Mentah Mingguan API",
@@ -25082,9 +25083,9 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 248,
+  "pc_age_min": 264,
   "news_ai_cache": 41,
-  "news_ai_hit": 31,
+  "news_ai_hit": 30,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -26877,9 +26878,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "BYAN 및 대형 은행주(BBRI) 약세와 에너지 업종 하락에 힘입어 IHSG 1.69% 하락 거래 중.",
-   "id": "IHSG diperdagangkan melemah 1,69% ditekan oleh pelemahan saham BYAN, saham bank besar (BBRI), serta sektor energi.",
-   "ts": "2026-09-23T07:18:52.861577+07:00"
+   "ko": "에너지주(-3.95%)와 BBRI 등 대형주 약세 영향으로 IHSG 1.69% 하락.",
+   "id": "IHSG melemah 1,69% dipicu oleh pelemahan saham energi (-3,95%) dan saham berkapitalisasi besar seperti BBRI.",
+   "ts": "2026-09-23T07:34:11.377800+07:00"
   }
  },
  "top_day": "2026-09-23",
@@ -27811,32 +27812,32 @@
      "q": 85
     },
     {
-     "t": "Direktur Bayan Resources Lepas 185.200 Saham BYAN",
-     "ko": "Bayan Resources(BYAN) 이사, BYAN 주식 18만5,200주 매도",
-     "id": "Direktur Bayan Resources Lepas 185.200 Saham BYAN",
+     "t": "CDIA to distribute US$10 million interim dividend; schedule released",
+     "ko": "CDIA, 1,000만 달러 규모 중간배당 실시 및 일정 확정",
+     "id": "CDIA Bagikan Dividen Interim US$10 Juta, Jadwal Dirilis",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Liputan6",
-     "url": "https://www.liputan6.com/saham/read/8297468/direktur-bayan-resources-lepas-185200-saham-byan",
-     "time": "06:01",
+     "src": "IDNFinancials",
+     "url": "https://www.idnfinancials.com/news/69242/cdia-to-distribute-us10million-interim-dividend-schedule-released",
+     "time": "07:20",
      "tags": [
-      "BYAN"
+      "CDIA"
      ],
-     "sc": 212.8,
+     "sc": 216.8,
      "slot": "stock",
-     "q": 58
+     "q": 78
     },
     {
-     "t": "UU Reforma Agraria Disahkan, Aturan Batas Maksimal Pemilikan Tanah Disiapkan",
-     "ko": "토지개혁법 통과로 최대 소유 한도 규정 마련",
-     "id": "",
+     "t": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
+     "ko": "9월 28일 도입 주가 하한선 Rp 1 규정의 주요 내용",
+     "id": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Detik",
-     "url": "https://finance.detik.com/infrastruktur/d-8674670/uu-reforma-agraria-disahkan-aturan-batas-maksimal-pemilikan-tanah-disiapkan",
-     "time": "06:25",
+     "src": "Katadata",
+     "url": "https://katadata.co.id/finansial/bursa/6ab310b01550b/apa-itu-batas-bawah-harga-saham-rp-1-berlaku-28-september-bagaimana-aturannya",
+     "time": "06:35",
      "tags": [],
-     "sc": 409.8,
+     "sc": 413.8,
      "slot": "macro",
      "q": 93
     }

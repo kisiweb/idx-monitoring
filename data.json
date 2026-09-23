@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 13:24",
+ "updated": "2026-09-23 13:33",
  "delay_min": 15,
- "fx_basis": "13.11 IDR/KRW · USD/IDR 17,789 · USD/KRW 1,357 · 12:45 Yahoo",
- "idr_per_krw": 13.105,
+ "fx_basis": "13.11 IDR/KRW · USD/IDR 17,783 · USD/KRW 1,357 · 13:15 Yahoo",
+ "idr_per_krw": 13.1051,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -279,11 +279,10 @@
    "code": "USDIDR",
    "label": "USD/IDR",
    "name": "달러/루피아",
-   "px": 17789.0,
+   "px": 17783.0,
    "prev": 17846.0,
-   "pct": -0.32,
+   "pct": -0.35,
    "spark": [
-    17860.0,
     17860.0,
     17865.0,
     17870.0,
@@ -312,12 +311,13 @@
     17790.0,
     17788.0,
     17790.0,
-    17789.0
+    17789.0,
+    17783.0
    ],
    "inv": true,
-   "asof": "12:45",
+   "asof": "13:15",
    "high": 17878.0,
-   "low": 17788.0,
+   "low": 17783.0,
    "src": "yahoo"
   },
   {
@@ -352,7 +352,7 @@
   "volume": null,
   "value_src": "all",
   "rank_src": "Yahoo 15분 지연 · 642종목",
-  "rank_asof": "13:23",
+  "rank_asof": "13:31",
   "rank_date": "2026-09-23",
   "adv": 351,
   "dec": 167,
@@ -16936,8 +16936,8 @@
    "px": 7049.77,
    "prev": 7017.91,
    "pct": 0.45,
-   "mst": 0,
-   "asof": "14:55",
+   "mst": 1,
+   "asof": "15:30",
    "live": true,
    "spark": [
     7137.49,
@@ -17099,11 +17099,11 @@
    "sym": "^HSI",
    "name": "항셍",
    "name_id": "Hang Seng",
-   "px": 24854.05,
+   "px": 24828.63,
    "prev": 25087.75,
-   "pct": -0.93,
+   "pct": -1.03,
    "mst": 0,
-   "asof": "14:05",
+   "asof": "14:15",
    "live": true,
    "spark": [
     24917.43,
@@ -17151,7 +17151,9 @@
     24866.32,
     24857.74,
     24844.57,
-    24854.05
+    24852.75,
+    24828.56,
+    24828.63
    ]
   }
  ],
@@ -17258,8 +17260,8 @@
    ],
    "url": "https://ekonomi.republika.co.id/berita/tlt042348/kolaborasi-pt-fast-dan-arkiv-vilmansa-hadirkan-pesan-keselamatan-mobil-listrik-lewat-seni",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260923131506-872.png",
-   "t_id": "Kolaborasi PT FAST dan Arkiv Vilmansa Hadirkan Pesan Keselamatan Mobil Listrik Lewat Seni",
    "t_ko": "FAST-Arkiv Vilmansa 협업, 전기차 안전 메시지 예술로 전달",
+   "t_id": "Kolaborasi PT FAST dan Arkiv Vilmansa Hadirkan Pesan Keselamatan Mobil Listrik Lewat Seni",
    "ai_ko": "· 화재안전 아트 한정판 100점 출시\n· PT FAST·Arkiv Vilmansa 협업\n· Jakarta 전시, 9/12~10/13 개최",
    "ai_id": "· Karya kolaborasi terbatas 100 unit\n· PT FAST gandeng Arkiv Vilmansa\n· Pameran Jakarta, 12 Sep-13 Okt",
    "ai_tags": [
@@ -18113,8 +18115,8 @@
    ],
    "url": "https://katadata.co.id/finansial/bursa/6ab36e83be337/saham-dekapan-taipan-prajogo-cdia-bakal-bagi-dividen-interim-berapa-besarannya",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2025/05/02/PT_Chandra_Daya_Investasi_Tbk_CDIA_bersiap_IPO-2025_05_02-16_36_30_13b8f7081dbd2b4a40189d1fc6004f01_620x413_thumb.jpeg",
-   "t_id": "Saham Dekapan Taipan Prajogo CDIA Bakal Bagi Dividen Interim, Berapa Besarannya?",
    "t_ko": "CDIA(Prajogo Pangestu), 중간배당 실시 — 배당금 규모는?",
+   "t_id": "Saham Dekapan Taipan Prajogo CDIA Bakal Bagi Dividen Interim, Berapa Besarannya?",
    "ai_ko": "· 주당 Rp1.42 중간배당, 10/22 지급\n· Chandra Daya Investasi(CDIA)\n· 상반기 매출 USD 8,215만, 22.8% 증가",
    "ai_id": "· Dividen interim Rp1,42 per saham\n· CDIA, anak usaha TPIA\n· Pendapatan semester I US$82,15 juta",
    "ai_tags": [
@@ -18817,32 +18819,6 @@
    ]
   },
   {
-   "ts": "2026-09-22T15:04:58+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "CNN Indonesia",
-   "t": "Bahlil Bantah Kuota Tambahan RKAB Bayan Terkait dengan Haji Isam",
-   "tags": [
-    "BYAN"
-   ],
-   "url": "https://www.cnnindonesia.com/ekonomi/20260922143901-85-1406850/bahlil-bantah-kuota-tambahan-rkab-bayan-terkait-dengan-haji-isam",
-   "img": "https://akcdn.detik.net.id/visual/2026/04/16/menteri-esdm-laporkan-hasil-pertemuan-dengan-pemerintah-rusia-1776342776769_169.jpeg?w=360&q=90",
-   "t_ko": "Bahlil, Bayan(BYAN) RKAB 추가 쿼터가 Haji Isam과 연관 없다고 반박",
-   "t_id": "Bahlil Bantah Kuota Tambahan RKAB Bayan Terkait Haji Isam",
-   "ai_ko": "· 석탄 생산쿼터 1,500만~2,000만톤 증량\n· Bayan Resources(BYAN) 자회사 3곳 대상\n· ESDM, Haji Isam 지분인수와 무관 해명",
-   "ai_id": "· Kuota tambahan 15-20 juta ton batu bara\n· Untuk 3 anak usaha Bayan (BYAN)\n· ESDM: tak terkait beli saham Haji Isam",
-   "ai_tags": [
-    "석탄",
-    "광업정책",
-    "지분인수"
-   ],
-   "ai_tags_id": [
-    "batu bara",
-    "RKAB",
-    "akuisisi saham"
-   ]
-  },
-  {
    "ts": "2026-09-22T10:00:08+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -19081,6 +19057,54 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T13:30:38+07:00",
+   "date": "2026-09-23",
+   "time": "13:30",
+   "src": "Bloomberg Technoz",
+   "t": "Jelang Pengumuman BI Rate, IHSG Menguat 0,64% pada Sesi I",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122440/jelang-pengumuman-bi-rate-ihsg-menguat-0-64-pada-sesi-i",
+   "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260814105554.jpeg",
+   "t_id": "Jelang Pengumuman BI Rate, IHSG Menguat 0,64% pada Sesi I",
+   "t_ko": "BI 기준금리 발표 앞두고 IHSG 1부 0.64% 상승",
+   "ai_ko": "· IHSG 전장 0.64% 상승, 6,317.46\n· 거래대금 Rp6.05조, 400종목 상승\n· BI 기준금리 발표 앞둔 대형주 강세",
+   "ai_id": "· IHSG sesi I naik 0,64% ke 6.317,46\n· Transaksi Rp6,05 triliun, 400 saham naik\n· Jelang pengumuman BI Rate, big caps kuat",
+   "ai_tags": [
+    "IHSG",
+    "금리",
+    "증시"
+   ],
+   "ai_tags_id": [
+    "IHSG",
+    "suku bunga",
+    "bursa"
+   ]
+  },
+  {
+   "ts": "2026-09-23T13:28:44+07:00",
+   "date": "2026-09-23",
+   "time": "13:28",
+   "src": "CNN Indonesia",
+   "t": "BI Minta Dana Investigasi Transaksi Tidak Sah yang Dikeluhkan Nasabah",
+   "tags": [],
+   "url": "https://www.cnnindonesia.com/ekonomi/20260923131629-78-1407231/bi-minta-dana-investigasi-transaksi-tidak-sah-yang-dikeluhkan-nasabah",
+   "img": "https://akcdn.detik.net.id/visual/2019/05/10/6ec8003d-4215-44ef-b5a7-295333b1bd79_169.jpeg?w=360&q=90",
+   "t_id": "BI Minta Dana Investigasi Transaksi Tidak Sah yang Dikeluhkan Nasabah",
+   "t_ko": "BI, 고객 불만 제기된 부정거래 조사자금 요청",
+   "ai_ko": "· DANA 앱 무단결제 사고 감독 착수\n· Bank Indonesia가 전면 조사 요구\n· QR 결제 통한 카드 도용 민원 확산",
+   "ai_id": "· BI awasi insiden transaksi tidak sah DANA\n· BI minta DANA investigasi menyeluruh\n· Keluhan fraud kartu via fitur QR meluas",
+   "ai_tags": [
+    "규제",
+    "핀테크",
+    "보안"
+   ],
+   "ai_tags_id": [
+    "regulasi",
+    "fintech",
+    "keamanan"
+   ]
+  },
+  {
    "ts": "2026-09-23T13:20:00+07:00",
    "date": "2026-09-23",
    "time": "13:20",
@@ -19113,8 +19137,8 @@
    ],
    "url": "https://www.liputan6.com/saham/read/8297699/siloam-hospitals-kantongi-pinjaman-rp-145-triliun-siap-akuisisi-14-rumah-sakit",
    "img": "https://cdn0-production-images-kly.akamaized.net/tNAS0gHNhuUFqmesT_So9dEkWQE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9355704/original/068969800_1790140379-email-attachment_2026_09_23_pramita-tristiawati_dapat-pinjaman-triliunan-siloam-akuisisi-14-rumah-sakit-lewat-persetujuan-rupslb_RUPSLB2026_01.jpeg",
-   "t_id": "Siloam Hospitals Kantongi Pinjaman Rp 14,5 Triliun, Siap Akuisisi 14 Rumah Sakit",
    "t_ko": "Siloam Hospitals(SILO), Rp14.5조 대출 확보 — 병원 14곳 인수 추진",
+   "t_id": "Siloam Hospitals Kantongi Pinjaman Rp 14,5 Triliun, Siap Akuisisi 14 Rumah Sakit",
    "ai_ko": "· 병원 14곳 Rp6.9조에 인수 승인\n· Siloam Hospitals(SILO), First REIT서\n· 신디케이트 대출 Rp14.5조 확보",
    "ai_id": "· Akuisisi 14 RS senilai Rp6,9 triliun\n· SILO beli aset dari First REIT\n· Pinjaman sindikasi Rp14,5 triliun",
    "ai_tags": [
@@ -19162,8 +19186,8 @@
    ],
    "url": "https://katadata.co.id/berita/industri/6ab36de803d1d/tekanan-dekarbonisasi-di-jantung-hilirisasi-mineral-indonesia",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2025/09/16/2025_09_16-18_08_00_171438d8-92f3-11f0-9fa0-9f3be5b34930_620x413_thumb.jpg",
-   "t_id": "Tekanan Dekarbonisasi di Jantung Hilirisasi Mineral Indonesia",
    "t_ko": "인도네시아 광물 하류화 핵심에 탈탄소 압박",
+   "t_id": "Tekanan Dekarbonisasi di Jantung Hilirisasi Mineral Indonesia",
    "ai_ko": "· 니켈 중 전기차용 공급 비중 18% 그쳐\n· Aneka Tambang·Archi Indonesia 환경점수 80점대\n· 유럽 배터리 여권 2027년 2월 시행",
    "ai_id": "· Pasokan nikel untuk EV hanya 18%\n· Antam dan Archi skor lingkungan 80-an\n· Paspor baterai Uni Eropa Feb 2027",
    "ai_tags": [
@@ -19175,6 +19199,53 @@
     "nikel",
     "dekarbonisasi",
     "regulasi"
+   ]
+  },
+  {
+   "ts": "2026-09-23T13:12:00+07:00",
+   "date": "2026-09-23",
+   "time": "13:12",
+   "src": "Media Indonesia",
+   "t": "Pemerintah Siapkan Tiga Strategi untuk Perkuat APBN, Salah Satunya Melalui Coretax",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936572/pemerintah-siapkan-tiga-strategi-untuk-perkuat-apbn-salah-satunya-melalui-coretax",
+   "t_id": "Pemerintah Siapkan Tiga Strategi untuk Perkuat APBN, Salah Satunya Melalui Coretax",
+   "t_ko": "정부, APBN 강화 3대 전략 마련 — Coretax 활용 포함",
+   "ai_ko": "· 정부, 재정 강화 3대 전략 제시\n· Suahasil Nazara 재무장관 발표\n· Coretax로 세수·조세부담률 제고",
+   "ai_id": "· Pemerintah siapkan tiga strategi fiskal\n· Menkeu Suahasil Nazara umumkan di Jakarta\n· Coretax perkuat penerimaan dan tax ratio",
+   "ai_tags": [
+    "재정",
+    "세제",
+    "정책"
+   ],
+   "ai_tags_id": [
+    "APBN",
+    "pajak",
+    "kebijakan"
+   ]
+  },
+  {
+   "ts": "2026-09-23T13:10:07+07:00",
+   "date": "2026-09-23",
+   "time": "13:10",
+   "src": "CNBC",
+   "t": "CNBC Daily Open: Nothing artificial about 'Super Intelligence'",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/23/trump-super-intelligence-artificial-intelligence.html",
+   "g": 1,
+   "t_ko": "CNBC Daily Open: '초지능'은 결코 인위적이지 않다",
+   "t_id": "CNBC Daily Open: Tidak Ada yang Artifisial dari 'Super Intelligence'",
+   "ai_ko": "· OpenAI, API 가격 50% 인하\n· GPT-6 Sol·Luna 등급 추가 출시\n· Anthropic은 Claude Opus 5.5 공개",
+   "ai_id": "· OpenAI pangkas harga API 50%\n· Tambah tier GPT-6 Sol dan GPT-6 Luna\n· Anthropic rilis Claude Opus 5.5",
+   "ai_tags": [
+    "AI",
+    "신제품",
+    "가격인하"
+   ],
+   "ai_tags_id": [
+    "AI",
+    "produk baru",
+    "potongan harga"
    ]
   },
   {
@@ -19904,18 +19975,6 @@
    ]
   },
   {
-   "ts": "2026-09-23T11:47:04+07:00",
-   "date": "2026-09-23",
-   "time": "11:47",
-   "src": "Bloomberg",
-   "t": "Trump Hails Iran Talks, China's Xi Unlikely to Bring CEOs to Summit",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-23/the-asia-trade-9-23-2026-video",
-   "g": 1,
-   "t_ko": "Trump, 이란 협상 환영 — 중국 Xi는 정상회의 CEO 동반 불투명",
-   "t_id": "Trump Puji Perundingan Iran, Xi China Diperkirakan Tak Bawa Bos-Bos Perusahaan ke KTT"
-  },
-  {
    "ts": "2026-09-23T11:45:08+07:00",
    "date": "2026-09-23",
    "time": "11:45",
@@ -20200,29 +20259,6 @@
     "tambang",
     "investasi",
     "amdal"
-   ]
-  },
-  {
-   "ts": "2026-09-23T10:57:00+07:00",
-   "date": "2026-09-23",
-   "time": "10:57",
-   "src": "Media Indonesia",
-   "t": "Mengenal BI Checking atau SLIK OJK dan Skala Skor Kredit Terbaru",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936542/mengenal-bi-checking-atau-slik-ojk-dan-skala-skor-kredit-terbaru",
-   "t_ko": "BI Checking·OJK SLIK 신용점수 체계 새 기준",
-   "t_id": "Mengenal BI Checking atau SLIK OJK dan Skala Skor Kredit Terbaru",
-   "ai_ko": "· 신용등급 5단계로 구분, 3~5등급은 블랙리스트\n· OJK 운영 SLIK, 기존 BI Checking 대체\n· 대출 심사·부실 위험 평가에 활용",
-   "ai_id": "· Skor kredit 5 tingkat, 3-5 blacklist\n· SLIK dikelola OJK, ganti BI Checking\n· Untuk nilai kelayakan dan risiko kredit",
-   "ai_tags": [
-    "신용정보",
-    "규제",
-    "대출"
-   ],
-   "ai_tags_id": [
-    "slik",
-    "ojk",
-    "kredit"
    ]
   },
   {
@@ -20810,30 +20846,6 @@
    ]
   },
   {
-   "ts": "2026-09-23T09:13:36+07:00",
-   "date": "2026-09-23",
-   "time": "09:13",
-   "src": "Bloomberg Technoz",
-   "t": "IHSG Dibuka Hijau Kala Investor Menanti Pengumuman BI Rate",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122398/ihsg-dibuka-hijau-kala-investor-menanti-pengumuman-bi-rate",
-   "img": "https://images.bloombergtechnoz.com/data/2026/01/image-20260129125840.jpeg",
-   "t_ko": "IHSG, BI Rate 발표 앞두고 강세 출발",
-   "t_id": "IHSG Dibuka Hijau Kala Investor Menanti Pengumuman BI Rate",
-   "ai_ko": "· IHSG 20.91p(+0.33%) 오른 6,297 출발\n· 거래대금 Rp7,530억, 상승 272 하락 220\n· BI 기준금리 5.75% 동결 전망 속 결정 대기",
-   "ai_id": "· IHSG dibuka naik 20,91 poin ke 6.297\n· Nilai transaksi Rp753 miliar, 272 naik\n· Pasar tunggu BI Rate, konsensus tahan",
-   "ai_tags": [
-    "지수",
-    "금리",
-    "환율"
-   ],
-   "ai_tags_id": [
-    "indeks",
-    "suku bunga",
-    "rupiah"
-   ]
-  },
-  {
    "ts": "2026-09-23T09:10:00+07:00",
    "date": "2026-09-23",
    "time": "09:10",
@@ -21348,30 +21360,6 @@
     "rekomendasi saham",
     "analisis teknikal"
    ]
-  },
-  {
-   "ts": "2026-09-23T07:25:00+07:00",
-   "date": "2026-09-23",
-   "time": "07:25",
-   "src": "Detik",
-   "t": "Bahlil Sentil Orang Kaya 'Minum' Pertalite",
-   "tags": [],
-   "url": "https://finance.detik.com/energi/d-8674730/bahlil-sentil-orang-kaya-minum-pertalite",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/04/28/menteri-esdm-bahlil-lahadalia-1777385212721_169.jpeg?w=360&q=90",
-   "t_ko": "Bahlil, 부유층의 Pertalite 소비 지적",
-   "t_id": "Bahlil Sentil Orang Kaya 'Minum' Pertalite",
-   "ai_ko": "· 부유층 보조금 연료 Pertalite 사용 자제 촉구\n· Bahlil Lahadalia ESDM 장관, ICE BSD Tangerang\n· Makassar서 Pajero 탱크 개조 재판매 적발",
-   "ai_id": "· Bahlil imbau orang mampu setop BBM subsidi\n· Menteri ESDM di ICE BSD Tangerang\n· Kasus tangki Pajero dibesarkan di Makassar",
-   "ai_tags": [
-    "연료보조금",
-    "규제",
-    "유가"
-   ],
-   "ai_tags_id": [
-    "BBM subsidi",
-    "regulasi",
-    "energi"
-   ]
   }
  ],
  "kisi_news": [
@@ -21521,9 +21509,9 @@
  "macro": [
   {
    "k": "USD/IDR",
-   "v": "17,789",
-   "d": -0.32,
-   "ytd": 6.39,
+   "v": "17,783",
+   "d": -0.35,
+   "ytd": 6.36,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 16,720",
    "k_ko": "USD/IDR",
@@ -21533,9 +21521,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "13.10",
-   "d": 0.79,
-   "ytd": 12.77,
+   "v": "13.09",
+   "d": 0.72,
+   "ytd": 12.69,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -21570,7 +21558,7 @@
    "k": "달러 인덱스 (DXY)",
    "v": "100.75",
    "d": 0.03,
-   "ytd": 2.51,
+   "ytd": 2.52,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -21580,9 +21568,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.27",
-   "d": -0.09,
-   "ytd": 55.47,
+   "v": "89.33",
+   "d": -0.02,
+   "ytd": 55.57,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -21592,9 +21580,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,367.1",
-   "d": -0.29,
-   "ytd": 0.96,
+   "v": "4,364.7",
+   "d": -0.35,
+   "ytd": 0.9,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -26668,7 +26656,7 @@
   "idx_from_pc": null,
   "pc_age_min": null,
   "news_ai_cache": 708,
-  "news_ai_hit": 3162,
+  "news_ai_hit": 3326,
   "on_runner": false,
   "bi": null,
   "hist_days": 51,
@@ -48031,7 +48019,7 @@
    "alpha": -0.01,
    "vrank": 46,
    "flow": -23.38,
-   "srcs": 3
+   "srcs": 2
   },
   {
    "t": "ACRO",

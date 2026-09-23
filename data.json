@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 08:04",
+ "updated": "2026-09-23 08:18",
  "delay_min": 15,
- "fx_basis": "13.22 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,353 · 04:45 Yahoo",
- "idr_per_krw": 13.2177,
+ "fx_basis": "13.24 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,351 · 08:00 Yahoo",
+ "idr_per_krw": 13.2373,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -62,9 +62,6 @@
     17808.0,
     17808.0,
     17808.0,
-    17808.0,
-    17808.0,
-    17808.0,
     17875.0,
     17870.0,
     17870.0,
@@ -92,10 +89,11 @@
     17878.0,
     17878.0,
     17878.0,
+    17878.0,
     17878.0
    ],
    "inv": true,
-   "asof": "04:45",
+   "asof": "08:00",
    "high": 17878.0,
    "low": 17808.0,
    "src": "yahoo"
@@ -17472,11 +17470,11 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 7115.34,
+   "px": 7081.6,
    "prev": 7037.46,
-   "pct": 1.11,
+   "pct": 0.63,
    "mst": 0,
-   "asof": "09:40",
+   "asof": "09:55",
    "live": true,
    "spark": [
     7137.49,
@@ -17487,7 +17485,10 @@
     7121.27,
     7107.73,
     7109.53,
-    7115.34
+    7110.09,
+    7097.61,
+    7086.16,
+    7081.6
    ]
   },
   {
@@ -17727,9 +17728,32 @@
    "pay": "2026-10-15",
    "yld": "14.85%",
    "name": "Resource Alam Indonesia Tbk"
+  },
+  "CDIA": {
+   "dps": 1.42,
+   "type": "",
+   "ex": null,
+   "pay": null,
+   "yld": null,
+   "src": "Bloomberg Technoz",
+   "url": "https://www.bloombergtechnoz.com/detail-news/122381/cdia-akan-bagi-dividen-interim-us-10-juta"
   }
  },
  "news": [
+  {
+   "ts": "2026-09-23T08:10:00+07:00",
+   "date": "2026-09-23",
+   "time": "08:10",
+   "src": "Bloomberg Technoz",
+   "t": "CDIA Akan Bagi Dividen Interim US$10 Juta",
+   "tags": [
+    "CDIA"
+   ],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122381/cdia-akan-bagi-dividen-interim-us-10-juta",
+   "img": "https://images.bloombergtechnoz.com/data/2025/04/image-20250428172603.jpg",
+   "t_id": "CDIA Akan Bagi Dividen Interim US$10 Juta",
+   "t_ko": "CDIA, 중간배당 US$1,000만 결의"
+  },
   {
    "ts": "2026-09-23T07:20:00+07:00",
    "date": "2026-09-23",
@@ -18452,6 +18476,54 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T08:15:00+07:00",
+   "date": "2026-09-23",
+   "time": "08:15",
+   "src": "Republika",
+   "t": "Undisbursed Loan Tembus Rp 2.548 Triliun, OJK Ungkap Penyebabnya",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlsm24423/undisbursed-loan-tembus-rp-2548-triliun-ojk-ungkap-penyebabnya",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/kepala-eksekutif-pengawas-perbankan-ojk-dian-ediana_241024213738-392.jpg",
+   "t_id": "Undisbursed Loan Tembus Rp 2.548 Triliun, OJK Ungkap Penyebabnya",
+   "t_ko": "미집행 대출 Rp2,548조 돌파 배경 밝힌 OJK"
+  },
+  {
+   "ts": "2026-09-23T08:14:00+07:00",
+   "date": "2026-09-23",
+   "time": "08:14",
+   "src": "Katadata",
+   "t": "Bitcoin Tembus US$ 87.000, Apa Saja Faktor yang Mendongkrak Penguatan?",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/keuangan/6ab327dc616f2/bitcoin-tembus-us-87000-apa-saja-faktor-yang-mendongkrak-penguatan",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2024/04/17/Dolar_AS_vs_Bitcoin-2024_04_17-17_15_29_e285341140cda3faf697302f5a9c167f_620x413_thumb.jpg",
+   "t_id": "Bitcoin Tembus US$ 87.000, Apa Saja Faktor yang Mendongkrak Penguatan?",
+   "t_ko": "비트코인 USD 87,000 돌파 배경과 상승 동력 분석"
+  },
+  {
+   "ts": "2026-09-23T08:13:27+07:00",
+   "date": "2026-09-23",
+   "time": "08:13",
+   "src": "Bloomberg Technoz",
+   "t": "Permintaan Sukuk Naik, Pemerintah Kurangi Serapan",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122377/permintaan-sukuk-naik-pemerintah-kurangi-serapan",
+   "img": "https://images.bloombergtechnoz.com/data/2026/02/image-20260211092352.jpg",
+   "t_id": "Permintaan Sukuk Naik, Pemerintah Kurangi Serapan",
+   "t_ko": "수쿡 수요 증가에 정부, 발행 물량 축소"
+  },
+  {
+   "ts": "2026-09-23T08:10:03+07:00",
+   "date": "2026-09-23",
+   "time": "08:10",
+   "src": "Jawa Pos",
+   "t": "PT PAL Siapkan Kemampuan MRO dan Modernisasi Kapal Induk Giuseppe Garibaldi",
+   "tags": [],
+   "url": "https://www.jawapos.com/bisnis/2609230022/pt-pal-siapkan-kemampuan-mro-dan-modernisasi-kapal-induk-giuseppe-garibaldi",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/18/penampakan-kapal-induk-its-giuseppe-garibaldi-551-di-dermaga-107-tanjung-priok-jakarta-jumat-1892026-dery-ridwansah-jawaposcom-n58X6.webp",
+   "t_id": "PT PAL Siapkan Kemampuan MRO dan Modernisasi Kapal Induk Giuseppe Garibaldi",
+   "t_ko": "PT PAL, Giuseppe Garibaldi 항공모함 MRO 및 현대화 역량 확보"
+  },
+  {
    "ts": "2026-09-23T08:00:00+07:00",
    "date": "2026-09-23",
    "time": "08:00",
@@ -18461,6 +18533,17 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122379/ihsg-dibayangi-keputusan-bi-rate-sikap-bank-sentral",
    "img": "https://images.bloombergtechnoz.com/data/2023/06/image-20230621092455.jpg",
    "t_ko": "IHSG, 기준금리 결정 및 주요 중앙은행 기조에 변동성 노출"
+  },
+  {
+   "ts": "2026-09-23T08:00:00+07:00",
+   "date": "2026-09-23",
+   "time": "08:00",
+   "src": "Detik",
+   "t": "Terkuak Penyebab Baju Bekas Impor Banjiri RI",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8674638/terkuak-penyebab-baju-bekas-impor-banjiri-ri",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/konferensi-pers-bea-cukai-1790046759444_169.jpeg?w=360&q=90",
+   "t_ko": "수입 구제옷 인도네시아 유입 급증 배경 규명"
   },
   {
    "ts": "2026-09-23T07:57:07+07:00",
@@ -18474,6 +18557,18 @@
    "t_ko": "인도네시아 교통부, 산불 모니터링 속 항공 안전 최우선 강조"
   },
   {
+   "ts": "2026-09-23T07:53:24+07:00",
+   "date": "2026-09-23",
+   "time": "07:53",
+   "src": "Bloomberg",
+   "t": "BNP’s Asset Unit Shorts China Rate Swaps to Hedge EM Bond Bets",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-23/bnp-s-asset-unit-shorts-china-rate-swaps-to-hedge-em-bond-bets",
+   "g": 1,
+   "t_ko": "BNP 자산운용, 신흥국 채권 헤지로 중국 금리 스와프 숏 포지션 구축",
+   "t_id": "Unit Aset BNP Short Swap Suku Bunga China untuk Lindung Nilai Obligasi EM"
+  },
+  {
    "ts": "2026-09-23T07:50:58+07:00",
    "date": "2026-09-23",
    "time": "07:50",
@@ -18482,8 +18577,8 @@
    "tags": [],
    "url": "https://www.jawapos.com/finance/2609230020/uang-bertandatangan-purbaya-diburu-bi-jelaskan-keabsahan-uang-kertas-yang-beredar",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/21/pecahan-rp-100000-tahun-emisi-te-2022-yang-memuat-tanda-tangan-purbaya-dan-perry-warjiyo-sebagai-gubernur-bank-indonesia-bi-threads-at-christopherkeju-fxOBK.webp",
-   "t_id": "Uang Bertandatangan Purbaya Diburu, BI Jelaskan Keabsahan Uang Kertas yang Beredar",
-   "t_ko": "Purbaya 서명 화폐 품귀 현상에 인도네시아 중앙은행, 시중 유통 지폐 유효성 해명"
+   "t_ko": "Purbaya 서명 화폐 품귀 현상에 인도네시아 중앙은행, 시중 유통 지폐 유효성 해명",
+   "t_id": "Uang Bertandatangan Purbaya Diburu, BI Jelaskan Keabsahan Uang Kertas yang Beredar"
   },
   {
    "ts": "2026-09-23T07:43:41+07:00",
@@ -18798,19 +18893,6 @@
    "img": "https://images.bloombergtechnoz.com/data/2023/02/image-20230201170657.jpg",
    "t_ko": "AI 수혜에 기술주 상승 — Nasdaq 6월 이후 최고치 경신 임박",
    "t_id": "AI Dorong Saham Teknologi Naik, Nasdaq Dekati Rekor Sejak Juni"
-  },
-  {
-   "ts": "2026-09-23T06:00:00+07:00",
-   "date": "2026-09-23",
-   "time": "06:00",
-   "src": "IDNFinancials",
-   "t": "Trump-Xi: From trade war to tariff truce",
-   "tags": [],
-   "url": "https://www.idnfinancials.com/news/69253/trump-xi-from-trade-war-to-tariff-truce",
-   "g": 1,
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/TRUMP-XI-19052026.jpg",
-   "t_ko": "트럼프와 시진핑 — 무역전쟁에서 관세 휴전으로",
-   "t_id": "Trump-Xi: Dari Perang Dagang Menuju Gencatan Tarif"
   },
   {
    "ts": "2026-09-23T05:55:00+07:00",
@@ -19552,18 +19634,6 @@
    "t_id": "Melihat Kebun Kopi di Tengah Hutan Kota Jakarta"
   },
   {
-   "ts": "2026-09-22T17:55:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Katadata",
-   "t": "Bahlil Pangkas Birokrasi Tender PLTS 100 GWp Demi Kejar Target 3 Tahun",
-   "tags": [],
-   "url": "https://katadata.co.id/berita/energi/6ab25e8a8b041/bahlil-pangkas-birokrasi-tender-plts-100-gwp-demi-kejar-target-3-tahun",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/17/2026_09_17-21_10_00_be7b6022-b2b6-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
-   "t_ko": "Bahlil 장관, 3년 목표 달성 위해 100GWp 태양광 입찰 간소화",
-   "t_id": "Bahlil Pangkas Birokrasi Tender PLTS 100 GWp Demi Target 3 Tahun"
-  },
-  {
    "ts": "2026-09-22T17:54:16+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -19730,54 +19800,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/potret-warga-berburu-lowongan-kerja-dari-puluhan-perusahaan-di-cengkareng-1790066353857_169.jpeg?w=360&q=90",
    "t_ko": "Cengkareng 구직 박람회에 몰린 수많은 인파",
    "t_id": "Potret Warga Berburu Lowongan Kerja dari Puluhan Perusahaan di Cengkareng"
-  },
-  {
-   "ts": "2026-09-22T16:28:40+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Republika",
-   "t": "Kepala BP BUMN Ungkap Status Manajer Kopdes: Bukan Pegawai BUMN",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlrebs490/kepala-bp-bumn-ungkap-status-manajer-kopdes-bukan-pegawai-bumn",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/kepala-bp-bumn-sekaligus-chief-operating-officer-coo-danantara_260723175851-993.jpeg",
-   "t_ko": "BP BUMN 수장, Kopdes 매니저 지위는 국영기업 직원이 아님을 밝힘",
-   "t_id": "Kepala BP BUMN Pastikan Manajer Kopdes Bukan Pegawai BUMN"
-  },
-  {
-   "ts": "2026-09-22T16:28:15+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Detik",
-   "t": "IFG Life Sudah Bayar Klaim Rp 9,4 Triliun",
-   "tags": [],
-   "url": "https://finance.detik.com/moneter/d-8674364/ifg-life-sudah-bayar-klaim-rp-9-4-triliun",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2024/12/31/ilustrasi-asuransi_169.jpeg?w=360&q=90",
-   "t_ko": "IFG Life, 보험금 Rp9.4조 지급 완료",
-   "t_id": "IFG Life Sudah Bayar Klaim Rp 9,4 Triliun"
-  },
-  {
-   "ts": "2026-09-22T16:23:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Detik",
-   "t": "IHSG Ditutup Melemah ke Level 6.277, Turun 1,69%",
-   "tags": [],
-   "url": "https://finance.detik.com/bursa-dan-valas/d-8674270/ihsg-ditutup-melemah-ke-level-6-277-turun-1-69",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/05/22/ihsg-anjlok-ke-level-5000-sentuh-titik-terburuk-sejak-era-covid-19-1779437111616_169.jpeg?w=360&q=90",
-   "t_ko": "IHSG 1.69% 하락한 6,277 마감",
-   "t_id": "IHSG Ditutup Melemah ke Level 6.277, Turun 1,69%"
-  },
-  {
-   "ts": "2026-09-22T16:19:45+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Jawa Pos",
-   "t": "Ekonom Senior Nilai Penataan BUMN Bisa Pangkas Inefisiensi",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220124/ekonom-senior-nilai-penataan-bumn-bisa-pangkas-inefisiensi",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/05/13/badan-pengaturan-bumn-dok-kemenkopcom-SWOVI.webp",
-   "t_ko": "시니어 경제 전문가, 국영기업 구조조정으로 비효율성 절감 평가",
-   "t_id": "Ekonom Senior Nilai Penataan BUMN Pangkas Inefisiensi"
   }
  ],
  "kisi_news": [
@@ -19939,9 +19961,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "12.99",
-   "d": 1.13,
-   "ytd": 11.88,
+   "v": "13.23",
+   "d": 1.82,
+   "ytd": 13.92,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -19974,9 +19996,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.55",
-   "d": 0.19,
-   "ytd": 2.31,
+   "v": "100.59",
+   "d": 0.23,
+   "ytd": 2.35,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -19986,9 +20008,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.05",
-   "d": -3.14,
-   "ytd": 56.83,
+   "v": "90.36",
+   "d": -2.81,
+   "ytd": 57.37,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -19998,9 +20020,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,395.5",
-   "d": 0.37,
-   "ytd": 1.62,
+   "v": "4,388.8",
+   "d": 0.22,
+   "ytd": 1.46,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20022,15 +20044,15 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,528",
-   "d": 1.07,
-   "ytd": -0.92,
+   "v": "16,601",
+   "d": 0.15,
+   "ytd": -0.48,
    "inv": false,
-   "note": "investing.com · 09/22 마지막 값 · 연초 16,682",
+   "note": "investing.com · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
    "k_id": "Nikel LME (US$/t)",
-   "note_ko": "investing.com · 09/22 마지막 값 · 연초 16,682",
-   "note_id": "investing.com · 09/22 nilai terakhir · Awal tahun 16,682"
+   "note_ko": "investing.com · 연초 16,682",
+   "note_id": "investing.com · Awal tahun 16,682"
   },
   {
    "k": "CPO (MYR/t)",
@@ -25061,7 +25083,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 294,
+  "pc_age_min": 308,
   "news_ai_cache": 41,
   "news_ai_hit": 29,
   "on_runner": true,
@@ -26856,13 +26878,39 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "BI 기준금리 결정 경계감과 BYAN·BBRI 등 대형주 약세에 IHSG 1.69% 하락 거래 중.",
-   "id": "IHSG diperdagangkan melemah 1,69% di tengah kekhawatiran keputusan suku bunga BI serta pelemahan saham berkapitalisasi besar seperti BYAN dan BBRI.",
-   "ts": "2026-09-23T08:04:09.026199+07:00"
+   "ko": "달러 강세와 BYAN 및 BBRI 등 대형주 약세로 IHSG 1.69% 하락.",
+   "id": "IHSG melemah 1,69% akibat penguatan dolar AS serta pelemahan saham berkapitalisasi besar seperti BYAN dan BBRI.",
+   "ts": "2026-09-23T08:18:06.230923+07:00"
   }
  },
  "top_day": "2026-09-23",
  "top_news": [
+  {
+   "ts": "2026-09-22T18:37:50+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Jawa Pos",
+   "t": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
+   "tags": [],
+   "url": "https://www.jawapos.com/ekonomi/2609220201/bea-cukai-gagalkan-impor-ilegal-30-kontainer-garam-beras-dan-pakaian-bekas-senilai-rp-27-miliar",
+   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/oFwNvShi6HMpFilTS8NeN4zVnyanzDadChdTf40a.webp",
+   "t_ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
+   "t_id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
+   "ai_ko": "· 불법 수입 컨테이너 30개 적발, Rp270억 규모\n· 소금·쌀·중고 의류 대상, Bea Cukai 단속\n· 9월 22일 Jakarta 본부 기자회견서 발표",
+   "ai_id": "· Bea Cukai gagalkan 30 kontainer ilegal\n· Garam, beras, pakaian bekas Rp27 miliar\n· Konpers di Jakarta, Selasa 22 September",
+   "ai_tags": [
+    "밀수",
+    "규제",
+    "무역"
+   ],
+   "ai_tags_id": [
+    "penyelundupan",
+    "regulasi",
+    "impor"
+   ],
+   "score": 414.25,
+   "srcs": 2
+  },
   {
    "ts": "2026-09-22T19:00:00+07:00",
    "date": "2026-09-22",
@@ -26900,32 +26948,6 @@
    ],
    "score": 412.45,
    "srcs": 2
-  },
-  {
-   "ts": "2026-09-22T18:37:50+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Jawa Pos",
-   "t": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609220201/bea-cukai-gagalkan-impor-ilegal-30-kontainer-garam-beras-dan-pakaian-bekas-senilai-rp-27-miliar",
-   "img": "https://cdn-assets.jawapos.com/images/1/2026/09/22/oFwNvShi6HMpFilTS8NeN4zVnyanzDadChdTf40a.webp",
-   "t_ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
-   "t_id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
-   "ai_ko": "· 불법 수입 컨테이너 30개 적발, Rp270억 규모\n· 소금·쌀·중고 의류 대상, Bea Cukai 단속\n· 9월 22일 Jakarta 본부 기자회견서 발표",
-   "ai_id": "· Bea Cukai gagalkan 30 kontainer ilegal\n· Garam, beras, pakaian bekas Rp27 miliar\n· Konpers di Jakarta, Selasa 22 September",
-   "ai_tags": [
-    "밀수",
-    "규제",
-    "무역"
-   ],
-   "ai_tags_id": [
-    "penyelundupan",
-    "regulasi",
-    "impor"
-   ],
-   "score": 412.05,
-   "srcs": 1
   },
   {
    "ts": "2026-09-22T20:09:00+07:00",

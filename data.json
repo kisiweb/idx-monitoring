@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 12:19",
+ "updated": "2026-09-23 12:29",
  "delay_min": 15,
- "fx_basis": "13.16 IDR/KRW · USD/IDR 17,788 · USD/KRW 1,351 · 11:45 Yahoo",
- "idr_per_krw": 13.1625,
+ "fx_basis": "13.15 IDR/KRW · USD/IDR 17,790 · USD/KRW 1,352 · 12:15 Yahoo",
+ "idr_per_krw": 13.1543,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -13,7 +13,6 @@
    "prev": 6277.04,
    "pct": 0.64,
    "spark": [
-    6289.15,
     6288.16,
     6288.44,
     6288.78,
@@ -132,10 +131,11 @@
     6321.5,
     6322.22,
     6319.85,
+    6317.46,
     6317.46
    ],
    "inv": false,
-   "asof": "11:59",
+   "asof": "12:00",
    "high": 6322.65185546875,
    "low": 6257.333984375,
    "src": "yahoo"
@@ -279,11 +279,10 @@
    "code": "USDIDR",
    "label": "USD/IDR",
    "name": "달러/루피아",
-   "px": 17788.0,
+   "px": 17790.0,
    "prev": 17846.0,
-   "pct": -0.33,
+   "pct": -0.31,
    "spark": [
-    17860.0,
     17860.0,
     17860.0,
     17860.0,
@@ -312,10 +311,11 @@
     17800.0,
     17790.0,
     17790.0,
-    17788.0
+    17788.0,
+    17790.0
    ],
    "inv": true,
-   "asof": "11:45",
+   "asof": "12:15",
    "high": 17878.0,
    "low": 17788.0,
    "src": "yahoo"
@@ -342,7 +342,7 @@
   }
  ],
  "index": {
-  "session": "11:59",
+  "session": "12:00",
   "high": 6322.65185546875,
   "low": 6257.333984375,
   "prev": 6277.04,
@@ -352,7 +352,7 @@
   "volume": null,
   "value_src": "all",
   "rank_src": "Yahoo 15분 지연 · 642종목",
-  "rank_asof": "12:16",
+  "rank_asof": "12:26",
   "rank_date": "2026-09-23",
   "adv": 351,
   "dec": 167,
@@ -16933,11 +16933,11 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 7048.78,
+   "px": 7047.7,
    "prev": 7037.46,
-   "pct": 0.16,
+   "pct": 0.15,
    "mst": 0,
-   "asof": "13:55",
+   "asof": "14:05",
    "live": true,
    "spark": [
     7137.49,
@@ -16999,7 +16999,9 @@
     7047.93,
     7054.22,
     7052.56,
-    7048.78
+    7046.08,
+    7048.75,
+    7047.7
    ]
   },
   {
@@ -17087,11 +17089,11 @@
    "sym": "^HSI",
    "name": "항셍",
    "name_id": "Hang Seng",
-   "px": 24894.07,
+   "px": 24886.91,
    "prev": 25087.75,
-   "pct": -0.77,
+   "pct": -0.8,
    "mst": 0,
-   "asof": "13:00",
+   "asof": "13:10",
    "live": true,
    "spark": [
     24917.43,
@@ -17126,7 +17128,9 @@
     24896.5,
     24896.04,
     24896.04,
-    24894.07
+    24896.48,
+    24898.4,
+    24886.91
    ]
   }
  ],
@@ -17223,6 +17227,113 @@
  },
  "news": [
   {
+   "ts": "2026-09-23T12:27:20.500272+07:00",
+   "date": "2026-09-23",
+   "time": "12:27",
+   "src": "Kontan",
+   "t": "IHSG Menguat 0,64% ke 6.317,5 di Sesi Pertama, Top Gainers LQ45: INDY, MDKA, HRTA",
+   "tags": [
+    "HRTA",
+    "INDY",
+    "MDKA"
+   ],
+   "url": "https://investasi.kontan.co.id/news/ihsg-menguat-064-ke-63175-di-sesi-pertama-top-gainers-lq45-indy-mdka-hrta",
+   "t_est": true,
+   "t_id": "IHSG Menguat 0,64% ke 6.317,5 di Sesi Pertama, Top Gainers LQ45: INDY, MDKA, HRTA",
+   "t_ko": "IHSG 1부 0.64% 상승한 6,317.5 — LQ45 상승 상위 INDY·MDKA·HRTA",
+   "ai_ko": "· IHSG 0.64% 오른 6,317.46 전반장 마감\n· LQ45 상승 상위 INDY·MDKA·HRTA\n· 원자재 1.77% 등 전 업종 강세 영향",
+   "ai_id": "· IHSG naik 0,64% ke 6.317,46 sesi I\n· Top gainers LQ45: INDY, MDKA, HRTA\n· Barang baku +1,77%, transaksi Rp6,06 T",
+   "ai_tags": [
+    "증시",
+    "지수",
+    "상승"
+   ],
+   "ai_tags_id": [
+    "bursa",
+    "indeks",
+    "menguat"
+   ]
+  },
+  {
+   "ts": "2026-09-23T12:25:00+07:00",
+   "date": "2026-09-23",
+   "time": "12:25",
+   "src": "Bloomberg Technoz",
+   "t": "Rating PTRO Bisa Naik Lebih Tinggi Jika Mampu Lakukan Hal Ini",
+   "tags": [
+    "PTRO"
+   ],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122427/rating-ptro-bisa-naik-lebih-tinggi-jika-mampu-lakukan-hal-ini",
+   "img": "https://images.bloombergtechnoz.com/data/2026/03/image-20260311172027.jpg",
+   "t_id": "Rating PTRO Bisa Naik Lebih Tinggi Jika Mampu Lakukan Hal Ini",
+   "t_ko": "PTRO, 이 조건 충족 시 신용등급 추가 상향 가능",
+   "ai_ko": "· Pefindo, Petrosea(PTRO) 등급 idA+ 확정\n· 지속채권 I·Sukuk Ijarah도 idA+, 전망 안정적\n· 비석탄 매출 다변화 시 등급 상향 여지",
+   "ai_id": "· Pefindo tegaskan rating idA+ PTRO\n· Obligasi & Sukuk Ijarah idA+, stabil\n· Naik jika diversifikasi non-batu bara",
+   "ai_tags": [
+    "신용등급",
+    "채권",
+    "석탄"
+   ],
+   "ai_tags_id": [
+    "rating",
+    "obligasi",
+    "batu bara"
+   ]
+  },
+  {
+   "ts": "2026-09-23T12:25:00+07:00",
+   "date": "2026-09-23",
+   "time": "12:25",
+   "src": "CNBC Indonesia",
+   "t": "BEI Temukan Emiten Dikuasai Segelintir PIhak, Free Float Hanya 0,72%",
+   "tags": [
+    "NICK"
+   ],
+   "url": "https://www.cnbcindonesia.com/market/20260923110115-17-770132/bei-temukan-emiten-dikuasai-segelintir-pihak-free-float-hanya-072",
+   "img": "https://akcdn.detik.net.id/visual/2019/03/19/3ee78e56-c38c-4872-a521-61fef451b767_169.jpeg?w=1200&q=90",
+   "t_ko": "BEI, 상장사 소수 지분 편중 적발 — 유통물량 0.72%에 불과",
+   "t_id": "BEI Temukan Emiten Dikuasai Segelintir Pihak, Free Float Hanya 0,72%",
+   "ai_ko": "· Charnic Capital(NICK) 지분 99.28% 소수 집중\n· BEI·KSEI, 9월 18일 기준 유통주식 0.72%\n· BEI 유통비율 기준 7.5%→15% 단계 상향",
+   "ai_id": "· Saham NICK 99,28% dikuasai segelintir\n· BEI-KSEI temukan per 18 September 2026\n· Free float minimum naik 7,5% ke 15%",
+   "ai_tags": [
+    "규제",
+    "유통주식",
+    "거래소"
+   ],
+   "ai_tags_id": [
+    "regulasi",
+    "free float",
+    "BEI"
+   ]
+  },
+  {
+   "ts": "2026-09-23T12:20:00+07:00",
+   "date": "2026-09-23",
+   "time": "12:20",
+   "src": "Katadata",
+   "t": "Batas Bawah Saham Jadi Rp 1, Saham Bakrie BNBR hingga JGLE Mana Paling Rentan?",
+   "tags": [
+    "BNBR",
+    "JGLE"
+   ],
+   "url": "https://katadata.co.id/finansial/bursa/6ab35fe62d525/batas-bawah-saham-jadi-rp-1-saham-bakrie-bnbr-hingga-jgle-mana-paling-rentan",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/08/24/Ilustrasi_Bakrie_Telecom-2026_08_24-18_14_18_66af740b77717c092af614af75e1e538_620x413_thumb.png",
+   "t_id": "Batas Bawah Saham Jadi Rp 1, Saham Bakrie BNBR hingga JGLE Mana Paling Rentan?",
+   "t_ko": "주식 하한가 Rp1 시행 — Bakrie 계열 BNBR·JGLE 중 낙폭 취약주는",
+   "ai_ko": "· 9월 28일 주가 하한 Rp50→Rp1로 변경\n· Bakrie 계열 VIVA Rp38·ELTY Rp32·BTEL·BNBR·JGLE Rp69 거론\n· Bumiputera Sekuritas는 적자인 JGLE 가장 취약 평가",
+   "ai_id": "· Batas bawah jadi Rp1 mulai 28 September\n· Saham Bakrie: VIVA Rp38, ELTY Rp32, BTEL gocap, BNBR, JGLE Rp69\n· Thoriq: JGLE paling rentan karena rugi",
+   "ai_tags": [
+    "규제",
+    "주가",
+    "Bakrie"
+   ],
+   "ai_tags_id": [
+    "regulasi",
+    "harga saham",
+    "Bakrie"
+   ]
+  },
+  {
    "ts": "2026-09-23T12:15:00+07:00",
    "date": "2026-09-23",
    "time": "12:15",
@@ -17284,7 +17395,7 @@
     "TRUK"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260923102249-17-770123/saham-truk-meroket-ada-campur-tangan-gabriel-rey-hingga-andri-hakim",
-   "img": "https://awsimages.detik.net.id/visual/2019/08/08/b2852ebd-0b64-4632-9952-f9b07a5c2d30_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2019/08/08/b2852ebd-0b64-4632-9952-f9b07a5c2d30_169.jpeg?w=1200&q=90",
    "t_ko": "TRUK 주가 급등 — Gabriel Rey·Andri Hakim 개입 정황",
    "t_id": "Saham TRUK Meroket, Ada Campur Tangan Gabriel Rey Hingga Andri Hakim",
    "ai_ko": "· TRUK 주가 9.9% 상승, Rp1,885\n· Gabriel Rey 15%·Andri Hakim 5% 취득\n· 9월 18일 주당 Rp428 매수, 1개월 132.7% 급등",
@@ -17566,7 +17677,7 @@
     "GOTO"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260923094655-17-770110/investor-bersiap-bakal-ada-2-pengumuman-penting-dari-goto",
-   "img": "https://awsimages.detik.net.id/visual/2026/08/04/dok-goto-1785833212922_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2026/08/04/dok-goto-1785833212922_169.jpeg?w=1200&q=90",
    "t_ko": "GOTO, 투자자 주목 속 주요 발표 2건 예고",
    "t_id": "Investor Bersiap, Bakal Ada 2 Pengumuman Penting dari GOTO",
    "ai_ko": "· 자사주 321.9억주 소각, 감자 추진\n· GoTo(GOTO) 임시주총 안건 2건\n· 10월 14일, ESOP 활용안은 철회",
@@ -17670,7 +17781,7 @@
     "FORE"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260923090746-17-770096/terungkap-sosok-ini-borong-22-juta-saham-fore-di-harga-rp760",
-   "img": "https://awsimages.detik.net.id/visual/2025/01/08/fore-coffee-dok-gallery-fore-1_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2025/01/08/fore-coffee-dok-gallery-fore-1_169.jpeg?w=1200&q=90",
    "t_ko": "FORE 주식 220만 주 Rp760에 매집한 인물 공개",
    "t_id": "Terungkap, Sosok Ini Borong 2,2 Juta Saham FORE di Harga Rp760",
    "ai_ko": "· FORE 주식 220만주, 주당 Rp760 매입\n· 주주 Ferry Sudjono, 지분 6%로 확대\n· 9월 16일 체결, 배당은 이월결손 탓 보류",
@@ -17722,7 +17833,7 @@
     "TRUE"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260923092550-17-770102/rugi-triniti-dinamik--true--bengkak-23-di-semester-i-2026",
-   "img": "https://awsimages.detik.net.id/visual/2026/06/08/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-gedung-bursa-efek-indonesia-bei-jakarta-senin-862026-cnbc-ind-1780893110839_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2026/06/08/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-gedung-bursa-efek-indonesia-bei-jakarta-senin-862026-cnbc-ind-1780893110839_169.jpeg?w=1200&q=90",
    "t_ko": "TRUE, 2026년 상반기 순손실 23% 확대",
    "t_id": "Rugi Triniti Dinamik (TRUE) Bengkak 23% di Semester I-2026",
    "ai_ko": "· 상반기 순손실 Rp123억, 23.4% 확대\n· 부동산 상장사 Triniti Dinamik(TRUE)\n· 매출 3.7% 늘었으나 원가 14.6% 급증",
@@ -17981,7 +18092,7 @@
     "MEDC"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260923081552-17-770066/ihsg-masih-volatil-deretan-saham-ini-menarik-buat-dilirik",
-   "img": "https://awsimages.detik.net.id/visual/2026/09/23/market-1790126151-1790126151937_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2026/09/23/market-1790126151-1790126151937_169.jpeg?w=1200&q=90",
    "t_ko": "IHSG 변동성 지속 — 주목할 관심주 리스트",
    "t_id": "IHSG Masih Volatil, Deretan Saham Ini Menarik Buat Dilirik",
    "ai_ko": "· IHSG 1.69% 하락, 6,277.04 마감\n· 상승 AMMN·ISAT·CUAN, 하락 BYAN·BBRI·DSSA, MEDC 상반기 순이익 796.5% 증가\n· 외국인 3일 연속 순매도, BI 금리 발표 대기",
@@ -18031,7 +18142,7 @@
     "BYAN"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260923084532-17-770080/cfo-bayan-resources--byan--jual-saham-jelang-akuisisi-oleh-haji-isam",
-   "img": "https://awsimages.detik.net.id/visual/2023/08/04/chief-financial-officer-pt-bayan-resouces-tbk-alastair-gordon-christopher-mcleod-dalam-program-mining-zone-4_169.png?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2023/08/04/chief-financial-officer-pt-bayan-resouces-tbk-alastair-gordon-christopher-mcleod-dalam-program-mining-zone-4_169.png?w=1200&q=90",
    "t_ko": "Bayan Resources(BYAN) CFO, Haji Isam 인수 앞두고 주식 매도",
    "t_id": "CFO Bayan Resources (BYAN) Jual Saham Jelang Akuisisi Oleh Haji Isam",
    "ai_ko": "· CFO가 BYAN 18.52만주 주당 Rp13,352 매도\n· Bayan Resources(BYAN) 임원 McLeod, OJK 신고\n· Haji Isam 측 지분 30% 인수 추진 국면",
@@ -18111,7 +18222,7 @@
     "CDIA"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260923082908-17-770071/emiten-prajogo-pengestu--cdia--bagi-dividen-interim-ini-jadwalnya",
-   "img": "https://awsimages.detik.net.id/visual/2025/07/07/chandra-daya-investasi-dok-istimewa-1751860368218_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2025/07/07/chandra-daya-investasi-dok-istimewa-1751860368218_169.jpeg?w=1200&q=90",
    "t_ko": "CDIA, 중간배당 실시 — 지급 일정은",
    "t_id": "Emiten Prajogo Pengestu (CDIA) Bagi Dividen Interim, Ini Jadwalnya",
    "ai_ko": "· 주당 Rp1.42 중간배당 결정\n· Prajogo Pangestu 계열 CDIA\n· 6월 결산 순이익 재원, 10/22 지급",
@@ -18168,33 +18279,6 @@
     "IHSG",
     "rekomendasi saham",
     "analisis teknikal"
-   ]
-  },
-  {
-   "ts": "2026-09-23T08:15:14.698280+07:00",
-   "date": "2026-09-23",
-   "time": "08:15",
-   "src": "Kontan",
-   "t": "DMAS dan SILO Gelar RUPSLB, Cermati Hasil dan Prospek Sahamnya",
-   "tags": [
-    "DMAS",
-    "SILO"
-   ],
-   "url": "https://investasi.kontan.co.id/news/dmas-dan-silo-gelar-rupslb-cermati-hasil-dan-prospek-sahamnya",
-   "t_est": true,
-   "t_ko": "DMAS·SILO 임시주주총회 개최 — 결과와 주가 전망 점검",
-   "t_id": "DMAS dan SILO Gelar RUPSLB, Cermati Hasil dan Prospek Sahamnya",
-   "ai_ko": "· SILO, Rp6.91조 병원자산 인수 승인\n· Siloam(SILO)·DMAS, 22일 임시주총\n· First REIT 병원 14곳, Rp14.5조 대출",
-   "ai_id": "· SILO setujui akuisisi RS Rp6,91 triliun\n· DMAS ganti Wakil Presdir di RUPSLB\n· Danai 14 RS First REIT, sindikasi Rp14,5 triliun",
-   "ai_tags": [
-    "인수",
-    "주주총회",
-    "자금조달"
-   ],
-   "ai_tags_id": [
-    "akuisisi",
-    "RUPSLB",
-    "pinjaman sindikasi"
    ]
   },
   {
@@ -18594,7 +18678,7 @@
     "SRTG"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922153215-17-769927/diam-diam-konglomerat-pengendali-saratoga-borong-saham-rp-149-m",
-   "img": "https://awsimages.detik.net.id/visual/2019/08/08/4b961fce-e698-4980-9a04-176655e51661_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2019/08/08/4b961fce-e698-4980-9a04-176655e51661_169.jpeg?w=1200&q=90",
    "t_ko": "Saratoga 지배주주, Rp14.9억 규모 지분 은밀 매입",
    "t_id": "Diam-Diam Konglomerat Pengendali Saratoga Borong Saham Rp 1,49 M",
    "ai_ko": "· 자사주 83만주 매입, Rp14.9억 규모\n· Saratoga(SRTG) 커미사리스 Edwin Soeryadjaya\n· 9/18·21 매수, 지분율 35.94%→35.95%",
@@ -18670,7 +18754,7 @@
     "SILO"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922100753-17-769778/siloam-mau-caplok-14-perusahaan-pemilik-aset-rs-senilai-rp-69-t",
-   "img": "https://awsimages.detik.net.id/visual/2021/02/10/rs-siloam-cnbc-indonesiatri-susilo_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2021/02/10/rs-siloam-cnbc-indonesiatri-susilo_169.jpeg?w=1200&q=90",
    "t_ko": "Siloam, RS 자산 보유 14개사 Rp6.9조에 인수 추진",
    "t_id": "Siloam Mau Caplok 14 Perusahaan Pemilik Aset RS, Senilai Rp 6,9 T",
    "ai_ko": "· 병원자산 보유 14개사 인수, Rp6.9조 규모\n· Siloam(SILO), First REIT 계열 지분 취득\n· 1단계 8개사 4월 1일 CSPA, 2단계 6개사 풋옵션",
@@ -18748,7 +18832,7 @@
     "JSMR"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260922132629-17-769880/jasa-marga--jsmr--kucurkan-pinjaman-rp65-t-ke-anak-usaha",
-   "img": "https://awsimages.detik.net.id/visual/2025/12/12/gerbang-tol-cikampek-utama-1765525894396_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2025/12/12/gerbang-tol-cikampek-utama-1765525894396_169.jpeg?w=1200&q=90",
    "t_ko": "JSMR, 자회사에 Rp6.5조 대출 실행",
    "t_id": "Jasa Marga (JSMR) Kucurkan Pinjaman Rp6,5 T ke Anak Usaha",
    "ai_ko": "· 주주대출 Rp6,546억7,100만 규모 공여\n· Jasa Marga(JSMR) 자회사 JTT→JJC\n· 9월 17일 Bekasi에서 체결, 계열 거래",
@@ -19017,6 +19101,78 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T12:26:44+07:00",
+   "date": "2026-09-23",
+   "time": "12:26",
+   "src": "CNBC",
+   "t": "Oil falls after U.S. and Iran talk for hours at UN meeting",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
+   "g": 1,
+   "t_ko": "미국·이란 UN서 수시간 협상, 유가 하락",
+   "t_id": "Harga Minyak Turun Usai AS dan Iran Berdialog Berjam-jam di Pertemuan PBB",
+   "ai_ko": "· 유가 5거래일간 12%↓, USD 100선 이탈\n· 미국·이란 UN 총회서 3시간 회담\n· Trump '좋은 회담' 발언, Pakistan 중재",
+   "ai_id": "· Harga minyak turun hampir 12%\n· AS dan Iran bertemu 3 jam di PBB\n· Trump sebut pertemuan sangat baik",
+   "ai_tags": [
+    "유가",
+    "지정학",
+    "중동"
+   ],
+   "ai_tags_id": [
+    "harga minyak",
+    "geopolitik",
+    "Timur Tengah"
+   ]
+  },
+  {
+   "ts": "2026-09-23T12:19:00+07:00",
+   "date": "2026-09-23",
+   "time": "12:19",
+   "src": "Katadata",
+   "t": "Perjanjian Dagang RI-Uni Eropa Masuk Tahap Finalisasi, Ditargetkan Berlaku 2027",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/makro/6ab3616aced7d/perjanjian-dagang-ri-uni-eropa-masuk-tahap-finalisasi-ditargetkan-berlaku-2027",
+   "g": 1,
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/08/14/Konferensi_Pers_Nota_Keuangan_dan_RAPBN_2027_Foto_KatadataFauza-2026_08_14-21_04_44_b0fc1c0d31103269a5a021841a295a0d_620x413_thumb.jpg",
+   "t_ko": "인도네시아-유럽연합 무역협정 최종화 단계 진입, 2027년 발효 목표",
+   "t_id": "Perjanjian Dagang RI-Uni Eropa Masuk Tahap Finalisasi, Ditargetkan Berlaku 2027",
+   "ai_ko": "· IEU-CEPA 최종 단계, 2027년 초 발효 목표\n· Airlangga Hartarto 경제조정장관 밝혀\n· Prabowo 조기 타결 지시, 하반기 비준 추진",
+   "ai_id": "· IEU-CEPA finalisasi, berlaku awal 2027\n· Airlangga: ratifikasi semester II 2026\n· Prabowo perintahkan percepatan kesepakatan",
+   "ai_tags": [
+    "무역협정",
+    "수출",
+    "유럽"
+   ],
+   "ai_tags_id": [
+    "perdagangan",
+    "ekspor",
+    "Uni Eropa"
+   ]
+  },
+  {
+   "ts": "2026-09-23T12:15:00+07:00",
+   "date": "2026-09-23",
+   "time": "12:15",
+   "src": "Media Indonesia",
+   "t": "Kejar Pengesahan 15 Desember, DPR Maksimalkan Masa Reses Bahas RUU Perampasan Aset",
+   "tags": [],
+   "url": "https://mediaindonesia.com/politik-dan-hukum/936557/kejar-pengesahan-15-desember-dpr-maksimalkan-masa-reses-bahas-ruu-perampasan-aset",
+   "t_ko": "DPR, 자산몰수법안 12월15일 통과 목표로 휴회기 총동원",
+   "t_id": "Kejar Pengesahan 15 Desember, DPR Maksimalkan Masa Reses Bahas RUU Perampasan Aset",
+   "ai_ko": "· 자산몰수법안 12월 15일 본회의 처리 목표\n· DPR 제3위원회 Habiburokhman 위원장 발표\n· 휴회기 8일간 공청회 연속 개최해 의견 수렴",
+   "ai_id": "· RUU Perampasan Aset ditarget 15 Desember\n· Ketua Komisi III DPR Habiburokhman\n· RDPU maraton 8 hari kerja saat reses",
+   "ai_tags": [
+    "법안",
+    "국회",
+    "규제"
+   ],
+   "ai_tags_id": [
+    "RUU",
+    "DPR",
+    "regulasi"
+   ]
+  },
+  {
    "ts": "2026-09-23T12:13:43+07:00",
    "date": "2026-09-23",
    "time": "12:13",
@@ -19046,23 +19202,23 @@
    "date": "2026-09-23",
    "time": "12:13",
    "src": "CNBC Indonesia",
-   "t": "IHSG Sesi I Menghijau Naik 0,64%",
+   "t": "IHSG Naik 0,64% ke 6.317,46",
    "tags": [],
-   "url": "https://www.cnbcindonesia.com/market/20260923120821-17-770165/ihsg-sesi-i-menghijau-naik-064",
-   "img": "https://awsimages.detik.net.id/visual/2019/03/19/1ee58b21-bd0b-4f22-b697-411948a19e90_169.jpeg?w=1200&q=90",
-   "t_id": "IHSG Sesi I Menghijau Naik 0,64%",
-   "t_ko": "IHSG 1부 0.64% 상승",
-   "ai_ko": "· IHSG 전반장 0.64% 오른 6,317.46 마감\n· 필수소비재 3.5%·기초소재 1.7%·에너지 1.1% 강세\n· 이날 BI 기준금리 결정 앞두고 관망, 5.75% 동결 우세",
-   "ai_id": "· IHSG sesi I naik 0,64% ke 6.317,46\n· Konsumer primer 3,5%, energi naik 1,1%\n· Pasar nanti keputusan BI Rate, mayoritas tahan",
+   "url": "https://www.cnbcindonesia.com/market/20260923120821-17-770165/ihsg-naik-064-ke-631746",
+   "img": "https://akcdn.detik.net.id/visual/2019/03/19/1ee58b21-bd0b-4f22-b697-411948a19e90_169.jpeg?w=1200&q=90",
+   "t_id": "IHSG Naik 0,64% ke 6.317,46",
+   "t_ko": "IHSG 0.64% 상승한 6,317.46",
+   "ai_ko": "· IHSG 0.64% 오른 6,317.46, 거래대금 Rp6.04조\n· 필수소비재 3.5%·원자재 1.7%·에너지 1.1% 강세\n· 같은 날 BI 금리 결정 대기, 11곳 중 8곳 5.75% 동결 전망",
+   "ai_id": "· IHSG +0,64% ke 6.317,46, nilai Rp6,04 T\n· Konsumer kritikal +3,5%, energi +1,1%\n· Pasar nanti keputusan BI Rate 5,75%",
    "ai_tags": [
     "증시",
-    "기준금리",
-    "업종"
+    "금리",
+    "중앙은행"
    ],
    "ai_tags_id": [
-    "IHSG",
+    "bursa",
     "suku bunga",
-    "sektor"
+    "Bank Indonesia"
    ]
   },
   {
@@ -19074,8 +19230,8 @@
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8675351/350-ribu-orang-melamar-program-magang-cuma-40-ribu-yang-lolos",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/23/menteri-ketenagakerjaan-yassierli-1790140062109_169.jpeg?w=360&q=90",
-   "t_id": "350 Ribu Orang Melamar Program Magang, Cuma 40 Ribu yang Lolos",
    "t_ko": "인턴십 지원 35만명 중 4만명만 선발",
+   "t_id": "350 Ribu Orang Melamar Program Magang, Cuma 40 Ribu yang Lolos",
    "ai_ko": "· 국가인턴십 2차 선발 4만962명, 지원 35만명\n· 노동부, Jakarta Selatan에서 발대식 개최\n· Prabowo 대통령 지시 사업, 6개월간 사회보험 지원",
    "ai_id": "· 40.962 peserta lolos dari 350 ribu pendaftar\n· Kemnaker gelar kick off di Jakarta Selatan\n· Arahan Prabowo, magang 6 bulan plus jaminan",
    "ai_tags": [
@@ -19173,6 +19329,30 @@
    ]
   },
   {
+   "ts": "2026-09-23T12:01:11+07:00",
+   "date": "2026-09-23",
+   "time": "12:01",
+   "src": "Bloomberg",
+   "t": "Singapore Core Inflation Rises Third Month to Highest Since 2024",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-23/singapore-core-inflation-rises-third-month-to-highest-since-2024",
+   "g": 1,
+   "t_ko": "싱가포르 근원물가 3개월 연속 상승, 2024년 이후 최고",
+   "t_id": "Inflasi Inti Singapura Naik Tiga Bulan Beruntun, Tertinggi Sejak 2024"
+  },
+  {
+   "ts": "2026-09-23T12:00:44+07:00",
+   "date": "2026-09-23",
+   "time": "12:00",
+   "src": "Bloomberg",
+   "t": "Chinese AI Firms Fall on Report of DeepSeek, Moonshot Probe",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-23/chinese-ai-firms-fall-on-report-of-deepseek-moonshot-probe",
+   "g": 1,
+   "t_ko": "중국 AI 기업 주가, DeepSeek·Moonshot 조사설에 하락",
+   "t_id": "Saham Perusahaan AI China Anjlok Usai Laporan Penyelidikan DeepSeek, Moonshot"
+  },
+  {
    "ts": "2026-09-23T11:58:55+07:00",
    "date": "2026-09-23",
    "time": "11:58",
@@ -19181,7 +19361,7 @@
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923114506-19-770157/video-trump-ancam-iran--bi-rate-diramal-tetap-ihsg-rupiah-menguat",
    "g": 1,
-   "img": "https://awsimages.detik.net.id/visual/2026/09/23/trump-ancam-iran-bi-rate-diramal-tetap-575-ihsg-rupiah-menguat-1790139011194_169.png?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2026/09/23/trump-ancam-iran-bi-rate-diramal-tetap-575-ihsg-rupiah-menguat-1790139011194_169.png?w=1200&q=90",
    "t_ko": "Trump, 이란 위협 — BI 기준금리 동결 전망에 IHSG·루피아 강세",
    "t_id": "Video: Trump Ancam Iran - BI Rate Diramal Tetap, IHSG dan Rupiah Menguat",
    "ai_ko": "· IHSG 0.20% 오른 6,289\n· 루피아 0.25% 강세, 달러당 Rp17,805\n· 9월 23일 오전, 전일 급락 후 반등",
@@ -19217,7 +19397,7 @@
    "t": "Auto Cuan, Bunga Deposito Allo Bank Naik Jadi 9%",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923104755-17-770128/auto-cuan-bunga-deposito-allo-bank-naik-jadi-9",
-   "img": "https://awsimages.detik.net.id/visual/2025/03/14/dok-allo-bank-1741957074297_169.png?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2025/03/14/dok-allo-bank-1741957074297_169.png?w=1200&q=90",
    "t_ko": "Allo Bank 예금 금리 9%로 인상",
    "t_id": "Auto Cuan, Bunga Deposito Allo Bank Naik Jadi 9%",
    "ai_ko": "· 정기예금 금리 최고 연 9% 상향\n· Allo Bank, Allo Deposito 상품\n· 1~24개월 만기 선택 가능",
@@ -19340,6 +19520,18 @@
     "restrukturisasi",
     "kebijakan"
    ]
+  },
+  {
+   "ts": "2026-09-23T11:47:04+07:00",
+   "date": "2026-09-23",
+   "time": "11:47",
+   "src": "Bloomberg",
+   "t": "Trump Hails Iran Talks, China's Xi Unlikely to Bring CEOs to Summit",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/videos/2026-09-23/the-asia-trade-9-23-2026-video",
+   "g": 1,
+   "t_ko": "Trump, 이란 협상 환영 — 중국 Xi는 정상회의 CEO 동반 불투명",
+   "t_id": "Trump Puji Perundingan Iran, Xi China Diperkirakan Tak Bawa Bos-Bos Perusahaan ke KTT"
   },
   {
    "ts": "2026-09-23T11:45:57+07:00",
@@ -19489,30 +19681,6 @@
    ]
   },
   {
-   "ts": "2026-09-23T11:34:31+07:00",
-   "date": "2026-09-23",
-   "time": "11:34",
-   "src": "CNBC",
-   "t": "Oil falls after U.S. and Iran talk for hours at UN meeting",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
-   "g": 1,
-   "t_ko": "미국·이란 UN서 수시간 협상, 유가 하락",
-   "t_id": "Harga Minyak Turun Usai AS dan Iran Berdialog Berjam-jam di Pertemuan PBB",
-   "ai_ko": "· 유가 5거래일간 12%↓, USD 100선 이탈\n· 미국·이란 UN 총회서 3시간 회담\n· Trump '좋은 회담' 발언, Pakistan 중재",
-   "ai_id": "· Harga minyak turun hampir 12%\n· AS dan Iran bertemu 3 jam di PBB\n· Trump sebut pertemuan sangat baik",
-   "ai_tags": [
-    "유가",
-    "지정학",
-    "중동"
-   ],
-   "ai_tags_id": [
-    "harga minyak",
-    "geopolitik",
-    "Timur Tengah"
-   ]
-  },
-  {
    "ts": "2026-09-23T11:28:54+07:00",
    "date": "2026-09-23",
    "time": "11:28",
@@ -19520,7 +19688,7 @@
    "t": "Askrindo Angkat R. Mahelan Prabantarikso Jadi Direktur Utama",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923112142-17-770148/askrindo-angkat-r-mahelan-prabantarikso-jadi-direktur-utama",
-   "img": "https://awsimages.detik.net.id/visual/2020/07/17/askrindo-insurance-ist_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2020/07/17/askrindo-insurance-ist_169.jpeg?w=1200&q=90",
    "t_ko": "Askrindo, R. Mahelan Prabantarikso 대표 선임",
    "t_id": "Askrindo Angkat R. Mahelan Prabantarikso Jadi Direktur Utama",
    "ai_ko": "· Askrindo 신임 대표이사 선임\n· R Mahelan Prabantarikso, Fankar Umran 후임\n· 직전 준법·인사·리스크관리 담당 이사",
@@ -19604,7 +19772,7 @@
    "t": "BI Minta DANA Investigasi Total Soal 'Transaksi Misterius'",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923111148-17-770146/bi-minta-dana-investigasi-total-soal-transaksi-misterius",
-   "img": "https://awsimages.detik.net.id/visual/2018/02/01/c7497f38-96f1-4782-95bb-e9ac05a8c8b5_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2018/02/01/c7497f38-96f1-4782-95bb-e9ac05a8c8b5_169.jpeg?w=1200&q=90",
    "t_ko": "BI, DANA에 '미스터리 거래' 전면 조사 요구",
    "t_id": "BI Minta DANA Investigasi Total Soal 'Transaksi Misterius'",
    "ai_ko": "· Bank Indonesia, DANA 전면 조사 요구\n· QR 결제 악용한 신용카드 무단 거래\n· 9월 23일 보안 강화·소비자 보호 지시",
@@ -19631,18 +19799,6 @@
    "g": 1,
    "t_ko": "팜유, 재고 부담에 7주 최저",
    "t_id": "Harga CPO Turun ke Level Terendah Tujuh Pekan di Tengah Kekhawatiran Stok Melimpah"
-  },
-  {
-   "ts": "2026-09-23T11:15:27+07:00",
-   "date": "2026-09-23",
-   "time": "11:15",
-   "src": "Bloomberg",
-   "t": "Ayala Corp. CEO Consing on Strategic Deal With Mitsubishi",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-23/ayala-corp-ceo-consing-on-strategic-mitsubishi-deal-video",
-   "g": 1,
-   "t_ko": "Ayala Corp. CEO Consing, Mitsubishi와 전략적 제휴 언급",
-   "t_id": "CEO Ayala Corp. Consing Bicara soal Kesepakatan Strategis dengan Mitsubishi"
   },
   {
    "ts": "2026-09-23T11:10:00+07:00",
@@ -19717,30 +19873,6 @@
    ]
   },
   {
-   "ts": "2026-09-23T11:05:00+07:00",
-   "date": "2026-09-23",
-   "time": "11:05",
-   "src": "Media Indonesia",
-   "t": "Trump Tolak Regulasi AI, Ingin Ubah Namanya Jadi Kecerdasan Super",
-   "tags": [],
-   "url": "https://mediaindonesia.com/internasional/936543/trump-tolak-regulasi-ai-ingin-ubah-namanya-jadi-kecerdasan-super",
-   "g": 1,
-   "t_ko": "Trump, AI 규제 거부 — 명칭 '초지능'으로 변경 추진",
-   "t_id": "Trump Tolak Regulasi AI, Ingin Ubah Namanya Jadi Kecerdasan Super",
-   "ai_ko": "· AI 명칭 '초지능'으로 변경, 규제 반대\n· Trump 미국 대통령, 유엔 총회 연설\n· 유럽 등 20여국은 구속력 규범 요구",
-   "ai_id": "· Trump tolak regulasi AI global\n· Pidato di Sidang Umum PBB, New York\n· 20 negara minta aturan mengikat",
-   "ai_tags": [
-    "AI",
-    "규제",
-    "미국"
-   ],
-   "ai_tags_id": [
-    "AI",
-    "regulasi",
-    "Amerika Serikat"
-   ]
-  },
-  {
    "ts": "2026-09-23T11:03:00+07:00",
    "date": "2026-09-23",
    "time": "11:03",
@@ -19762,18 +19894,6 @@
     "suku bunga",
     "minyak"
    ]
-  },
-  {
-   "ts": "2026-09-23T11:01:54+07:00",
-   "date": "2026-09-23",
-   "time": "11:01",
-   "src": "Bloomberg",
-   "t": "EnerVenue Signs Order with Chinese Oil Producer",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-23/enervenue-signs-order-with-chinese-oil-producer-video",
-   "g": 1,
-   "t_ko": "EnerVenue, 중국 석유업체와 공급 계약 체결",
-   "t_id": "EnerVenue Teken Kontrak dengan Produsen Migas China"
   },
   {
    "ts": "2026-09-23T11:00:35+07:00",
@@ -19798,19 +19918,6 @@
     "investasi",
     "amdal"
    ]
-  },
-  {
-   "ts": "2026-09-23T11:00:29+07:00",
-   "date": "2026-09-23",
-   "time": "11:00",
-   "src": "FT",
-   "t": "The battle between the Fed and Trump",
-   "tags": [],
-   "url": "https://www.ft.com/content/d2e5ed9c-a123-4275-afc7-14b75b9337a0?syn-25a6b1a6=1",
-   "g": 1,
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F78fafc68-0d8e-423d-b964-08534cfb8148.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-   "t_ko": "Fed와 Trump의 힘겨루기",
-   "t_id": "Pertarungan The Fed dan Trump"
   },
   {
    "ts": "2026-09-23T10:57:00+07:00",
@@ -19898,7 +20005,7 @@
     "SBAT"
    ],
    "url": "https://www.cnbcindonesia.com/market/20260923092753-17-770103/bei-hapus-batasan-minimum-ini-daftar-harga-saham-di-bawah-rp-50",
-   "img": "https://awsimages.detik.net.id/visual/2019/08/08/b2852ebd-0b64-4632-9952-f9b07a5c2d30_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2019/08/08/b2852ebd-0b64-4632-9952-f9b07a5c2d30_169.jpeg?w=1200&q=90",
    "t_ko": "IDX 최소 호가 제한 폐지 — Rp50 미만 주식 종목 정리",
    "t_id": "BEI Hapus Batasan Minimum, Ini Daftar Harga Saham di Bawah Rp 50",
    "ai_ko": "· 최저 호가 Rp50 폐지, Rp1까지 거래 허용\n· BEI, 9월 28일부터 시행·자동거부폭 동시 조정\n· 유동성과 가격발견 기능 개선 목적, 내년 1월 ARB 대칭 복원\n· Rp1~10 종목: MKNT, SBAT, TOPS, ARTI, BEBS, DEAL, TOYS, TELE / Rp10~20: BTEK",
@@ -20017,7 +20124,7 @@
    "t": "Diminta Pramono Bantu Bangun LRT Jakarta, Bos Danantara Bilang Gini",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923091521-17-770098/diminta-pramono-bantu-bangun-lrt-jakarta-bos-danantara-bilang-gini",
-   "img": "https://awsimages.detik.net.id/visual/2024/10/21/donny-oskaria-cnbc-indonesiarosseno-aji-1_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2024/10/21/donny-oskaria-cnbc-indonesiarosseno-aji-1_169.jpeg?w=1200&q=90",
    "t_ko": "Pramono, Danantara에 Jakarta LRT 건설 지원 요청 — 수장 답변은",
    "t_id": "Diminta Pramono Bantu Bangun LRT Jakarta, Bos Danantara Bilang Gini",
    "ai_ko": "· Danantara, LRT Jakarta 지원 검토\n· COO Dony Oskaria 발언, KAI·Jakpro 역할 조정\n· 9/16 Kelapa Gading-Manggarai 개통 후 연장 요청",
@@ -20509,7 +20616,7 @@
    "t": "Pemerintah Dapat Dana Segar Rp11 Triliun, Investor Serbu Sukuk Negara",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923083137-17-770070/pemerintah-dapat-dana-segar-rp11-triliun-investor-serbu-sukuk-negara",
-   "img": "https://awsimages.detik.net.id/visual/2024/01/10/suasana-gedung-kementerian-keuangan-kemenkeu-di-jakarta-rabu-1012024-15_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2024/01/10/suasana-gedung-kementerian-keuangan-kemenkeu-di-jakarta-rabu-1012024-15_169.jpeg?w=1200&q=90",
    "t_ko": "정부, 국채 수쿡에 투자자 몰려 Rp11조 조달",
    "t_id": "Pemerintah Dapat Dana Segar Rp11 Triliun, Investor Serbu Sukuk Negara",
    "ai_ko": "· 국채 sukuk 낙찰 Rp11조, 응찰 Rp26.89조\n· 재무부 DJPPR, 8개 종목 입찰 진행\n· 목표 Rp10조의 268% 수요, 22일 실시",
@@ -20533,7 +20640,7 @@
    "t": "IHSG Sesi I Dibuka Menguat 0,32% ke Level 6.297",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923085145-17-770088/ihsg-sesi-i-dibuka-menguat-032-ke-level-6297",
-   "img": "https://awsimages.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797018492_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797018492_169.jpeg?w=1200&q=90",
    "t_ko": "IHSG 1부 0.32% 상승 출발, 6,297 기록",
    "t_id": "IHSG Sesi I Dibuka Menguat 0,32% ke Level 6.297",
    "ai_ko": "· IHSG 0.33% 오른 6,297.95로 개장\n· 상승 222·하락 89종목, 거래대금 Rp943억\n· Bank Indonesia 금리 결정 대기",
@@ -20557,7 +20664,7 @@
    "t": "Rupiah Menguat Jelang BI Rate, Dolar AS Turun ke Rp17.835",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923084605-17-770082/rupiah-menguat-jelang-bi-rate-dolar-as-turun-ke-rp17835",
-   "img": "https://awsimages.detik.net.id/visual/2025/04/08/petugas-menjunjukkan-uang-pecahan-dolar-as-dan-rupiah-di-dolarindo-money-changer-jakarta-selasa-842025-1744086561018_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2025/04/08/petugas-menjunjukkan-uang-pecahan-dolar-as-dan-rupiah-di-dolarindo-money-changer-jakarta-selasa-842025-1744086561018_169.jpeg?w=1200&q=90",
    "t_ko": "BI Rate 발표 앞두고 루피아 강세, 달러 Rp17,835로 하락",
    "t_id": "Rupiah Menguat Jelang BI Rate, Dolar AS Turun ke Rp17.835",
    "ai_ko": "· 루피아 0.08% 오른 Rp17,835/USD 개장\n· 달러인덱스 100.612로 소폭 상승\n· Bank Indonesia 금리 발표 앞둔 관망",
@@ -20725,7 +20832,7 @@
    "t": "Asing Terciduk Diam-Diam Serok 10 Saham Ini Kala IHSG Anjlok 1,69%",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923083925-17-770076/asing-terciduk-diam-diam-serok-10-saham-ini-kala-ihsg-anjlok-169",
-   "img": "https://awsimages.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797019809_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797019809_169.jpeg?w=1200&q=90",
    "t_ko": "IHSG 1.69% 급락 속 외국인 이 10종목 조용히 순매수",
    "t_id": "Asing Terciduk Diam-Diam Serok 10 Saham Ini Kala IHSG Anjlok 1,69%",
    "ai_ko": "· 외국인 전체 시장 Rp1,317.2억 순매도\n· 정규장 Rp6,716.3억 매도, 협상·현금장 Rp5,399.1억 매수\n· IHSG 1.69% 하락 6,277.04, 순매수 상위 10선",
@@ -20799,30 +20906,6 @@
    ]
   },
   {
-   "ts": "2026-09-23T08:30:00+07:00",
-   "date": "2026-09-23",
-   "time": "08:30",
-   "src": "Bloomberg Technoz",
-   "t": "Ekonom Ramal BI Rate Ditahan: Sudah Antisipasi Kenaikan FFR",
-   "tags": [
-    "BNLI"
-   ],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122385/ekonom-ramal-bi-rate-ditahan-sudah-antisipasi-kenaikan-ffr",
-   "img": "https://images.bloombergtechnoz.com/data/2023/06/image-20230621092551.jpg",
-   "t_ko": "이코노미스트, BI Rate 동결 전망 — FFR 인상 이미 선반영",
-   "t_id": "Ekonom Ramal BI Rate Ditahan: Sudah Antisipasi Kenaikan FFR",
-   "ai_ko": "· BI 기준금리 5.75% 동결 예상\n· Bank Permata Josua Pardede\n· 5~6월 100bp 인상으로 미국 인상 선반영",
-   "ai_id": "· BI Rate diperkirakan tahan 5,75%\n· Josua Pardede, Bank Permata\n· Kenaikan FFR sudah diantisipasi sejak Mei-Juni",
-   "ai_tags": [
-    "기준금리",
-    "통화정책"
-   ],
-   "ai_tags_id": [
-    "BI Rate",
-    "kebijakan moneter"
-   ]
-  },
-  {
    "ts": "2026-09-23T08:26:11+07:00",
    "date": "2026-09-23",
    "time": "08:26",
@@ -20871,30 +20954,6 @@
    ]
   },
   {
-   "ts": "2026-09-23T08:20:00+07:00",
-   "date": "2026-09-23",
-   "time": "08:20",
-   "src": "Bloomberg Technoz",
-   "t": "Acuan BMKS Diramal Lebih Tinggi dari Harga Pasar, Apa Risikonya?",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122380/acuan-bmks-diramal-lebih-tinggi-dari-harga-pasar-apa-risikonya",
-   "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260923075836.jpg",
-   "t_ko": "BMKS 기준가 시장가 상회 전망 — 위험 요인은",
-   "t_id": "Acuan BMKS Diramal Lebih Tinggi dari Harga Pasar, Apa Risikonya?",
-   "ai_ko": "· BMKS 기준가 IRP, 시장가 상회 전망\n· Universitas Andalas Syafruddin Karimi 지적\n· 펀더멘털 괴리 시 가격발견 신뢰 저하",
-   "ai_id": "· IRP di BMKS diramal di atas harga pasar\n· Ekonom Unand Syafruddin Karimi bicara\n· Risiko sinyal price discovery melemah",
-   "ai_tags": [
-    "원자재",
-    "거래소",
-    "규제"
-   ],
-   "ai_tags_id": [
-    "komoditas",
-    "bursa",
-    "regulasi"
-   ]
-  },
-  {
    "ts": "2026-09-23T08:19:37+07:00",
    "date": "2026-09-23",
    "time": "08:19",
@@ -20902,7 +20961,7 @@
    "t": "IHSG Ambruk 1,69%! Asing Lepas 10 Saham Ini",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923081819-17-770067/ihsg-ambruk-169-asing-lepas-10-saham-ini",
-   "img": "https://awsimages.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797019043_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2026/06/30/layar-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-3062026-1782797019043_169.jpeg?w=1200&q=90",
    "t_ko": "IHSG 1.69% 급락 — 외국인 매도 상위 10종목",
    "t_id": "IHSG Ambruk 1,69%! Asing Lepas 10 Saham Ini",
    "ai_ko": "· IHSG 1.69% 급락한 6,277.04 마감\n· 외국인 전 시장 Rp1,317.2억 순매도\n· 하락 533종목, 거래대금 Rp14.45조",
@@ -21290,6 +21349,30 @@
     "obligasi",
     "fiskal"
    ]
+  },
+  {
+   "ts": "2026-09-23T06:35:42+07:00",
+   "date": "2026-09-23",
+   "time": "06:35",
+   "src": "CNN Indonesia",
+   "t": "Rupiah Bertanda Tangan Purbaya Diburu, Ini Kata BI",
+   "tags": [],
+   "url": "https://www.cnnindonesia.com/ekonomi/20260922183920-78-1406956/rupiah-bertanda-tangan-purbaya-diburu-ini-kata-bi",
+   "img": "https://akcdn.detik.net.id/visual/2022/12/19/ilustrasi-bank-indonesia_169.jpeg?w=360&q=90",
+   "t_ko": "Purbaya 서명 루피아 품귀, BI 입장은",
+   "t_id": "Rupiah Bertanda Tangan Purbaya Diburu, Ini Kata BI",
+   "ai_ko": "· 2026년 인쇄 Rp10만권 수집 열기\n· Bank Indonesia, 법정통화 유효 확인\n· Purbaya·Perry Warjiyo 서명, 퇴임 무관",
+   "ai_id": "· Uang cetak 2026 Rp100 ribu diburu kolektor\n· BI tegaskan tetap alat pembayaran sah\n· Tanda tangan Purbaya dan Perry Warjiyo",
+   "ai_tags": [
+    "통화",
+    "중앙은행",
+    "규정"
+   ],
+   "ai_tags_id": [
+    "rupiah",
+    "Bank Indonesia",
+    "regulasi"
+   ]
   }
  ],
  "kisi_news": [
@@ -21439,9 +21522,9 @@
  "macro": [
   {
    "k": "USD/IDR",
-   "v": "17,788",
-   "d": -0.33,
-   "ytd": 6.39,
+   "v": "17,790",
+   "d": -0.31,
+   "ytd": 6.4,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 16,720",
    "k_ko": "USD/IDR",
@@ -21452,8 +21535,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.15",
-   "d": 1.21,
-   "ytd": 13.23,
+   "d": 1.16,
+   "ytd": 13.18,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -21510,9 +21593,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,382.1",
-   "d": 0.05,
-   "ytd": 1.31,
+   "v": "4,380.5",
+   "d": 0.01,
+   "ytd": 1.27,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -23705,8 +23788,8 @@
    "type": "STOCK",
    "title": "Penambahan modal tanpa HMETD - Pelunasan Utang dan / atau Konversi Utang Menjadi Saham ",
    "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202609/d833e27606_e3b2eaff15.pdf",
-   "title_id": "Penambahan modal tanpa HMETD - Pelunasan Utang dan / atau Konversi Utang Menjadi Saham",
    "title_ko": "HMETD(신주인수권) 없는 유상증자 — 채무 상환 및/또는 출자전환",
+   "title_id": "Penambahan modal tanpa HMETD - Pelunasan Utang dan / atau Konversi Utang Menjadi Saham",
    "kind_ko": "유상증자",
    "kind_id": "Rights Issue",
    "rk": 84
@@ -26560,7 +26643,7 @@
   "idx_from_pc": null,
   "pc_age_min": null,
   "news_ai_cache": 708,
-  "news_ai_hit": 2026,
+  "news_ai_hit": 2188,
   "on_runner": false,
   "bi": null,
   "hist_days": 51,
@@ -28594,6 +28677,32 @@
  "top_day": "2026-09-23",
  "top_news": [
   {
+   "ts": "2026-09-23T09:57:00+07:00",
+   "date": "2026-09-23",
+   "time": "09:57",
+   "src": "Katadata",
+   "t": "BEI Ubah Aturan Batas Bawah Harga Saham (ARB) jadi 35%, Apa Dampak ke Investor?",
+   "tags": [],
+   "url": "https://katadata.co.id/finansial/bursa/6ab34046799dd/bei-ubah-aturan-batas-bawah-harga-saham-arb-jadi-35-apa-dampak-ke-investor",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/09/04/Cara_Investasi_Saham-2023_09_04-12_51_05_9b3012a729275f00e86f0bb1d1a20b0b_620x413_thumb.jpg",
+   "t_ko": "BEI, 하한가 기준 35%로 완화 — 투자자 영향은",
+   "t_id": "BEI Ubah Aturan Batas Bawah Harga Saham (ARB) jadi 35%, Apa Dampak ke Investor?",
+   "ai_ko": "· 최저 호가 Rp50에서 Rp1로 인하\n· BEI, 9월 28일부터 정규·현금시장 적용\n· 2027년 1월 ARB 확대해 ARA와 대칭",
+   "ai_id": "· Batas harga minimum jadi Rp1\n· BEI berlakukan mulai 28 Sep 2026\n· ARB simetris dengan ARA per 2027",
+   "ai_tags": [
+    "규제",
+    "거래제도",
+    "변동성"
+   ],
+   "ai_tags_id": [
+    "regulasi",
+    "aturan bursa",
+    "volatilitas"
+   ],
+   "score": 420.55,
+   "srcs": 3
+  },
+  {
    "ts": "2026-09-23T11:50:00+07:00",
    "date": "2026-09-23",
    "time": "11:50",
@@ -28634,20 +28743,6 @@
    "t_id": "FOTO: Bea Cukai Bongkar Impor Beras Ilegal dan Pakaian Bekas Rp27,3 M"
   },
   {
-   "ts": "2026-09-23T11:45:57+07:00",
-   "date": "2026-09-23",
-   "time": "11:45",
-   "src": "Bloomberg",
-   "t": "Ten Cap's Jun Bei Liu: Oil Remains Key Market Risk as Xi and Trump Meet",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/videos/2026-09-23/jun-bei-liu-oil-is-key-market-risk-as-xi-and-trump-meet-video",
-   "g": 1,
-   "t_ko": "Jun Bei Liu(Ten Cap), Xi-Trump 정상회담에도 유가 리스크 여전",
-   "t_id": "Ten Cap's Jun Bei Liu: Minyak Tetap Jadi Risiko Utama Pasar Jelang Pertemuan Xi-Trump",
-   "score": 413.1,
-   "srcs": 3
-  },
-  {
    "ts": "2026-09-23T09:10:00+07:00",
    "date": "2026-09-23",
    "time": "09:10",
@@ -28655,7 +28750,7 @@
    "t": "Pemerintah Dapat Dana Segar Rp11 Triliun, Investor Serbu Sukuk Negara",
    "tags": [],
    "url": "https://www.cnbcindonesia.com/market/20260923083137-17-770070/pemerintah-dapat-dana-segar-rp11-triliun-investor-serbu-sukuk-negara",
-   "img": "https://awsimages.detik.net.id/visual/2024/01/10/suasana-gedung-kementerian-keuangan-kemenkeu-di-jakarta-rabu-1012024-15_169.jpeg?w=1200&q=90",
+   "img": "https://akcdn.detik.net.id/visual/2024/01/10/suasana-gedung-kementerian-keuangan-kemenkeu-di-jakarta-rabu-1012024-15_169.jpeg?w=1200&q=90",
    "t_ko": "정부, 국채 수쿡에 투자자 몰려 Rp11조 조달",
    "t_id": "Pemerintah Dapat Dana Segar Rp11 Triliun, Investor Serbu Sukuk Negara",
    "ai_ko": "· 국채 sukuk 낙찰 Rp11조, 응찰 Rp26.89조\n· 재무부 DJPPR, 8개 종목 입찰 진행\n· 목표 Rp10조의 268% 수요, 22일 실시",
@@ -28674,31 +28769,30 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-23T11:00:00+07:00",
+   "ts": "2026-09-23T12:26:44+07:00",
    "date": "2026-09-23",
-   "time": "11:00",
-   "src": "Bloomberg Technoz",
-   "t": "Collins The Fed: Kenaikan Suku Bunga Bantu Tekan Inflasi AS ke 2%",
+   "time": "12:26",
+   "src": "CNBC",
+   "t": "Oil falls after U.S. and Iran talk for hours at UN meeting",
    "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122407/collins-the-fed-kenaikan-suku-bunga-bantu-tekan-inflasi-as-ke-2",
+   "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
    "g": 1,
-   "img": "https://images.bloombergtechnoz.com/data/2024/11/image-20241121073608.jpg",
-   "score": 314.5,
-   "srcs": 3,
-   "t_ko": "Fed Collins, 금리 인상으로 미국 인플레 2% 억제 기대",
-   "t_id": "Collins The Fed: Kenaikan Suku Bunga Bantu Tekan Inflasi AS ke 2%",
-   "ai_ko": "· Fed, 지난주 기준금리 25bp 인상 결정\n· Susan Collins Boston 연은 총재 지지 표명\n· 22일 인플레이션 2% 복귀 목표, 연내 1회 추가 인상 전망",
-   "ai_id": "· The Fed naikkan suku bunga 25 bps\n· Susan Collins, Bank of Boston\n· Target inflasi 2%, tambah 1 kali lagi",
+   "t_ko": "미국·이란 UN서 수시간 협상, 유가 하락",
+   "t_id": "Harga Minyak Turun Usai AS dan Iran Berdialog Berjam-jam di Pertemuan PBB",
+   "ai_ko": "· 유가 5거래일간 12%↓, USD 100선 이탈\n· 미국·이란 UN 총회서 3시간 회담\n· Trump '좋은 회담' 발언, Pakistan 중재",
+   "ai_id": "· Harga minyak turun hampir 12%\n· AS dan Iran bertemu 3 jam di PBB\n· Trump sebut pertemuan sangat baik",
    "ai_tags": [
-    "금리",
-    "인플레이션",
-    "Fed"
+    "유가",
+    "지정학",
+    "중동"
    ],
    "ai_tags_id": [
-    "suku bunga",
-    "inflasi",
-    "the fed"
-   ]
+    "harga minyak",
+    "geopolitik",
+    "Timur Tengah"
+   ],
+   "score": 315.0,
+   "srcs": 4
   }
  ],
  "daylog": {
@@ -29528,7 +29622,7 @@
      "ai_id": "· Harga minyak turun hampir 12%\n· AS dan Iran bertemu 3 jam di PBB\n· Trump sebut pertemuan sangat baik",
      "src": "CNBC",
      "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
-     "time": "11:34",
+     "time": "12:26",
      "tags": [],
      "sc": 315.0,
      "slot": "global",
@@ -29551,14 +29645,14 @@
      "q": 81
     },
     {
-     "t": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan",
-     "ko": "BI 부채 Rp218.3조 상환 완료 — 재무장관, BLBI 채무자 추심권 유지 강조",
-     "id": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan",
-     "ai_ko": "· BI 상대 국채 Rp218.3조 상환 완료\n· 재무부 Suahasil 차관 확인\n· 1997-98년 위기 대응 발행분, BLBI 채권 추심은 계속",
-     "ai_id": "· Obligasi Rp218,3 triliun ke BI lunas\n· Ditegaskan Wamenkeu Suahasil\n· Terbit saat krisis 1997-1998, hak tagih obligor BLBI jalan terus",
-     "src": "Jawa Pos",
-     "url": "https://www.jawapos.com/finance/2609220469/utang-rp-2183-triliun-ke-bi-lunas-menkeu-tegaskan-hak-tagih-obligor-blbi-tetap-berjalan",
-     "time": "03:32",
+     "t": "BEI Ubah Aturan Batas Bawah Harga Saham (ARB) jadi 35%, Apa Dampak ke Investor?",
+     "ko": "BEI, 하한가 기준 35%로 완화 — 투자자 영향은",
+     "id": "BEI Ubah Aturan Batas Bawah Harga Saham (ARB) jadi 35%, Apa Dampak ke Investor?",
+     "ai_ko": "· 최저 호가 Rp50에서 Rp1로 인하\n· BEI, 9월 28일부터 정규·현금시장 적용\n· 2027년 1월 ARB 확대해 ARA와 대칭",
+     "ai_id": "· Batas harga minimum jadi Rp1\n· BEI berlakukan mulai 28 Sep 2026\n· ARB simetris dengan ARA per 2027",
+     "src": "Katadata",
+     "url": "https://katadata.co.id/finansial/bursa/6ab34046799dd/bei-ubah-aturan-batas-bawah-harga-saham-arb-jadi-35-apa-dampak-ke-investor",
+     "time": "09:57",
      "tags": [],
      "sc": 420.6,
      "slot": "macro",

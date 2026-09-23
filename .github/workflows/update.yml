@@ -1,10 +1,15 @@
 name: update-and-deploy
-# GitHub 서버(Actions)가 장중 5분마다 수집해 data.json 을 갱신한다 → 사장님 PC 가 꺼져 있어도 사이트는 계속 갱신된다.
-# 저장소 2개 구조:
-#   이 저장소(공개)            화면·데이터만: index.html · data.json · data.js · 배너 · chat_context.json · 브리프 PDF · 이 워크플로
-#   github_code_repo(비공개)   파이썬 코드 · config · 캐시 · 수기값 — 아래 checkout 단계가 CODE_PAT 로 받아 작업 폴더에 얹는다 (커밋하지 않음)
+# GitHub 서버(Actions)가 장중 5분마다 수집한다 → 사장님 PC 가 꺼져 있어도 사이트는 계속 갱신된다.
+#
+# 저장소 2개 구조 (2026-09 비공개 이전 후)
+#   이 저장소(공개 idx-monitoring)  이 워크플로 하나만. 화면·데이터는 더 이상 두지 않는다.
+#                                   ※ 공개 저장소 Actions 는 무료 무제한이라 워크플로만 여기 남긴다 (비공개는 월 2,000분 한도)
+#   비공개 idx-live-code            코드·설정·캐시 + 화면·데이터 전부. Worker 가 GH_TOKEN 으로 여기서 읽어 서빙한다.
+#
+# 이 워크플로가 하는 일: 비공개에서 코드를 받아 → 수집 → 결과를 다시 비공개로 커밋. 공개 저장소에는 아무것도 쓰지 않는다.
+#
 # 필요한 설정 (이 저장소 Settings → Secrets and variables → Actions)
-#   Secrets  CODE_PAT        비공개 코드 저장소 읽기 권한 토큰 (fine-grained: Repository access = 코드 저장소, Contents: Read)
+#   Secrets  CODE_PAT        비공개 코드 저장소 토큰 — 권한 Contents: Read and write  (읽기 전용이면 커밋 단계에서 403)
 #   Secrets  GEMINI_API_KEY  (선택) 주말·PC 꺼짐 때 지수·공시 AI 요약
 #   Variables IDX_PROXY      (선택) 러너 IP 가 IDX 에 막히면 Cloudflare Worker 주소
 on:
@@ -13,28 +18,24 @@ on:
     - cron: "*/15 11-16 * * 1-5"  # 18:00~23:59 WIB 평일, 15분마다 — 美 지표 실제치(19:30~21:30 WIB)·저녁 뉴스
     - cron: "0 17-23,0 * * *"     # 00:00~07:59 WIB 매일 1시간마다 — 새벽 캘린더·해외 뉴스
     - cron: "0 1-16/2 * * 0,6"    # 주말 08:00~23:00 WIB 2시간마다
-  push:
-    branches: [main]
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: write                 # 공개 저장소에는 하트비트 한 줄만. 데이터 커밋은 CODE_PAT 으로 비공개에 한다
 concurrency: { group: update, cancel-in-progress: false }
 jobs:
   fetch:
-    # 스케줄 · 수동 · PC 가 idx_part.json 을 올린 push([skip ci] 없음) 모두 수집. 러너 자신의 커밋은 [skip ci] 라 재실행되지 않는다
-    if: github.event_name != 'push' || contains(github.event.head_commit.message, 'idx_part')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
       - name: private code
+        # 코드·설정·캐시·화면·데이터 전부 비공개 저장소에 있다. 작업 폴더로 그대로 받는다
         uses: actions/checkout@v4
         with:
-          repository: kisiweb/idx-live-code      # ← 비공개 코드 저장소 이름 (config.json github_code_repo 와 동일하게)
+          repository: kisiweb/idx-live-code
           token: ${{ secrets.CODE_PAT }}
-          path: _code
-      - name: overlay code
-        # 비공개 저장소의 코드·설정·캐시를 작업 폴더에 얹는다 (공개 저장소에는 절대 커밋되지 않음 — 아래 commit 단계가 산출물 5개만 add 한다)
-        run: rsync -a --exclude .git --exclude .github _code/ ./ && rm -rf _code
+          persist-credentials: false
+      - name: public repo (heartbeat 용 — 비공개 체크아웃 뒤에 해야 지워지지 않는다)
+        uses: actions/checkout@v4
+        with: { path: _pub }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12", cache: pip }
       - run: pip install -r requirements.txt
@@ -48,16 +49,47 @@ jobs:
       - name: chat context
         run: python make_chat_context.py
         env: { TZ: Asia/Jakarta }
-      - name: commit data
-        # 러너의 산출물(data.json·data.js·구글 번역 캐시·챗봇 컨텍스트)만 올린다. PC 가 그 사이 올린 파일과 충돌하지 않도록
-        # 최신 main 위에 산출물을 다시 얹어 커밋한다. 코드 파일은 untracked 로 남을 뿐 add 되지 않는다
+      - name: commit data (private)
+        # 러너 산출물 5개만 비공개 저장소로. PC 가 그 사이 올린 파일과 충돌하지 않도록
+        # 최신 main 을 새로 받아 그 위에 산출물을 얹어 커밋한다
+        env:
+          CODE_PAT: ${{ secrets.CODE_PAT }}
         run: |
-          git config user.name idx-live-bot && git config user.email bot@users.noreply.github.com
-          mkdir -p /tmp/out && for f in data.json data.js data/cache/tr_ko.json data/cache/news_seen.json data/cache/chat_context.json; do [ -e "$f" ] && cp "$f" /tmp/out/$(basename "$f"); done; true
-          git fetch origin main && git reset --hard origin/main
-          [ -e /tmp/out/data.json ] && cp /tmp/out/data.json data.json; [ -e /tmp/out/data.js ] && cp /tmp/out/data.js data.js
+          set -e
+          OUT=/tmp/out; mkdir -p $OUT/cache
+          for f in data.json data.js; do [ -e "$f" ] && cp "$f" $OUT/; done || true
+          for f in tr_ko.json news_seen.json chat_context.json; do [ -e "data/cache/$f" ] && cp "data/cache/$f" $OUT/cache/; done || true
+          rm -rf /tmp/push
+          git clone --depth 1 --branch main \
+            "https://x-access-token:${CODE_PAT}@github.com/kisiweb/idx-live-code.git" /tmp/push
+          cd /tmp/push
+          git config user.name idx-live-bot
+          git config user.email bot@users.noreply.github.com
           mkdir -p data/cache
-          [ -e /tmp/out/tr_ko.json ] && cp /tmp/out/tr_ko.json data/cache/tr_ko.json; [ -e /tmp/out/news_seen.json ] && cp /tmp/out/news_seen.json data/cache/news_seen.json; [ -e /tmp/out/chat_context.json ] && cp /tmp/out/chat_context.json data/cache/chat_context.json; true
-          git add -A -- data.json data.js data/cache/tr_ko.json data/cache/news_seen.json data/cache/chat_context.json 2>/dev/null; true
-          git commit -m "data $(TZ=Asia/Jakarta date +%Y-%m-%d\ %H:%M) WIB [skip ci]" || echo "no change"
-          for i in 1 2 3; do git push && break; git fetch origin main && git rebase origin/main || git rebase --abort; sleep 5; done; true
+          [ -e $OUT/data.json ] && cp $OUT/data.json data.json || true
+          [ -e $OUT/data.js ] && cp $OUT/data.js data.js || true
+          for f in tr_ko.json news_seen.json chat_context.json; do
+            [ -e $OUT/cache/$f ] && cp $OUT/cache/$f data/cache/$f || true
+          done
+          git add -A -- data.json data.js data/cache/tr_ko.json data/cache/news_seen.json data/cache/chat_context.json || true
+          git commit -m "data $(TZ=Asia/Jakarta date +%Y-%m-%d\ %H:%M) WIB [skip ci]" || { echo "no change"; exit 0; }
+          for i in 1 2 3; do
+            git push && break
+            git fetch origin main && git reset --hard origin/main
+            sleep 5
+          done
+      - name: heartbeat
+        # GitHub 는 60일간 커밋이 없는 저장소의 스케줄을 자동 정지시킨다.
+        # 데이터는 비공개로 가므로, 공개 저장소에는 하루 한 줄짜리 실행 기록만 남겨 스케줄을 살려둔다
+        if: always()
+        run: |
+          cd $GITHUB_WORKSPACE/_pub
+          D=$(TZ=Asia/Jakarta date +%Y-%m-%d)
+          grep -q "^$D" .github/last_run.txt 2>/dev/null && exit 0
+          mkdir -p .github
+          echo "$D $(TZ=Asia/Jakarta date +%H:%M) WIB runner ok" >> .github/last_run.txt
+          tail -n 90 .github/last_run.txt > /tmp/lr && mv /tmp/lr .github/last_run.txt
+          git config user.name idx-live-bot && git config user.email bot@users.noreply.github.com
+          git add .github/last_run.txt
+          git commit -m "runner heartbeat $D [skip ci]" || exit 0
+          for i in 1 2 3; do git push && break; git fetch origin main && git reset --hard origin/main; sleep 5; done

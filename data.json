@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 07:34",
+ "updated": "2026-09-23 07:49",
  "delay_min": 15,
- "fx_basis": "13.26 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,348 · 04:45 Yahoo",
- "idr_per_krw": 13.2638,
+ "fx_basis": "13.26 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,349 · 04:45 Yahoo",
+ "idr_per_krw": 13.2569,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17472,16 +17472,19 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 7129.19,
+   "px": 7123.62,
    "prev": 7037.46,
-   "pct": 1.3,
+   "pct": 1.22,
    "mst": 0,
-   "asof": "09:10",
+   "asof": "09:25",
    "live": true,
    "spark": [
     7137.49,
     7126.42,
-    7129.19
+    7124.77,
+    7122.95,
+    7119.76,
+    7123.62
    ]
   },
   {
@@ -17749,8 +17752,8 @@
    ],
    "url": "https://katadata.co.id/finansial/bursa/6ab318457c251/direktur-byan-pelan-pelan-jual-rp-2-4-miliar-saham-jelang-haji-isam-resmi-masuk",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2021/12/30/PT_Bayan_Resources_Tbk_BYAN-2021_12_30-11_33_00_778adbca313f3c19647cb5a2200c2f2b_620x413_thumb.jpg",
-   "t_id": "Direktur BYAN Pelan-Pelan Jual Rp 2,4 Miliar Saham Jelang Haji Isam Resmi Masuk",
-   "t_ko": "BYAN 이사, Haji Isam 인수 임박 속 주식 Rp24억 원 매각"
+   "t_ko": "BYAN 이사, Haji Isam 인수 임박 속 주식 Rp24억 원 매각",
+   "t_id": "Direktur BYAN Pelan-Pelan Jual Rp 2,4 Miliar Saham Jelang Haji Isam Resmi Masuk"
   },
   {
    "ts": "2026-09-23T06:59:40+07:00",
@@ -17914,20 +17917,6 @@
    "t_id": "Efek El Nino, Kapasitas PLTA di Sulawesi Berkurang hingga 650 MW"
   },
   {
-   "ts": "2026-09-22T22:30:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "IDX Channel",
-   "t": "Hexindo (HEXA) Optimistis Jaga Pangsa Pasar Alat Berat di Level 18 Persen pada 2026",
-   "tags": [
-    "HEXA"
-   ],
-   "url": "https://www.idxchannel.com/market-news/hexindo-hexa-optimistis-jaga-pangsa-pasar-alat-berat-di-level-18-persen-pada-2026",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2024/09/26/hexindo_hexa.jfif",
-   "t_ko": "HEXA, 2026년 중장비 시장점유율 18% 유지 전망",
-   "t_id": "Hexindo (HEXA) Optimistis Jaga Pangsa Pasar Alat Berat di Level 18 Persen pada 2026"
-  },
-  {
    "ts": "2026-09-22T22:28:00+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -17954,20 +17943,6 @@
    "img": "https://cdn0-production-images-kly.akamaized.net/9ZuF5oM121rlBegnw41DQS8U8Tw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3893145/original/056566800_1641196873-20220103-Pembukaan_Awal_Tahun_2022_IHSG_Menguat-2.jpg",
    "t_ko": "CDIA, 2026년 중간배당 지급 예정",
    "t_id": "CDIA Bakal Tebar Dividen Interim 2026"
-  },
-  {
-   "ts": "2026-09-22T20:30:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "IDX Channel",
-   "t": "RKAB Terbit, Bayan (BYAN) Dapat Tambahan Kuota Produksi hingga 20 Juta Ton",
-   "tags": [
-    "BYAN"
-   ],
-   "url": "https://www.idxchannel.com/market-news/rkab-terbit-bayan-byan-dapat-tambahan-kuota-produksi-hingga-20-juta-ton",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2023/11/14/Saham_Batu_Bara_dengan_PBV_Terendah.jpg",
-   "t_ko": "BYAN, RKAB 승인으로 생산 쿼터 2,000만 톤 확대",
-   "t_id": "RKAB Terbit, Bayan (BYAN) Kantongi Tambahan Kuota Produksi 20 Juta Ton"
   },
   {
    "ts": "2026-09-22T20:20:00+07:00",
@@ -18472,6 +18447,18 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T07:40:00+07:00",
+   "date": "2026-09-23",
+   "time": "07:40",
+   "src": "IDNFinancials",
+   "t": "OJK urges banks to curb special rates amid the fight for DPK",
+   "tags": [],
+   "url": "https://www.idnfinancials.com/news/69244/ojk-urges-banks-to-curb-special-rates-amid-the-fight-for-dpk",
+   "img": "https://photos.idnfinancials.com/d/500x300/Bank%20BUMN.jpeg",
+   "t_ko": "OJK, 예금 확보 경쟁 속 은행들에 특별 금리 자제 촉구",
+   "t_id": "OJK Desak Perbankan Rem Suku Bunga Khusus di Tengah Perang DPK"
+  },
+  {
    "ts": "2026-09-23T07:32:47+07:00",
    "date": "2026-09-23",
    "time": "07:32",
@@ -18491,8 +18478,32 @@
    "tags": [],
    "url": "https://www.liputan6.com/saham/read/8297497/ihsg-menguji-posisi-6258-cek-rekomendasi-saham-23-september-2026",
    "img": "https://cdn0-production-images-kly.akamaized.net/AWZph8pCbJyiMusqFF0g5JUR9wE=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3893146/original/099183700_1641196873-20220103-Pembukaan_Awal_Tahun_2022_IHSG_Menguat-3.jpg",
-   "t_id": "IHSG Menguji Posisi 6.258, Cek Rekomendasi Saham 23 September 2026",
-   "t_ko": "IHSG 6,258 선 테스트 — 2026년 9월 23일 투자의견 정리"
+   "t_ko": "IHSG 6,258 선 테스트 — 2026년 9월 23일 투자의견 정리",
+   "t_id": "IHSG Menguji Posisi 6.258, Cek Rekomendasi Saham 23 September 2026"
+  },
+  {
+   "ts": "2026-09-23T07:26:00+07:00",
+   "date": "2026-09-23",
+   "time": "07:26",
+   "src": "IDX Channel",
+   "t": "Pidato di PBB, Trump Sebut AS dan Iran Capai Kesepakatan setelah Pemilu Paruh Waktu",
+   "tags": [],
+   "url": "https://www.idxchannel.com/news/pidato-di-pbb-trump-sebut-as-dan-iran-capai-kesepakatan-setelah-pemilu-paruh-waktu",
+   "g": 1,
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/08/trump_ap.jpg",
+   "t_id": "Pidato di PBB, Trump Sebut AS dan Iran Capai Kesepakatan setelah Pemilu Paruh Waktu",
+   "t_ko": "Trump, UN 연설서 미국·이란 중간선거 후 합의 도달 언급"
+  },
+  {
+   "ts": "2026-09-23T07:25:00+07:00",
+   "date": "2026-09-23",
+   "time": "07:25",
+   "src": "Detik",
+   "t": "Bahlil Sentil Orang Kaya 'Minum' Pertalite",
+   "tags": [],
+   "url": "https://finance.detik.com/energi/d-8674730/bahlil-sentil-orang-kaya-minum-pertalite",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/04/28/menteri-esdm-bahlil-lahadalia-1777385212721_169.jpeg?w=360&q=90",
+   "t_ko": "Bahlil, 부유층의 Pertalite 보조금 연료 사용 비판"
   },
   {
    "ts": "2026-09-23T07:08:00+07:00",
@@ -18650,6 +18661,18 @@
    "t_ko": "규제 개편 없이는 제로 오돌(ODOL) 정책 시행 난항 전망"
   },
   {
+   "ts": "2026-09-23T06:37:00+07:00",
+   "date": "2026-09-23",
+   "time": "06:37",
+   "src": "IDX Channel",
+   "t": "Harga Emas Tertekan, Pasar Antisipasi The Fed Kerek Bunga Lagi",
+   "tags": [],
+   "url": "https://www.idxchannel.com/market-news/harga-emas-tertekan-pasar-antisipasi-the-fed-kerek-bunga-lagi",
+   "g": 1,
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/17/emas_-_freepik_-_17_Mar_26.jpeg",
+   "t_ko": "금값 하락세 속 연준 추가 금리 인상 경계감 유입"
+  },
+  {
    "ts": "2026-09-23T06:35:00+07:00",
    "date": "2026-09-23",
    "time": "06:35",
@@ -18748,31 +18771,6 @@
    "img": "https://images.bloombergtechnoz.com/data/2023/02/image-20230201170657.jpg",
    "t_ko": "AI 수혜에 기술주 상승 — Nasdaq 6월 이후 최고치 경신 임박",
    "t_id": "AI Dorong Saham Teknologi Naik, Nasdaq Dekati Rekor Sejak Juni"
-  },
-  {
-   "ts": "2026-09-23T06:00:00+07:00",
-   "date": "2026-09-23",
-   "time": "06:00",
-   "src": "IDNFinancials",
-   "t": "Trump-Xi: From trade war to tariff truce",
-   "tags": [],
-   "url": "https://www.idnfinancials.com/news/69253/trump-xi-from-trade-war-to-tariff-truce",
-   "g": 1,
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/TRUMP-XI-19052026.jpg",
-   "t_ko": "트럼프와 시진핑 — 무역전쟁에서 관세 휴전으로",
-   "t_id": "Trump-Xi: Dari Perang Dagang Menuju Gencatan Tarif"
-  },
-  {
-   "ts": "2026-09-23T06:00:00+07:00",
-   "date": "2026-09-23",
-   "time": "06:00",
-   "src": "Media Indonesia",
-   "t": "Pemerintah Trump Berencana Terima 17.500 Pengungsi Kulit Putih Afrika Selatan pada Tahun Fiskal 2027",
-   "tags": [],
-   "url": "https://mediaindonesia.com/internasional/936479/pemerintah-trump-berencana-terima-17500-pengungsi-kulit-putih-afrika-selatan-pada-tahun-fiskal-2027",
-   "g": 1,
-   "t_ko": "트럼프 행정부, 2027 회계연도에 남아프리카공화국 백인 난민 1만7,500명 수용 계획",
-   "t_id": "Pemerintah Trump Berencana Terima 17.500 Pengungsi Kulit Putih Afrika Selatan pada Tahun Fiskal 2027"
   },
   {
    "ts": "2026-09-23T05:55:00+07:00",
@@ -19776,30 +19774,6 @@
    "img": "https://cdn1-production-images-kly.akamaized.net/aEuSooj_97QmqM6VsFFPhds14o0=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5094518/original/036425100_1736854256-AMD_Ryzen_AI.jpg",
    "t_ko": "AMD 시가총액, 사상 최초 Rp17,890조 돌파",
    "t_id": "Pertama Kali, Kapitalisasi Pasar Saham AMD Sentuh Rp 17.890 Triliun"
-  },
-  {
-   "ts": "2026-09-22T16:04:57+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Detik",
-   "t": "Pangkas Tender PLTS, Bahlil Mau Perusahaan Kompeten Bisa Langsung Ditunjuk",
-   "tags": [],
-   "url": "https://finance.detik.com/energi/d-8674232/pangkas-tender-plts-bahlil-mau-perusahaan-kompeten-bisa-langsung-ditunjuk",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/07/09/bahlil-lahadalia-1783585268296_169.jpeg?w=360&q=90",
-   "t_ko": "Bahlil, 태양광 발전 입찰 축소 및 역량 갖춘 기업 수의계약 추진",
-   "t_id": "Pangkas Tender PLTS, Bahlil Ingin Perusahaan Kompeten Ditunjuk Langsung"
-  },
-  {
-   "ts": "2026-09-22T16:02:15+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Republika",
-   "t": "Mendag Dorong UMKM Perkuat Sertifikasi Halal dan Legalitas Usaha",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlrd3r423/mendag-dorong-umkm-perkuat-sertifikasi-halal-dan-legalitas-usaha",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922120240-962.png",
-   "t_ko": "무역부, 중소기업 할랄 인증 및 사업 적법성 강화 촉구",
-   "t_id": "Mendag Dorong UMKM Perkuat Sertifikasi Halal dan Legalitas Usaha"
   }
  ],
  "kisi_news": [
@@ -19996,9 +19970,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.58",
-   "d": 0.22,
-   "ytd": 2.34,
+   "v": "100.57",
+   "d": 0.21,
+   "ytd": 2.33,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -20008,9 +19982,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.85",
-   "d": -3.36,
-   "ytd": 56.48,
+   "v": "90.08",
+   "d": -3.11,
+   "ytd": 56.88,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -20020,9 +19994,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,399.3",
-   "d": 0.46,
-   "ytd": 1.7,
+   "v": "4,396.2",
+   "d": 0.39,
+   "ytd": 1.63,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20044,15 +20018,15 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,528",
-   "d": 1.07,
-   "ytd": -0.92,
+   "v": "16,601",
+   "d": 0.15,
+   "ytd": -0.48,
    "inv": false,
-   "note": "investing.com · 09/22 마지막 값 · 연초 16,682",
+   "note": "investing.com · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
    "k_id": "Nikel LME (US$/t)",
-   "note_ko": "investing.com · 09/22 마지막 값 · 연초 16,682",
-   "note_id": "investing.com · 09/22 nilai terakhir · Awal tahun 16,682"
+   "note_ko": "investing.com · 연초 16,682",
+   "note_id": "investing.com · Awal tahun 16,682"
   },
   {
    "k": "CPO (MYR/t)",
@@ -25083,7 +25057,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 264,
+  "pc_age_min": 279,
   "news_ai_cache": 41,
   "news_ai_hit": 30,
   "on_runner": true,
@@ -26878,13 +26852,27 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "에너지주(-3.95%)와 BBRI 등 대형주 약세 영향으로 IHSG 1.69% 하락.",
-   "id": "IHSG melemah 1,69% dipicu oleh pelemahan saham energi (-3,95%) dan saham berkapitalisasi besar seperti BBRI.",
-   "ts": "2026-09-23T07:34:11.377800+07:00"
+   "ko": "대형주 BYAN 및 BBRI 등 에너지·금융주 약세와 루피아 약세 영향으로 IHSG 1.69% 하락.",
+   "id": "IHSG melemah 1,69% dipicu oleh pelemahan saham energi dan keuangan seperti BYAN dan BBRI serta pelemahan rupiah.",
+   "ts": "2026-09-23T07:49:18.057032+07:00"
   }
  },
  "top_day": "2026-09-23",
  "top_news": [
+  {
+   "ts": "2026-09-22T19:00:00+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Republika",
+   "t": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
+   "tags": [],
+   "url": "https://ekonomi.republika.co.id/berita/tlrjtg416/bitcoin-tembus-85000-dolar-as-aktivitas-futures-meningkat-di-tengah-sentimen-fed",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/pelaku-bisnis-kripto-nanda-rizal-memantau-grafik-perkembangan-nilai_220312150638-998.jpg",
+   "t_ko": "비트코인 85,000달러 돌파 — 연준 분위기 속 선물 거래 활성화",
+   "t_id": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
+   "score": 415.45,
+   "srcs": 3
+  },
   {
    "ts": "2026-09-22T22:00:18+07:00",
    "date": "2026-09-22",
@@ -26908,20 +26896,6 @@
    ],
    "score": 414.65,
    "srcs": 3
-  },
-  {
-   "ts": "2026-09-22T19:00:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Republika",
-   "t": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlrjtg416/bitcoin-tembus-85000-dolar-as-aktivitas-futures-meningkat-di-tengah-sentimen-fed",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/pelaku-bisnis-kripto-nanda-rizal-memantau-grafik-perkembangan-nilai_220312150638-998.jpg",
-   "t_ko": "비트코인 85,000달러 돌파 — 연준 분위기 속 선물 거래 활성화",
-   "t_id": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
-   "score": 413.25,
-   "srcs": 2
   },
   {
    "ts": "2026-09-22T18:37:50+07:00",
@@ -45963,9 +45937,9 @@
    "ratio": 3.0,
    "ev_ko": "인허가·생산차질",
    "ev_id": "Izin & produksi",
-   "hl": "BYAN, RKAB 승인으로 생산 쿼터 2,000만 톤 확대",
-   "hl_id": "RKAB Terbit, Bayan (BYAN) Kantongi Tambahan Kuota Produksi 20 Juta Ton",
-   "url": "https://www.idxchannel.com/market-news/rkab-terbit-bayan-byan-dapat-tambahan-kuota-produksi-hingga-20-juta-ton",
+   "hl": "ESDM, BYAN RKAB 정정은 Haji Isam 인수와 무관하다고 부인",
+   "hl_id": "ESDM Bantah Revisi RKAB BYAN Terkait Pembelian Haji Isam",
+   "url": "https://www.idnfinancials.com/news/69236/esdm-denies-byan-rkab-revision-linked-to-haji-isam-purchase",
    "score": 98.5,
    "s_news": 100,
    "s_size": 90,
@@ -45976,7 +45950,7 @@
    "alpha": -8.02,
    "vrank": 30,
    "flow": -23.38,
-   "srcs": 3
+   "srcs": 2
   },
   {
    "t": "BSSR",

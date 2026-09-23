@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 12:49",
+ "updated": "2026-09-23 12:58",
  "delay_min": 15,
  "fx_basis": "13.14 IDR/KRW · USD/IDR 17,790 · USD/KRW 1,354 · 12:15 Yahoo",
- "idr_per_krw": 13.1376,
+ "idr_per_krw": 13.1371,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -352,7 +352,7 @@
   "volume": null,
   "value_src": "all",
   "rank_src": "Yahoo 15분 지연 · 642종목",
-  "rank_asof": "12:46",
+  "rank_asof": "12:56",
   "rank_date": "2026-09-23",
   "adv": 351,
   "dec": 167,
@@ -16933,11 +16933,11 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 7046.14,
+   "px": 7045.19,
    "prev": 7037.46,
-   "pct": 0.12,
+   "pct": 0.11,
    "mst": 0,
-   "asof": "14:25",
+   "asof": "14:35",
    "live": true,
    "spark": [
     7137.49,
@@ -17005,7 +17005,9 @@
     7047.89,
     7051.29,
     7045.64,
-    7046.14
+    7046.03,
+    7051.86,
+    7045.19
    ]
   },
   {
@@ -17093,11 +17095,11 @@
    "sym": "^HSI",
    "name": "항셍",
    "name_id": "Hang Seng",
-   "px": 24862.42,
+   "px": 24846.25,
    "prev": 25087.75,
-   "pct": -0.9,
+   "pct": -0.96,
    "mst": 0,
-   "asof": "13:30",
+   "asof": "13:40",
    "live": true,
    "spark": [
     24917.43,
@@ -17138,7 +17140,9 @@
     24863.91,
     24855.34,
     24847.25,
-    24862.42
+    24861.57,
+    24843.68,
+    24846.25
    ]
   }
  ],
@@ -17234,6 +17238,30 @@
   }
  },
  "news": [
+  {
+   "ts": "2026-09-23T12:50:00+07:00",
+   "date": "2026-09-23",
+   "time": "12:50",
+   "src": "CNBC Indonesia",
+   "t": "Jelang Delisting, PLAS Buyback 1,18 Miliar Saham Rp60,4 Miliar",
+   "tags": [
+    "PLAS"
+   ],
+   "url": "https://www.cnbcindonesia.com/market/20260923114234-17-770156/jelang-delisting-plas-buyback-118-miliar-saham-rp604-miliar",
+   "img": "https://akcdn.detik.net.id/visual/2019/05/06/df9aa209-e665-4c50-8d33-9f1534ff4aa2_169.jpeg?w=1200&q=90",
+   "t_id": "Jelang Delisting, PLAS Buyback 1,18 Miliar Saham Rp60,4 Miliar",
+   "t_ko": "상장폐지 앞둔 PLAS, 자사주 11.8억주 Rp604억에 매입",
+   "ai_ko": "· 공개주주 지분 11.8억주 전량 Rp604억\n· Polaris Investama(PLAS) 자사주 매입\n· 11월 10일 상장폐지, 24일부터 44일간",
+   "ai_id": "· Buyback 1,18 miliar saham Rp60,4 miliar\n· PLAS borong 100% saham publik Rp51\n· Delisting 10 Nov, periode 44 hari",
+   "ai_tags": [
+    "상장폐지",
+    "자사주매입"
+   ],
+   "ai_tags_id": [
+    "delisting",
+    "buyback"
+   ]
+  },
   {
    "ts": "2026-09-23T12:40:00+07:00",
    "date": "2026-09-23",
@@ -17352,8 +17380,8 @@
    ],
    "url": "https://katadata.co.id/finansial/bursa/6ab365048f698/prospek-saham-bakrie-bnbr-hingga-jgle-di-era-harga-rp-1-mana-paling-rentan",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/08/24/Ilustrasi_Bakrie_Telecom-2026_08_24-18_14_18_66af740b77717c092af614af75e1e538_620x413_thumb.png",
-   "t_id": "Prospek Saham Bakrie BNBR hingga JGLE di Era Harga Rp 1, Mana Paling Rentan?",
    "t_ko": "Bakrie 그룹, BNBR·JGLE 등 Rp1 시대 주가 전망 — 최대 취약 종목은",
+   "t_id": "Prospek Saham Bakrie BNBR hingga JGLE di Era Harga Rp 1, Mana Paling Rentan?",
    "ai_ko": "· 내년 9월 28일 최저주가 Rp50→Rp1 변경\n· 대상 종목: Visi Media Asia(VIVA) Rp38, Bakrieland Development(ELTY) Rp32, Bakrie Telecom(BTEL) Rp50, Graha Andrasentra(JGLE) Rp69\n· Bumiputera Sekuritas는 적자인 JGLE을 최대 취약 종목으로 지목",
    "ai_id": "· Batas harga minimum Rp50 jadi Rp1 per 28/9/2026\n· Saham Grup Bakrie: VIVA Rp38, ELTY Rp32, BTEL Rp50 (disuspensi), JGLE Rp69\n· Thoriq (Bumiputera Sekuritas): JGLE paling rentan karena masih rugi",
    "ai_tags": [
@@ -18701,32 +18729,6 @@
    ]
   },
   {
-   "ts": "2026-09-22T16:20:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "IDNFinancials",
-   "t": "ESDM denies BYAN RKAB revision linked to Haji Isam purchase",
-   "tags": [
-    "BYAN"
-   ],
-   "url": "https://www.idnfinancials.com/news/69236/esdm-denies-byan-rkab-revision-linked-to-haji-isam-purchase",
-   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/BAHLIL-18092026.jpg",
-   "t_ko": "ESDM, BYAN RKAB 개정 Haji Isam 인수와 무관 — 연관성 부인",
-   "t_id": "ESDM bantah revisi RKAB BYAN terkait pembelian Haji Isam",
-   "ai_ko": "· 석탄 증산 1,500만~2,000만톤 승인\n· ESDM 장관 Bahlil Lahadalia, BYAN 자회사 3곳\n· Haji Isam 지분인수와 무관, 절차상 처리 해명",
-   "ai_id": "· Kuota tambahan 15-20 juta ton disetujui\n· Bahlil bantah kaitan dengan Haji Isam\n· RKAB 3 anak usaha BYAN murni proses",
-   "ai_tags": [
-    "석탄",
-    "규제",
-    "M&A"
-   ],
-   "ai_tags_id": [
-    "batu bara",
-    "RKAB",
-    "akuisisi"
-   ]
-  },
-  {
    "ts": "2026-09-22T15:35:39+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -18802,32 +18804,6 @@
     "batu bara",
     "RKAB",
     "akuisisi saham"
-   ]
-  },
-  {
-   "ts": "2026-09-22T14:20:29+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "CNBC Indonesia",
-   "t": "Jasa Marga (JSMR) Kucurkan Pinjaman Rp6,5 T ke Anak Usaha",
-   "tags": [
-    "JSMR"
-   ],
-   "url": "https://www.cnbcindonesia.com/market/20260922132629-17-769880/jasa-marga--jsmr--kucurkan-pinjaman-rp65-t-ke-anak-usaha",
-   "img": "https://akcdn.detik.net.id/visual/2025/12/12/gerbang-tol-cikampek-utama-1765525894396_169.jpeg?w=1200&q=90",
-   "t_ko": "JSMR, 자회사에 Rp6.5조 대출 실행",
-   "t_id": "Jasa Marga (JSMR) Kucurkan Pinjaman Rp6,5 T ke Anak Usaha",
-   "ai_ko": "· 주주대출 Rp6,546억7,100만 규모 공여\n· Jasa Marga(JSMR) 자회사 JTT→JJC\n· 9월 17일 Bekasi에서 체결, 계열 거래",
-   "ai_id": "· SHL Rp6.546,67 miliar disalurkan\n· Jasa Marga (JSMR): JTT ke JJC\n· Ditandatangani 17 Sep di Bekasi",
-   "ai_tags": [
-    "계열거래",
-    "주주대출",
-    "공시"
-   ],
-   "ai_tags_id": [
-    "transaksi afiliasi",
-    "shareholder loan",
-    "keterbukaan informas"
    ]
   },
   {
@@ -19069,6 +19045,109 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T12:50:00+07:00",
+   "date": "2026-09-23",
+   "time": "12:50",
+   "src": "Bloomberg Technoz",
+   "t": "Gejolak BBM Dunia, Haruskah RI Lepas Pertamax ke Harga Pasar?",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122425/gejolak-bbm-dunia-haruskah-ri-lepas-pertamax-ke-harga-pasar",
+   "g": 1,
+   "img": "https://images.bloombergtechnoz.com/data/2024/12/image-20241231074845.jpg",
+   "t_id": "Gejolak BBM Dunia, Haruskah RI Lepas Pertamax ke Harga Pasar?",
+   "t_ko": "국제 유가 변동에 인도네시아, Pertamax 시장가 연동 검토해야 하나",
+   "ai_ko": "· Pertamax 80%를 상위 소득층이 소비\n· Unpad 에너지 경제학자 Yayan Satyakti\n· 시장가 전환 시 물가 영향 0.3~0.5%p",
+   "ai_id": "· 80% Pertamax dipakai desil 8-10\n· Yayan Satyakti, ekonom energi Unpad\n· Inflasi naik 0,3-0,5 poin persen saja",
+   "ai_tags": [
+    "유가",
+    "보조금",
+    "물가"
+   ],
+   "ai_tags_id": [
+    "BBM",
+    "subsidi",
+    "inflasi"
+   ]
+  },
+  {
+   "ts": "2026-09-23T12:49:57+07:00",
+   "date": "2026-09-23",
+   "time": "12:49",
+   "src": "CNBC",
+   "t": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
+   "g": 1,
+   "t_ko": "DOJ, Trump의 언론 3사 백악관 출입 금지 옹호 — \"출입은 권리 아닌 특권\"",
+   "t_id": "DOJ Bela Larangan Trump terhadap 3 Media, Sebut Akses Gedung Putih 'Hak Istimewa, Bukan Hak'",
+   "ai_ko": "· 백악관 출입은 권리 아닌 특혜 주장\n· 미국 법무부, MS NOW·CNN·Politico\n· 23일 워싱턴 연방법원 심리 앞두고",
+   "ai_id": "· Akses Gedung Putih disebut privilese\n· DOJ bela larangan Trump ke 3 media\n· Sidang di pengadilan federal DC",
+   "ai_tags": [
+    "규제",
+    "언론"
+   ],
+   "ai_tags_id": [
+    "regulasi",
+    "media"
+   ]
+  },
+  {
+   "ts": "2026-09-23T12:47:29+07:00",
+   "date": "2026-09-23",
+   "time": "12:47",
+   "src": "Detik",
+   "t": "PLN Perkuat Infrastruktur Hadapi Lonjakan Listrik Data Center di 2034",
+   "tags": [],
+   "url": "https://finance.detik.com/energi/d-8675431/pln-perkuat-infrastruktur-hadapi-lonjakan-listrik-data-center-di-2034",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/23/pln-perkuat-infrastruktur-hadapi-lonjakan-kebutuhan-listrik-data-center-pada-2034-1790142037756.png?w=360&q=90",
+   "t_id": "PLN Perkuat Infrastruktur Hadapi Lonjakan Listrik Data Center di 2034",
+   "t_ko": "PLN, 2034년 데이터센터 전력 수요 급증 대비 인프라 강화",
+   "ai_ko": "· 2034년 데이터센터 전력수요 25,297MW\n· PLN, 현재 159개 고객 1,990MVA 공급\n· AI·디지털경제 확산에 계통 보강 추진",
+   "ai_id": "· Listrik data center 25.297 MW di 2034\n· PLN layani 159 pelanggan 1.990 MVA\n· Dipicu AI dan ekonomi digital",
+   "ai_tags": [
+    "전력",
+    "데이터센터"
+   ],
+   "ai_tags_id": [
+    "listrik",
+    "data center"
+   ]
+  },
+  {
+   "ts": "2026-09-23T12:39:54+07:00",
+   "date": "2026-09-23",
+   "time": "12:39",
+   "src": "Bloomberg",
+   "t": "FTSE 100 Live: Futures Higher, Pound Slips Close to $1.33",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/live-blog/2026-09-23/ftse-100-stocks-pound-gilts-pmi-what-s-moving-uk-markets-right-now-markets-today",
+   "g": 1,
+   "t_ko": "FTSE 100 선물 상승, 파운드 1.33달러 근접 약세",
+   "t_id": "FTSE 100 Live: Futures Menguat, Poundsterling Melemah Dekati $1,33"
+  },
+  {
+   "ts": "2026-09-23T12:37:48+07:00",
+   "date": "2026-09-23",
+   "time": "12:37",
+   "src": "CNBC",
+   "t": "Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms",
+   "tags": [],
+   "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
+   "g": 1,
+   "t_ko": "이란, 호르무즈 재개방 조건 제시 — Trump, 중간선거 이후 합의 가능성 시사",
+   "t_id": "Iran Ajukan Syarat Pembukaan Kembali Selat Hormuz, Trump Sebut Kesepakatan Bisa Dicapai Usai Pemilu Sela",
+   "ai_ko": "· Hormuz 통항 하루 698만배럴, 전쟁 전 38%\n· 이란 9월 원유 선적 0배럴, 7월 89.3만배럴\n· Brent 0.9% 내린 USD 98.37, WTI USD 89.16",
+   "ai_id": "· Transit Hormuz 6,98 juta barel per hari\n· Ekspor minyak Iran nol pada September\n· Brent turun 0,9% ke USD 98,37 per barel",
+   "ai_tags": [
+    "유가",
+    "지정학"
+   ],
+   "ai_tags_id": [
+    "harga minyak",
+    "geopolitik"
+   ]
+  },
+  {
    "ts": "2026-09-23T12:37:00+07:00",
    "date": "2026-09-23",
    "time": "12:37",
@@ -19077,8 +19156,8 @@
    "tags": [],
    "url": "https://www.medcom.id/ekonomi/bisnis/yKXexEZN-kamus-anak-kereta-istilah-krl-yang-wajib-diketahui-penumpang",
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/23/1843886/n9aQBvIMoU.jpg?w=720",
-   "t_id": "Kamus Anak Kereta: Istilah KRL yang Wajib Diketahui Penumpang",
-   "t_ko": "KRL 이용객 필수 용어 정리 — 알아둬야 할 통근열차 용어"
+   "t_ko": "KRL 이용객 필수 용어 정리 — 알아둬야 할 통근열차 용어",
+   "t_id": "Kamus Anak Kereta: Istilah KRL yang Wajib Diketahui Penumpang"
   },
   {
    "ts": "2026-09-23T12:35:38+07:00",
@@ -19119,6 +19198,37 @@
    ]
   },
   {
+   "ts": "2026-09-23T12:35:00+07:00",
+   "date": "2026-09-23",
+   "time": "12:35",
+   "src": "IDNFinancials",
+   "t": "JCI rises 0.64% ahead of BI Rate decision, foreigners sell bank stocks",
+   "tags": [
+    "AMMN",
+    "BBRI",
+    "BMRI",
+    "BUMI",
+    "INCO",
+    "INDY"
+   ],
+   "url": "https://www.idnfinancials.com/news/69291/jci-rises-0-64-ahead-of-bi-rate-decision-foreigners-sell-bank-stocks",
+   "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/RUPIAH-IHSG-NAIK-10072026.jpg",
+   "t_ko": "IHSG, BI 금리 결정 앞두고 0.64% 상승 — 외국인은 은행주 순매도",
+   "t_id": "IHSG naik 0,64% jelang keputusan BI Rate, asing jual saham perbankan",
+   "ai_ko": "· JCI 0.64% 오른 6,317.46, 거래대금 Rp6.06조\n· 외국인 순매도 Rp3,358억, 순매수 MDKA·AMMN·INDY·INCO / 순매도 BBRI·BMRI·TLKM·ISAT·BUMI\n· BI 금리 발표 앞두고 루피아 0.46% 강세",
+   "ai_id": "· IHSG naik 0,64% ke 6.317,46\n· Asing net sell Rp335,8 miliar\n· Beli MDKA, AMMN, INDY, INCO; jual BBRI, BMRI, TLKM, ISAT, BUMI\n· Rupiah menguat jelang BI Rate",
+   "ai_tags": [
+    "증시",
+    "외국인",
+    "금리"
+   ],
+   "ai_tags_id": [
+    "IHSG",
+    "asing",
+    "suku bunga"
+   ]
+  },
+  {
    "ts": "2026-09-23T12:26:56+07:00",
    "date": "2026-09-23",
    "time": "12:26",
@@ -19127,8 +19237,8 @@
    "tags": [],
    "url": "https://www.medcom.id/properti/news-properti/ObzRwPYb-5-rumah-subsidi-rp166-juta-di-kabupaten-pasuruan-ada-yang-tipe-36",
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/23/1843910/yz1cb3ZgMt.jpg?w=720",
-   "t_id": "5 Rumah Subsidi Rp166 Juta di Kabupaten Pasuruan, Ada yang Tipe 36",
-   "t_ko": "Pasuruan군 Rp166만 보조주택 5선 — Tipe 36도 포함"
+   "t_ko": "Pasuruan군 Rp166만 보조주택 5선 — Tipe 36도 포함",
+   "t_id": "5 Rumah Subsidi Rp166 Juta di Kabupaten Pasuruan, Ada yang Tipe 36"
   },
   {
    "ts": "2026-09-23T12:26:44+07:00",
@@ -19159,12 +19269,12 @@
    "date": "2026-09-23",
    "time": "12:25",
    "src": "Bloomberg",
-   "t": "Philippines Eyes New Retail Treasury Bond at 25-Year Milestone",
+   "t": "Philippines Eyes New Retail Peso Bond at 25-Year Milestone",
    "tags": [],
    "url": "https://www.bloomberg.com/news/articles/2026-09-23/philippines-eyes-new-retail-treasury-bond-at-25-year-milestone",
    "g": 1,
-   "t_ko": "필리핀, 25주년 맞아 신규 소매국채 발행 검토",
-   "t_id": "Filipina Bidik Obligasi Ritel Baru di Tonggak 25 Tahun"
+   "t_ko": "필리핀, 개인용 페소채권 발행 25주년에 신규 발행 검토",
+   "t_id": "Filipina Bidik Obligasi Ritel Peso Baru di Momentum 25 Tahun"
   },
   {
    "ts": "2026-09-23T12:19:00+07:00",
@@ -19600,56 +19710,6 @@
    ]
   },
   {
-   "ts": "2026-09-23T11:41:59+07:00",
-   "date": "2026-09-23",
-   "time": "11:41",
-   "src": "CNN Indonesia",
-   "t": "Sejumlah Negara Mulai Blokir Penerbangan Maskapai Iran usai Diancam AS",
-   "tags": [],
-   "url": "https://www.cnnindonesia.com/ekonomi/20260923110429-92-1407170/sejumlah-negara-mulai-blokir-penerbangan-maskapai-iran-usai-diancam-as",
-   "g": 1,
-   "img": "https://akcdn.detik.net.id/visual/2026/09/22/maskapai-iran-air-1790069308711_169.jpeg?w=360&q=90",
-   "t_ko": "미국 위협에 각국, Iran 항공사 운항 잇따라 차단",
-   "t_id": "Sejumlah Negara Mulai Blokir Penerbangan Maskapai Iran usai Diancam AS",
-   "ai_ko": "· 이란 항공사 운항 중단 확산\n· Georgia 운항 금지, Mahan Air Turkiye 중단\n· 미국 제재 위협에 23일부터 Baghdad·Muscat 노선 취소",
-   "ai_id": "· Penerbangan maskapai Iran mulai diblokir\n· Georgia larang, Mahan Air setop ke Turki\n· Ancaman sanksi AS, rute Baghdad dan Muscat dibatalkan mulai 23 September",
-   "ai_tags": [
-    "제재",
-    "항공",
-    "지정학"
-   ],
-   "ai_tags_id": [
-    "sanksi",
-    "penerbangan",
-    "geopolitik"
-   ]
-  },
-  {
-   "ts": "2026-09-23T11:38:54+07:00",
-   "date": "2026-09-23",
-   "time": "11:38",
-   "src": "Jawa Pos",
-   "t": "Harga Emas Antam, Galeri24, dan UBS Hari Ini: Paling Murah Mulai Rp 1,3 Jutaan",
-   "tags": [],
-   "url": "https://www.jawapos.com/ekonomi/2609230168/harga-emas-antam-galeri24-dan-ubs-hari-ini-paling-murah-mulai-rp-13-jutaan",
-   "g": 1,
-   "img": "https://cdn-assets.jawapos.com/images/1/2025/04/15/JKT_Harga-Emas-Antam_SALMAN-TOYIBI-11JPG-2857129852.jpg",
-   "t_ko": "Antam·Galeri24·UBS 금 가격, 최저 Rp130만대부터",
-   "t_id": "Harga Emas Antam, Galeri24, dan UBS Hari Ini: Paling Murah Mulai Rp 1,3 Jutaan"
-  },
-  {
-   "ts": "2026-09-23T11:38:02+07:00",
-   "date": "2026-09-23",
-   "time": "11:38",
-   "src": "Bloomberg",
-   "t": "Modi Plans Canada Trip for Trade Deal, Speeds Up Mexico Talks",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-23/modi-plans-canada-trip-for-trade-deal-speeds-up-mexico-talks",
-   "g": 1,
-   "t_ko": "Modi, 캐나다 무역협정 추진 — 멕시코 협상 가속",
-   "t_id": "Modi Rencanakan Kunjungan ke Kanada demi Kesepakatan Dagang, Percepat Pembicaraan dengan Meksiko"
-  },
-  {
    "ts": "2026-09-23T11:36:00+07:00",
    "date": "2026-09-23",
    "time": "11:36",
@@ -19744,18 +19804,6 @@
     "ramah lingkungan",
     "kilang"
    ]
-  },
-  {
-   "ts": "2026-09-23T11:27:22+07:00",
-   "date": "2026-09-23",
-   "time": "11:27",
-   "src": "Bloomberg",
-   "t": "CanSemi Tech Joins China Chip IPO Wave With $919 Million Deal",
-   "tags": [],
-   "url": "https://www.bloomberg.com/news/articles/2026-09-23/cansemi-tech-joins-china-chip-ipo-wave-with-919-million-deal",
-   "g": 1,
-   "t_ko": "CanSemi Tech, USD 919M 규모로 중국 반도체 IPO 대열 합류",
-   "t_id": "CanSemi Tech Ikut Gelombang IPO Chip China dengan Kesepakatan US$919 Juta"
   },
   {
    "ts": "2026-09-23T11:24:35+07:00",
@@ -20734,30 +20782,6 @@
    ]
   },
   {
-   "ts": "2026-09-23T08:50:00+07:00",
-   "date": "2026-09-23",
-   "time": "08:50",
-   "src": "Bloomberg Technoz",
-   "t": "Produksi Besi Kasar Nikel Dikabarkan Drop 100.000 Ton, IMIP Jawab",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122387/produksi-besi-kasar-nikel-dikabarkan-drop-100-000-ton-imip-jawab",
-   "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260923081214.jpg",
-   "t_ko": "니켈 선철 생산 10만톤 감소설에 IMIP 해명",
-   "t_id": "Produksi Besi Kasar Nikel Dikabarkan Turun 100.000 Ton, IMIP Buka Suara",
-   "ai_ko": "· NPI 감산 10만톤 보도 확인 보류\n· IMIP 니켈단지 제련소 생산 감소\n· El Nino로 강 수량 줄어 조업 차질",
-   "ai_id": "· Produksi NPI turun, angka belum pasti\n· IMIP konfirmasi smelter di kawasan turun\n· El Nino tekan debit air sungai",
-   "ai_tags": [
-    "니켈",
-    "생산감소",
-    "기후"
-   ],
-   "ai_tags_id": [
-    "nikel",
-    "produksi",
-    "cuaca"
-   ]
-  },
-  {
    "ts": "2026-09-23T08:47:21+07:00",
    "date": "2026-09-23",
    "time": "08:47",
@@ -21304,30 +21328,6 @@
     "obligasi",
     "fiskal"
    ]
-  },
-  {
-   "ts": "2026-09-23T06:35:42+07:00",
-   "date": "2026-09-23",
-   "time": "06:35",
-   "src": "CNN Indonesia",
-   "t": "Rupiah Bertanda Tangan Purbaya Diburu, Ini Kata BI",
-   "tags": [],
-   "url": "https://www.cnnindonesia.com/ekonomi/20260922183920-78-1406956/rupiah-bertanda-tangan-purbaya-diburu-ini-kata-bi",
-   "img": "https://akcdn.detik.net.id/visual/2022/12/19/ilustrasi-bank-indonesia_169.jpeg?w=360&q=90",
-   "t_ko": "Purbaya 서명 루피아 품귀, BI 입장은",
-   "t_id": "Rupiah Bertanda Tangan Purbaya Diburu, Ini Kata BI",
-   "ai_ko": "· 2026년 인쇄 Rp10만권 수집 열기\n· Bank Indonesia, 법정통화 유효 확인\n· Purbaya·Perry Warjiyo 서명, 퇴임 무관",
-   "ai_id": "· Uang cetak 2026 Rp100 ribu diburu kolektor\n· BI tegaskan tetap alat pembayaran sah\n· Tanda tangan Purbaya dan Perry Warjiyo",
-   "ai_tags": [
-    "통화",
-    "중앙은행",
-    "규정"
-   ],
-   "ai_tags_id": [
-    "rupiah",
-    "Bank Indonesia",
-    "regulasi"
-   ]
   }
  ],
  "kisi_news": [
@@ -21477,9 +21477,9 @@
  "macro": [
   {
    "k": "USD/IDR",
-   "v": "17,790",
-   "d": -0.31,
-   "ytd": 6.4,
+   "v": "17,789",
+   "d": -0.32,
+   "ytd": 6.39,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 16,720",
    "k_ko": "USD/IDR",
@@ -21490,8 +21490,8 @@
   {
    "k": "KRW/IDR (1원당 루피아)",
    "v": "13.12",
-   "d": 0.94,
-   "ytd": 12.94,
+   "d": 0.99,
+   "ytd": 12.99,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -21524,9 +21524,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.72",
-   "d": -0.0,
-   "ytd": 2.48,
+   "v": "100.73",
+   "d": 0.01,
+   "ytd": 2.49,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -21536,9 +21536,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.54",
-   "d": 0.21,
-   "ytd": 55.94,
+   "v": "89.36",
+   "d": 0.01,
+   "ytd": 55.63,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -21548,9 +21548,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,374.1",
-   "d": -0.13,
-   "ytd": 1.12,
+   "v": "4,368.1",
+   "d": -0.27,
+   "ytd": 0.98,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -21572,9 +21572,9 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,569",
-   "d": -0.05,
-   "ytd": -0.68,
+   "v": "16,540",
+   "d": -0.22,
+   "ytd": -0.85,
    "inv": false,
    "note": "investing.com · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
@@ -22326,126 +22326,6 @@
    "sub": 0
   },
   {
-   "date": "2026-09-21",
-   "t": "MEDC",
-   "kind": "corp",
-   "imp": 3,
-   "title": "실적 공시 · Penyampaian Laporan Keuangan Interim Auditan",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "실적 공시 · Penyampaian Laporan Keuangan Interim Auditan",
-   "title_id": "Kinerja · Penyampaian Laporan Keuangan Interim Auditan",
-   "sc": 42,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-21",
-   "t": "AMMN",
-   "kind": "corp",
-   "imp": 3,
-   "title": "실적 공시 · Penyampaian Laporan Keuangan Interim Auditan",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "실적 공시 · Penyampaian Laporan Keuangan Interim Auditan",
-   "title_id": "Kinerja · Penyampaian Laporan Keuangan Interim Auditan",
-   "sc": 42,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-21",
-   "t": "VICI",
-   "kind": "corp",
-   "imp": 2,
-   "title": "기업설명회 · Laporan Hasil Public Expose - Insidentil",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "기업설명회 · Laporan Hasil Public Expose - Insidentil",
-   "title_id": "Public Expose · Laporan Hasil Public Expose - Insidentil",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-21",
-   "t": "WIKA",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Pemberitahuan Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Pemberitahuan Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
-   "title_id": "RUPS · Pemberitahuan Rencana RUPSU PT Wijaya Karya (Persero) Tbk",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-21",
-   "t": "AIMS",
-   "kind": "corp",
-   "imp": 2,
-   "title": "기업설명회 · Laporan Hasil Public Expose - Tahunan",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "기업설명회 · Laporan Hasil Public Expose - Tahunan",
-   "title_id": "Public Expose · Laporan Hasil Public Expose Tahunan",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-21",
-   "t": "ULTJ",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-21",
-   "t": "YELO",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-21",
-   "t": "CRAB",
-   "kind": "corp",
-   "imp": 2,
-   "title": "기업설명회 · Penyampaian Materi Public Expose - Tahunan",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "기업설명회 · Penyampaian Materi Public Expose - Tahunan",
-   "title_id": "Public Expose · Penyampaian Materi Public Expose Tahunan",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
    "date": "2026-09-22",
    "time": "19:15",
    "kind": "macro",
@@ -22497,231 +22377,6 @@
    "sc": 40,
    "gs": 40,
    "g": "연준 발언",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "DMAS",
-   "kind": "corp",
-   "imp": 3,
-   "title": "주주총회 · RUPSLB DMAS tanggal 22 September 2026 ",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · RUPSLB DMAS tanggal 22 September 2026",
-   "title_id": "RUPS · RUPSLB DMAS pada 22 September 2026",
-   "sc": 42,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "GOTO",
-   "kind": "corp",
-   "imp": 3,
-   "title": "주주총회 · Penyampaian Bukti Iklan Panggilan RUPS",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Panggilan RUPS",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Panggilan RUPS",
-   "sc": 42,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "MTFN",
-   "kind": "corp",
-   "imp": 3,
-   "title": "실적 공시 · Penjelasan Opini Laporan Keuangan Tahunan 2025 PT Capitalinc Investment Tbk",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "실적 공시 · Penjelasan Opini Laporan Keuangan Tahunan 2025 PT Capitalinc Investment Tbk",
-   "title_id": "Laporan Keuangan · Penjelasan Opini Laporan Keuangan Tahunan 2025 PT Capitalinc Investment Tbk",
-   "sc": 42,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "SCNP",
-   "kind": "corp",
-   "imp": 3,
-   "title": "실적 공시 · Laporan Informasi atau Fakta Material terkait Penunjukan Akuntan Publik dan Kantor Akuntan",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "실적 공시 · Laporan Informasi atau Fakta Material terkait Penunjukan Akuntan Publik dan Kantor Akuntan",
-   "title_id": "Keterbukaan Kinerja · Keterbukaan Informasi atau Fakta Material terkait Penunjukan Akuntan Publik dan Kantor Akuntan",
-   "sc": 42,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "KIOS",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "UVCR",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "SILO",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Penyampaian Bukti Iklan Hasil RUPS",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Hasil RUPS",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Hasil RUPS",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "BIKE",
-   "kind": "corp",
-   "imp": 2,
-   "title": "기업설명회 · Rencana Penyelenggaraan Public Expose - Insidentil",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "기업설명회 · Rencana Penyelenggaraan Public Expose - Insidentil",
-   "title_id": "Public Expose · Rencana Penyelenggaraan Public Expose - Insidentil",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "AKKU",
-   "kind": "corp",
-   "imp": 2,
-   "title": "기업설명회 · Laporan Hasil Public Expose - Insidentil (KOREKSI)",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "기업설명회 · Laporan Hasil Public Expose - Insidentil (KOREKSI)",
-   "title_id": "Public Expose · Laporan Hasil Public Expose - Insidentil (KOREKSI)",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "POST",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Pemberitahuan Hasil RUPSU PT Pos Indonesia (Persero)",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Pemberitahuan Hasil RUPSU PT Pos Indonesia (Persero)",
-   "title_id": "RUPS · Pemberitahuan Hasil RUPSU PT Pos Indonesia (Persero)",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "HRUM",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Penyampaian Bukti Iklan Hasil RUPS",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Hasil RUPS",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Hasil RUPS",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "PSSI",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Pemberitahuan RUPS",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "VICO",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Penyampaian Bukti Iklan Penyampaian Bukti Iklan Rangkuman Risalah RUPSLB PT Victoria Inves",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Penyampaian Bukti Iklan Rangkuman Risalah RUPSLB PT Victoria Inves",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Rangkuman Risalah RUPSLB PT Victoria Investama",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "HEXA",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Penyampaian Bukti Iklan Hasil RUPS",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Hasil RUPS",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Hasil RUPS",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-22",
-   "t": "HEXA",
-   "kind": "corp",
-   "imp": 2,
-   "title": "기업설명회 · Laporan Hasil Public Expose - Tahunan",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "기업설명회 · Laporan Hasil Public Expose - Tahunan",
-   "title_id": "Public Expose · Laporan Hasil Public Expose Tahunan",
-   "sc": 36,
-   "gs": 36,
-   "g": "기업 일정",
    "sub": 0
   },
   {
@@ -22902,21 +22557,6 @@
    "sc": 5,
    "gs": 16,
    "g": "입찰·재고",
-   "sub": 0
-  },
-  {
-   "date": "2026-09-23",
-   "t": "POST",
-   "kind": "corp",
-   "imp": 2,
-   "title": "주주총회 · Penyampaian Bukti Iklan Ringkasan Risalah RUPSI Sukuk Ijarah Berkelanjutan I Pos Indonesia",
-   "src": "IDX 공시",
-   "country": "ID",
-   "title_ko": "주주총회 · Penyampaian Bukti Iklan Ringkasan Risalah RUPSI Sukuk Ijarah Berkelanjutan I Pos Indonesia",
-   "title_id": "RUPS · Penyampaian Bukti Iklan Ringkasan Risalah RUPSI Sukuk Ijarah Berkelanjutan I Pos Indonesia",
-   "sc": 44,
-   "gs": 36,
-   "g": "기업 일정",
    "sub": 0
   },
   {
@@ -25138,6 +24778,20 @@
    "rk": 36
   },
   {
+   "ts": "2026-09-23T12:47:53+07:00",
+   "date": "2026-09-23",
+   "time": "12:47",
+   "t": "BYAN",
+   "type": "STOCK",
+   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23092026-9874-00.pdf-0.pdf",
+   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
+   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+   "kind_ko": "지분변동",
+   "kind_id": "Kepemilikan",
+   "rk": 34
+  },
+  {
    "ts": "2026-09-23T03:18:11+07:00",
    "date": "2026-09-23",
    "time": "03:18",
@@ -25400,20 +25054,6 @@
    "rk": 28
   },
   {
-   "ts": "2026-09-22T17:00:44+07:00",
-   "date": "2026-09-22",
-   "time": "17:00",
-   "t": "BYAN",
-   "type": "STOCK",
-   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8820-00.pdf-0.pdf",
-   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
-   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
-   "kind_ko": "지분변동",
-   "kind_id": "Kepemilikan",
-   "rk": 28
-  },
-  {
    "ts": "2026-09-22T16:44:43+07:00",
    "date": "2026-09-22",
    "time": "16:44",
@@ -25639,6 +25279,20 @@
    "title_id": "Rencana Penyelenggaraan Public Expose - Insidentil",
    "kind_ko": "기업설명회",
    "kind_id": "Public Expose",
+   "rk": 24
+  },
+  {
+   "ts": "2026-09-22T17:00:44+07:00",
+   "date": "2026-09-22",
+   "time": "17:00",
+   "t": "BYAN",
+   "type": "STOCK",
+   "title": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+   "url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-22092026-8820-00.pdf-0.pdf",
+   "title_ko": "상장법인 주식 보유 및 지분 변동 보고",
+   "title_id": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+   "kind_ko": "지분변동",
+   "kind_id": "Kepemilikan",
    "rk": 24
   },
   {
@@ -26970,7 +26624,7 @@
   "idx_from_pc": null,
   "pc_age_min": null,
   "news_ai_cache": 708,
-  "news_ai_hit": 2510,
+  "news_ai_hit": 2672,
   "on_runner": false,
   "bi": null,
   "hist_days": 51,
@@ -29098,18 +28752,30 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-23T04:27:29+07:00",
+   "ts": "2026-09-23T06:35:42+07:00",
    "date": "2026-09-23",
-   "time": "04:27",
-   "src": "Reuters",
-   "t": "Fed's Collins says she supported rate hike, warns of elevated inflation risks",
+   "time": "06:35",
+   "src": "CNN Indonesia",
+   "t": "Rupiah Bertanda Tangan Purbaya Diburu, Ini Kata BI",
    "tags": [],
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0JDdC05Wl9XNzhQVmlyMnBJTmNMYVQtZXM4SmJkeFFBWGFhSmV5eDBTeGdySWtvbEk4VTVpUl9CaGVoYUt0N19qRVF5NldOWVg5dFN3NlJrNW9HSlIwekJralVaNWFEdFhJa3BxYUFQQVRnUkVwb3p0WTRYRV9oTmZCamE5bTJ1WlN0ME1wcVRobDJnLTZqMkMxVlkwOUdoNTU3ZmVQSlZpQ2k1M2E1TFQ4MVlsMFRo?oc=5",
-   "g": 1,
-   "score": 412.0,
+   "url": "https://www.cnnindonesia.com/ekonomi/20260922183920-78-1406956/rupiah-bertanda-tangan-purbaya-diburu-ini-kata-bi",
+   "img": "https://akcdn.detik.net.id/visual/2022/12/19/ilustrasi-bank-indonesia_169.jpeg?w=360&q=90",
+   "score": 412.65,
    "srcs": 3,
-   "t_ko": "Collins, 금리 인상 지지 발언 — 인플레이션 상방 위험 경고",
-   "t_id": "Pejabat The Fed Collins dukung kenaikan suku bunga, waspadai risiko inflasi tinggi"
+   "t_ko": "Purbaya 서명 루피아 품귀, BI 입장은",
+   "t_id": "Rupiah Bertanda Tangan Purbaya Diburu, Ini Kata BI",
+   "ai_ko": "· 2026년 인쇄 Rp10만권 수집 열기\n· Bank Indonesia, 법정통화 유효 확인\n· Purbaya·Perry Warjiyo 서명, 퇴임 무관",
+   "ai_id": "· Uang cetak 2026 Rp100 ribu diburu kolektor\n· BI tegaskan tetap alat pembayaran sah\n· Tanda tangan Purbaya dan Perry Warjiyo",
+   "ai_tags": [
+    "통화",
+    "중앙은행",
+    "규정"
+   ],
+   "ai_tags_id": [
+    "rupiah",
+    "Bank Indonesia",
+    "regulasi"
+   ]
   },
   {
    "ts": "2026-09-23T12:35:16+07:00",
@@ -29135,8 +28801,8 @@
     "IHSG",
     "rupiah"
    ],
-   "score": 318.5,
-   "srcs": 4
+   "score": 316.5,
+   "srcs": 3
   }
  ],
  "daylog": {

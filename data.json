@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 08:18",
+ "updated": "2026-09-23 08:22",
  "delay_min": 15,
- "fx_basis": "13.24 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,351 · 08:00 Yahoo",
- "idr_per_krw": 13.2373,
+ "fx_basis": "13.25 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,349 · 08:00 Yahoo",
+ "idr_per_krw": 13.2481,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -17470,11 +17470,11 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 7081.6,
+   "px": 7081.03,
    "prev": 7037.46,
-   "pct": 0.63,
+   "pct": 0.62,
    "mst": 0,
-   "asof": "09:55",
+   "asof": "10:00",
    "live": true,
    "spark": [
     7137.49,
@@ -17488,7 +17488,8 @@
     7110.09,
     7097.61,
     7086.16,
-    7081.6
+    7080.48,
+    7081.03
    ]
   },
   {
@@ -17752,7 +17753,7 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122381/cdia-akan-bagi-dividen-interim-us-10-juta",
    "img": "https://images.bloombergtechnoz.com/data/2025/04/image-20250428172603.jpg",
    "t_id": "CDIA Akan Bagi Dividen Interim US$10 Juta",
-   "t_ko": "CDIA, 중간배당 US$1,000만 결의"
+   "t_ko": "CDIA, 중간배당 US$1,000만 지급 결정"
   },
   {
    "ts": "2026-09-23T07:20:00+07:00",
@@ -18476,6 +18477,18 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T08:20:00+07:00",
+   "date": "2026-09-23",
+   "time": "08:20",
+   "src": "Bloomberg Technoz",
+   "t": "Acuan BMKS Diramal Lebih Tinggi dari Harga Pasar, Apa Risikonya?",
+   "tags": [],
+   "url": "https://www.bloombergtechnoz.com/detail-news/122380/acuan-bmks-diramal-lebih-tinggi-dari-harga-pasar-apa-risikonya",
+   "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260923075836.jpg",
+   "t_id": "Acuan BMKS Diramal Lebih Tinggi dari Harga Pasar, Apa Risikonya?",
+   "t_ko": "BMKS 기준금리 시장가 상회 전망 속 잠재 리스크"
+  },
+  {
    "ts": "2026-09-23T08:15:00+07:00",
    "date": "2026-09-23",
    "time": "08:15",
@@ -18485,7 +18498,7 @@
    "url": "https://ekonomi.republika.co.id/berita/tlsm24423/undisbursed-loan-tembus-rp-2548-triliun-ojk-ungkap-penyebabnya",
    "img": "https://static.republika.co.id/uploads/images/detailnews/kepala-eksekutif-pengawas-perbankan-ojk-dian-ediana_241024213738-392.jpg",
    "t_id": "Undisbursed Loan Tembus Rp 2.548 Triliun, OJK Ungkap Penyebabnya",
-   "t_ko": "미집행 대출 Rp2,548조 돌파 배경 밝힌 OJK"
+   "t_ko": "미집행 대출 Rp2,548조 돌파 — OJK, 원인 밝혀"
   },
   {
    "ts": "2026-09-23T08:14:00+07:00",
@@ -18497,7 +18510,7 @@
    "url": "https://katadata.co.id/finansial/keuangan/6ab327dc616f2/bitcoin-tembus-us-87000-apa-saja-faktor-yang-mendongkrak-penguatan",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2024/04/17/Dolar_AS_vs_Bitcoin-2024_04_17-17_15_29_e285341140cda3faf697302f5a9c167f_620x413_thumb.jpg",
    "t_id": "Bitcoin Tembus US$ 87.000, Apa Saja Faktor yang Mendongkrak Penguatan?",
-   "t_ko": "비트코인 USD 87,000 돌파 배경과 상승 동력 분석"
+   "t_ko": "Bitcoin 8만 7,000달러 돌파 배경과 상승 동력"
   },
   {
    "ts": "2026-09-23T08:13:27+07:00",
@@ -18509,7 +18522,20 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122377/permintaan-sukuk-naik-pemerintah-kurangi-serapan",
    "img": "https://images.bloombergtechnoz.com/data/2026/02/image-20260211092352.jpg",
    "t_id": "Permintaan Sukuk Naik, Pemerintah Kurangi Serapan",
-   "t_ko": "수쿡 수요 증가에 정부, 발행 물량 축소"
+   "t_ko": "수쿡 수요 증가에 정부 발행 물량 축소"
+  },
+  {
+   "ts": "2026-09-23T08:12:30+07:00",
+   "date": "2026-09-23",
+   "time": "08:12",
+   "src": "Detik",
+   "t": "Trump Perintahkan Setop Ekspor Solar Imbas Harga Naik",
+   "tags": [],
+   "url": "https://finance.detik.com/energi/d-8674981/trump-perintahkan-setop-ekspor-solar-imbas-harga-naik",
+   "g": 1,
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/12/presiden-as-donald-trump-saat-pidato-di-pentagon-1789197702768_169.jpeg?w=360&q=90",
+   "t_id": "Trump Perintahkan Setop Ekspor Solar Imbas Harga Naik",
+   "t_ko": "Trump, 가격 상승에 태양광 수출 중단 명령"
   },
   {
    "ts": "2026-09-23T08:10:03+07:00",
@@ -18521,7 +18547,7 @@
    "url": "https://www.jawapos.com/bisnis/2609230022/pt-pal-siapkan-kemampuan-mro-dan-modernisasi-kapal-induk-giuseppe-garibaldi",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/18/penampakan-kapal-induk-its-giuseppe-garibaldi-551-di-dermaga-107-tanjung-priok-jakarta-jumat-1892026-dery-ridwansah-jawaposcom-n58X6.webp",
    "t_id": "PT PAL Siapkan Kemampuan MRO dan Modernisasi Kapal Induk Giuseppe Garibaldi",
-   "t_ko": "PT PAL, Giuseppe Garibaldi 항공모함 MRO 및 현대화 역량 확보"
+   "t_ko": "PT PAL, 군함 Giuseppe Garibaldi MRO 및 현대화 역량 확보"
   },
   {
    "ts": "2026-09-23T08:00:00+07:00",
@@ -18543,7 +18569,8 @@
    "tags": [],
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8674638/terkuak-penyebab-baju-bekas-impor-banjiri-ri",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/konferensi-pers-bea-cukai-1790046759444_169.jpeg?w=360&q=90",
-   "t_ko": "수입 구제옷 인도네시아 유입 급증 배경 규명"
+   "t_ko": "수입 중고 의류 유입 급증 원인 규명",
+   "t_id": "Terkuak Penyebab Pakaian Bekas Impor Banjiri RI"
   },
   {
    "ts": "2026-09-23T07:57:07+07:00",
@@ -18554,7 +18581,8 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlslb7423/pantau-dampak-karhutla-kemenhub-keselamatan-penerbangan-tetap-menjadi-prioritas",
    "img": "https://static.republika.co.id/uploads/images/detailnews/037261300-1788098200-830-556.jpg",
-   "t_ko": "인도네시아 교통부, 산불 모니터링 속 항공 안전 최우선 강조"
+   "t_ko": "인도네시아 교통부, 산불 모니터링 속 항공 안전 최우선 강조",
+   "t_id": "Pantau Dampak Karhutla, Kemenhub: Keselamatan Penerbangan Tetap Prioritas"
   },
   {
    "ts": "2026-09-23T07:53:24+07:00",
@@ -18565,7 +18593,7 @@
    "tags": [],
    "url": "https://www.bloomberg.com/news/articles/2026-09-23/bnp-s-asset-unit-shorts-china-rate-swaps-to-hedge-em-bond-bets",
    "g": 1,
-   "t_ko": "BNP 자산운용, 신흥국 채권 헤지로 중국 금리 스와프 숏 포지션 구축",
+   "t_ko": "BNP 자산운용, 신흥국 채권 헤지 위해 중국 금리 스와프 숏 포지션 구축",
    "t_id": "Unit Aset BNP Short Swap Suku Bunga China untuk Lindung Nilai Obligasi EM"
   },
   {
@@ -18683,7 +18711,8 @@
    "tags": [],
    "url": "https://ekonomi.republika.co.id/berita/tlrv8f416/pengawasan-distribusi-solar-bersubsidi-perlu-diperkuat",
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260915102016-968.png",
-   "t_ko": "보조금 지급 디젤유 유통망 감시 강화 필요성"
+   "t_ko": "보조금 지급 디젤유 유통망 감시 강화 필요성",
+   "t_id": "Pengawasan Distribusi Solar Subsidi Perlu Diperkuat"
   },
   {
    "ts": "2026-09-23T06:59:44+07:00",
@@ -18744,7 +18773,8 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122376/harga-emas-bangkit-usai-terpeleset-saatnya-jual-atau-beli",
    "g": 1,
    "img": "https://images.bloombergtechnoz.com/data/2026/08/image-20260823115313.jpg",
-   "t_ko": "금값 하락세 딛고 반등 — 매수·매도 타이밍 점검"
+   "t_ko": "금값 하락세 딛고 반등 — 매수·매도 타이밍 점검",
+   "t_id": "Harga Emas Bangkit Usai Terpeleset, Waktunya Jual atau Beli"
   },
   {
    "ts": "2026-09-23T06:47:00+07:00",
@@ -18792,7 +18822,8 @@
    "t": "Tanpa Perubahan Regulasi, Zero ODOL Dinilai Sulit Dijalankan",
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/936495/tanpa-perubahan-regulasi-zero-odol-dinilai-sulit-dijalankan",
-   "t_ko": "규제 개편 없이는 제로 오돌(ODOL) 정책 시행 난항 전망"
+   "t_ko": "규제 개편 없이는 제로 오돌(ODOL) 정책 시행 난항 전망",
+   "t_id": "Tanpa Perubahan Regulasi, Zero ODOL Dinilai Sulit Diterapkan"
   },
   {
    "ts": "2026-09-23T06:35:00+07:00",
@@ -18815,7 +18846,8 @@
    "tags": [],
    "url": "https://finance.detik.com/infrastruktur/d-8674670/uu-reforma-agraria-disahkan-aturan-batas-maksimal-pemilikan-tanah-disiapkan",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/08/03/menteri-atrbpn-nusron-wahid-1785735730541_169.jpeg?w=360&q=90",
-   "t_ko": "토지개혁법 통과로 최대 소유 한도 규정 마련"
+   "t_ko": "토지개혁법 통과로 최대 소유 한도 규정 마련",
+   "t_id": "UU Reforma Agraria Disahkan, Aturan Batas Maksimal Kepemilikan Tanah Disiapkan"
   },
   {
    "ts": "2026-09-23T06:20:00+07:00",
@@ -18882,19 +18914,6 @@
    "t_id": "Dixon Tech India Bidik Pertumbuhan di Luar Ponsel Pintar"
   },
   {
-   "ts": "2026-09-23T06:00:00+07:00",
-   "date": "2026-09-23",
-   "time": "06:00",
-   "src": "Bloomberg Technoz",
-   "t": "AI Dorong Saham Teknologi Naik, Nasdaq Dekati Rekor Sejak Juni",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122371/ai-dorong-saham-teknologi-naik-nasdaq-dekati-rekor-sejak-juni",
-   "g": 1,
-   "img": "https://images.bloombergtechnoz.com/data/2023/02/image-20230201170657.jpg",
-   "t_ko": "AI 수혜에 기술주 상승 — Nasdaq 6월 이후 최고치 경신 임박",
-   "t_id": "AI Dorong Saham Teknologi Naik, Nasdaq Dekati Rekor Sejak Juni"
-  },
-  {
    "ts": "2026-09-23T05:55:00+07:00",
    "date": "2026-09-23",
    "time": "05:55",
@@ -18903,7 +18922,8 @@
    "tags": [],
    "url": "https://finance.detik.com/moneter/d-8674635/uang-rupiah-bertanda-tangan-purbaya-diburu-warga",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/ilustrasi-rupiah-1790057101049_169.jpeg?w=360&q=90",
-   "t_ko": "Purbaya 서명 루피아화 지폐 수집 열풍"
+   "t_ko": "Purbaya 서명 루피아화 지폐 수집 열풍",
+   "t_id": "Uang Rupiah Bertandatangan Purbaya Diburu Warga"
   },
   {
    "ts": "2026-09-23T05:20:15+07:00",
@@ -19344,18 +19364,6 @@
    "img": "https://static.republika.co.id/uploads/images/detailnews/_260908220239-141.png",
    "t_ko": "지방은행에서 Himbara로 공무원 급여 이체 추진 — OJK 입장",
    "t_id": "Ada Wacana Peralihan Payroll ASN dari BPD ke Himbara, Begini Sikap OJK"
-  },
-  {
-   "ts": "2026-09-22T20:08:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Medcom",
-   "t": "Peluang Besar di Balik Kiriman Berat",
-   "tags": [],
-   "url": "https://www.medcom.id/ekonomi/bisnis/zNAdDX3K-peluang-besar-di-balik-kiriman-berat",
-   "img": "https://cdn.medcom.id/dynamic/content/2026/09/22/1843790/aWsAK0QVL6.jpeg?w=720",
-   "t_ko": "화물 운송 시장 성장 잠재력 확대",
-   "t_id": "Peluang Besar di Balik Kiriman Berat"
   },
   {
    "ts": "2026-09-22T20:06:08+07:00",
@@ -19961,9 +19969,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "13.23",
-   "d": 1.82,
-   "ytd": 13.92,
+   "v": "13.24",
+   "d": 1.88,
+   "ytd": 13.99,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -20008,9 +20016,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.36",
-   "d": -2.81,
-   "ytd": 57.37,
+   "v": "90.26",
+   "d": -2.91,
+   "ytd": 57.19,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -20020,9 +20028,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,388.8",
-   "d": 0.22,
-   "ytd": 1.46,
+   "v": "4,386.3",
+   "d": 0.16,
+   "ytd": 1.4,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20044,15 +20052,15 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,601",
-   "d": 0.15,
-   "ytd": -0.48,
+   "v": "16,528",
+   "d": 1.07,
+   "ytd": -0.92,
    "inv": false,
-   "note": "investing.com · 연초 16,682",
+   "note": "investing.com · 09/22 마지막 값 · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
    "k_id": "Nikel LME (US$/t)",
-   "note_ko": "investing.com · 연초 16,682",
-   "note_id": "investing.com · Awal tahun 16,682"
+   "note_ko": "investing.com · 09/22 마지막 값 · 연초 16,682",
+   "note_id": "investing.com · 09/22 nilai terakhir · Awal tahun 16,682"
   },
   {
    "k": "CPO (MYR/t)",
@@ -25083,7 +25091,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 308,
+  "pc_age_min": 312,
   "news_ai_cache": 41,
   "news_ai_hit": 29,
   "on_runner": true,
@@ -26878,9 +26886,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "달러 강세와 BYAN 및 BBRI 등 대형주 약세로 IHSG 1.69% 하락.",
-   "id": "IHSG melemah 1,69% akibat penguatan dolar AS serta pelemahan saham berkapitalisasi besar seperti BYAN dan BBRI.",
-   "ts": "2026-09-23T08:18:06.230923+07:00"
+   "ko": "에너지 및 금융주 약세와 대형주 BYAN·BBRI 하락 영향으로 IHSG 1.69% 하락.",
+   "id": "IHSG melemah 1,69% dipicu oleh pelemahan saham energi dan keuangan serta penurunan saham berkapitalisasi besar BYAN dan BBRI.",
+   "ts": "2026-09-23T08:22:16.956578+07:00"
   }
  },
  "top_day": "2026-09-23",

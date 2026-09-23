@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 07:10",
+ "updated": "2026-09-23 07:18",
  "delay_min": 15,
- "fx_basis": "13.24 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,350 · 04:45 Yahoo",
- "idr_per_krw": 13.2392,
+ "fx_basis": "13.25 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,349 · 04:45 Yahoo",
+ "idr_per_krw": 13.2523,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -104,9 +104,9 @@
    "code": "SUN10Y",
    "label": "SUN 10Y",
    "name": "국채 10년물",
-   "px": 7.12,
-   "prev": 7.12,
-   "pct": 0.0,
+   "px": 7.146,
+   "prev": 7.143,
+   "pct": 0.4,
    "spark": [
     7.095,
     7.096,
@@ -115,10 +115,11 @@
     7.156,
     7.12
    ],
-   "span": "1W",
+   "span": "1M",
    "inv": true,
-   "asof": "investing.com · 09/15",
-   "unit": "bp"
+   "unit": "bp",
+   "asof": "PHEI · 09/22",
+   "spark_stale": "investing.com · 09/15"
   }
  ],
  "index": {
@@ -17737,8 +17738,8 @@
    ],
    "url": "https://www.jawapos.com/bisnis/2609230013/ihsg-hari-ini-diprediksi-masih-lanjut-koreksi-cek-rekomendasi-saham-amrt-hingga-bbri",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/07/29/pekerja-berdiri-di-dekat-layar-yang-menampilkan-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei-jakarta-selasa-2872026-hanung-hambarajawa-pos-GvU2p.webp",
-   "t_id": "IHSG Hari Ini Diprediksi Masih Lanjut Koreksi, Cek Rekomendasi Saham AMRT hingga BBRI",
-   "t_ko": "IHSG, 추가 조정 전망 — AMRT·BBRI 투자의견 정리"
+   "t_ko": "IHSG, 추가 조정 전망 — AMRT·BBRI 투자의견 정리",
+   "t_id": "IHSG Hari Ini Diprediksi Masih Lanjut Koreksi, Cek Rekomendasi Saham AMRT hingga BBRI"
   },
   {
    "ts": "2026-09-23T06:27:00+07:00",
@@ -17755,23 +17756,6 @@
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/09/23/nikel_-_gettty_images_-_22_sept_26.jpg",
    "t_ko": "INCO·MBMA·NCKL, 니켈 광석 기준가격(HPM) 개편에 따른 전망 분석",
    "t_id": "Menakar Prospek INCO, MBMA, NCKL di Tengah Revisi HPM Limonit"
-  },
-  {
-   "ts": "2026-09-23T06:12:00+07:00",
-   "date": "2026-09-23",
-   "time": "06:12",
-   "src": "Katadata",
-   "t": "IHSG Rawan Terkoreksi, Saham TPIA, EMAS, AMRT, dan ISAT Jadi Rekomendasi Analis",
-   "tags": [
-    "AMRT",
-    "EMAS",
-    "ISAT",
-    "TPIA"
-   ],
-   "url": "https://katadata.co.id/finansial/bursa/6ab30b4340ea3/ihsg-rawan-terkoreksi-saham-tpia-emas-amrt-dan-isat-jadi-rekomendasi-analis",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/08/14/2026_08_14-19_34_00_a80a53c0-97e5-11f1-8ba5-0242ac12000a_620x413_thumb.jpg",
-   "t_ko": "IHSG 조종 압력 심화 — TPIA·EMAS·AMRT·ISAT 투자의견 제시",
-   "t_id": "IHSG Rawan Terkoreksi, Saham TPIA, EMAS, AMRT, dan ISAT Jadi Rekomendasi Analis"
   },
   {
    "ts": "2026-09-23T06:01:24+07:00",
@@ -17957,20 +17941,6 @@
    "t_id": "EURO Restui Rights Issue 2 Miliar Saham, Rombak Manajemen"
   },
   {
-   "ts": "2026-09-22T19:50:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "IDX Channel",
-   "t": "Deltamas (DMAS) Tunjuk Shinji Yoneda sebagai Wakil Presiden Direktur",
-   "tags": [
-    "DMAS"
-   ],
-   "url": "https://www.idxchannel.com/market-news/deltamas-dmas-tunjuk-shinji-yoneda-sebagai-wakil-presiden-direktur",
-   "img": "https://img.idxchannel.com/media/439/images/idx/2025/09/13/greenland_dmas.jpg",
-   "t_ko": "DMAS, Shinji Yoneda 부대표 선임",
-   "t_id": "Deltamas (DMAS) Tunjuk Shinji Yoneda Jadi Wadirut"
-  },
-  {
    "ts": "2026-09-22T17:30:00+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -17983,6 +17953,22 @@
    "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/GOTO-22092026.jpg",
    "t_ko": "GOTO, 핵심 안건 2건 심의 위해 임시주주총회 참석 인원 80명 제한",
    "t_id": "GOTO Batasi Kehadiran RUPSLB di Angka 80 untuk Dua Agenda Utama"
+  },
+  {
+   "ts": "2026-09-22T17:27:00+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Katadata",
+   "t": "Investor Asing Ramai Lepas Saham Bank Jumbo BMRI, BBCA, dan BBRI, Apa Pemicunya?",
+   "tags": [
+    "BBCA",
+    "BBRI",
+    "BMRI"
+   ],
+   "url": "https://katadata.co.id/finansial/bursa/6ab258022f1d8/investor-asing-ramai-lepas-saham-bank-jumbo-bmri-bbca-dan-bbri-apa-pemicunya",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/06/08/IHSG_kembali_ditutup_melemah_ke_level_5342_Foto_KatadataFauza_Sy-2026_06_08-17_48_01_7a52cca2efab744648edec05cc36728f_620x413_thumb.jpg",
+   "t_ko": "외국인, BMRI·BBCA·BBRI 등 대형 은행주 동반 순매도 배경",
+   "t_id": "Investor Asing Ramai Lepas Saham Bank Jumbo BMRI, BBCA, dan BBRI, Apa Pemicunya?"
   },
   {
    "ts": "2026-09-22T16:50:00+07:00",
@@ -18485,6 +18471,29 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T07:08:00+07:00",
+   "date": "2026-09-23",
+   "time": "07:08",
+   "src": "IDX Channel",
+   "t": "IHSG Hari Ini Berpotensi Teknikal Rebound ke 6.300-6.320, Intip Enam Saham Pilihan",
+   "tags": [],
+   "url": "https://www.idxchannel.com/market-news/ihsg-hari-ini-berpotensi-teknikal-rebound-ke-6300-6320-intip-enam-saham-pilihan",
+   "img": "https://img.idxchannel.com/media/439/images/idx/2026/07/25/IHSG.jpeg",
+   "t_id": "IHSG Hari Ini Berpotensi Teknikal Rebound ke 6.300-6.320, Intip Enam Saham Pilihan",
+   "t_ko": "IHSG, 6,300~6,320선 기술적 반등 전망 — 주요 6개 종목 추천"
+  },
+  {
+   "ts": "2026-09-23T07:01:29+07:00",
+   "date": "2026-09-23",
+   "time": "07:01",
+   "src": "Detik",
+   "t": "Pertamina Patra Niaga & KPK Perkuat Tata Kelola Pasokan Energi",
+   "tags": [],
+   "url": "https://finance.detik.com/energi/d-8674912/pertamina-patra-niaga-kpk-perkuat-tata-kelola-pasokan-energi",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/23/pertamina-patra-niaga-kpk-perkuat-tata-kelola-1790120690800_169.jpeg?w=360&q=90",
+   "t_ko": "Pertamina Patra Niaga, KPK와 에너지 공급망 거버넌스 강화"
+  },
+  {
    "ts": "2026-09-23T07:00:00+07:00",
    "date": "2026-09-23",
    "time": "07:00",
@@ -18505,8 +18514,20 @@
    "url": "https://www.jawapos.com/finance/2609230011/rupiah-berpotensi-melemah-ke-rp-17930-per-dolar-as-tertekan-sentimen-suku-bunga-the-fed",
    "g": 1,
    "img": "https://cdn-assets.jawapos.com/images/1/2026/05/13/vVRyvRPlnQz6473fewf5CrP5yNq0F7txoo7bPNlv.webp",
-   "t_id": "Rupiah Berpotensi Melemah ke Rp 17.930 per Dolar AS, Tertekan Sentimen Suku Bunga The Fed",
-   "t_ko": "연준 금리 인하 기대 후퇴에 루피아화 달러당 Rp17,930 약세 압력"
+   "t_ko": "연준 금리 인하 기대 후퇴에 루피아화 달러당 Rp17,930 약세 압력",
+   "t_id": "Rupiah Berpotensi Melemah ke Rp 17.930 per Dolar AS, Tertekan Sentimen Suku Bunga The Fed"
+  },
+  {
+   "ts": "2026-09-23T06:56:43+07:00",
+   "date": "2026-09-23",
+   "time": "06:56",
+   "src": "Bloomberg",
+   "t": "Gold Steadies as Iran Talks Temper Concerns Over Fed Rate Path",
+   "tags": [],
+   "url": "https://www.bloomberg.com/news/articles/2026-09-22/gold-steadies-as-iran-talks-temper-concerns-over-fed-rate-path",
+   "g": 1,
+   "t_ko": "금, 이란 협상 진전에 연준 금리 경로 경계감 완화되며 보합세",
+   "t_id": "Emas Stabil Saat Perundingan Iran Redakan Kekhawatiran Suku Bunga The Fed"
   },
   {
    "ts": "2026-09-23T06:55:00+07:00",
@@ -18517,8 +18538,8 @@
    "tags": [],
    "url": "https://finance.detik.com/moneter/d-8674700/utang-ke-bi-lunas-obligor-dan-debitur-blbi-tetap-ditagih",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/14/pesan-suahasil-nazara-usai-jadi-menkeu-lanjutkan-tugas-dan-jaga-kepercayaan-1789383969386_169.jpeg?w=360&q=90",
-   "t_id": "Utang ke BI Lunas, Obligor dan Debitur BLBI Tetap Ditagih!",
-   "t_ko": "인도네시아 중앙은행 채무 완납에도 BLBI 채무자 추징 지속"
+   "t_ko": "인도네시아 중앙은행 채무 완납에도 BLBI 채무자 추징 지속",
+   "t_id": "Utang ke BI Lunas, Obligor dan Debitur BLBI Tetap Ditagih!"
   },
   {
    "ts": "2026-09-23T06:51:24+07:00",
@@ -18542,8 +18563,8 @@
    "url": "https://www.idxchannel.com/market-news/harga-minyak-turun-pasokan-saudi-kembali-mengalir-lewat-selat-hormuz",
    "g": 1,
    "img": "https://img.idxchannel.com/media/439/images/idx/2026/03/03/drilling_platform_kilang_minyak_-_Freepik.jpeg",
-   "t_id": "Harga Minyak Turun, Pasokan Saudi Kembali Mengalir Lewat Selat Hormuz",
-   "t_ko": "유가 하락과 호르무즈 해협 통한 사우디 원유 공급 재개"
+   "t_ko": "유가 하락과 호르무즈 해협 통한 사우디 원유 공급 재개",
+   "t_id": "Harga Minyak Turun, Pasokan Saudi Kembali Mengalir Lewat Selat Hormuz"
   },
   {
    "ts": "2026-09-23T06:43:48+07:00",
@@ -18558,6 +18579,19 @@
    "t_id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan"
   },
   {
+   "ts": "2026-09-23T06:42:36+07:00",
+   "date": "2026-09-23",
+   "time": "06:42",
+   "src": "FT",
+   "t": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
+   "tags": [],
+   "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+   "g": 1,
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5ea167fa-81f7-4221-9fdd-e04f36406cc8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+   "t_ko": "Trump, Burnham의 타격에 AI 통제 위한 글로벌리즘 계획 거부",
+   "t_id": "Trump Tolak Skema Globalis untuk Kendalikan AI yang Pukul Mundur Burnham"
+  },
+  {
    "ts": "2026-09-23T06:39:00+07:00",
    "date": "2026-09-23",
    "time": "06:39",
@@ -18566,18 +18600,6 @@
    "tags": [],
    "url": "https://mediaindonesia.com/ekonomi/936495/tanpa-perubahan-regulasi-zero-odol-dinilai-sulit-dijalankan",
    "t_ko": "규제 개편 없이는 제로 오돌(ODOL) 정책 시행 난항 전망"
-  },
-  {
-   "ts": "2026-09-23T06:35:00+07:00",
-   "date": "2026-09-23",
-   "time": "06:35",
-   "src": "Katadata",
-   "t": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/bursa/6ab310b01550b/apa-itu-batas-bawah-harga-saham-rp-1-berlaku-28-september-bagaimana-aturannya",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/09/15/Apa_Itu_Investasi_Saham-2023_09_15-10_45_16_d6703d677a21df7dba8bd2301ba2b797_620x413_thumb.png",
-   "t_ko": "9월 28일 도입 주가 하한선 Rp 1 규정의 주요 내용",
-   "t_id": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?"
   },
   {
    "ts": "2026-09-23T06:25:00+07:00",
@@ -18615,19 +18637,6 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f83/live/bddd95b0-a12a-11f1-aed2-8d6da8d75094.jpg",
    "t_ko": "빛의 속도로의 전환이 데이터센터 전력 소비 절감할까",
    "t_id": "Transisi ke Kecepatan Cahaya Pangkas Konsumsi Daya Pusat Data?"
-  },
-  {
-   "ts": "2026-09-23T06:02:00+07:00",
-   "date": "2026-09-23",
-   "time": "06:02",
-   "src": "Katadata",
-   "t": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran",
-   "tags": [],
-   "url": "https://katadata.co.id/finansial/bursa/6ab309153b170/wall-street-bergerak-variatif-harga-minyak-turun-di-tengah-kabar-damai-as-iran",
-   "g": 1,
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/10/12/Wall_Street-2023_10_12-05_51_11_8074be86ec350e0281213fa81ef24863_620x413_thumb.png",
-   "t_ko": "미국·이란 휴전 소식에 유가 하락 속 월가 혼조세",
-   "t_id": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran"
   },
   {
    "ts": "2026-09-23T06:01:28+07:00",
@@ -18740,18 +18749,6 @@
    "t_id": "Saham Lennar Melonjak Saat Berkshire Ambil Porsi Hampir 10% di Pengembang yang Tertekan"
   },
   {
-   "ts": "2026-09-23T05:30:22+07:00",
-   "date": "2026-09-23",
-   "time": "05:30",
-   "src": "Bloomberg Technoz",
-   "t": "Harga Minyak Susut Menyusul Optimisme Perundingan AS & Iran",
-   "tags": [],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122370/harga-minyak-susut-menyusul-optimisme-perundingan-as-iran",
-   "g": 1,
-   "img": "https://images.bloombergtechnoz.com/data/2026/07/image-20260709124934.jpg",
-   "t_ko": "미국·이란 협상 기대감 확산에 유가 하락"
-  },
-  {
    "ts": "2026-09-23T05:20:15+07:00",
    "date": "2026-09-23",
    "time": "05:20",
@@ -18858,17 +18855,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/permintaan-tabung-oksigen-di-palangka-raya-meningkat-1790061890912.jpeg?w=360&q=90",
    "t_ko": "Palangka Raya 스모그 속 산소통 수요 증가",
    "t_id": "Permintaan Tabung Oksigen Naik di Tengah Kabut Asap Palangka Raya"
-  },
-  {
-   "ts": "2026-09-22T23:00:00+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Media Indonesia",
-   "t": "RUU Reforma Agraria Diharapkan Dorong Pemerataan Penguasaan Tanah",
-   "tags": [],
-   "url": "https://mediaindonesia.com/ekonomi/936441/ruu-reforma-agraria-diharapkan-dorong-pemerataan-penguasaan-tanah",
-   "t_ko": "토지개혁법안, 토지 소유 분배 형평성 제고 기대",
-   "t_id": "RUU Reforma Agraria Didorong Pacu Pemerataan Lahan"
   },
   {
    "ts": "2026-09-22T22:40:29+07:00",
@@ -19659,6 +19645,18 @@
    "t_id": "Kinerja Semester I 2026 Tugu Insurance Tumbuh Solid, Laba Naik 76,87 Persen"
   },
   {
+   "ts": "2026-09-22T17:00:00+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Katadata",
+   "t": "RUU Perampasan Aset Masih Tahap Awal, DPR Tetap Janjikan Terbit Tahun Ini",
+   "tags": [],
+   "url": "https://katadata.co.id/berita/nasional/6ab251cc77551/ruu-perampasan-aset-masih-tahap-awal-dpr-tetap-janjikan-terbit-tahun-ini",
+   "img": "https://cdn1.katadata.co.id/media/images/thumb/2026/09/22/2026_09_22-13_09_00_0f4a4664-b652-11f1-9607-0242ac12000a_620x413_thumb.jpg",
+   "t_ko": "자산몰수법안 초기 단계이나 하원 연내 제정 약속",
+   "t_id": "RUU Perampasan Aset Masih Tahap Awal, DPR Tetap Janjikan Terbit Tahun Ini"
+  },
+  {
    "ts": "2026-09-22T16:50:01+07:00",
    "date": "2026-09-22",
    "time": "09/22",
@@ -19801,18 +19799,6 @@
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/07/09/bahlil-lahadalia-1783585268296_169.jpeg?w=360&q=90",
    "t_ko": "Bahlil, 태양광 발전 입찰 축소 및 역량 갖춘 기업 수의계약 추진",
    "t_id": "Pangkas Tender PLTS, Bahlil Ingin Perusahaan Kompeten Ditunjuk Langsung"
-  },
-  {
-   "ts": "2026-09-22T16:02:15+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Republika",
-   "t": "Mendag Dorong UMKM Perkuat Sertifikasi Halal dan Legalitas Usaha",
-   "tags": [],
-   "url": "https://ekonomi.republika.co.id/berita/tlrd3r423/mendag-dorong-umkm-perkuat-sertifikasi-halal-dan-legalitas-usaha",
-   "img": "https://static.republika.co.id/uploads/images/detailnews/_260922120240-962.png",
-   "t_ko": "무역부, 중소기업 할랄 인증 및 사업 적법성 강화 촉구",
-   "t_id": "Mendag Dorong UMKM Perkuat Sertifikasi Halal dan Legalitas Usaha"
   }
  ],
  "kisi_news": [
@@ -20009,9 +19995,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.55",
-   "d": 0.19,
-   "ytd": 2.31,
+   "v": "100.57",
+   "d": 0.22,
+   "ytd": 2.34,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -20021,9 +20007,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.66",
-   "d": -3.56,
-   "ytd": 56.15,
+   "v": "89.70",
+   "d": -3.52,
+   "ytd": 56.22,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -20033,9 +20019,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,400.4",
-   "d": 0.49,
-   "ytd": 1.73,
+   "v": "4,401.4",
+   "d": 0.51,
+   "ytd": 1.75,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20057,9 +20043,9 @@
   },
   {
    "k": "니켈 LME (US$/t)",
-   "v": "16,600",
-   "d": 0.14,
-   "ytd": -0.49,
+   "v": "16,576",
+   "d": 1.36,
+   "ytd": -0.63,
    "inv": false,
    "note": "investing.com · 연초 16,682",
    "k_ko": "니켈 LME (US$/t)",
@@ -20080,7 +20066,68 @@
    "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
   }
  ],
- "curve": null,
+ "curve": {
+  "date": "2026-09-22",
+  "src": "PHEI (IBPA)",
+  "rows": [
+   [
+    0.1,
+    6.5083,
+    6.5853
+   ],
+   [
+    1.0,
+    6.66,
+    6.6774
+   ],
+   [
+    2.0,
+    6.7642,
+    6.7605
+   ],
+   [
+    3.0,
+    6.8471,
+    6.8393
+   ],
+   [
+    5.0,
+    6.9818,
+    6.9765
+   ],
+   [
+    7.0,
+    7.0745,
+    7.071
+   ],
+   [
+    10.0,
+    7.1462,
+    7.1426
+   ],
+   [
+    15.0,
+    7.1786,
+    7.1743
+   ],
+   [
+    20.0,
+    7.183,
+    7.1785
+   ],
+   [
+    25.0,
+    7.1834,
+    7.1789
+   ],
+   [
+    30.0,
+    7.1835,
+    7.179
+   ]
+  ],
+  "n": 41
+ },
  "calendar": [
   {
    "date": "2026-09-15",
@@ -21175,7 +21222,7 @@
    "imp": 2,
    "exp": "-0.500M",
    "prev": "7.140M",
-   "act": null,
+   "act": "1.786M",
    "src": "investing.com",
    "title_ko": "API 주간 원유 재고",
    "title_id": "Stok Minyak Mentah Mingguan API",
@@ -25035,7 +25082,7 @@
   "idx_index": false,
   "idx_market": true,
   "idx_from_pc": "2026-09-23 03:10",
-  "pc_age_min": 240,
+  "pc_age_min": 248,
   "news_ai_cache": 41,
   "news_ai_hit": 31,
   "on_runner": true,
@@ -26830,9 +26877,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "BYAN(-9.71%)과 BBRI(-3.64%) 등 대형주 약세와 에너지·금융 업종 부진에 힘입어 IHSG 1.69% 하락.",
-   "id": "IHSG melemah 1,69% ditekan oleh pelemahan saham berkapitalisasi besar seperti BYAN (-9,71%) dan BBRI (-3,64%) serta sektor energi dan keuangan.",
-   "ts": "2026-09-23T07:10:33.820694+07:00"
+   "ko": "BYAN 및 대형 은행주(BBRI) 약세와 에너지 업종 하락에 힘입어 IHSG 1.69% 하락 거래 중.",
+   "id": "IHSG diperdagangkan melemah 1,69% ditekan oleh pelemahan saham BYAN, saham bank besar (BBRI), serta sektor energi.",
+   "ts": "2026-09-23T07:18:52.861577+07:00"
   }
  },
  "top_day": "2026-09-23",
@@ -26902,32 +26949,32 @@
    "srcs": 1
   },
   {
-   "ts": "2026-09-23T06:35:00+07:00",
-   "date": "2026-09-23",
-   "time": "06:35",
-   "src": "Katadata",
-   "t": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
+   "ts": "2026-09-22T20:09:00+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
+   "src": "Republika",
+   "t": "Ada Wacana Peralihan Payroll ASN dari BPD ke Himbara, Begini Sikap OJK",
    "tags": [],
-   "url": "https://katadata.co.id/finansial/bursa/6ab310b01550b/apa-itu-batas-bawah-harga-saham-rp-1-berlaku-28-september-bagaimana-aturannya",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/09/15/Apa_Itu_Investasi_Saham-2023_09_15-10_45_16_d6703d677a21df7dba8bd2301ba2b797_620x413_thumb.png",
-   "t_ko": "9월 28일 도입 주가 하한선 Rp 1 규정의 주요 내용",
-   "t_id": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
-   "score": 409.95,
-   "srcs": 2
+   "url": "https://ekonomi.republika.co.id/berita/tlrm02349/ada-wacana-peralihan-payroll-asn-dari-bpd-ke-himbara-begini-sikap-ojk",
+   "img": "https://static.republika.co.id/uploads/images/detailnews/_260908220239-141.png",
+   "t_ko": "지방은행에서 Himbara로 공무원 급여 이체 추진 — OJK 입장",
+   "t_id": "Ada Wacana Peralihan Payroll ASN dari BPD ke Himbara, Begini Sikap OJK",
+   "score": 408.95,
+   "srcs": 1
   },
   {
-   "ts": "2026-09-23T06:43:48+07:00",
-   "date": "2026-09-23",
-   "time": "06:43",
+   "ts": "2026-09-22T23:05:57+07:00",
+   "date": "2026-09-22",
+   "time": "09/22",
    "src": "CNBC",
-   "t": "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+   "t": "Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on",
    "tags": [],
-   "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+   "url": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
    "g": 1,
-   "t_ko": "트럼프 행정부, 디젤 수출 금지 실효성 검토 중이라고 재무장관 밝혀",
-   "t_id": "Pemerintahan Trump Kaji Kelayakan Larangan Ekspor Diesel, Kata Menteri Keuangan",
-   "score": 313.0,
-   "srcs": 3
+   "score": 312.0,
+   "srcs": 3,
+   "t_ko": "Wall Street, 유가 향방 불투명 속 만장일치 매수 종목 선정",
+   "t_id": "Sullivan: Wall Street Bingung Arah Minyak, Tapi Sepakat Satu Saham Ini"
   }
  ],
  "daylog": {
@@ -27668,50 +27715,50 @@
   "2026-09-22": {
    "news": [
     {
-     "t": "SMMA raises stake in Summit Oto Finance to 15% after capital injection",
-     "ko": "SMMA, 증자 참여로 Summit Oto Finance 지분 15%로 확대",
-     "id": "SMMA Tambah Kepemilikan di Summit Oto Finance Jadi 15% Usai Suntik Modal",
-     "ai_ko": "· Summit Oto Finance 지분 15%로 확대\n· Sinar Mas Multiartha(SMMA), Rp99.3억 출자\n· POJK 47/2020 내국인 지분 요건 충족",
-     "ai_id": "· Kepemilikan di SOF naik jadi 15%\n· SMMA suntik modal Rp9,93 miliar\n· Penuhi POJK 47/2020 saham lokal",
-     "src": "IDNFinancials",
-     "url": "https://www.idnfinancials.com/news/69233/smma-raises-stake-in-summit-oto-finance-to-15-after-capital-injection",
-     "time": "09/22",
+     "t": "Harga Minyak Stabil di US$ 100, Pasar Nantikan Potensi Pertemuan Trump-Iran",
+     "ko": "유가 USD 100 안정 — 시장은 Trump-Iran 회동 가능성 주시",
+     "id": "Harga Minyak Stabil di US$ 100, Pasar Nantikan Potensi Pertemuan Trump-Iran",
+     "ai_ko": "· Brent USD 100.37, WTI USD 95.95로 안정\n· 직전 4거래일 8% 급락, 연초 대비로는 60% 넘게 상승\n· Saudi 수출 재개로 중동 공급 우려 완화",
+     "ai_id": "· Brent stabil USD100,37, WTI USD95,95\n· Empat sesi sebelumnya merosot hampir 8%\n· Ekspor Saudi pulih, kekhawatiran pasokan mereda",
+     "src": "Katadata",
+     "url": "https://katadata.co.id/berita/energi/6ab1eb43c751b/harga-minyak-stabil-di-us-100-pasar-nantikan-potensi-pertemuan-trump-iran",
+     "time": "09:43",
+     "tags": [],
+     "sc": 318.5,
+     "slot": "global",
+     "q": 86
+    },
+    {
+     "t": "AMMN Catat Laba US$ 497,9 Juta, BYAN Dapat Tambahan Kuota Batu Bara",
+     "ko": "AMMN 순이익 US$ 497.9백만 기록, BYAN 석탄 쿼터 추가 확보",
+     "id": "AMMN Catat Laba US$ 497,9 Juta, BYAN Dapat Tambahan Kuota Batu Bara",
+     "ai_ko": "· AMMN 상반기 순이익 USD 4.979억\n· 매출 USD 20.5억, 전년비 1,024% 증가\n· 금 생산 목표 34% 상향 775koz",
+     "ai_id": "· AMMN laba bersih US$497,93 juta\n· Penjualan US$2,05 miliar, naik 1.024%\n· Guidance emas naik 34% jadi 775 koz",
+     "src": "Detik",
+     "url": "https://finance.detik.com/bursa-dan-valas/d-8673373/ammn-catat-laba-us-497-9-juta-byan-dapat-tambahan-kuota-batu-bara",
+     "time": "08:31",
      "tags": [
-      "SMMA"
+      "AMMN",
+      "BYAN",
+      "IFII"
      ],
      "sc": 217.8,
      "slot": "stock",
      "q": 82
     },
     {
-     "t": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
-     "ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
-     "id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
-     "ai_ko": "· 불법 수입 컨테이너 30개 적발, Rp270억 규모\n· 소금·쌀·중고 의류 대상, Bea Cukai 단속\n· 9월 22일 Jakarta 본부 기자회견서 발표",
-     "ai_id": "· Bea Cukai gagalkan 30 kontainer ilegal\n· Garam, beras, pakaian bekas Rp27 miliar\n· Konpers di Jakarta, Selasa 22 September",
-     "src": "Jawa Pos",
-     "url": "https://www.jawapos.com/ekonomi/2609220201/bea-cukai-gagalkan-impor-ilegal-30-kontainer-garam-beras-dan-pakaian-bekas-senilai-rp-27-miliar",
-     "time": "09/22",
+     "t": "Video: BEI Siap Turunkan Batas Terendah Harga Saham Jadi Rp1",
+     "ko": "BEI, 주식 최저가 하한 Rp1로 인하 추진",
+     "id": "Video: BEI Siap Turunkan Batas Terendah Harga Saham Jadi Rp1",
+     "ai_ko": "· 주식 최저 호가 Rp50→Rp1 인하\n· BEI, 정규시장·현금시장 적용\n· 9월 22일 방송서 공개",
+     "ai_id": "· Batas harga saham Rp50 jadi Rp1\n· BEI, pasar reguler dan tunai\n· Dipaparkan Selasa (22/9/2026)",
+     "src": "CNBC Indonesia",
+     "url": "https://www.cnbcindonesia.com/market/20260922083423-19-769739/video-bei-siap-turunkan-batas-terendah-harga-saham-jadi-rp1",
+     "time": "10:31",
      "tags": [],
-     "sc": 414.8,
+     "sc": 419.8,
      "slot": "macro",
-     "q": 93
-    },
-    {
-     "t": "EURO greenlit for 2 billion-share rights issue, reshuffles management",
-     "ko": "EURO, 20억 주 유상증자 승인 및 경영진 개편",
-     "id": "EURO Restui Rights Issue 2 Miliar Saham, Rombak Manajemen",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "IDNFinancials",
-     "url": "https://www.idnfinancials.com/news/69238/euro-greenlit-for-2-billion-share-rights-issue-reshuffles-management",
-     "time": "09/22",
-     "tags": [
-      "EURO"
-     ],
-     "sc": 414.8,
-     "slot": "macro",
-     "q": 93
+     "q": 94
     }
    ],
    "ann": [
@@ -27759,7 +27806,7 @@
      "url": "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
      "time": "06:43",
      "tags": [],
-     "sc": 313.0,
+     "sc": 311.0,
      "slot": "global",
      "q": 85
     },
@@ -27780,16 +27827,16 @@
      "q": 58
     },
     {
-     "t": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
-     "ko": "9월 28일 도입 주가 하한선 Rp 1 규정의 주요 내용",
-     "id": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
+     "t": "UU Reforma Agraria Disahkan, Aturan Batas Maksimal Pemilikan Tanah Disiapkan",
+     "ko": "토지개혁법 통과로 최대 소유 한도 규정 마련",
+     "id": "",
      "ai_ko": "",
      "ai_id": "",
-     "src": "Katadata",
-     "url": "https://katadata.co.id/finansial/bursa/6ab310b01550b/apa-itu-batas-bawah-harga-saham-rp-1-berlaku-28-september-bagaimana-aturannya",
-     "time": "06:35",
+     "src": "Detik",
+     "url": "https://finance.detik.com/infrastruktur/d-8674670/uu-reforma-agraria-disahkan-aturan-batas-maksimal-pemilikan-tanah-disiapkan",
+     "time": "06:25",
      "tags": [],
-     "sc": 413.8,
+     "sc": 409.8,
      "slot": "macro",
      "q": 93
     }

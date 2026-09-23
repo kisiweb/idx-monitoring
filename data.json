@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 08:36",
+ "updated": "2026-09-23 08:40",
  "delay_min": 15,
- "fx_basis": "13.25 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,350 · 08:00 Yahoo",
- "idr_per_krw": 13.247,
+ "fx_basis": "13.27 IDR/KRW · USD/IDR 17,878 · USD/KRW 1,347 · 08:00 Yahoo",
+ "idr_per_krw": 13.2727,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -102,9 +102,9 @@
    "code": "SUN10Y",
    "label": "SUN 10Y",
    "name": "국채 10년물",
-   "px": 7.12,
-   "prev": 7.12,
-   "pct": 0.0,
+   "px": 7.146,
+   "prev": 7.143,
+   "pct": 0.4,
    "spark": [
     7.095,
     7.096,
@@ -113,10 +113,11 @@
     7.156,
     7.12
    ],
-   "span": "1W",
+   "span": "1M",
    "inv": true,
-   "asof": "investing.com · 09/15",
-   "unit": "bp"
+   "unit": "bp",
+   "asof": "PHEI · 09/22",
+   "spark_stale": "PHEI · 09/22"
   }
  ],
  "index": {
@@ -129,7 +130,7 @@
   "value_idr": 13126579742133.334,
   "volume": null,
   "value_src": "yahoo",
-  "rank_src": "Yahoo 15분 지연 · 830종목 · 종가 · 외국인·공시 PC 09-23 08:19",
+  "rank_src": "Yahoo 15분 지연 · 830종목 · 종가 · 외국인·공시 PC 09-23 08:32",
   "rank_asof": null,
   "rank_date": "2026-09-22",
   "adv": 148,
@@ -17469,11 +17470,11 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 7087.99,
+   "px": 7099.53,
    "prev": 7037.46,
-   "pct": 0.72,
+   "pct": 0.88,
    "mst": 0,
-   "asof": "10:10",
+   "asof": "10:15",
    "live": true,
    "spark": [
     7137.49,
@@ -17490,7 +17491,8 @@
     7080.48,
     7083.33,
     7089.7,
-    7087.99
+    7094.82,
+    7099.53
    ]
   },
   {
@@ -17578,9 +17580,9 @@
    "sym": "^HSI",
    "name": "항셍",
    "name_id": "Hang Seng",
-   "px": 25087.75,
-   "prev": 25042.71,
-   "pct": 0.18,
+   "px": 25064.84,
+   "prev": 25087.75,
+   "pct": -0.09,
    "mst": 3,
    "asof": "09/21",
    "live": false,
@@ -18109,7 +18111,19 @@
    "url": "https://katadata.co.id/berita/energi/6ab29e8812ba4/pge-mulai-pengeboran-sumur-kedua-untuk-pltp-lumut-balai-unit-3",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2020/01/15/2020_01_15-20_11_50_45867b9c15c9fb009763f72c5c021748_620x413_thumb.jpg",
    "t_ko": "Pertamina Geothermal Energy(PGE), Lumut Balai Unit 3 지열발전소 2호기 시추 착수",
-   "t_id": "PGE Mulai Pengeboran Sumur Kedua untuk PLTP Lumut Balai Unit 3"
+   "t_id": "PGE Mulai Pengeboran Sumur Kedua untuk PLTP Lumut Balai Unit 3",
+   "ai_ko": "· 55MW 지열발전 2번 시추공 착공\n· Pertamina Geothermal(PGEO), Sumatera Selatan\n· 40일 내 시추 완료, 2030년 상업운전 목표",
+   "ai_id": "· Bor sumur kedua PLTP 55 MW dimulai\n· PGEO di WKP Lumut Balai, Sumsel\n· Target bor 40 hari, COD 2030",
+   "ai_tags": [
+    "지열",
+    "설비투자",
+    "전력"
+   ],
+   "ai_tags_id": [
+    "panas bumi",
+    "capex",
+    "listrik"
+   ]
   },
   {
    "ts": "2026-09-22T20:46:41+07:00",
@@ -18123,7 +18137,17 @@
    "url": "https://www.liputan6.com/saham/read/8297355/emiten-cdia-bakal-tebar-dividen-interim-2026",
    "img": "https://cdn0-production-images-kly.akamaized.net/9ZuF5oM121rlBegnw41DQS8U8Tw=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3893145/original/056566800_1641196873-20220103-Pembukaan_Awal_Tahun_2022_IHSG_Menguat-2.jpg",
    "t_ko": "CDIA, 2026년 중간배당 지급 예정",
-   "t_id": "CDIA Bakal Tebar Dividen Interim 2026"
+   "t_id": "CDIA Bakal Tebar Dividen Interim 2026",
+   "ai_ko": "· 중간배당 USD 1,000만(Rp1,786억) 결정\n· Chandra Daya Investasi(CDIA), 주당 Rp1,422\n· 9/18 이사회 승인, 상반기 순이익 USD 1,728만",
+   "ai_id": "· Dividen interim US$ 10 juta dibagikan\n· CDIA tebar Rp1.422 per saham\n· Disetujui 18/9, laba semester I US$ 17,28 juta",
+   "ai_tags": [
+    "배당",
+    "실적"
+   ],
+   "ai_tags_id": [
+    "dividen",
+    "kinerja"
+   ]
   },
   {
    "ts": "2026-09-22T20:20:00+07:00",
@@ -18137,7 +18161,19 @@
    "url": "https://www.idnfinancials.com/news/69238/euro-greenlit-for-2-billion-share-rights-issue-reshuffles-management",
    "img": "https://photo2.idnfinancials.com/fly/idn/adhy-2026/EURO-220926.jpg",
    "t_ko": "EURO, 20억 주 유상증자 승인 및 경영진 개편",
-   "t_id": "EURO Restui Rights Issue 2 Miliar Saham, Rombak Manajemen"
+   "t_id": "EURO Restui Rights Issue 2 Miliar Saham, Rombak Manajemen",
+   "ai_ko": "· 신주 20억주 유상증자 승인, 발행주식의 78.47%\n· Estee Gold Feet(EURO) 주주총회 가결\n· 9/18 임시주총, 운전자금·사업확대 목적",
+   "ai_id": "· Rights issue 2 miliar saham disetujui\n· EURO, setara 78,47% saham beredar\n· RUPSLB 18/9, dana untuk modal kerja",
+   "ai_tags": [
+    "유상증자",
+    "주주총회",
+    "경영진"
+   ],
+   "ai_tags_id": [
+    "rights issue",
+    "RUPS",
+    "manajemen"
+   ]
   },
   {
    "ts": "2026-09-22T17:30:00+07:00",
@@ -18151,7 +18187,17 @@
    "url": "https://www.idnfinancials.com/news/69247/goto-caps-egm-attendance-at-80-for-two-key-agenda-items",
    "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/GOTO-22092026.jpg",
    "t_ko": "GOTO, 핵심 안건 2건 심의 위해 임시주주총회 참석 인원 80명 제한",
-   "t_id": "GOTO Batasi Kehadiran RUPSLB di Angka 80 untuk Dua Agenda Utama"
+   "t_id": "GOTO Batasi Kehadiran RUPSLB di Angka 80 untuk Dua Agenda Utama",
+   "ai_ko": "· 자사주 321.8억주 소각 안건 상정\n· GoTo(GOTO), 10월 14일 임시주총\n· ESOP 전환 계획 철회, 부사장 사임 승인",
+   "ai_id": "· Agenda hapus 32,18 miliar saham treasuri\n· GOTO gelar RUPSLB 14 Oktober 2026\n· Rencana ESOP batal, Catherine mundur",
+   "ai_tags": [
+    "자사주",
+    "주주총회"
+   ],
+   "ai_tags_id": [
+    "saham treasuri",
+    "RUPS"
+   ]
   },
   {
    "ts": "2026-09-22T16:50:00+07:00",
@@ -18165,7 +18211,19 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122325/daftar-bukti-yang-disita-kpk-dari-kantor-summarecon-bogor",
    "img": "https://images.bloombergtechnoz.com/data/2023/02/image-20230203142216.jpg",
    "t_ko": "KPK, Summarecon Bogor 사무소 압수수색 증거물 목록",
-   "t_id": "Daftar Bukti yang Disita KPK dari Kantor Summarecon Bogor"
+   "t_id": "Daftar Bukti yang Disita KPK dari Kantor Summarecon Bogor",
+   "ai_ko": "· 문서·전자기기 증거물 압수\n· KPK, Summarecon(SMRA) Bogor 사무소 압수수색\n· 9/21 집행, 토지청 뇌물 의혹 수사",
+   "ai_id": "· KPK sita dokumen dan barbuk elektronik\n· Geledah kantor Summarecon di Bogor\n· Dilakukan 21/9, dugaan suap BPN",
+   "ai_tags": [
+    "수사",
+    "부동산",
+    "뇌물"
+   ],
+   "ai_tags_id": [
+    "KPK",
+    "properti",
+    "suap"
+   ]
   },
   {
    "ts": "2026-09-22T16:20:00+07:00",
@@ -18179,7 +18237,19 @@
    "url": "https://www.idnfinancials.com/news/69236/esdm-denies-byan-rkab-revision-linked-to-haji-isam-purchase",
    "img": "https://photo2.idnfinancials.com/fly/idn/test/arif/BAHLIL-18092026.jpg",
    "t_ko": "ESDM, BYAN RKAB 정정은 Haji Isam 인수와 무관하다고 부인",
-   "t_id": "ESDM Bantah Revisi RKAB BYAN Terkait Pembelian Haji Isam"
+   "t_id": "ESDM Bantah Revisi RKAB BYAN Terkait Pembelian Haji Isam",
+   "ai_ko": "· 석탄 증산 1,500만~2,000만톤 승인\n· ESDM 장관 Bahlil Lahadalia, BYAN 자회사 3곳\n· Haji Isam 지분인수와 무관, 절차상 처리 해명",
+   "ai_id": "· Kuota tambahan 15-20 juta ton disetujui\n· Bahlil bantah kaitan dengan Haji Isam\n· RKAB 3 anak usaha BYAN murni proses",
+   "ai_tags": [
+    "석탄",
+    "규제",
+    "M&A"
+   ],
+   "ai_tags_id": [
+    "batu bara",
+    "RKAB",
+    "akuisisi"
+   ]
   },
   {
    "ts": "2026-09-22T15:45:00+07:00",
@@ -18585,7 +18655,18 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122384/saham-saham-ini-dilepas-investor-asing-jelang-keputusan-bi-rate",
    "img": "https://images.bloombergtechnoz.com/data/2026/07/image-20260727155049.jpeg",
    "t_id": "Saham-saham Ini Dilepas Investor Asing Jelang Keputusan BI Rate",
-   "t_ko": "기준금리 결정 앞두고 외국인 투자자 매도세 보인 종목"
+   "t_ko": "BI 기준금리 결정 앞두고 외국인 매물 출현 종목"
+  },
+  {
+   "ts": "2026-09-23T08:35:00+07:00",
+   "date": "2026-09-23",
+   "time": "08:35",
+   "src": "Media Indonesia",
+   "t": "Bank Indonesia Diminta Tahan Suku Bunga Acuan di 5,75%, Pengamat Jelaskan Alasannya",
+   "tags": [],
+   "url": "https://mediaindonesia.com/ekonomi/936520/bank-indonesia-diminta-tahan-suku-bunga-acuan-di-575-pengamat-jelaskan-alasannya",
+   "t_id": "Bank Indonesia Diminta Tahan Suku Bunga Acuan di 5,75%, Pengamat Jelaskan Alasannya",
+   "t_ko": "전문가, Bank Indonesia에 기준금리 5.75% 동결 촉구 배경 설명"
   },
   {
    "ts": "2026-09-23T08:30:24+07:00",
@@ -18597,7 +18678,7 @@
    "url": "https://finance.detik.com/bursa-dan-valas/d-8674995/simak-rekomendasi-saham-hari-ini-saat-ihsg-loyo",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/23/bursa-dan-valas-1790126241-1790126241739.jpeg?w=360&q=90",
    "t_id": "Simak Rekomendasi Saham Hari Ini Saat IHSG Loyo",
-   "t_ko": "IHSG 약세 속 오늘의 증권사 투자의견 정리"
+   "t_ko": "IHSG 약세 속 당일 주식 투자의견 정리"
   },
   {
    "ts": "2026-09-23T08:30:00+07:00",
@@ -18608,7 +18689,8 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122385/ekonom-ramal-bi-rate-ditahan-sudah-antisipasi-kenaikan-ffr",
    "img": "https://images.bloombergtechnoz.com/data/2023/06/image-20230621092551.jpg",
-   "t_ko": "한국은행 기준금리 동결 전망 — 미 연준 금리 인상 이미 반영"
+   "t_ko": "이코노미스트, FFR 인상 선반영해 BI 기준금리 동결 전망",
+   "t_id": "Ekonom Ramal BI Rate Ditahan: Antisipasi Kenaikan FFR"
   },
   {
    "ts": "2026-09-23T08:26:57+07:00",
@@ -18620,7 +18702,18 @@
    "url": "https://www.jawapos.com/energi/2609230033/harga-minyak-mentah-bergerak-variatif-usai-pertemuan-diplomatik-as-iran-sinyal-positif-jalur-ekspor",
    "g": 1,
    "img": "https://cdn-assets.jawapos.com/images/1/2025/09/02/crude-brent-975009964.jpg",
-   "t_ko": "미국-이란 외교 장관 회담 후 원유 수출 재개 기대에 유가 혼조세"
+   "t_ko": "미국-이란 외교 회담 이후 원유 가격 혼조세 — 수출길 훈풍 신호",
+   "t_id": "Minyak Mentah Variatif Usai Pertemuan AS-Iran, Sinyal Positif Ekspor",
+   "ai_ko": "· 국제유가 혼조세\n· 미국-Iran, 뉴욕서 3시간 회담\n· Trump 대통령 '생산적' 평가, Hormuz 해협 우려 완화",
+   "ai_id": "· Harga minyak mentah bergerak variatif\n· AS dan Iran bertemu 3 jam di New York\n· Trump sebut produktif, Selat Hormuz mereda",
+   "ai_tags": [
+    "유가",
+    "지정학"
+   ],
+   "ai_tags_id": [
+    "harga minyak",
+    "geopolitik"
+   ]
   },
   {
    "ts": "2026-09-23T08:24:56+07:00",
@@ -18633,7 +18726,19 @@
    "g": 1,
    "img": "https://akcdn.detik.net.id/community/media/visual/2020/05/18/3fc25c18-529a-45e9-b7ab-a4fb64bce95d_169.jpeg?w=360&q=90",
    "t_id": "Xi Jinping Mau ke AS Bertemu Trump, Bakal Dijamu Elon Musk-Mark Zuckerberg",
-   "t_ko": "시진핑, 트럼프 회동 위해 미국 방문 추진 — 일론 머스크·마크 저커버그 접견 예정"
+   "t_ko": "시진핑, 미국 방문해 트럼프 회동 예정 — 엘론 머스크·마크 저커버그 만찬 회동",
+   "ai_ko": "· 미국-중국 정상회담 수요일~금요일 개최\n· Xi Jinping 방미, Trump 대통령과 회동\n· 목요일 Washington 만찬에 Satya Nadella, Jensen Huang, Sam Altman, Sundar Pichai, Elon Musk, Jane Fraser, Jeff Bezos, Tim Cook, Michael Dell, Mark Zuckerberg 참석, 중국측 BYD·Xiaomi·CATL·Gotion·Hisense·Wanxiang·Bank of China·COFCO 동행",
+   "ai_id": "· Xi Jinping ke AS Rabu hingga Jumat\n· Jamuan malam Kamis di Washington, D.C.\n· Hadir Satya Nadella, Jensen Huang, Sam Altman, Sundar Pichai, Elon Musk, Jane Fraser, Jeff Bezos, Tim Cook, Michael Dell, Mark Zuckerberg; delegasi China BYD, Xiaomi, CATL, Gotion, Hisense, Wanxiang, Bank of China, COFCO",
+   "ai_tags": [
+    "미중관계",
+    "정상회담",
+    "전기차"
+   ],
+   "ai_tags_id": [
+    "AS-China",
+    "KTT",
+    "kendaraan listrik"
+   ]
   },
   {
    "ts": "2026-09-23T08:23:00+07:00",
@@ -18646,7 +18751,19 @@
    "g": 1,
    "img": "https://cdn0-production-images-kly.akamaized.net/y0V1zL1VE9oIu72sqdNaDC55nrc=/673x379/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3046084/original/091856600_1581323843-20200210-Pasar-Saham-di-Asia-Turun-Imbas-Wabah-Virus-Corona-1.jpg",
    "t_id": "Bursa Saham Asia Hari Ini Lesu di Tengah Negosiasi AS-Iran",
-   "t_ko": "미국-이란 협상 주시 속 아시아 증시 약세"
+   "t_ko": "미국-이란 협상 속 아시아 증시 약세",
+   "ai_ko": "· 아시아 증시 상승 출발, Kospi 1.79%↑\n· Kosdaq 0.84%↑, 호주 ASX200 0.34%↑\n· 미국-Iran 협상 기대에 유가 1% 하락",
+   "ai_id": "· Bursa Asia dibuka menguat pagi ini\n· Kospi +1,79%, ASX 200 +0,34%\n· Harapan damai AS-Iran, minyak -1%",
+   "ai_tags": [
+    "아시아증시",
+    "유가",
+    "지정학"
+   ],
+   "ai_tags_id": [
+    "bursa asia",
+    "harga minyak",
+    "geopolitik"
+   ]
   },
   {
    "ts": "2026-09-23T08:20:00+07:00",
@@ -18658,7 +18775,19 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122380/acuan-bmks-diramal-lebih-tinggi-dari-harga-pasar-apa-risikonya",
    "img": "https://images.bloombergtechnoz.com/data/2026/09/image-20260923075836.jpg",
    "t_ko": "BMKS 기준금리 시장가 상회 전망 속 잠재 리스크",
-   "t_id": "Acuan BMKS Diramal Lebih Tinggi dari Harga Pasar, Apa Risikonya?"
+   "t_id": "Acuan BMKS Diramal Lebih Tinggi dari Harga Pasar, Apa Risikonya?",
+   "ai_ko": "· BMKS 기준가 IRP, 시장가 상회 전망\n· Universitas Andalas Syafruddin Karimi 지적\n· 펀더멘털 괴리 시 가격발견 신뢰 저하",
+   "ai_id": "· IRP di BMKS diramal di atas harga pasar\n· Ekonom Unand Syafruddin Karimi bicara\n· Risiko sinyal price discovery melemah",
+   "ai_tags": [
+    "원자재",
+    "거래소",
+    "규제"
+   ],
+   "ai_tags_id": [
+    "komoditas",
+    "bursa",
+    "regulasi"
+   ]
   },
   {
    "ts": "2026-09-23T08:15:00+07:00",
@@ -18670,7 +18799,19 @@
    "url": "https://ekonomi.republika.co.id/berita/tlsm24423/undisbursed-loan-tembus-rp-2548-triliun-ojk-ungkap-penyebabnya",
    "img": "https://static.republika.co.id/uploads/images/detailnews/kepala-eksekutif-pengawas-perbankan-ojk-dian-ediana_241024213738-392.jpg",
    "t_ko": "미집행 대출 Rp2,548조 돌파 — OJK, 원인 밝혀",
-   "t_id": "Undisbursed Loan Tembus Rp 2.548 Triliun, OJK Ungkap Penyebabnya"
+   "t_id": "Undisbursed Loan Tembus Rp 2.548 Triliun, OJK Ungkap Penyebabnya",
+   "ai_ko": "· 7월 미인출 승인대출 Rp2,548조 기록\n· 전년 대비 7.8% 증가, OJK 집계\n· 고금리·수요 둔화에 차주 인출 자제",
+   "ai_id": "· Undisbursed loan Juli Rp2.548 triliun\n· Naik 7,8% yoy, data OJK\n· Bunga tinggi, debitur tahan penarikan",
+   "ai_tags": [
+    "은행",
+    "대출",
+    "금리"
+   ],
+   "ai_tags_id": [
+    "perbankan",
+    "kredit",
+    "suku bunga"
+   ]
   },
   {
    "ts": "2026-09-23T08:14:00+07:00",
@@ -18682,7 +18823,19 @@
    "url": "https://katadata.co.id/finansial/keuangan/6ab327dc616f2/bitcoin-tembus-us-87000-apa-saja-faktor-yang-mendongkrak-penguatan",
    "img": "https://cdn1.katadata.co.id/media/images/thumb/2024/04/17/Dolar_AS_vs_Bitcoin-2024_04_17-17_15_29_e285341140cda3faf697302f5a9c167f_620x413_thumb.jpg",
    "t_ko": "Bitcoin 8만 7,000달러 돌파 배경과 상승 동력",
-   "t_id": "Bitcoin Tembus US$ 87.000, Apa Saja Faktor yang Mendongkrak Penguatan?"
+   "t_id": "Bitcoin Tembus US$ 87.000, Apa Saja Faktor yang Mendongkrak Penguatan?",
+   "ai_ko": "· Bitcoin USD 87,000 돌파, 주간 14.12%↑\n· ETH USD 2,762, BNB USD 791.74\n· 미국 현물 ETF 자금 유입·숏커버 영향",
+   "ai_id": "· Bitcoin tembus US$87.000, +14,12% sepekan\n· ETH US$2.762, BNB US$791,74\n· Arus ETF spot AS positif dan short covering",
+   "ai_tags": [
+    "가상자산",
+    "비트코인",
+    "ETF"
+   ],
+   "ai_tags_id": [
+    "kripto",
+    "bitcoin",
+    "ETF"
+   ]
   },
   {
    "ts": "2026-09-23T08:13:27+07:00",
@@ -18694,7 +18847,19 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122377/permintaan-sukuk-naik-pemerintah-kurangi-serapan",
    "img": "https://images.bloombergtechnoz.com/data/2026/02/image-20260211092352.jpg",
    "t_ko": "수쿡 수요 증가에 정부 발행 물량 축소",
-   "t_id": "Permintaan Sukuk Naik, Pemerintah Kurangi Serapan"
+   "t_id": "Permintaan Sukuk Naik, Pemerintah Kurangi Serapan",
+   "ai_ko": "· 국채 sukuk 입찰 낙찰 Rp11조로 축소\n· 응찰 Rp26.9조, 2.89% 증가\n· 낙찰률 45.9%→40.9%, 9개월물 금리 6.5%",
+   "ai_id": "· Lelang sukuk diserap Rp11 triliun\n· Incoming bids Rp26,9 triliun, +2,89%\n· Rasio serapan 40,9%, yield 9 bulan 6,5%",
+   "ai_tags": [
+    "국채",
+    "수쿠크",
+    "금리"
+   ],
+   "ai_tags_id": [
+    "SBSN",
+    "sukuk",
+    "yield"
+   ]
   },
   {
    "ts": "2026-09-23T08:12:30+07:00",
@@ -18707,7 +18872,19 @@
    "g": 1,
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/12/presiden-as-donald-trump-saat-pidato-di-pentagon-1789197702768_169.jpeg?w=360&q=90",
    "t_ko": "Trump, 가격 상승에 태양광 수출 중단 명령",
-   "t_id": "Trump Perintahkan Setop Ekspor Solar Imbas Harga Naik"
+   "t_id": "Trump Perintahkan Setop Ekspor Solar Imbas Harga Naik",
+   "ai_ko": "· Trump, 경유 수출 금지 추진 지지\n· 미국·유럽 경유가 사상 최고 경신\n· Iran·Ukraine 전쟁에 수출 급감 여파",
+   "ai_id": "· Trump dukung larangan ekspor solar\n· Harga solar AS-Eropa cetak rekor\n· Perang Iran-Ukraina pangkas ekspor",
+   "ai_tags": [
+    "정유",
+    "수출규제",
+    "유가"
+   ],
+   "ai_tags_id": [
+    "solar",
+    "larangan ekspor",
+    "harga minyak"
+   ]
   },
   {
    "ts": "2026-09-23T08:11:43+07:00",
@@ -18718,8 +18895,8 @@
    "tags": [],
    "url": "https://www.bloomberg.com/news/articles/2026-09-23/option-traders-bet-won-s-asia-leading-rally-has-further-to-run",
    "g": 1,
-   "t_ko": "옵션 트레이더, 아시아 최고 상승세 원화 추가 강세 베팅",
-   "t_id": "Trader Opsi Bertaruh Penguatan Won Pimpin Asia Belum Akan Berhenti"
+   "t_ko": "외환 옵션 시장, 원화 아시아 최고 랠리 지속 베팅",
+   "t_id": "Trader Opsi Proyeksikan Penguatan Won Lanjut"
   },
   {
    "ts": "2026-09-23T08:10:03+07:00",
@@ -18731,7 +18908,19 @@
    "url": "https://www.jawapos.com/bisnis/2609230022/pt-pal-siapkan-kemampuan-mro-dan-modernisasi-kapal-induk-giuseppe-garibaldi",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/18/penampakan-kapal-induk-its-giuseppe-garibaldi-551-di-dermaga-107-tanjung-priok-jakarta-jumat-1892026-dery-ridwansah-jawaposcom-n58X6.webp",
    "t_ko": "PT PAL, 군함 Giuseppe Garibaldi MRO 및 현대화 역량 확보",
-   "t_id": "PT PAL Siapkan Kemampuan MRO dan Modernisasi Kapal Induk Giuseppe Garibaldi"
+   "t_id": "PT PAL Siapkan Kemampuan MRO dan Modernisasi Kapal Induk Giuseppe Garibaldi",
+   "ai_ko": "· 항모 Giuseppe Garibaldi 현대화 추진\n· PT PAL, MRO 역량 준비\n· 상태평가·노후기술 진단·신구 시스템 통합",
+   "ai_id": "· Modernisasi KRI Giuseppe Garibaldi\n· PT PAL siapkan kemampuan MRO\n· Condition assessment sampai integrasi sistem",
+   "ai_tags": [
+    "방산",
+    "조선",
+    "유지보수"
+   ],
+   "ai_tags_id": [
+    "pertahanan",
+    "galangan",
+    "MRO"
+   ]
   },
   {
    "ts": "2026-09-23T08:00:00+07:00",
@@ -18742,7 +18931,19 @@
    "tags": [],
    "url": "https://www.bloombergtechnoz.com/detail-news/122379/ihsg-dibayangi-keputusan-bi-rate-sikap-bank-sentral",
    "img": "https://images.bloombergtechnoz.com/data/2023/06/image-20230621092455.jpg",
-   "t_ko": "IHSG, 기준금리 결정 및 주요 중앙은행 기조에 변동성 노출"
+   "t_ko": "IHSG, 기준금리 결정 및 주요 중앙은행 기조에 변동성 노출",
+   "ai_ko": "· BI Rate 5.75% 동결 전망 우세\n· Bloomberg 조사 35명 중 32명 동결 예상\n· 3명은 25bp 인상 전망, 오늘 RDG 결과 발표",
+   "ai_id": "· BI Rate diperkirakan tahan di 5,75%\n· 32 dari 35 ekonom survei Bloomberg\n· 3 ekonom lihat naik 25 bps, RDG hari ini",
+   "ai_tags": [
+    "기준금리",
+    "통화정책",
+    "루피아"
+   ],
+   "ai_tags_id": [
+    "BI Rate",
+    "moneter",
+    "rupiah"
+   ]
   },
   {
    "ts": "2026-09-23T08:00:00+07:00",
@@ -18754,7 +18955,19 @@
    "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8674638/terkuak-penyebab-baju-bekas-impor-banjiri-ri",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/konferensi-pers-bea-cukai-1790046759444_169.jpeg?w=360&q=90",
    "t_ko": "수입 중고 의류 유입 급증 원인 규명",
-   "t_id": "Terkuak Penyebab Pakaian Bekas Impor Banjiri RI"
+   "t_id": "Terkuak Penyebab Pakaian Bekas Impor Banjiri RI",
+   "ai_ko": "· 중고 의류 밀수 단속 한계 지적\n· Bea Cukai Djaka Budhi Utama 회견\n· Selat Malaka·Kalimantan 국경이 취약 지점",
+   "ai_id": "· Balpres ilegal masih sulit ditekan\n· Dirjen Bea Cukai Djaka Budhi Utama\n· Selat Malaka dan perbatasan Kalimantan rawan",
+   "ai_tags": [
+    "밀수",
+    "섬유",
+    "규제"
+   ],
+   "ai_tags_id": [
+    "impor ilegal",
+    "tekstil",
+    "pengawasan"
+   ]
   },
   {
    "ts": "2026-09-23T07:57:07+07:00",
@@ -18766,7 +18979,19 @@
    "url": "https://ekonomi.republika.co.id/berita/tlslb7423/pantau-dampak-karhutla-kemenhub-keselamatan-penerbangan-tetap-menjadi-prioritas",
    "img": "https://static.republika.co.id/uploads/images/detailnews/037261300-1788098200-830-556.jpg",
    "t_ko": "인도네시아 교통부, 산불 모니터링 속 항공 안전 최우선 강조",
-   "t_id": "Pantau Dampak Karhutla, Kemenhub: Keselamatan Penerbangan Tetap Prioritas"
+   "t_id": "Pantau Dampak Karhutla, Kemenhub: Keselamatan Penerbangan Tetap Prioritas",
+   "ai_ko": "· 산불 연기로 항공편 409편 차질\n· 지연 141편·결항 254편·회항 14편\n· 9월 14~20일 Kalimantan, 가시거리 50m",
+   "ai_id": "· 409 penerbangan terdampak asap karhutla\n· 141 delay, 254 batal, 14 divert\n· Periode 14-20 September, jarak pandang 50 meter",
+   "ai_tags": [
+    "항공",
+    "산불",
+    "운항차질"
+   ],
+   "ai_tags_id": [
+    "penerbangan",
+    "karhutla",
+    "gangguan operasional"
+   ]
   },
   {
    "ts": "2026-09-23T07:53:24+07:00",
@@ -18826,7 +19051,8 @@
    "tags": [],
    "url": "https://www.jawapos.com/ekonomi/2609230019/pemerintah-lunasi-utang-blbi-ekonom-tak-berarti-tagihan-obligor-tuntas",
    "img": "https://cdn-assets.jawapos.com/images/1/2026/09/14/suahasil-nazara-mengucapkan-sumpah-jabatan-saat-dilantik-sebagai-menteri-keuangan-di-istana-negara-jakarta-senin-1492026-bpmi-setpres-xKe3u.webp",
-   "t_ko": "정부, BLBI 부채 상환 완료 — 경제 전문가 \"채무자 추심 종료 의미 아님\""
+   "t_ko": "정부, BLBI 부채 상환 완료 — 경제 전문가 \"채무자 추심 종료 의미 아님\"",
+   "t_id": "Pemerintah Lunasi Utang BLBI, Ekonom: Tagihan Obligor Belum Tuntas"
   },
   {
    "ts": "2026-09-23T07:27:41+07:00",
@@ -19900,10 +20126,7 @@
    "time": "09/22",
    "src": "IDNFinancials",
    "t": "Rupiah weakens against US dollar, JCI slides 1.69%",
-   "tags": [
-    "BBRI",
-    "BUMI"
-   ],
+   "tags": [],
    "url": "https://www.idnfinancials.com/news/69243/rupiah-weakens-against-us-dollar-jci-slides-1-69",
    "img": "https://photos.idnfinancials.com/_idn/_DESIGN%20GRAFIS/ARTIKEL%20IMAGE%20%28ARIF%29/IHSG-RUPIAH.jpg",
    "t_ko": "루피아화 약세와 외국인 매도에 IHSG 1.69% 하락",
@@ -19932,18 +20155,6 @@
    "img": "https://cdn-assets.jawapos.com/images/1/2026/05/10/anak-usaha-pt-pertamina-persero-tugu-insurance-mencatatkan-laba-bersih-sebesar-rp-26562-miliar-serta-total-aset-senilai-rp-2969-triliun-pada-kuartal-i-tahun-2026-antara-yl54d.webp",
    "t_ko": "투구인수보험, 20탄 상반기 순이익 76.87% 급증하며 탄탄한 실적",
    "t_id": "Kinerja Semester I 2026 Tugu Insurance Tumbuh Solid, Laba Naik 76,87 Persen"
-  },
-  {
-   "ts": "2026-09-22T16:50:01+07:00",
-   "date": "2026-09-22",
-   "time": "09/22",
-   "src": "Detik",
-   "t": "Bahlil Rayu Investor Bangun Data Center di RI: Pulau Kami Masih Terlalu Banyak",
-   "tags": [],
-   "url": "https://finance.detik.com/energi/d-8674339/bahlil-rayu-investor-bangun-data-center-di-ri-pulau-kami-masih-terlalu-banyak",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/03/05/menteri-esdm-bahlil-lahadalia-1772707662547_169.jpeg?w=360&q=90",
-   "t_ko": "Bahlil, 투자자에 인도네시아 데이터센터 건립 촉구 — 우리 섬은 아직 여유",
-   "t_id": "Bahlil Rayu Investor Bangun Data Center di RI: Pulau Kami Masih Terlalu Banyak"
   }
  ],
  "kisi_news": [
@@ -20140,9 +20351,9 @@
   },
   {
    "k": "달러 인덱스 (DXY)",
-   "v": "100.63",
-   "d": 0.27,
-   "ytd": 2.39,
+   "v": "100.64",
+   "d": 0.28,
+   "ytd": 2.41,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -20152,9 +20363,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "90.15",
-   "d": -3.03,
-   "ytd": 57.0,
+   "v": "90.23",
+   "d": -2.95,
+   "ytd": 57.14,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -20164,9 +20375,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,385.4",
-   "d": 0.14,
-   "ytd": 1.38,
+   "v": "4,381.3",
+   "d": 0.05,
+   "ytd": 1.29,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -20201,17 +20412,78 @@
   {
    "k": "CPO (MYR/t)",
    "v": "4,889",
-   "d": -0.18,
+   "d": 0.0,
    "ytd": 20.72,
    "inv": false,
-   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
+   "note": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
    "k_ko": "CPO (MYR/t)",
    "k_id": "CPO (MYR/t)",
-   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 09/22 마지막 값 · 연초 4,050",
-   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · 09/22 nilai terakhir · Awal tahun 4,050"
+   "note_ko": "Bursa Malaysia FCPO 근월물 · investing.com · 연초 4,050",
+   "note_id": "FCPO Bursa Malaysia kontrak terdekat · investing.com · Awal tahun 4,050"
   }
  ],
- "curve": null,
+ "curve": {
+  "date": "2026-09-22",
+  "src": "PHEI (IBPA)",
+  "rows": [
+   [
+    0.1,
+    6.5083,
+    6.5853
+   ],
+   [
+    1.0,
+    6.66,
+    6.6774
+   ],
+   [
+    2.0,
+    6.7642,
+    6.7605
+   ],
+   [
+    3.0,
+    6.8471,
+    6.8393
+   ],
+   [
+    5.0,
+    6.9818,
+    6.9765
+   ],
+   [
+    7.0,
+    7.0745,
+    7.071
+   ],
+   [
+    10.0,
+    7.1462,
+    7.1426
+   ],
+   [
+    15.0,
+    7.1786,
+    7.1743
+   ],
+   [
+    20.0,
+    7.183,
+    7.1785
+   ],
+   [
+    25.0,
+    7.1834,
+    7.1789
+   ],
+   [
+    30.0,
+    7.1835,
+    7.179
+   ]
+  ],
+  "n": 41
+ },
  "calendar": [
   {
    "date": "2026-09-15",
@@ -24820,10 +25092,10 @@
  "sources": {
   "idx_index": false,
   "idx_market": true,
-  "idx_from_pc": "2026-09-23 08:19",
-  "pc_age_min": 17,
-  "news_ai_cache": 64,
-  "news_ai_hit": 46,
+  "idx_from_pc": "2026-09-23 08:32",
+  "pc_age_min": 8,
+  "news_ai_cache": 83,
+  "news_ai_hit": 65,
   "on_runner": true,
   "bi": null,
   "hist_days": 20,
@@ -26662,9 +26934,9 @@
   },
   "model": "gemini-3.5-flash-lite",
   "index": {
-   "ko": "BI 기준금리 결정을 앞둔 경계감과 에너지·금융 등 주요 업종 약세 및 BYAN·BBRI 등 대형주 하락 영향으로 IHSG 1.69% 하락.",
-   "id": "IHSG melemah 1,69% akibat aksi wait and see menjelang keputusan sukuunga acuan BI serta pelemahan sektor energi dan keuangan serta saham-saham berkapitalisasi besar seperti BYAN dan BBRI.",
-   "ts": "2026-09-23T08:36:40.122416+07:00"
+   "ko": "기준금리 결정 경계감 속 에너지주(-3.95%)와 BBRI 등 대형주 약세로 IHSG 1.69% 하락.",
+   "id": "IHSG melemah 1,69% di tengah kekhawatiran keputusan suku bunga acuan serta pelemahan saham energi (-3,95%) dan big caps seperti BBRI.",
+   "ts": "2026-09-23T08:40:34.610373+07:00"
   }
  },
  "top_day": "2026-09-23",
@@ -26746,18 +27018,29 @@
    "srcs": 2
   },
   {
-   "ts": "2026-09-23T06:35:00+07:00",
+   "ts": "2026-09-23T08:00:00+07:00",
    "date": "2026-09-23",
-   "time": "06:35",
-   "src": "Katadata",
-   "t": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
+   "time": "08:00",
+   "src": "Bloomberg Technoz",
+   "t": "IHSG Dibayangi Keputusan BI Rate & Sikap Bank Sentral",
    "tags": [],
-   "url": "https://katadata.co.id/finansial/bursa/6ab310b01550b/apa-itu-batas-bawah-harga-saham-rp-1-berlaku-28-september-bagaimana-aturannya",
-   "img": "https://cdn1.katadata.co.id/media/images/thumb/2023/09/15/Apa_Itu_Investasi_Saham-2023_09_15-10_45_16_d6703d677a21df7dba8bd2301ba2b797_620x413_thumb.png",
-   "t_ko": "9월 28일 도입 주가 하한선 Rp 1 규정의 주요 내용",
-   "t_id": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
-   "score": 409.95,
-   "srcs": 2
+   "url": "https://www.bloombergtechnoz.com/detail-news/122379/ihsg-dibayangi-keputusan-bi-rate-sikap-bank-sentral",
+   "img": "https://images.bloombergtechnoz.com/data/2023/06/image-20230621092455.jpg",
+   "t_ko": "IHSG, 기준금리 결정 및 주요 중앙은행 기조에 변동성 노출",
+   "ai_ko": "· BI Rate 5.75% 동결 전망 우세\n· Bloomberg 조사 35명 중 32명 동결 예상\n· 3명은 25bp 인상 전망, 오늘 RDG 결과 발표",
+   "ai_id": "· BI Rate diperkirakan tahan di 5,75%\n· 32 dari 35 ekonom survei Bloomberg\n· 3 ekonom lihat naik 25 bps, RDG hari ini",
+   "ai_tags": [
+    "기준금리",
+    "통화정책",
+    "루피아"
+   ],
+   "ai_tags_id": [
+    "BI Rate",
+    "moneter",
+    "rupiah"
+   ],
+   "score": 410.35,
+   "srcs": 1
   },
   {
    "ts": "2026-09-23T06:02:00+07:00",
@@ -26772,7 +27055,19 @@
    "score": 314.5,
    "srcs": 4,
    "t_ko": "미국·이란 휴전 소식에 유가 하락 속 월가 혼조세",
-   "t_id": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran"
+   "t_id": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran",
+   "ai_ko": "· Brent 1.09% 내린 USD 99.25, 5일 연속 약세\n· Nasdaq 0.45% 상승, Dow 0.36% 하락 51,863.69\n· Trump, Iran 대표단과 3시간 협상 언급에 유가 진정",
+   "ai_id": "· Brent turun 1,09% ke US$ 99,25, lemah 5 hari\n· Nasdaq naik 0,45%, Dow turun 0,36%\n· Trump sebut pertemuan baik dengan Iran",
+   "ai_tags": [
+    "유가",
+    "미국증시",
+    "지정학"
+   ],
+   "ai_tags_id": [
+    "harga minyak",
+    "wall street",
+    "geopolitik"
+   ]
   }
  ],
  "daylog": {
@@ -27529,20 +27824,6 @@
      "q": 82
     },
     {
-     "t": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
-     "ko": "비트코인 85,000달러 돌파 — 연준 분위기 속 선물 거래 활성화",
-     "id": "Bitcoin Tembus 85.000 Dolar AS, Aktivitas Futures Meningkat di Tengah Sentimen Fed",
-     "ai_ko": "· Bitcoin USD 85,952, 24시간 2.31% 상승\n· 주간 11.72% 상승, 숏 포지션 USD 6.483억 청산\n· 9월 16일 Fed 25bp 인상과 CLARITY Act 상원 부결 이후 반등",
-     "ai_id": "· Bitcoin USD 85.952, naik 2,31% sehari\n· Sepekan 11,72%, likuidasi short USD 648,3 juta\n· Setelah Fed naikkan 25 bps dan CLARITY Act gagal di Senat",
-     "src": "Republika",
-     "url": "https://ekonomi.republika.co.id/berita/tlrjtg416/bitcoin-tembus-85000-dolar-as-aktivitas-futures-meningkat-di-tengah-sentimen-fed",
-     "time": "09/22",
-     "tags": [],
-     "sc": 415.4,
-     "slot": "macro",
-     "q": 93
-    },
-    {
      "t": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
      "ko": "세관, 불법 수입 소금·쌀·중고의류 30개 컨테이너 적발 — Rp27억 규모",
      "id": "Bea Cukai Gagalkan Impor Ilegal 30 Kontainer Garam, Beras, dan Pakaian Bekas Senilai Rp 27 Miliar",
@@ -27552,7 +27833,23 @@
      "url": "https://www.jawapos.com/ekonomi/2609220201/bea-cukai-gagalkan-impor-ilegal-30-kontainer-garam-beras-dan-pakaian-bekas-senilai-rp-27-miliar",
      "time": "09/22",
      "tags": [],
-     "sc": 414.8,
+     "sc": 416.4,
+     "slot": "macro",
+     "q": 93
+    },
+    {
+     "t": "EURO greenlit for 2 billion-share rights issue, reshuffles management",
+     "ko": "EURO, 20억 주 유상증자 승인 및 경영진 개편",
+     "id": "EURO Restui Rights Issue 2 Miliar Saham, Rombak Manajemen",
+     "ai_ko": "· 신주 20억주 유상증자 승인, 발행주식의 78.47%\n· Estee Gold Feet(EURO) 주주총회 가결\n· 9/18 임시주총, 운전자금·사업확대 목적",
+     "ai_id": "· Rights issue 2 miliar saham disetujui\n· EURO, setara 78,47% saham beredar\n· RUPSLB 18/9, dana untuk modal kerja",
+     "src": "IDNFinancials",
+     "url": "https://www.idnfinancials.com/news/69238/euro-greenlit-for-2-billion-share-rights-issue-reshuffles-management",
+     "time": "09/22",
+     "tags": [
+      "EURO"
+     ],
+     "sc": 415.8,
      "slot": "macro",
      "q": 93
     }
@@ -27596,8 +27893,8 @@
      "t": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran",
      "ko": "미국·이란 휴전 소식에 유가 하락 속 월가 혼조세",
      "id": "Wall Street Bergerak Variatif, Harga Minyak Turun di Tengah Kabar Damai AS-Iran",
-     "ai_ko": "",
-     "ai_id": "",
+     "ai_ko": "· Brent 1.09% 내린 USD 99.25, 5일 연속 약세\n· Nasdaq 0.45% 상승, Dow 0.36% 하락 51,863.69\n· Trump, Iran 대표단과 3시간 협상 언급에 유가 진정",
+     "ai_id": "· Brent turun 1,09% ke US$ 99,25, lemah 5 hari\n· Nasdaq naik 0,45%, Dow turun 0,36%\n· Trump sebut pertemuan baik dengan Iran",
      "src": "Katadata",
      "url": "https://katadata.co.id/finansial/bursa/6ab309153b170/wall-street-bergerak-variatif-harga-minyak-turun-di-tengah-kabar-damai-as-iran",
      "time": "06:02",
@@ -27623,18 +27920,18 @@
      "q": 81
     },
     {
-     "t": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
-     "ko": "9월 28일 도입 주가 하한선 Rp 1 규정의 주요 내용",
-     "id": "Apa Itu Batas Bawah Harga Saham Rp 1 Berlaku 28 September, Bagaimana Aturannya?",
-     "ai_ko": "",
-     "ai_id": "",
-     "src": "Katadata",
-     "url": "https://katadata.co.id/finansial/bursa/6ab310b01550b/apa-itu-batas-bawah-harga-saham-rp-1-berlaku-28-september-bagaimana-aturannya",
-     "time": "06:35",
+     "t": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan",
+     "ko": "재무부, BI에 대한 Rp218.3조 채권 상환 완료 — BLBI 채무자 추징권 유지",
+     "id": "Utang Rp 218,3 Triliun ke BI Lunas, Menkeu Tegaskan Hak Tagih Obligor BLBI Tetap Berjalan",
+     "ai_ko": "· BI 상대 국채 Rp218.3조 상환 완료\n· 재무부 Suahasil 차관 확인\n· 1997-98년 위기 대응 발행분, BLBI 채권 추심은 계속",
+     "ai_id": "· Obligasi Rp218,3 triliun ke BI lunas\n· Ditegaskan Wamenkeu Suahasil\n· Terbit saat krisis 1997-1998, hak tagih obligor BLBI jalan terus",
+     "src": "Jawa Pos",
+     "url": "https://www.jawapos.com/finance/2609220469/utang-rp-2183-triliun-ke-bi-lunas-menkeu-tegaskan-hak-tagih-obligor-blbi-tetap-berjalan",
+     "time": "03:32",
      "tags": [],
-     "sc": 413.8,
+     "sc": 420.6,
      "slot": "macro",
-     "q": 93
+     "q": 94
     }
    ]
   }

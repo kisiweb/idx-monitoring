@@ -2,14 +2,14 @@ name: update-and-deploy
 # GitHub 서버(Actions)가 장중 5분마다 수집한다 → 사장님 PC 가 꺼져 있어도 사이트는 계속 갱신된다.
 #
 # 저장소 2개 구조 (2026-09 비공개 이전 후)
-#   이 저장소(공개 idx-monitoring)  이 워크플로 하나만. 화면·데이터는 더 이상 두지 않는다.
+#   이 저장소(공개 idx-monitoring)  이 워크플로 + 하트비트 기록만. 화면·데이터는 두지 않는다.
 #                                   ※ 공개 저장소 Actions 는 무료 무제한이라 워크플로만 여기 남긴다 (비공개는 월 2,000분 한도)
 #   비공개 idx-live-code            코드·설정·캐시 + 화면·데이터 전부. Worker 가 GH_TOKEN 으로 여기서 읽어 서빙한다.
 #
-# 이 워크플로가 하는 일: 비공개에서 코드를 받아 → 수집 → 결과를 다시 비공개로 커밋. 공개 저장소에는 아무것도 쓰지 않는다.
+# 하는 일: 비공개에서 코드를 받아 → 수집 → 결과를 다시 비공개로 커밋.
 #
 # 필요한 설정 (이 저장소 Settings → Secrets and variables → Actions)
-#   Secrets  CODE_PAT        비공개 코드 저장소 토큰 — 권한 Contents: Read and write  (읽기 전용이면 커밋 단계에서 403)
+#   Secrets  CODE_PAT        비공개 코드 저장소 토큰 — 권한 Contents: Read and write
 #   Secrets  GEMINI_API_KEY  (선택) 주말·PC 꺼짐 때 지수·공시 AI 요약
 #   Variables IDX_PROXY      (선택) 러너 IP 가 IDX 에 막히면 Cloudflare Worker 주소
 on:
@@ -33,7 +33,8 @@ jobs:
           repository: kisiweb/idx-live-code
           token: ${{ secrets.CODE_PAT }}
           persist-credentials: false
-      - name: public repo (heartbeat 용 — 비공개 체크아웃 뒤에 해야 지워지지 않는다)
+      - name: public repo
+        # 하트비트용. 비공개 체크아웃 뒤에 해야 지워지지 않는다
         uses: actions/checkout@v4
         with: { path: _pub }
       - uses: actions/setup-python@v5
@@ -50,46 +51,76 @@ jobs:
         run: python make_chat_context.py
         env: { TZ: Asia/Jakarta }
       - name: commit data (private)
-        # 러너 산출물 5개만 비공개 저장소로. PC 가 그 사이 올린 파일과 충돌하지 않도록
-        # 최신 main 을 새로 받아 그 위에 산출물을 얹어 커밋한다
+        # 러너 산출물 5개를 비공개 저장소로. 실패를 조용히 넘기지 않는다 —
+        # 예전 판은 git add 에 없는 경로가 섞이면 종료코드 128 로 통째로 중단되는데도 단계가 초록으로 보였다.
+        # 그래서 파일마다 따로 add 하고, 스테이지된 게 없으면 그 사실을 로그에 남긴다.
         env:
           CODE_PAT: ${{ secrets.CODE_PAT }}
         run: |
-          set -e
-          OUT=/tmp/out; mkdir -p $OUT/cache
-          for f in data.json data.js; do [ -e "$f" ] && cp "$f" $OUT/; done || true
-          for f in tr_ko.json news_seen.json chat_context.json; do [ -e "data/cache/$f" ] && cp "data/cache/$f" $OUT/cache/; done || true
+          set -eu
+          OUT=/tmp/out; rm -rf $OUT; mkdir -p $OUT/cache
+          for f in data.json data.js; do [ -e "$f" ] && cp "$f" $OUT/ || true; done
+          for f in tr_ko.json news_seen.json chat_context.json; do
+            [ -e "data/cache/$f" ] && cp "data/cache/$f" $OUT/cache/ || true
+          done
+          echo "수집 산출물:"; ls -l $OUT $OUT/cache || true
+          [ -e $OUT/data.json ] || { echo "::error::fetch 가 data.json 을 만들지 못했다"; exit 1; }
+
           rm -rf /tmp/push
-          git clone --depth 1 --branch main \
-            "https://x-access-token:${CODE_PAT}@github.com/kisiweb/idx-live-code.git" /tmp/push
+          git clone -q --depth 1 --branch main \
+            "https://x-access-token:${CODE_PAT}@github.com/kisiweb/idx-live-code.git" /tmp/push \
+            || { echo "::error::비공개 저장소 clone 실패 — CODE_PAT 의 Repository access 를 확인하세요"; exit 1; }
           cd /tmp/push
           git config user.name idx-live-bot
           git config user.email bot@users.noreply.github.com
-          mkdir -p data/cache
-          [ -e $OUT/data.json ] && cp $OUT/data.json data.json || true
-          [ -e $OUT/data.js ] && cp $OUT/data.js data.js || true
-          for f in tr_ko.json news_seen.json chat_context.json; do
-            [ -e $OUT/cache/$f ] && cp $OUT/cache/$f data/cache/$f || true
-          done
-          git add -A -- data.json data.js data/cache/tr_ko.json data/cache/news_seen.json data/cache/chat_context.json || true
-          git commit -m "data $(TZ=Asia/Jakarta date +%Y-%m-%d\ %H:%M) WIB [skip ci]" || { echo "no change"; exit 0; }
+
+          add() {                       # $1 원본, $2 저장소 내 경로. 없는 파일은 건너뛴다
+            [ -e "$1" ] || { echo "  건너뜀 $2 (산출물 없음)"; return 0; }
+            mkdir -p "$(dirname "$2")"
+            cp "$1" "$2"
+            git add -- "$2" || echo "  add 실패 $2"
+          }
+          apply_and_push() {
+            git fetch -q origin main && git reset -q --hard origin/main
+            add $OUT/data.json data.json
+            add $OUT/data.js   data.js
+            for f in tr_ko.json news_seen.json chat_context.json; do add $OUT/cache/$f data/cache/$f; done
+            if git diff --cached --quiet; then echo "변경 없음 — 커밋 생략"; return 9; fi
+            echo "커밋 대상:"; git diff --cached --name-only
+            git commit -q -m "data $(TZ=Asia/Jakarta date +%Y-%m-%d\ %H:%M) WIB [skip ci]"
+            git push
+          }
           for i in 1 2 3; do
-            git push && break
-            git fetch origin main && git reset --hard origin/main
-            sleep 5
+            apply_and_push && { echo "비공개 저장소 커밋·push 완료"; exit 0; }
+            rc=$?
+            [ $rc -eq 9 ] && exit 0
+            echo "push 실패 (시도 $i)"; sleep 5
           done
+          echo "::error::비공개 저장소 push 3회 실패 — CODE_PAT 의 Contents 가 Read and write 인지 확인하세요"
+          exit 1
       - name: heartbeat
         # GitHub 는 60일간 커밋이 없는 저장소의 스케줄을 자동 정지시킨다.
         # 데이터는 비공개로 가므로, 공개 저장소에는 하루 한 줄짜리 실행 기록만 남겨 스케줄을 살려둔다
         if: always()
         run: |
-          cd $GITHUB_WORKSPACE/_pub
+          set -eu
+          cd "$GITHUB_WORKSPACE/_pub"
           D=$(TZ=Asia/Jakarta date +%Y-%m-%d)
-          grep -q "^$D" .github/last_run.txt 2>/dev/null && exit 0
+          if grep -q "^$D" .github/last_run.txt 2>/dev/null; then echo "오늘 기록 있음 — 생략"; exit 0; fi
           mkdir -p .github
           echo "$D $(TZ=Asia/Jakarta date +%H:%M) WIB runner ok" >> .github/last_run.txt
           tail -n 90 .github/last_run.txt > /tmp/lr && mv /tmp/lr .github/last_run.txt
-          git config user.name idx-live-bot && git config user.email bot@users.noreply.github.com
-          git add .github/last_run.txt
-          git commit -m "runner heartbeat $D [skip ci]" || exit 0
-          for i in 1 2 3; do git push && break; git fetch origin main && git reset --hard origin/main; sleep 5; done
+          git config user.name idx-live-bot
+          git config user.email bot@users.noreply.github.com
+          git add -- .github/last_run.txt
+          git diff --cached --quiet && { echo "변경 없음"; exit 0; }
+          git commit -q -m "runner heartbeat $D [skip ci]"
+          for i in 1 2 3; do
+            git push && { echo "하트비트 완료"; exit 0; }
+            git fetch -q origin main && git reset -q --hard origin/main
+            echo "$D $(TZ=Asia/Jakarta date +%H:%M) WIB runner ok" >> .github/last_run.txt
+            git add -- .github/last_run.txt && git commit -q -m "runner heartbeat $D [skip ci]"
+            sleep 5
+          done
+          echo "::error::하트비트 push 실패 — 60일 뒤 스케줄이 자동 정지될 수 있다"
+          exit 1

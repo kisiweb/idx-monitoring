@@ -1,9 +1,9 @@
 {
  "mode": "live",
- "updated": "2026-09-23 12:58",
+ "updated": "2026-09-23 13:07",
  "delay_min": 15,
- "fx_basis": "13.14 IDR/KRW · USD/IDR 17,790 · USD/KRW 1,354 · 12:15 Yahoo",
- "idr_per_krw": 13.1371,
+ "fx_basis": "13.14 IDR/KRW · USD/IDR 17,789 · USD/KRW 1,354 · 12:45 Yahoo",
+ "idr_per_krw": 13.1364,
  "indices": [
   {
    "code": "COMPOSITE",
@@ -279,11 +279,10 @@
    "code": "USDIDR",
    "label": "USD/IDR",
    "name": "달러/루피아",
-   "px": 17790.0,
+   "px": 17789.0,
    "prev": 17846.0,
-   "pct": -0.31,
+   "pct": -0.32,
    "spark": [
-    17860.0,
     17860.0,
     17860.0,
     17865.0,
@@ -312,10 +311,11 @@
     17790.0,
     17790.0,
     17788.0,
-    17790.0
+    17790.0,
+    17789.0
    ],
    "inv": true,
-   "asof": "12:15",
+   "asof": "12:45",
    "high": 17878.0,
    "low": 17788.0,
    "src": "yahoo"
@@ -352,7 +352,7 @@
   "volume": null,
   "value_src": "all",
   "rank_src": "Yahoo 15분 지연 · 642종목",
-  "rank_asof": "12:56",
+  "rank_asof": "13:04",
   "rank_date": "2026-09-23",
   "adv": 351,
   "dec": 167,
@@ -16933,11 +16933,11 @@
    "sym": "^KS11",
    "name": "코스피",
    "name_id": "KOSPI",
-   "px": 7045.19,
+   "px": 7049.79,
    "prev": 7037.46,
-   "pct": 0.11,
+   "pct": 0.18,
    "mst": 0,
-   "asof": "14:35",
+   "asof": "14:45",
    "live": true,
    "spark": [
     7137.49,
@@ -17007,7 +17007,9 @@
     7045.64,
     7046.03,
     7051.86,
-    7045.19
+    7046.15,
+    7043.58,
+    7049.79
    ]
   },
   {
@@ -17095,11 +17097,11 @@
    "sym": "^HSI",
    "name": "항셍",
    "name_id": "Hang Seng",
-   "px": 24846.25,
+   "px": 24857.91,
    "prev": 25087.75,
-   "pct": -0.96,
+   "pct": -0.92,
    "mst": 0,
-   "asof": "13:40",
+   "asof": "13:50",
    "live": true,
    "spark": [
     24917.43,
@@ -17142,7 +17144,9 @@
     24847.25,
     24861.57,
     24843.68,
-    24846.25
+    24855.39,
+    24859.93,
+    24857.91
    ]
   }
  ],
@@ -17239,6 +17243,58 @@
  },
  "news": [
   {
+   "ts": "2026-09-23T13:05:31.588722+07:00",
+   "date": "2026-09-23",
+   "time": "13:05",
+   "src": "Kontan",
+   "t": "Apexindo (APEX) Siapkan Private Placement 218,09 Juta Saham, Ini Tujuannya",
+   "tags": [
+    "APEX"
+   ],
+   "url": "https://investasi.kontan.co.id/news/apexindo-apex-siapkan-private-placement-21809-juta-saham-ini-tujuannya",
+   "t_est": true,
+   "t_id": "Apexindo (APEX) Siapkan Private Placement 218,09 Juta Saham, Ini Tujuannya",
+   "t_ko": "Apexindo(APEX), 2억1,809만주 규모 제3자배정 유상증자 추진",
+   "ai_ko": "· 신주 2억1,809만주 private placement\n· Apexindo(APEX), 발행가 Rp325\n· 해외 신디케이트 채무 상환용, 지분 5.79% 희석",
+   "ai_id": "· Private placement 218,09 juta saham\n· Apexindo (APEX), harga Rp325/saham\n· Untuk lunasi utang sindikasi, dilusi 5,79%",
+   "ai_tags": [
+    "유상증자",
+    "부채",
+    "자본확충"
+   ],
+   "ai_tags_id": [
+    "private placement",
+    "utang",
+    "penambahan modal"
+   ]
+  },
+  {
+   "ts": "2026-09-23T13:00:00+07:00",
+   "date": "2026-09-23",
+   "time": "13:00",
+   "src": "IDNFinancials",
+   "t": "UNTR targets 4,000 Komatsu sales, recovery seen from 2027",
+   "tags": [
+    "UNTR"
+   ],
+   "url": "https://www.idnfinancials.com/news/69286/untr-targets-4-000-komatsu-sales-recovery-seen-from-2027",
+   "img": "https://photo2.idnfinancials.com/fly/idn/1000192818.jpg",
+   "t_ko": "UNTR, 코마쓰 4,000대 판매 목표 — 2027년부터 회복 전망",
+   "t_id": "UNTR targok 4.000 unit Komatsu, pemulihan penjualan diproyeksi mulai 2027",
+   "ai_ko": "· 2026년 Komatsu 4,000대 판매 목표\n· United Tractors(UNTR), 대형 장비 800대\n· RKAB 지연에 수요 부진, 2027년 회복 전망",
+   "ai_id": "· Target jual 4.000 unit Komatsu 2026\n· United Tractors (UNTR), 800 unit big machine\n· Dinamika RKAB tekan permintaan, pulih 2027",
+   "ai_tags": [
+    "중장비",
+    "석탄",
+    "실적"
+   ],
+   "ai_tags_id": [
+    "alat berat",
+    "batu bara",
+    "kinerja"
+   ]
+  },
+  {
    "ts": "2026-09-23T12:50:00+07:00",
    "date": "2026-09-23",
    "time": "12:50",
@@ -17249,8 +17305,8 @@
    ],
    "url": "https://www.cnbcindonesia.com/market/20260923114234-17-770156/jelang-delisting-plas-buyback-118-miliar-saham-rp604-miliar",
    "img": "https://akcdn.detik.net.id/visual/2019/05/06/df9aa209-e665-4c50-8d33-9f1534ff4aa2_169.jpeg?w=1200&q=90",
-   "t_id": "Jelang Delisting, PLAS Buyback 1,18 Miliar Saham Rp60,4 Miliar",
    "t_ko": "상장폐지 앞둔 PLAS, 자사주 11.8억주 Rp604억에 매입",
+   "t_id": "Jelang Delisting, PLAS Buyback 1,18 Miliar Saham Rp60,4 Miliar",
    "ai_ko": "· 공개주주 지분 11.8억주 전량 Rp604억\n· Polaris Investama(PLAS) 자사주 매입\n· 11월 10일 상장폐지, 24일부터 44일간",
    "ai_id": "· Buyback 1,18 miliar saham Rp60,4 miliar\n· PLAS borong 100% saham publik Rp51\n· Delisting 10 Nov, periode 44 hari",
    "ai_tags": [
@@ -18092,32 +18148,6 @@
    ]
   },
   {
-   "ts": "2026-09-23T08:57:24+07:00",
-   "date": "2026-09-23",
-   "time": "08:57",
-   "src": "Bloomberg Technoz",
-   "t": "Bukti Bahwa Saham BBRI Layak Dikoleksi",
-   "tags": [
-    "BBRI"
-   ],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122396/bukti-bahwa-saham-bbri-layak-dikoleksi",
-   "img": "https://images.bloombergtechnoz.com/data/2023/01/image-20230125214616.jpg",
-   "t_ko": "BBRI 주식 매수 근거",
-   "t_id": "Bukti Bahwa Saham BBRI Layak Dikoleksi",
-   "ai_ko": "· 상반기 순이익 Rp31.18조, 17.5% 증가\n· BRI(BBRI), 대출 16.2% 증가\n· 기업대출 47.1%·상업대출 58.1% 급증\n· NPL 2.9%로 0.2%p 개선",
-   "ai_id": "· Laba semester I Rp31,18 triliun, +17,5% yoy\n· BBRI: kredit tumbuh 16,2% yoy\n· Korporasi +47,1%, komersial +58,1%\n· NPL gross 2,9% dari 3,1%",
-   "ai_tags": [
-    "실적",
-    "은행",
-    "대출"
-   ],
-   "ai_tags_id": [
-    "kinerja",
-    "perbankan",
-    "kredit"
-   ]
-  },
-  {
    "ts": "2026-09-23T08:56:50+07:00",
    "date": "2026-09-23",
    "time": "08:56",
@@ -18168,30 +18198,6 @@
     "indeks",
     "asing",
     "kinerja"
-   ]
-  },
-  {
-   "ts": "2026-09-23T08:52:21+07:00",
-   "date": "2026-09-23",
-   "time": "08:52",
-   "src": "Bloomberg Technoz",
-   "t": "Harga Emas Antam Hari Ini Naik, Cek Daftar Lengkapnya",
-   "tags": [
-    "ANTM"
-   ],
-   "url": "https://www.bloombergtechnoz.com/detail-news/122395/harga-emas-antam-hari-ini-naik-cek-daftar-lengkapnya",
-   "img": "https://images.bloombergtechnoz.com/data/2025/04/image-20250415182749.jpeg",
-   "t_ko": "금일 Antam 금 가격 상승 — 시세 전체 정리",
-   "t_id": "Harga Emas Antam Hari Ini Naik, Cek Daftar Lengkapnya",
-   "ai_ko": "· 금값 g당 Rp263만, Rp3,000 상승\n· Antam(ANTM) 금괴 시세\n· 국제 금 USD 4,360.8 강세 반영",
-   "ai_id": "· Emas Antam Rp2.630.000/gram, naik Rp3.000\n· Buyback ANTM Rp2.465.000/gram\n· Emas dunia USD4.360,8/oz, +0,41%",
-   "ai_tags": [
-    "금",
-    "원자재"
-   ],
-   "ai_tags_id": [
-    "emas",
-    "komoditas"
    ]
   },
   {
@@ -19045,6 +19051,79 @@
  ],
  "market_news": [
   {
+   "ts": "2026-09-23T12:57:44+07:00",
+   "date": "2026-09-23",
+   "time": "12:57",
+   "src": "Detik",
+   "t": "Peserta Magang Bisa Gantikan Pegawai Tetap? Menaker Jawab Begini",
+   "tags": [],
+   "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8675444/peserta-magang-bisa-gantikan-pegawai-tetap-menaker-jawab-begini",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2026/07/28/menteri-ketenagakerjaan-menaker-yassierli-1785214075948_169.jpeg?w=360&q=90",
+   "t_ko": "인턴이 정규직 대체할 수 있나? 노동부 장관 답변",
+   "t_id": "Peserta Magang Bisa Gantikan Pegawai Tetap? Menaker Jawab Begini",
+   "ai_ko": "· 인턴십 기간 6개월, 정규직 대체 불가\n· Yassierli 노동부 장관, Jakarta Selatan\n· 야간근무·초과근무 금지 등 감독 강화",
+   "ai_id": "· Magang 6 bulan, tak gantikan pegawai tetap\n· Menaker Yassierli, Jakarta Selatan\n· Dilarang lembur dan shift malam, diawasi ketat",
+   "ai_tags": [
+    "고용",
+    "규제",
+    "정책"
+   ],
+   "ai_tags_id": [
+    "ketenagakerjaan",
+    "regulasi",
+    "kebijakan"
+   ]
+  },
+  {
+   "ts": "2026-09-23T12:57:42+07:00",
+   "date": "2026-09-23",
+   "time": "12:57",
+   "src": "CNA",
+   "t": "Sri Lanka economy resilient but risks remain tilted to downside, IMF says",
+   "tags": [],
+   "url": "https://www.channelnewsasia.com/business/sri-lanka-economy-resilient-risks-remain-tilted-downside-imf-says-6404291",
+   "g": 1,
+   "img": "https://dam.mediacorp.sg/image/upload/s--nvfVurvX--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-09-23T055532Z_1_LYNXMPEM8M0B3_RTROPTP_3_SRI-LANKA-CASINOS.JPG?itok=7LL__VFN",
+   "t_ko": "IMF, 스리랑카 경제 회복력 평가하면서도 하방 위험 지속 경고",
+   "t_id": "Ekonomi Sri Lanka Tangguh, IMF Sebut Risiko Masih Condong ke Bawah",
+   "ai_ko": "· 올해 성장률 3% 전망, 하방 위험 상존\n· IMF, Sri Lanka 실사 마무리\n· USD 29억 프로그램 이행·에너지 가격 급등",
+   "ai_id": "· Proyeksi tumbuh 3%, risiko masih ke bawah\n· IMF rampungkan kunjungan ke Sri Lanka\n· Program USD 2,9 miliar, harga energi melonjak",
+   "ai_tags": [
+    "IMF",
+    "성장률",
+    "인플레이션"
+   ],
+   "ai_tags_id": [
+    "IMF",
+    "pertumbuhan",
+    "inflasi"
+   ]
+  },
+  {
+   "ts": "2026-09-23T12:53:01+07:00",
+   "date": "2026-09-23",
+   "time": "12:53",
+   "src": "Detik",
+   "t": "FIFGROUP Salurkan Pembiayaan Rp 30 T, Mayoritas buat Motor",
+   "tags": [],
+   "url": "https://finance.detik.com/moneter/d-8675434/fifgroup-salurkan-pembiayaan-rp-30-t-mayoritas-buat-motor",
+   "img": "https://akcdn.detik.net.id/community/media/visual/2025/05/02/fif-group-1746160180415_169.png?w=360&q=90",
+   "t_ko": "FIFGROUP, Rp30조 대출 실행 — 대부분 오토바이 금융",
+   "t_id": "FIFGROUP Salurkan Pembiayaan Rp30 T, Mayoritas untuk Motor",
+   "ai_ko": "· 7월까지 신규 취급액 Rp30.1조, 6.8% 증가\n· FIFGROUP, Astra 계열 할부금융사\n· 신차 이륜차 비중 70% 초과, 자산 Rp55.2조",
+   "ai_id": "· Pembiayaan Rp30,099 triliun, naik 6,8%\n· FIFGROUP, anak usaha grup Astra\n· Motor baru di atas 70%, aset Rp55,19 triliun",
+   "ai_tags": [
+    "할부금융",
+    "이륜차",
+    "실적"
+   ],
+   "ai_tags_id": [
+    "multifinance",
+    "sepeda motor",
+    "kinerja"
+   ]
+  },
+  {
    "ts": "2026-09-23T12:50:00+07:00",
    "date": "2026-09-23",
    "time": "12:50",
@@ -19054,8 +19133,8 @@
    "url": "https://www.bloombergtechnoz.com/detail-news/122425/gejolak-bbm-dunia-haruskah-ri-lepas-pertamax-ke-harga-pasar",
    "g": 1,
    "img": "https://images.bloombergtechnoz.com/data/2024/12/image-20241231074845.jpg",
-   "t_id": "Gejolak BBM Dunia, Haruskah RI Lepas Pertamax ke Harga Pasar?",
    "t_ko": "국제 유가 변동에 인도네시아, Pertamax 시장가 연동 검토해야 하나",
+   "t_id": "Gejolak BBM Dunia, Haruskah RI Lepas Pertamax ke Harga Pasar?",
    "ai_ko": "· Pertamax 80%를 상위 소득층이 소비\n· Unpad 에너지 경제학자 Yayan Satyakti\n· 시장가 전환 시 물가 영향 0.3~0.5%p",
    "ai_id": "· 80% Pertamax dipakai desil 8-10\n· Yayan Satyakti, ekonom energi Unpad\n· Inflasi naik 0,3-0,5 poin persen saja",
    "ai_tags": [
@@ -19100,8 +19179,8 @@
    "tags": [],
    "url": "https://finance.detik.com/energi/d-8675431/pln-perkuat-infrastruktur-hadapi-lonjakan-listrik-data-center-di-2034",
    "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/23/pln-perkuat-infrastruktur-hadapi-lonjakan-kebutuhan-listrik-data-center-pada-2034-1790142037756.png?w=360&q=90",
-   "t_id": "PLN Perkuat Infrastruktur Hadapi Lonjakan Listrik Data Center di 2034",
    "t_ko": "PLN, 2034년 데이터센터 전력 수요 급증 대비 인프라 강화",
+   "t_id": "PLN Perkuat Infrastruktur Hadapi Lonjakan Listrik Data Center di 2034",
    "ai_ko": "· 2034년 데이터센터 전력수요 25,297MW\n· PLN, 현재 159개 고객 1,990MVA 공급\n· AI·디지털경제 확산에 계통 보강 추진",
    "ai_id": "· Listrik data center 25.297 MW di 2034\n· PLN layani 159 pelanggan 1.990 MVA\n· Dipicu AI dan ekonomi digital",
    "ai_tags": [
@@ -19239,30 +19318,6 @@
    "img": "https://cdn.medcom.id/dynamic/content/2026/09/23/1843910/yz1cb3ZgMt.jpg?w=720",
    "t_ko": "Pasuruan군 Rp166만 보조주택 5선 — Tipe 36도 포함",
    "t_id": "5 Rumah Subsidi Rp166 Juta di Kabupaten Pasuruan, Ada yang Tipe 36"
-  },
-  {
-   "ts": "2026-09-23T12:26:44+07:00",
-   "date": "2026-09-23",
-   "time": "12:26",
-   "src": "CNBC",
-   "t": "Oil falls after U.S. and Iran talk for hours at UN meeting",
-   "tags": [],
-   "url": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
-   "g": 1,
-   "t_ko": "미국·이란 UN서 수시간 협상, 유가 하락",
-   "t_id": "Harga Minyak Turun Usai AS dan Iran Berdialog Berjam-jam di Pertemuan PBB",
-   "ai_ko": "· 유가 5거래일간 12%↓, USD 100선 이탈\n· 미국·이란 UN 총회서 3시간 회담\n· Trump '좋은 회담' 발언, Pakistan 중재",
-   "ai_id": "· Harga minyak turun hampir 12%\n· AS dan Iran bertemu 3 jam di PBB\n· Trump sebut pertemuan sangat baik",
-   "ai_tags": [
-    "유가",
-    "지정학",
-    "중동"
-   ],
-   "ai_tags_id": [
-    "harga minyak",
-    "geopolitik",
-    "Timur Tengah"
-   ]
   },
   {
    "ts": "2026-09-23T12:25:00+07:00",
@@ -21278,56 +21333,6 @@
     "pengawasan",
     "distribusi"
    ]
-  },
-  {
-   "ts": "2026-09-23T06:55:06+07:00",
-   "date": "2026-09-23",
-   "time": "06:55",
-   "src": "CNN Indonesia",
-   "t": "Analis Prediksi BI Rate Tetap 5,75 Persen Bulan Ini",
-   "tags": [
-    "BNLI"
-   ],
-   "url": "https://www.cnnindonesia.com/ekonomi/20260923055550-78-1407060/analis-prediksi-bi-rate-tetap-575-persen-bulan-ini",
-   "img": "https://akcdn.detik.net.id/visual/2019/05/10/3a79cadb-4c19-45f9-82b1-deb45e432431_169.jpeg?w=360&q=90",
-   "t_ko": "애널리스트, 이달 BI 금리 5.75% 동결 전망",
-   "t_id": "Analis Prediksi BI Rate Tetap 5,75 Persen Bulan Ini",
-   "ai_ko": "· BI 기준금리 5.75% 동결 전망 우세\n· 애널리스트 5명 중 4명 동결, Bank Permata·Mirae Asset·CORE 등\n· 9월 16일 Fed 25bp 인상 이미 반영, 9월 RDG 결정",
-   "ai_id": "· BI Rate diperkirakan tetap 5,75 persen\n· 4 dari 5 analis proyeksi tahan di RDG September\n· Kenaikan Fed 25 bps 16 September sudah diantisipasi",
-   "ai_tags": [
-    "금리",
-    "통화정책",
-    "전망"
-   ],
-   "ai_tags_id": [
-    "BI Rate",
-    "suku bunga",
-    "RDG"
-   ]
-  },
-  {
-   "ts": "2026-09-23T06:55:00+07:00",
-   "date": "2026-09-23",
-   "time": "06:55",
-   "src": "Detik",
-   "t": "Utang ke BI Lunas, Obligor dan Debitur BLBI Tetap Ditagih!",
-   "tags": [],
-   "url": "https://finance.detik.com/moneter/d-8674700/utang-ke-bi-lunas-obligor-dan-debitur-blbi-tetap-ditagih",
-   "img": "https://akcdn.detik.net.id/community/media/visual/2026/09/14/pesan-suahasil-nazara-usai-jadi-menkeu-lanjutkan-tugas-dan-jaga-kepercayaan-1789383969386_169.jpeg?w=360&q=90",
-   "t_ko": "BI 채무 상환 완료에도 BLBI 채무자 청구 계속",
-   "t_id": "Utang ke BI Lunas, Obligor dan Debitur BLBI Tetap Ditagih!",
-   "ai_ko": "· BLBI 채권 Rp218.3조 정부 상환 완료\n· Suahasil Nazara 재무장관, Istana Merdeka 발표\n· 8월 24일 BI 잉여금 재원으로 최종 납입",
-   "ai_id": "· Utang BLBI Rp218,3 triliun ke BI lunas\n· Menkeu Suahasil Nazara di Istana Merdeka\n· Pelunasan 24 Agustus dari surplus BI",
-   "ai_tags": [
-    "재정",
-    "국채",
-    "채권회수"
-   ],
-   "ai_tags_id": [
-    "BLBI",
-    "obligasi",
-    "fiskal"
-   ]
   }
  ],
  "kisi_news": [
@@ -21489,9 +21494,9 @@
   },
   {
    "k": "KRW/IDR (1원당 루피아)",
-   "v": "13.12",
-   "d": 0.99,
-   "ytd": 12.99,
+   "v": "13.13",
+   "d": 1.07,
+   "ytd": 13.08,
    "inv": true,
    "note": "Yahoo 15분 지연 · 연초 11.6144",
    "k_ko": "KRW/IDR (1원당 루피아)",
@@ -21526,7 +21531,7 @@
    "k": "달러 인덱스 (DXY)",
    "v": "100.73",
    "d": 0.01,
-   "ytd": 2.49,
+   "ytd": 2.5,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 98.28",
    "k_ko": "달러 인덱스 (DXY)",
@@ -21536,9 +21541,9 @@
   },
   {
    "k": "WTI (US$/bbl)",
-   "v": "89.36",
-   "d": 0.01,
-   "ytd": 55.63,
+   "v": "89.42",
+   "d": 0.08,
+   "ytd": 55.73,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 57.42",
    "k_ko": "WTI (US$/bbl)",
@@ -21548,9 +21553,9 @@
   },
   {
    "k": "금 (US$/oz)",
-   "v": "4,368.1",
-   "d": -0.27,
-   "ytd": 0.98,
+   "v": "4,370.5",
+   "d": -0.22,
+   "ytd": 1.04,
    "inv": false,
    "note": "Yahoo 15분 지연 · 연초 4,326",
    "k_ko": "금 (US$/oz)",
@@ -26624,7 +26629,7 @@
   "idx_from_pc": null,
   "pc_age_min": null,
   "news_ai_cache": 708,
-  "news_ai_hit": 2672,
+  "news_ai_hit": 2834,
   "on_runner": false,
   "bi": null,
   "hist_days": 51,
